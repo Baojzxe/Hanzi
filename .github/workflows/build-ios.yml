@@ -1,0 +1,61 @@
+﻿name: Build TrollStore IPA
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  build-ios:
+    runs-on: macos-15
+
+    steps:
+      - name: Checkout source
+        uses: actions/checkout@v4
+
+      - name: Setup Flutter
+        uses: subosito/flutter-action@v2
+        with:
+          channel: stable
+
+      - name: Show Flutter version
+        run: flutter --version
+
+      - name: Flutter pub get
+        run: flutter pub get
+
+      - name: Install CocoaPods
+        run: |
+          cd ios
+          pod install
+          cd ..
+
+      - name: Build iOS app without codesign
+        run: flutter build ios --no-codesign
+
+      - name: Create unsigned IPA for TrollStore
+        run: |
+          rm -rf Payload
+          mkdir -p Payload
+          cp -r build/ios/iphoneos/Runner.app Payload/Runner.app
+          zip -r HanziOcean-TrollStore.ipa Payload
+
+      - name: Upload IPA artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: HanziOcean-TrollStore-IPA
+          path: HanziOcean-TrollStore.ipa
+
+      - name: Create GitHub Release and upload IPA
+        if: github.ref == 'refs/heads/main'
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: v1.0.${{ github.run_number }}
+          name: Hanzi Ocean v1.0.${{ github.run_number }}
+          files: HanziOcean-TrollStore.ipa
+          body: |
+            Hanzi Ocean iOS IPA for TrollStore.
+            This IPA is unsigned and intended for TrollStore installation.
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

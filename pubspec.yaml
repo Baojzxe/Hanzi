@@ -1,0 +1,28 @@
+name: hanzi_test_ocean_ios
+description: HSK 1-2 app style Duolingo with Vietnamese daily sentence building and grammar analysis.
+publish_to: "none"
+
+version: 5.0.0+5
+
+environment:
+  sdk: ">=3.4.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_tts: ^4.2.5
+  shared_preferences: ^2.5.3
+  flutter_local_notifications: ^17.2.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/data/hsk_vocab.json
+    - assets/data/grammar_hsk1_hsk2.json
+    - assets/data/daily_sentence_sets.json
+    - assets/data/

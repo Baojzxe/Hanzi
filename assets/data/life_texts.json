@@ -1,0 +1,272 @@
+[
+  {
+    "id": "t_hsk1_001",
+    "level": "HSK1",
+    "type": "Giới thiệu bản thân",
+    "title": "Giới thiệu ngắn khi gặp bạn mới",
+    "vi_text": "Xin chào, tôi tên là An. Tôi là người Việt Nam. Tôi đang học tiếng Trung. Rất vui được quen bạn.",
+    "zh_text": "你好，我叫安。我是越南人。我在学习汉语。认识你很高兴。",
+    "pinyin": "Nǐ hǎo, wǒ jiào Ān. Wǒ shì Yuènán rén. Wǒ zài xuéxí Hànyǔ. Rènshi nǐ hěn gāoxìng.",
+    "usage": "Dùng khi giới thiệu bản thân với bạn mới hoặc giáo viên.",
+    "keywords": [
+      "我叫",
+      "我是",
+      "学习汉语"
+    ]
+  },
+  {
+    "id": "t_hsk1_002",
+    "level": "HSK1",
+    "type": "Tin nhắn",
+    "title": "Hỏi bạn có rảnh không",
+    "vi_text": "Hôm nay bạn có thời gian không? Tôi muốn uống trà với bạn.",
+    "zh_text": "你今天有时间吗？我想和你喝茶。",
+    "pinyin": "Nǐ jīntiān yǒu shíjiān ma? Wǒ xiǎng hé nǐ hē chá.",
+    "usage": "Dùng để nhắn bạn bè một cách đơn giản.",
+    "keywords": [
+      "今天",
+      "有时间",
+      "想"
+    ]
+  },
+  {
+    "id": "t_hsk1_003",
+    "level": "HSK1",
+    "type": "Cảm ơn",
+    "title": "Cảm ơn lịch sự",
+    "vi_text": "Cảm ơn bạn đã giúp tôi. Bạn thật tốt. Tôi rất vui.",
+    "zh_text": "谢谢你帮我。你真好。我很高兴。",
+    "pinyin": "Xièxie nǐ bāng wǒ. Nǐ zhēn hǎo. Wǒ hěn gāoxìng.",
+    "usage": "Dùng sau khi được người khác giúp đỡ.",
+    "keywords": [
+      "谢谢",
+      "帮",
+      "真好"
+    ]
+  },
+  {
+    "id": "t_hsk1_004",
+    "level": "HSK1",
+    "type": "Xin lỗi",
+    "title": "Xin lỗi vì đến muộn",
+    "vi_text": "Xin lỗi, hôm nay tôi đến muộn. Bây giờ tôi đến rồi.",
+    "zh_text": "对不起，我今天来晚了。现在我到了。",
+    "pinyin": "Duìbuqǐ, wǒ jīntiān lái wǎn le. Xiànzài wǒ dào le.",
+    "usage": "Dùng khi đi học/đi hẹn bị muộn.",
+    "keywords": [
+      "对不起",
+      "今天",
+      "现在"
+    ]
+  },
+  {
+    "id": "t_hsk1_005",
+    "level": "HSK1",
+    "type": "Mua đồ",
+    "title": "Nhắn mua đồ uống",
+    "vi_text": "Tôi muốn mua một cốc trà và một chai nước. Tổng cộng bao nhiêu tiền?",
+    "zh_text": "我想买一杯茶和一瓶水。一共多少钱？",
+    "pinyin": "Wǒ xiǎng mǎi yì bēi chá hé yì píng shuǐ. Yígòng duōshao qián?",
+    "usage": "Dùng khi mua đồ ở cửa hàng.",
+    "keywords": [
+      "想买",
+      "一杯",
+      "多少钱"
+    ]
+  },
+  {
+    "id": "t_hsk1_006",
+    "level": "HSK1",
+    "type": "Hỏi đường",
+    "title": "Hỏi nhà vệ sinh ở đâu",
+    "vi_text": "Xin hỏi, nhà vệ sinh ở đâu? Tôi không biết đi như thế nào.",
+    "zh_text": "请问，洗手间在哪儿？我不知道怎么走。",
+    "pinyin": "Qǐngwèn, xǐshǒujiān zài nǎr? Wǒ bù zhīdào zěnme zǒu.",
+    "usage": "Dùng trong quán ăn, trường học, sân bay.",
+    "keywords": [
+      "请问",
+      "在哪儿",
+      "怎么走"
+    ]
+  },
+  {
+    "id": "t_hsk1_007",
+    "level": "HSK1",
+    "type": "Lịch học",
+    "title": "Nói về lịch học hôm nay",
+    "vi_text": "Hôm nay tôi học tiếng Trung ở trường. Sau giờ học tôi về nhà nghỉ ngơi.",
+    "zh_text": "今天我在学校学习汉语。下课以后我回家休息。",
+    "pinyin": "Jīntiān wǒ zài xuéxiào xuéxí Hànyǔ. Xiàkè yǐhòu wǒ huí jiā xiūxi.",
+    "usage": "Dùng để nói lịch sinh hoạt đơn giản.",
+    "keywords": [
+      "今天",
+      "在学校",
+      "以后"
+    ]
+  },
+  {
+    "id": "t_hsk1_008",
+    "level": "HSK1",
+    "type": "Mời bạn",
+    "title": "Rủ bạn đi ăn",
+    "vi_text": "Tối nay bạn muốn đi ăn cơm không? Tôi biết một nhà hàng rất ngon.",
+    "zh_text": "今天晚上你想去吃饭吗？我知道一个很好吃的饭店。",
+    "pinyin": "Jīntiān wǎnshang nǐ xiǎng qù chī fàn ma? Wǒ zhīdào yí ge hěn hǎochī de fàndiàn.",
+    "usage": "Dùng để rủ bạn đi ăn.",
+    "keywords": [
+      "晚上",
+      "想去",
+      "饭店"
+    ]
+  },
+  {
+    "id": "t_hsk2_001",
+    "level": "HSK2",
+    "type": "Xin nghỉ",
+    "title": "Xin nghỉ vì bị ốm",
+    "vi_text": "Thầy/cô ơi, hôm nay em bị ốm nên không thể đến lớp. Em sẽ học bù vào ngày mai.",
+    "zh_text": "老师，今天我生病了，所以不能来上课。明天我会补学习。",
+    "pinyin": "Lǎoshī, jīntiān wǒ shēngbìng le, suǒyǐ bù néng lái shàngkè. Míngtiān wǒ huì bǔ xuéxí.",
+    "usage": "Dùng để nhắn giáo viên khi không đi học được.",
+    "keywords": [
+      "生病",
+      "所以",
+      "不能"
+    ]
+  },
+  {
+    "id": "t_hsk2_002",
+    "level": "HSK2",
+    "type": "Đổi lịch",
+    "title": "Xin đổi thời gian hẹn",
+    "vi_text": "Xin lỗi, hôm nay tôi hơi bận. Chúng ta có thể gặp nhau vào chiều mai không?",
+    "zh_text": "不好意思，我今天有点儿忙。我们可以明天下午见面吗？",
+    "pinyin": "Bù hǎoyìsi, wǒ jīntiān yǒudiǎnr máng. Wǒmen kěyǐ míngtiān xiàwǔ jiànmiàn ma?",
+    "usage": "Dùng khi muốn đổi lịch hẹn lịch sự.",
+    "keywords": [
+      "不好意思",
+      "有点儿",
+      "可以"
+    ]
+  },
+  {
+    "id": "t_hsk2_003",
+    "level": "HSK2",
+    "type": "Mua sắm",
+    "title": "Hỏi giá và mặc cả nhẹ",
+    "vi_text": "Cái áo này rất đẹp, nhưng hơi đắt. Có thể rẻ hơn một chút không?",
+    "zh_text": "这件衣服很好看，但是有点儿贵。可以便宜一点儿吗？",
+    "pinyin": "Zhè jiàn yīfu hěn hǎokàn, dànshì yǒudiǎnr guì. Kěyǐ piányi yìdiǎnr ma?",
+    "usage": "Dùng khi mua quần áo hoặc đồ dùng.",
+    "keywords": [
+      "这件",
+      "但是",
+      "便宜一点儿"
+    ]
+  },
+  {
+    "id": "t_hsk2_004",
+    "level": "HSK2",
+    "type": "Hỏi đường",
+    "title": "Hỏi đường đến ga tàu",
+    "vi_text": "Xin hỏi, từ đây đến ga tàu đi như thế nào? Đi xe buýt mất bao lâu?",
+    "zh_text": "请问，从这里到火车站怎么走？坐公共汽车要多长时间？",
+    "pinyin": "Qǐngwèn, cóng zhèlǐ dào huǒchēzhàn zěnme zǒu? Zuò gōnggòng qìchē yào duō cháng shíjiān?",
+    "usage": "Dùng khi đi du lịch hoặc cần hỏi đường.",
+    "keywords": [
+      "从",
+      "到",
+      "多长时间"
+    ]
+  },
+  {
+    "id": "t_hsk2_005",
+    "level": "HSK2",
+    "type": "Công việc",
+    "title": "Giải thích đang bận",
+    "vi_text": "Tôi đang làm việc, bây giờ không tiện nói chuyện. Sau khi xong việc tôi sẽ gọi lại cho bạn.",
+    "zh_text": "我正在工作，现在不方便说话。工作完以后我给你回电话。",
+    "pinyin": "Wǒ zhèngzài gōngzuò, xiànzài bù fāngbiàn shuōhuà. Gōngzuò wán yǐhòu wǒ gěi nǐ huí diànhuà.",
+    "usage": "Dùng khi đang bận và muốn gọi lại sau.",
+    "keywords": [
+      "正在",
+      "现在",
+      "以后"
+    ]
+  },
+  {
+    "id": "t_hsk2_006",
+    "level": "HSK2",
+    "type": "Thời tiết",
+    "title": "Nhắc mang ô",
+    "vi_text": "Ngày mai có thể mưa. Khi ra ngoài bạn đừng quên mang ô.",
+    "zh_text": "明天可能下雨。出门的时候你别忘了带伞。",
+    "pinyin": "Míngtiān kěnéng xià yǔ. Chūmén de shíhou nǐ bié wàng le dài sǎn.",
+    "usage": "Dùng để nhắc bạn bè/người thân.",
+    "keywords": [
+      "可能",
+      "的时候",
+      "别忘了"
+    ]
+  },
+  {
+    "id": "t_hsk2_007",
+    "level": "HSK2",
+    "type": "Du lịch",
+    "title": "Nói kế hoạch du lịch",
+    "vi_text": "Cuối tuần này tôi muốn đi du lịch với bạn bè. Chúng tôi định đi Bắc Kinh bằng máy bay.",
+    "zh_text": "这个周末我想和朋友一起去旅游。我们准备坐飞机去北京。",
+    "pinyin": "Zhège zhōumò wǒ xiǎng hé péngyou yìqǐ qù lǚyóu. Wǒmen zhǔnbèi zuò fēijī qù Běijīng.",
+    "usage": "Dùng khi nói kế hoạch cuối tuần/du lịch.",
+    "keywords": [
+      "周末",
+      "一起",
+      "准备"
+    ]
+  },
+  {
+    "id": "t_hsk2_008",
+    "level": "HSK2",
+    "type": "Nhà hàng",
+    "title": "Đánh giá nhà hàng",
+    "vi_text": "Tôi thấy nhà hàng này rất tốt. Đồ ăn ngon, nhân viên cũng rất nhiệt tình.",
+    "zh_text": "我觉得这个饭店很好。菜很好吃，服务员也很热情。",
+    "pinyin": "Wǒ juéde zhège fàndiàn hěn hǎo. Cài hěn hǎochī, fúwùyuán yě hěn rèqíng.",
+    "usage": "Dùng khi đánh giá một nơi sau khi ăn.",
+    "keywords": [
+      "觉得",
+      "好吃",
+      "也"
+    ]
+  },
+  {
+    "id": "t_hsk2_009",
+    "level": "HSK2",
+    "type": "Học tập",
+    "title": "Mục tiêu học tiếng Trung",
+    "vi_text": "Tôi học tiếng Trung vì muốn nói chuyện với người Trung Quốc. Mỗi ngày tôi đều học mười từ mới.",
+    "zh_text": "我学习汉语，因为我想和中国人说话。我每天都学习十个新词。",
+    "pinyin": "Wǒ xuéxí Hànyǔ, yīnwèi wǒ xiǎng hé Zhōngguó rén shuōhuà. Wǒ měitiān dōu xuéxí shí ge xīn cí.",
+    "usage": "Dùng để nói mục tiêu học tập.",
+    "keywords": [
+      "因为",
+      "想",
+      "每天都"
+    ]
+  },
+  {
+    "id": "t_hsk2_010",
+    "level": "HSK2",
+    "type": "Lời nhắn",
+    "title": "Nhờ bạn chờ một chút",
+    "vi_text": "Tôi sắp đến rồi. Bạn đợi tôi một chút, tôi đến nơi sẽ gọi điện cho bạn.",
+    "zh_text": "我快要到了。你等我一下，我到的时候给你打电话。",
+    "pinyin": "Wǒ kuàiyào dào le. Nǐ děng wǒ yíxià, wǒ dào de shíhou gěi nǐ dǎ diànhuà.",
+    "usage": "Dùng khi đang trên đường đến điểm hẹn.",
+    "keywords": [
+      "快要",
+      "一下",
+      "的时候"
+    ]
+  }
+]

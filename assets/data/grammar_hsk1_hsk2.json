@@ -1,0 +1,1154 @@
+[
+  {
+    "id": "hsk1_g01",
+    "level": "HSK1",
+    "title": "Câu chữ 是: A là B",
+    "pattern": "A + 是 + B",
+    "meaning_vi": "Dùng để giới thiệu danh tính, nghề nghiệp, quốc tịch, quan hệ.",
+    "native_note": "Trong nói chuyện, 是 rất chắc: A chính là B. Không dùng 是 trước tính từ đơn giản như 好/忙/大.",
+    "common_mistake": "Sai: 我是很好。Đúng: 我很好。",
+    "examples": [
+      {
+        "zh": "我不是老师。",
+        "pinyin": "Wǒ bú shì lǎoshī.",
+        "vi": "Tôi không phải giáo viên."
+      }
+    ]
+  },
+  {
+    "id": "hsk1_g02",
+    "level": "HSK1",
+    "title": "Câu hỏi với 吗",
+    "pattern": "Câu trần thuật + 吗？",
+    "meaning_vi": "Biến một câu bình thường thành câu hỏi có/không.",
+    "native_note": "Người bản địa dùng 吗 khi thật sự muốn xác nhận thông tin, giọng điệu nhẹ.",
+    "common_mistake": "Không thêm 吗 vào câu đã có từ hỏi như 什么/谁/哪儿.",
+    "examples": [
+      {
+        "zh": "你是学生吗？",
+        "pinyin": "Nǐ shì xuésheng ma?",
+        "vi": "Bạn là học sinh/sinh viên à?"
+      }
+    ]
+  },
+  {
+    "id": "hsk1_g03",
+    "level": "HSK1",
+    "title": "Câu hỏi 什么",
+    "pattern": "什么 đặt đúng vị trí cần hỏi",
+    "meaning_vi": "Hỏi “cái gì”, “gì”, “loại gì”.",
+    "native_note": "Không đưa 什么 lên đầu câu theo kiểu tiếng Việt; nó nằm ở vị trí của thông tin còn thiếu.",
+    "common_mistake": "Sai: 什么你喝？Đúng: 你喝什么？",
+    "examples": [
+      {
+        "zh": "你喝什么？",
+        "pinyin": "Nǐ hē shénme?",
+        "vi": "Bạn uống gì?"
+      }
+    ]
+  },
+  {
+    "id": "hsk1_g04",
+    "level": "HSK1",
+    "title": "Câu hỏi 谁",
+    "pattern": "谁 thay cho người cần hỏi",
+    "meaning_vi": "Dùng để hỏi ai, có thể làm chủ ngữ hoặc tân ngữ.",
+    "native_note": "Cứ đặt 谁 vào đúng chỗ người chưa biết.",
+    "common_mistake": "Không cần thêm 吗.",
+    "examples": [
+      {
+        "zh": "他是谁？",
+        "pinyin": "Tā shì shéi?",
+        "vi": "Anh ấy là ai?"
+      }
+    ]
+  },
+  {
+    "id": "hsk1_g05",
+    "level": "HSK1",
+    "title": "Câu hỏi 哪儿",
+    "pattern": "在/去 + 哪儿？",
+    "meaning_vi": "Hỏi nơi ở, nơi đến, vị trí.",
+    "native_note": "在 hỏi đang ở đâu; 去 hỏi đi đâu.",
+    "common_mistake": "Sai: 你在哪儿去？",
+    "examples": [
+      {
+        "zh": "你去哪儿？",
+        "pinyin": "Nǐ qù nǎr?",
+        "vi": "Bạn đi đâu?"
+      }
+    ]
+  },
+  {
+    "id": "hsk1_g06",
+    "level": "HSK1",
+    "title": "Câu hỏi 哪 + danh từ",
+    "pattern": "哪 + lượng từ/danh từ",
+    "meaning_vi": "Hỏi “cái nào”, “nơi nào”, “người nào”.",
+    "native_note": "Khi danh từ đếm được, thường thêm lượng từ.",
+    "common_mistake": "Chú ý 哪儿 là “ở đâu”, 哪 là “nào”.",
+    "examples": [
+      {
+        "zh": "你是哪国人？",
+        "pinyin": "Nǐ shì nǎ guó rén?",
+        "vi": "Bạn là người nước nào?"
+      }
+    ]
+  },
+  {
+    "id": "hsk1_g07",
+    "level": "HSK1",
+    "title": "Câu hỏi 几",
+    "pattern": "几 + lượng từ + danh từ",
+    "meaning_vi": "Hỏi số lượng nhỏ, thường dự đoán dưới 10.",
+    "native_note": "Dùng rất nhiều khi hỏi tuổi, ngày, mấy người, mấy quyển.",
+    "common_mistake": "几 thường cần lượng từ phía sau.",
+    "examples": [
+      {
+        "zh": "你有几个朋友？",
+        "pinyin": "Nǐ yǒu jǐ ge péngyou?",
+        "vi": "Bạn có mấy người bạn?"
+      }
+    ]
+  },
+  {
+    "id": "hsk1_g08",
+    "level": "HSK1",
+    "title": "Câu hỏi 多少",
+    "pattern": "多少 + danh từ / 多少钱",
+    "meaning_vi": "Hỏi bao nhiêu, dùng được cho số lượng lớn hoặc giá tiền.",
+    "native_note": "Khi hỏi giá, nói 多少钱 là tự nhiên nhất.",
+    "common_mistake": "Không cần lượng từ bắt buộc sau 多少 trong nhiều trường hợp.",
+    "examples": [
+      {
+        "zh": "这个多少钱？",
+        "pinyin": "Zhège duōshao qián?",
+        "vi": "Cái này bao nhiêu tiền?"
+      }
+    ]
+  },
+  {
+    "id": "hsk1_g09",
+    "level": "HSK1",
+    "title": "Trợ từ 的: sở hữu",
+    "pattern": "Người + 的 + danh từ",
+    "meaning_vi": "Nối người sở hữu với vật/người được sở hữu.",
+    "native_note": "Với quan hệ thân thuộc có thể bỏ 的: 我妈妈 tự nhiên hơn 我的妈妈 trong nhiều ngữ cảnh.",
+    "common_mistake": "Đừng dùng 的 sau mọi đại từ nếu không cần.",
+    "examples": [
+      {
+        "zh": "这是我的书。",
+        "pinyin": "Zhè shì wǒ de shū.",
+        "vi": "Đây là sách của tôi."
+      }
+    ]
+  },
+  {
+    "id": "hsk1_g10",
+    "level": "HSK1",
+    "title": "Trợ từ 的: định ngữ",
+    "pattern": "Tính chất/cụm miêu tả + 的 + danh từ",
+    "meaning_vi": "Dùng để gắn thông tin miêu tả trước danh từ.",
+    "native_note": "Cấu trúc này giống “danh từ mà có đặc điểm…” trong tiếng Việt.",
+    "common_mistake": "Tính từ một âm tiết đôi khi không cần 的 trong cụm quen thuộc.",
+    "examples": [
+      {
+        "zh": "漂亮的衣服。",
+        "pinyin": "Piàoliang de yīfu.",
+        "vi": "Quần áo đẹp."
+      }
+    ]
+  },
+  {
+    "id": "hsk1_g11",
+    "level": "HSK1",
+    "title": "Cụm danh từ với 的",
+    "pattern": "Đại từ/tính từ + 的",
+    "meaning_vi": "Khi danh từ đã rõ, có thể dùng 的 để thay cho “cái/người ...”.",
+    "native_note": "Người bản địa dùng cách này để tránh lặp danh từ.",
+    "common_mistake": "Cần có ngữ cảnh để biết 的 thay cho danh từ nào.",
+    "examples": [
+      {
+        "zh": "这个是我的。",
+        "pinyin": "Zhège shì wǒ de.",
+        "vi": "Cái này là của tôi."
+      }
+    ]
+  },
+  {
+    "id": "hsk1_g12",
+    "level": "HSK1",
+    "title": "Phủ định 不",
+    "pattern": "不 + động từ/tính từ",
+    "meaning_vi": "Phủ định thói quen, ý muốn, hiện tại/tương lai hoặc tính chất.",
+    "native_note": "不 đi trước phần bạn muốn phủ định.",
+    "common_mistake": "不 + 是 đọc thường thành bú shì.",
+    "examples": [
+      {
+        "zh": "我不喝茶。",
+        "pinyin": "Wǒ bù hē chá.",
+        "vi": "Tôi không uống trà."
+      }
+    ]
+  },
+  {
+    "id": "hsk1_g13",
+    "level": "HSK1",
+    "title": "Phủ định 没/没有",
+    "pattern": "没/没有 + động từ / danh từ",
+    "meaning_vi": "Phủ định việc đã xảy ra hoặc nói “không có”.",
+    "native_note": "Hỏi quá khứ/đã làm chưa thường dùng 没, không dùng 不.",
+    "common_mistake": "Sai: 我不有钱。Đúng: 我没有钱。",
+    "examples": [
+      {
+        "zh": "我没有钱。",
+        "pinyin": "Wǒ méiyǒu qián.",
+        "vi": "Tôi không có tiền."
+      }
+    ]
+  },
+  {
+    "id": "hsk1_g14",
+    "level": "HSK1",
+    "title": "Câu 有",
+    "pattern": "Chủ ngữ/địa điểm + 有 + danh từ",
+    "meaning_vi": "Nói ai có gì hoặc nơi nào có gì.",
+    "native_note": "Rất quan trọng để mô tả đồ vật, người trong không gian.",
+    "common_mistake": "Phủ định là 没有, không phải 不有.",
+    "examples": [
+      {
+        "zh": "桌子上有一本书。",
+        "pinyin": "Zhuōzi shàng yǒu yì běn shū.",
+        "vi": "Trên bàn có một quyển sách."
+      }
+    ]
+  },
+  {
+    "id": "hsk1_g15",
+    "level": "HSK1",
+    "title": "在 chỉ vị trí",
+    "pattern": "Chủ ngữ + 在 + địa điểm",
+    "meaning_vi": "Nói ai/vật đang ở đâu.",
+    "native_note": "在 đứng trước nơi chốn.",
+    "common_mistake": "Đừng nói 我学校在 nếu muốn nói tôi ở trường.",
+    "examples": [
+      {
+        "zh": "我在学校。",
+        "pinyin": "Wǒ zài xuéxiào.",
+        "vi": "Tôi ở trường."
+      }
+    ]
+  },
+  {
+    "id": "hsk1_g16",
+    "level": "HSK1",
+    "title": "在 chỉ đang làm",
+    "pattern": "Chủ ngữ + 在 + động từ",
+    "meaning_vi": "Nói hành động đang diễn ra.",
+    "native_note": "HSK1 có thể dùng 在 đơn giản; HSK2 học 正在 để nhấn mạnh hơn.",
+    "common_mistake": "Không cần thêm 是 trước 在.",
+    "examples": [
+      {
+        "zh": "他在看电视。",
+        "pinyin": "Tā zài kàn diànshì.",
+        "vi": "Anh ấy đang xem tivi."
+      }
+    ]
+  },
+  {
+    "id": "hsk1_g17",
+    "level": "HSK1",
+    "title": "Câu tính từ với 很",
+    "pattern": "Chủ ngữ + 很 + tính từ",
+    "meaning_vi": "Tính từ làm vị ngữ; 很 thường làm câu tự nhiên hơn.",
+    "native_note": "很 không phải lúc nào cũng mạnh như “rất”; nhiều khi chỉ là cầu nối ngữ pháp.",
+    "common_mistake": "Sai: 天气是热。",
+    "examples": [
+      {
+        "zh": "天气很热。",
+        "pinyin": "Tiānqì hěn rè.",
+        "vi": "Thời tiết nóng."
+      }
+    ]
+  },
+  {
+    "id": "hsk1_g18",
+    "level": "HSK1",
+    "title": "也: cũng",
+    "pattern": "Chủ ngữ + 也 + vị ngữ",
+    "meaning_vi": "Nói chủ ngữ cũng có hành động/trạng thái giống trước đó.",
+    "native_note": "也 đứng trước động từ/tính từ chính.",
+    "common_mistake": "Sai: 我是也学生。",
+    "examples": [
+      {
+        "zh": "我也是学生。",
+        "pinyin": "Wǒ yě shì xuésheng.",
+        "vi": "Tôi cũng là học sinh/sinh viên."
+      }
+    ]
+  },
+  {
+    "id": "hsk1_g19",
+    "level": "HSK1",
+    "title": "都: đều",
+    "pattern": "Chủ ngữ số nhiều + 都 + vị ngữ",
+    "meaning_vi": "Nói tất cả trong nhóm đều như vậy.",
+    "native_note": "都 đứng sau nhóm người/vật, trước phần nhận xét.",
+    "common_mistake": "Không dùng 都 cho một người đơn lẻ nếu không có ý “tất cả”.",
+    "examples": [
+      {
+        "zh": "我们都喜欢茶。",
+        "pinyin": "Wǒmen dōu xǐhuan chá.",
+        "vi": "Chúng tôi đều thích trà."
+      }
+    ]
+  },
+  {
+    "id": "hsk1_g20",
+    "level": "HSK1",
+    "title": "和: và, với",
+    "pattern": "Danh từ + 和 + danh từ",
+    "meaning_vi": "Nối danh từ/đại từ, không nối hai câu hoàn chỉnh.",
+    "native_note": "Muốn nói “tôi và bạn” dùng 我和你.",
+    "common_mistake": "Đừng dùng 和 để nối hai động từ như tiếng Việt.",
+    "examples": [
+      {
+        "zh": "我和朋友去学校。",
+        "pinyin": "Wǒ hé péngyou qù xuéxiào.",
+        "vi": "Tôi và bạn đi đến trường."
+      }
+    ]
+  },
+  {
+    "id": "hsk1_g21",
+    "level": "HSK1",
+    "title": "Số + lượng từ + danh từ",
+    "pattern": "Số + lượng từ + danh từ",
+    "meaning_vi": "Danh từ tiếng Trung thường cần lượng từ khi đếm.",
+    "native_note": "个 là lượng từ phổ thông, 本 dùng cho sách, 杯 dùng cho cốc.",
+    "common_mistake": "Sai: 三书。",
+    "examples": [
+      {
+        "zh": "三本书。",
+        "pinyin": "Sān běn shū.",
+        "vi": "Ba quyển sách."
+      }
+    ]
+  },
+  {
+    "id": "hsk1_g22",
+    "level": "HSK1",
+    "title": "Thời gian trong câu",
+    "pattern": "Chủ ngữ + thời gian + động từ",
+    "meaning_vi": "Thời gian thường đứng trước động từ, sau hoặc trước chủ ngữ.",
+    "native_note": "Nói tự nhiên: 我今天去学校 / 今天我去学校.",
+    "common_mistake": "Đừng đặt 今天 cuối câu như tiếng Việt quá thường xuyên.",
+    "examples": [
+      {
+        "zh": "我今天学习汉语。",
+        "pinyin": "Wǒ jīntiān xuéxí Hànyǔ.",
+        "vi": "Hôm nay tôi học tiếng Trung."
+      }
+    ]
+  },
+  {
+    "id": "hsk1_g23",
+    "level": "HSK1",
+    "title": "Ngày tháng năm",
+    "pattern": "Năm + 月 + 日/号",
+    "meaning_vi": "Thứ tự thời gian tiếng Trung đi từ lớn đến nhỏ.",
+    "native_note": "Nói ngày tháng tự nhiên: 2026年五月十八号.",
+    "common_mistake": "Không nói theo thứ tự Việt “18 tháng 5” nếu viết tiếng Trung đầy đủ.",
+    "examples": [
+      {
+        "zh": "今天是五月十八号。",
+        "pinyin": "Jīntiān shì wǔ yuè shíbā hào.",
+        "vi": "Hôm nay là ngày 18 tháng 5."
+      }
+    ]
+  },
+  {
+    "id": "hsk1_g24",
+    "level": "HSK1",
+    "title": "Hỏi giờ 点",
+    "pattern": "Số + 点 + 分",
+    "meaning_vi": "Dùng 点 cho giờ, 分钟/分 cho phút.",
+    "native_note": "Trong nói hằng ngày, 两点 dùng cho 2 giờ, không dùng 二点.",
+    "common_mistake": "2 giờ nói 两点, không phải 二点.",
+    "examples": [
+      {
+        "zh": "现在三点十分。",
+        "pinyin": "Xiànzài sān diǎn shí fēn.",
+        "vi": "Bây giờ là 3 giờ 10 phút."
+      }
+    ]
+  },
+  {
+    "id": "hsk1_g25",
+    "level": "HSK1",
+    "title": "了: thay đổi trạng thái",
+    "pattern": "Tính từ/câu + 了",
+    "meaning_vi": "Nói trạng thái đã thay đổi so với trước.",
+    "native_note": "Thường dịch là “rồi”: trời lạnh rồi, anh ấy đến rồi.",
+    "common_mistake": "Đừng dịch mọi 了 thành quá khứ máy móc.",
+    "examples": [
+      {
+        "zh": "天气冷了。",
+        "pinyin": "Tiānqì lěng le.",
+        "vi": "Trời lạnh rồi."
+      }
+    ]
+  },
+  {
+    "id": "hsk1_g26",
+    "level": "HSK1",
+    "title": "了: hành động hoàn thành",
+    "pattern": "Động từ + tân ngữ + 了",
+    "meaning_vi": "Nói hành động đã hoàn thành trong ngữ cảnh.",
+    "native_note": "Rất hay dùng khi báo việc đã xong.",
+    "common_mistake": "Phủ định quá khứ thường dùng 没, không dùng 不...了.",
+    "examples": [
+      {
+        "zh": "我吃饭了。",
+        "pinyin": "Wǒ chī fàn le.",
+        "vi": "Tôi ăn cơm rồi."
+      }
+    ]
+  },
+  {
+    "id": "hsk1_g27",
+    "level": "HSK1",
+    "title": "太...了",
+    "pattern": "太 + tính từ + 了",
+    "meaning_vi": "Nhấn mạnh “quá/rất”.",
+    "native_note": "Có thể khen hoặc than phiền tùy ngữ cảnh.",
+    "common_mistake": "Đừng bỏ 了 trong mẫu cảm thán này.",
+    "examples": [
+      {
+        "zh": "太好了！",
+        "pinyin": "Tài hǎo le!",
+        "vi": "Tốt quá!"
+      }
+    ]
+  },
+  {
+    "id": "hsk1_g28",
+    "level": "HSK1",
+    "title": "想 + động từ",
+    "pattern": "想 + V",
+    "meaning_vi": "Nói muốn làm gì.",
+    "native_note": "Nếu có chuỗi hành động, đặt 想 trước động từ đầu: 想去买.",
+    "common_mistake": "Sai: 我去想买。Đúng: 我想去买。",
+    "examples": [
+      {
+        "zh": "我想喝水。",
+        "pinyin": "Wǒ xiǎng hē shuǐ.",
+        "vi": "Tôi muốn uống nước."
+      }
+    ]
+  },
+  {
+    "id": "hsk1_g29",
+    "level": "HSK1",
+    "title": "会: biết làm do học được",
+    "pattern": "会 + động từ",
+    "meaning_vi": "Nói kỹ năng đã học: biết nói, biết viết, biết lái xe.",
+    "native_note": "会 thiên về năng lực học được.",
+    "common_mistake": "Đừng dùng 会 cho mọi “có thể”; 能/可以 có sắc thái khác.",
+    "examples": [
+      {
+        "zh": "我会说汉语。",
+        "pinyin": "Wǒ huì shuō Hànyǔ.",
+        "vi": "Tôi biết nói tiếng Trung."
+      }
+    ]
+  },
+  {
+    "id": "hsk1_g30",
+    "level": "HSK1",
+    "title": "能: có khả năng/điều kiện",
+    "pattern": "能 + động từ",
+    "meaning_vi": "Nói có thể làm vì sức khỏe, điều kiện, hoàn cảnh cho phép.",
+    "native_note": "Hỏi lịch sự: 你能来吗？",
+    "common_mistake": "会 = biết kỹ năng, 能 = có điều kiện/khả năng.",
+    "examples": [
+      {
+        "zh": "你能来吗？",
+        "pinyin": "Nǐ néng lái ma?",
+        "vi": "Bạn có thể đến không?"
+      }
+    ]
+  },
+  {
+    "id": "hsk1_g31",
+    "level": "HSK1",
+    "title": "呢: hỏi lại/tiếp tục chủ đề",
+    "pattern": "Danh từ/đại từ + 呢？",
+    "meaning_vi": "Dùng để hỏi “còn ... thì sao?” hoặc kéo chủ đề tiếp.",
+    "native_note": "Rất tự nhiên trong hội thoại ngắn.",
+    "common_mistake": "Không dùng 呢 thay cho mọi câu hỏi.",
+    "examples": [
+      {
+        "zh": "我很好，你呢？",
+        "pinyin": "Wǒ hěn hǎo, nǐ ne?",
+        "vi": "Tôi khỏe, còn bạn thì sao?"
+      }
+    ]
+  },
+  {
+    "id": "hsk1_g32",
+    "level": "HSK1",
+    "title": "请: xin mời / vui lòng",
+    "pattern": "请 + động từ",
+    "meaning_vi": "Dùng để mời, yêu cầu lịch sự.",
+    "native_note": "Trong lớp học và giao tiếp lịch sự rất hay gặp.",
+    "common_mistake": "请 không phải lúc nào cũng là “mời”; có thể là “xin hãy”.",
+    "examples": [
+      {
+        "zh": "请坐。",
+        "pinyin": "Qǐng zuò.",
+        "vi": "Mời ngồi."
+      }
+    ]
+  },
+  {
+    "id": "hsk1_g33",
+    "level": "HSK1",
+    "title": "叫: tên là/gọi là",
+    "pattern": "Chủ ngữ + 叫 + tên",
+    "meaning_vi": "Giới thiệu tên.",
+    "native_note": "Người Trung nói 我叫... rất tự nhiên.",
+    "common_mistake": "Không dùng 是 trực tiếp với tên trong mọi trường hợp; 我叫... tự nhiên hơn.",
+    "examples": [
+      {
+        "zh": "我叫李明。",
+        "pinyin": "Wǒ jiào Lǐ Míng.",
+        "vi": "Tôi tên là Lý Minh."
+      }
+    ]
+  },
+  {
+    "id": "hsk1_g34",
+    "level": "HSK1",
+    "title": "姓: họ là",
+    "pattern": "Chủ ngữ + 姓 + họ",
+    "meaning_vi": "Hỏi và trả lời họ.",
+    "native_note": "Lịch sự hơn khi hỏi họ của người khác: 您贵姓？",
+    "common_mistake": "Tên đầy đủ dùng 叫, họ dùng 姓.",
+    "examples": [
+      {
+        "zh": "我姓王。",
+        "pinyin": "Wǒ xìng Wáng.",
+        "vi": "Tôi họ Vương."
+      }
+    ]
+  },
+  {
+    "id": "hsk1_g35",
+    "level": "HSK1",
+    "title": "喜欢 + danh từ/động từ",
+    "pattern": "喜欢 + N / V",
+    "meaning_vi": "Nói thích ai, thích gì, thích làm gì.",
+    "native_note": "Nếu thích làm việc gì, đặt động từ sau 喜欢.",
+    "common_mistake": "Không cần 的 sau động từ ở mẫu này.",
+    "examples": [
+      {
+        "zh": "我喜欢喝茶。",
+        "pinyin": "Wǒ xǐhuan hē chá.",
+        "vi": "Tôi thích uống trà."
+      }
+    ]
+  },
+  {
+    "id": "hsk1_g36",
+    "level": "HSK1",
+    "title": "去/来 + nơi chốn",
+    "pattern": "去/来 + địa điểm",
+    "meaning_vi": "去 là đi đến nơi khác, 来 là đến phía người nói.",
+    "native_note": "Hướng nhìn của người nói quyết định dùng 来 hay 去.",
+    "common_mistake": "Đừng dùng 来 nếu điểm đến không gần phía người nói.",
+    "examples": [
+      {
+        "zh": "他来我家。",
+        "pinyin": "Tā lái wǒ jiā.",
+        "vi": "Anh ấy đến nhà tôi."
+      }
+    ]
+  },
+  {
+    "id": "hsk2_g01",
+    "level": "HSK2",
+    "title": "的时候: khi/lúc",
+    "pattern": "Mệnh đề/Thời gian + 的时候",
+    "meaning_vi": "Dùng để nói thời điểm khi một việc xảy ra.",
+    "native_note": "Cấu trúc này giúp câu tự nhiên hơn thay vì chỉ ghép 2 mệnh đề rời rạc.",
+    "common_mistake": "Không nói 的时间 trong mẫu này.",
+    "examples": [
+      {
+        "zh": "我吃饭的时候，他来了。",
+        "pinyin": "Wǒ chī fàn de shíhou, tā lái le.",
+        "vi": "Khi tôi đang ăn cơm, anh ấy đến."
+      }
+    ]
+  },
+  {
+    "id": "hsk2_g02",
+    "level": "HSK2",
+    "title": "比: so sánh hơn",
+    "pattern": "A + 比 + B + tính từ",
+    "meaning_vi": "So sánh A hơn B về một tính chất.",
+    "native_note": "Không dùng 很 ngay sau tính từ trong mẫu 比 cơ bản.",
+    "common_mistake": "Sai: 他比我很高。Đúng: 他比我高。",
+    "examples": [
+      {
+        "zh": "今天比昨天冷。",
+        "pinyin": "Jīntiān bǐ zuótiān lěng.",
+        "vi": "Hôm nay lạnh hơn hôm qua."
+      }
+    ]
+  },
+  {
+    "id": "hsk2_g03",
+    "level": "HSK2",
+    "title": "没有: so sánh kém hơn/không bằng",
+    "pattern": "A + 没有 + B + tính từ",
+    "meaning_vi": "Nói A không bằng B ở một mặt nào đó.",
+    "native_note": "Tự nhiên hơn khi muốn nói “không ... bằng”.",
+    "common_mistake": "Đừng dịch từng chữ “không có anh ấy cao”.",
+    "examples": [
+      {
+        "zh": "我没有他高。",
+        "pinyin": "Wǒ méiyǒu tā gāo.",
+        "vi": "Tôi không cao bằng anh ấy."
+      }
+    ]
+  },
+  {
+    "id": "hsk2_g04",
+    "level": "HSK2",
+    "title": "得: bổ ngữ mức độ",
+    "pattern": "Động từ + 得 + miêu tả",
+    "meaning_vi": "Đánh giá hành động làm như thế nào.",
+    "native_note": "Rất quan trọng để nói tự nhiên: nói tốt, chạy nhanh, viết đẹp.",
+    "common_mistake": "得 này khác 的 sở hữu.",
+    "examples": [
+      {
+        "zh": "他说得很好。",
+        "pinyin": "Tā shuō de hěn hǎo.",
+        "vi": "Anh ấy nói rất tốt."
+      }
+    ]
+  },
+  {
+    "id": "hsk2_g05",
+    "level": "HSK2",
+    "title": "的 / 地 / 得 phân biệt",
+    "pattern": "的 + danh từ; 地 + động từ; 得 + bổ ngữ",
+    "meaning_vi": "Ba chữ đều đọc “de” nhưng chức năng khác nhau.",
+    "native_note": "Mẹo: 的 đứng trước danh từ, 地 đứng trước hành động, 得 đứng sau động từ để nhận xét.",
+    "common_mistake": "Không viết lẫn 的/地/得 khi luyện viết.",
+    "examples": [
+      {
+        "zh": "他高兴地说。",
+        "pinyin": "Tā gāoxìng de shuō.",
+        "vi": "Anh ấy vui vẻ nói."
+      }
+    ]
+  },
+  {
+    "id": "hsk2_g06",
+    "level": "HSK2",
+    "title": "过: đã từng",
+    "pattern": "Động từ + 过",
+    "meaning_vi": "Nói kinh nghiệm đã từng làm.",
+    "native_note": "Không nhất thiết nói thời điểm cụ thể, chỉ nhấn mạnh trải nghiệm.",
+    "common_mistake": "Phủ định: 没去过.",
+    "examples": [
+      {
+        "zh": "我去过北京。",
+        "pinyin": "Wǒ qù guo Běijīng.",
+        "vi": "Tôi đã từng đi Bắc Kinh."
+      }
+    ]
+  },
+  {
+    "id": "hsk2_g07",
+    "level": "HSK2",
+    "title": "着: trạng thái đang duy trì",
+    "pattern": "Động từ + 着",
+    "meaning_vi": "Nói trạng thái sau hành động vẫn đang tồn tại.",
+    "native_note": "Hay dùng với 开着, 坐着, 穿着.",
+    "common_mistake": "Không dùng 着 cho mọi “đang”; 正在 + V khác.",
+    "examples": [
+      {
+        "zh": "门开着。",
+        "pinyin": "Mén kāi zhe.",
+        "vi": "Cửa đang mở."
+      }
+    ]
+  },
+  {
+    "id": "hsk2_g08",
+    "level": "HSK2",
+    "title": "正在: đang làm",
+    "pattern": "正在 + động từ",
+    "meaning_vi": "Nhấn mạnh hành động đang diễn ra ngay lúc nói.",
+    "native_note": "Mạnh hơn 在 + V, thường dùng khi muốn nhấn mạnh “đang”.",
+    "common_mistake": "Không cần 是 trước 正在.",
+    "examples": [
+      {
+        "zh": "我正在学习。",
+        "pinyin": "Wǒ zhèngzài xuéxí.",
+        "vi": "Tôi đang học."
+      }
+    ]
+  },
+  {
+    "id": "hsk2_g09",
+    "level": "HSK2",
+    "title": "因为...所以...",
+    "pattern": "因为 + nguyên nhân，所以 + kết quả",
+    "meaning_vi": "Nối nguyên nhân và kết quả.",
+    "native_note": "Trong tiếng Trung có thể dùng cả 因为 và 所以 trong cùng câu.",
+    "common_mistake": "Đừng đảo vị trí kết quả lên trước nếu chưa nắm chắc.",
+    "examples": [
+      {
+        "zh": "因为下雨，所以我不去。",
+        "pinyin": "Yīnwèi xià yǔ, suǒyǐ wǒ bú qù.",
+        "vi": "Vì trời mưa nên tôi không đi."
+      }
+    ]
+  },
+  {
+    "id": "hsk2_g10",
+    "level": "HSK2",
+    "title": "虽然...但是...",
+    "pattern": "虽然 + vế 1，但是 + vế 2",
+    "meaning_vi": "Diễn tả tương phản “tuy... nhưng...”.",
+    "native_note": "Người Trung thường dùng cả cặp để câu rõ ràng.",
+    "common_mistake": "Không dùng 可是/但是 chồng quá nhiều.",
+    "examples": [
+      {
+        "zh": "虽然很忙，但是我很高兴。",
+        "pinyin": "Suīrán hěn máng, dànshì wǒ hěn gāoxìng.",
+        "vi": "Tuy rất bận nhưng tôi rất vui."
+      }
+    ]
+  },
+  {
+    "id": "hsk2_g11",
+    "level": "HSK2",
+    "title": "已经...了",
+    "pattern": "已经 + V/Adj + 了",
+    "meaning_vi": "Nói việc đã xảy ra hoặc trạng thái đã đạt tới.",
+    "native_note": "已经 nhấn mạnh “đã rồi”, 了 khép câu tự nhiên.",
+    "common_mistake": "Phủ định thường dùng 还没.",
+    "examples": [
+      {
+        "zh": "我已经吃饭了。",
+        "pinyin": "Wǒ yǐjīng chī fàn le.",
+        "vi": "Tôi đã ăn cơm rồi."
+      }
+    ]
+  },
+  {
+    "id": "hsk2_g12",
+    "level": "HSK2",
+    "title": "还没: vẫn chưa",
+    "pattern": "还没 + động từ",
+    "meaning_vi": "Nói việc đến giờ vẫn chưa xảy ra.",
+    "native_note": "Dùng để trả lời “đã... chưa?” rất tự nhiên.",
+    "common_mistake": "Không dùng 不 cho việc chưa xảy ra trong quá khứ.",
+    "examples": [
+      {
+        "zh": "我还没去过。",
+        "pinyin": "Wǒ hái méi qù guo.",
+        "vi": "Tôi vẫn chưa từng đi."
+      }
+    ]
+  },
+  {
+    "id": "hsk2_g13",
+    "level": "HSK2",
+    "title": "每...都...",
+    "pattern": "每 + thời gian/người/vật + 都 + vị ngữ",
+    "meaning_vi": "Nói mỗi cái/mỗi ngày đều như vậy.",
+    "native_note": "Đặc biệt quan trọng khi kể thói quen hằng ngày.",
+    "common_mistake": "Đừng bỏ 都 nếu muốn nhấn mạnh “đều”.",
+    "examples": [
+      {
+        "zh": "我每天都学习汉语。",
+        "pinyin": "Wǒ měitiān dōu xuéxí Hànyǔ.",
+        "vi": "Mỗi ngày tôi đều học tiếng Trung."
+      }
+    ]
+  },
+  {
+    "id": "hsk2_g14",
+    "level": "HSK2",
+    "title": "再 và 又",
+    "pattern": "再 cho tương lai; 又 cho việc đã lặp lại",
+    "meaning_vi": "Cả hai đều là “lại”, nhưng thời điểm khác nhau.",
+    "native_note": "再 nói việc sẽ làm lại; 又 nói việc đã xảy ra thêm lần nữa.",
+    "common_mistake": "他又迟到了 = anh ấy lại đến muộn rồi.",
+    "examples": [
+      {
+        "zh": "请再说一次。",
+        "pinyin": "Qǐng zài shuō yí cì.",
+        "vi": "Xin hãy nói lại một lần nữa."
+      }
+    ]
+  },
+  {
+    "id": "hsk2_g15",
+    "level": "HSK2",
+    "title": "就: sớm/ngay/thì",
+    "pattern": "Thời gian/điều kiện + 就 + hành động",
+    "meaning_vi": "Nhấn mạnh xảy ra sớm, nhanh hoặc theo điều kiện.",
+    "native_note": "就 rất bản địa, giúp câu có nhịp tự nhiên hơn.",
+    "common_mistake": "Đừng dịch 就 cố định là “chỉ”.",
+    "examples": [
+      {
+        "zh": "我马上就来。",
+        "pinyin": "Wǒ mǎshàng jiù lái.",
+        "vi": "Tôi đến ngay."
+      }
+    ]
+  },
+  {
+    "id": "hsk2_g16",
+    "level": "HSK2",
+    "title": "才: muộn/mới",
+    "pattern": "Thời gian + 才 + hành động",
+    "meaning_vi": "Nhấn mạnh muộn hơn mong đợi hoặc điều kiện mới đủ.",
+    "native_note": "So với 就: 就 = đã/sớm; 才 = mới/muộn.",
+    "common_mistake": "Đây là cặp rất quan trọng với thời gian.",
+    "examples": [
+      {
+        "zh": "他十点才起床。",
+        "pinyin": "Tā shí diǎn cái qǐchuáng.",
+        "vi": "Mười giờ anh ấy mới dậy."
+      }
+    ]
+  },
+  {
+    "id": "hsk2_g17",
+    "level": "HSK2",
+    "title": "快要/要...了: sắp",
+    "pattern": "快要/要 + V + 了",
+    "meaning_vi": "Nói việc sắp xảy ra.",
+    "native_note": "Thường đi với thời gian gần: 快要下雨了.",
+    "common_mistake": "Đừng nhầm 要 = muốn với 要...了 = sắp.",
+    "examples": [
+      {
+        "zh": "我们要考试了。",
+        "pinyin": "Wǒmen yào kǎoshì le.",
+        "vi": "Chúng tôi sắp thi rồi."
+      }
+    ]
+  },
+  {
+    "id": "hsk2_g18",
+    "level": "HSK2",
+    "title": "离: cách",
+    "pattern": "A + 离 + B + xa/近",
+    "meaning_vi": "Nói khoảng cách giữa hai nơi/thời điểm.",
+    "native_note": "Thứ tự là nơi A cách nơi B, không giống hoàn toàn tiếng Việt.",
+    "common_mistake": "Không nói 学校很近我家.",
+    "examples": [
+      {
+        "zh": "学校离我家很近。",
+        "pinyin": "Xuéxiào lí wǒ jiā hěn jìn.",
+        "vi": "Trường cách nhà tôi rất gần."
+      }
+    ]
+  },
+  {
+    "id": "hsk2_g19",
+    "level": "HSK2",
+    "title": "从...到...",
+    "pattern": "从 + điểm đầu + 到 + điểm cuối",
+    "meaning_vi": "Nói từ đâu đến đâu, từ lúc nào đến lúc nào.",
+    "native_note": "Dùng cho đường đi và thời gian rất nhiều.",
+    "common_mistake": "Từ sáng đến tối: 从早上到晚上.",
+    "examples": [
+      {
+        "zh": "我从家到学校。",
+        "pinyin": "Wǒ cóng jiā dào xuéxiào.",
+        "vi": "Tôi đi từ nhà đến trường."
+      }
+    ]
+  },
+  {
+    "id": "hsk2_g20",
+    "level": "HSK2",
+    "title": "往: hướng về",
+    "pattern": "往 + hướng/nơi + động từ",
+    "meaning_vi": "Chỉ hướng di chuyển/hành động.",
+    "native_note": "Hay gặp khi chỉ đường: 往左走, 往前走.",
+    "common_mistake": "往 thường đi với động từ di chuyển.",
+    "examples": [
+      {
+        "zh": "请往右边走。",
+        "pinyin": "Qǐng wǎng yòubian zǒu.",
+        "vi": "Xin hãy đi về bên phải."
+      }
+    ]
+  },
+  {
+    "id": "hsk2_g21",
+    "level": "HSK2",
+    "title": "给: cho/đến người nhận",
+    "pattern": "给 + người + vật/động từ",
+    "meaning_vi": "Chỉ người nhận hoặc người được hành động hướng tới.",
+    "native_note": "Gọi điện cho ai: 给妈妈打电话.",
+    "common_mistake": "Đừng luôn dịch 给 là “cho”; có khi là “cho ai đó làm gì”.",
+    "examples": [
+      {
+        "zh": "我给你一本书。",
+        "pinyin": "Wǒ gěi nǐ yì běn shū.",
+        "vi": "Tôi đưa bạn một quyển sách."
+      }
+    ]
+  },
+  {
+    "id": "hsk2_g22",
+    "level": "HSK2",
+    "title": "让: để/bảo/khiến",
+    "pattern": "让 + người + động từ",
+    "meaning_vi": "Cho phép, yêu cầu hoặc khiến ai làm gì.",
+    "native_note": "Tùy giọng điệu có thể mềm hoặc mạnh.",
+    "common_mistake": "Cẩn thận phân biệt 让 và 给.",
+    "examples": [
+      {
+        "zh": "老师让我读书。",
+        "pinyin": "Lǎoshī ràng wǒ dú shū.",
+        "vi": "Thầy/cô bảo tôi đọc sách."
+      }
+    ]
+  },
+  {
+    "id": "hsk2_g23",
+    "level": "HSK2",
+    "title": "可以: có thể/được phép",
+    "pattern": "可以 + động từ",
+    "meaning_vi": "Nói có thể làm vì được phép hoặc điều kiện cho phép.",
+    "native_note": "Hỏi xin phép rất tự nhiên: 可以吗？",
+    "common_mistake": "可以 thiên về được phép, 能 thiên về khả năng/điều kiện.",
+    "examples": [
+      {
+        "zh": "我可以进去吗？",
+        "pinyin": "Wǒ kěyǐ jìnqù ma?",
+        "vi": "Tôi có thể vào không?"
+      }
+    ]
+  },
+  {
+    "id": "hsk2_g24",
+    "level": "HSK2",
+    "title": "可能: có khả năng",
+    "pattern": "可能 + vị ngữ",
+    "meaning_vi": "Đưa ra suy đoán.",
+    "native_note": "Dùng khi chưa chắc chắn.",
+    "common_mistake": "可能 đứng trước phần được phỏng đoán.",
+    "examples": [
+      {
+        "zh": "明天可能下雨。",
+        "pinyin": "Míngtiān kěnéng xià yǔ.",
+        "vi": "Ngày mai có thể mưa."
+      }
+    ]
+  },
+  {
+    "id": "hsk2_g25",
+    "level": "HSK2",
+    "title": "别/不要: đừng",
+    "pattern": "别/不要 + động từ",
+    "meaning_vi": "Khuyên hoặc yêu cầu không làm gì.",
+    "native_note": "别 ngắn gọn, tự nhiên trong khẩu ngữ.",
+    "common_mistake": "Đừng dùng 不 ở mệnh lệnh cấm: 不说话 nghe không tự nhiên.",
+    "examples": [
+      {
+        "zh": "别说话。",
+        "pinyin": "Bié shuōhuà.",
+        "vi": "Đừng nói chuyện."
+      }
+    ]
+  },
+  {
+    "id": "hsk2_g26",
+    "level": "HSK2",
+    "title": "一下: một chút/thử",
+    "pattern": "Động từ + 一下",
+    "meaning_vi": "Làm câu nhẹ và lịch sự hơn.",
+    "native_note": "Bạn sẽ nghe 看一下, 等一下, 说一下 rất nhiều.",
+    "common_mistake": "Không nhất thiết đúng nghĩa “một lần”.",
+    "examples": [
+      {
+        "zh": "请等一下。",
+        "pinyin": "Qǐng děng yíxià.",
+        "vi": "Xin đợi một chút."
+      }
+    ]
+  },
+  {
+    "id": "hsk2_g27",
+    "level": "HSK2",
+    "title": "一边...一边...",
+    "pattern": "一边 + V1，一边 + V2",
+    "meaning_vi": "Hai hành động xảy ra cùng lúc.",
+    "native_note": "Dùng cho cùng một chủ thể.",
+    "common_mistake": "Không dùng cho hai chủ thể khác nhau nếu không rõ.",
+    "examples": [
+      {
+        "zh": "他一边吃饭，一边看电视。",
+        "pinyin": "Tā yìbiān chī fàn, yìbiān kàn diànshì.",
+        "vi": "Anh ấy vừa ăn vừa xem tivi."
+      }
+    ]
+  },
+  {
+    "id": "hsk2_g28",
+    "level": "HSK2",
+    "title": "第: số thứ tự",
+    "pattern": "第 + số",
+    "meaning_vi": "Biến số đếm thành số thứ tự.",
+    "native_note": "第一课, 第二个人.",
+    "common_mistake": "第 đứng trước số, không đứng sau.",
+    "examples": [
+      {
+        "zh": "这是第一课。",
+        "pinyin": "Zhè shì dì-yī kè.",
+        "vi": "Đây là bài thứ nhất."
+      }
+    ]
+  },
+  {
+    "id": "hsk2_g29",
+    "level": "HSK2",
+    "title": "次: số lần",
+    "pattern": "Số + 次",
+    "meaning_vi": "Nói số lần thực hiện hành động.",
+    "native_note": "Hai lần dùng 两次, không phải 二次 trong khẩu ngữ thường.",
+    "common_mistake": "2 lượng từ thường dùng 两.",
+    "examples": [
+      {
+        "zh": "我去过北京两次。",
+        "pinyin": "Wǒ qù guo Běijīng liǎng cì.",
+        "vi": "Tôi đã từng đi Bắc Kinh hai lần."
+      }
+    ]
+  },
+  {
+    "id": "hsk2_g30",
+    "level": "HSK2",
+    "title": "完: xong",
+    "pattern": "Động từ + 完",
+    "meaning_vi": "Bổ ngữ kết quả, nói hành động đã làm xong.",
+    "native_note": "Rất tự nhiên khi báo hoàn thành.",
+    "common_mistake": "Nếu có tân ngữ: 我看完这本书了.",
+    "examples": [
+      {
+        "zh": "我看完了。",
+        "pinyin": "Wǒ kàn wán le.",
+        "vi": "Tôi xem/đọc xong rồi."
+      }
+    ]
+  },
+  {
+    "id": "hsk2_g31",
+    "level": "HSK2",
+    "title": "到: đạt tới/tìm thấy",
+    "pattern": "Động từ + 到",
+    "meaning_vi": "Bổ ngữ kết quả chỉ đạt được mục tiêu.",
+    "native_note": "找到了 = tìm thấy rồi, 买到了 = mua được rồi.",
+    "common_mistake": "找 = tìm; 找到 = tìm thấy.",
+    "examples": [
+      {
+        "zh": "我找到他了。",
+        "pinyin": "Wǒ zhǎodào tā le.",
+        "vi": "Tôi tìm thấy anh ấy rồi."
+      }
+    ]
+  },
+  {
+    "id": "hsk2_g32",
+    "level": "HSK2",
+    "title": "好 + V: dễ làm",
+    "pattern": "好 + động từ",
+    "meaning_vi": "Nói việc gì dễ/đáng làm theo cảm nhận.",
+    "native_note": "好吃, 好看, 好听 là các từ rất bản địa.",
+    "common_mistake": "好吃 không phải “ăn tốt”, mà là ngon.",
+    "examples": [
+      {
+        "zh": "这个菜很好吃。",
+        "pinyin": "Zhège cài hěn hǎochī.",
+        "vi": "Món này rất ngon."
+      }
+    ]
+  },
+  {
+    "id": "hsk2_g33",
+    "level": "HSK2",
+    "title": "V + V: thử/làm một chút",
+    "pattern": "Động từ lặp lại",
+    "meaning_vi": "Làm câu nhẹ hơn, giống “thử ... xem”.",
+    "native_note": "看看, 想想, 说说 rất khẩu ngữ.",
+    "common_mistake": "Không lặp động từ tùy tiện trong mọi văn cảnh trang trọng.",
+    "examples": [
+      {
+        "zh": "你看看这个。",
+        "pinyin": "Nǐ kànkan zhège.",
+        "vi": "Bạn xem thử cái này đi."
+      }
+    ]
+  },
+  {
+    "id": "hsk2_g34",
+    "level": "HSK2",
+    "title": "不是...吗？",
+    "pattern": "Câu khẳng định/phủ định + 不是...吗？",
+    "meaning_vi": "Câu hỏi phản vấn, thường người hỏi đã có dự đoán.",
+    "native_note": "Dùng khi muốn xác nhận điều mình nghĩ.",
+    "common_mistake": "Sắc thái khác câu 你是学生吗？",
+    "examples": [
+      {
+        "zh": "你不是学生吗？",
+        "pinyin": "Nǐ bú shì xuésheng ma?",
+        "vi": "Không phải bạn là học sinh à?"
+      }
+    ]
+  },
+  {
+    "id": "hsk2_g35",
+    "level": "HSK2",
+    "title": "多 + tính từ: hỏi mức độ",
+    "pattern": "多 + Adj",
+    "meaning_vi": "Hỏi cao bao nhiêu, xa bao nhiêu, lớn bao nhiêu, dài bao nhiêu.",
+    "native_note": "HSK2 dùng nhiều với 大/高/远/长.",
+    "common_mistake": "多大 hỏi tuổi/kích cỡ tùy ngữ cảnh.",
+    "examples": [
+      {
+        "zh": "你家离学校多远？",
+        "pinyin": "Nǐ jiā lí xuéxiào duō yuǎn?",
+        "vi": "Nhà bạn cách trường bao xa?"
+      }
+    ]
+  },
+  {
+    "id": "hsk2_g36",
+    "level": "HSK2",
+    "title": "以前/以后: trước/sau",
+    "pattern": "Thời gian/sự việc + 以前/以后",
+    "meaning_vi": "Nói trước hoặc sau một mốc.",
+    "native_note": "Rất hữu ích khi kể lịch trình.",
+    "common_mistake": "以后 không chỉ là “sau này”, có thể là sau một việc.",
+    "examples": [
+      {
+        "zh": "吃饭以后，我去学校。",
+        "pinyin": "Chī fàn yǐhòu, wǒ qù xuéxiào.",
+        "vi": "Sau khi ăn cơm, tôi đi học."
+      }
+    ]
+  }
+]

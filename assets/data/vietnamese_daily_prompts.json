@@ -1,0 +1,5907 @@
+[
+  {
+    "id": "daily_vi_0001",
+    "level": "HSK1",
+    "topic": "Mua đồ",
+    "vi_sentence": "Hôm nay tôi muốn đi trường học mua một ít trái cây.",
+    "answer_zh": "我今天想去学校买一点儿水果。",
+    "pinyin": "wǒ jīntiān xiǎng qù xuéxiào mǎi yìdiǎnr shuǐguǒ.",
+    "grammar_focus": "想 + 去 + 买；一点儿 + danh từ",
+    "focus_words": [
+      "想",
+      "去",
+      "学校",
+      "买",
+      "一点儿",
+      "水果"
+    ]
+  },
+  {
+    "id": "daily_vi_0002",
+    "level": "HSK1",
+    "topic": "Mua đồ",
+    "vi_sentence": "Hôm nay tôi muốn đi trường học mua một ít trà.",
+    "answer_zh": "我今天想去学校买一点儿茶。",
+    "pinyin": "wǒ jīntiān xiǎng qù xuéxiào mǎi yìdiǎnr chá.",
+    "grammar_focus": "想 + 去 + 买；一点儿 + danh từ",
+    "focus_words": [
+      "想",
+      "去",
+      "学校",
+      "买",
+      "一点儿",
+      "茶"
+    ]
+  },
+  {
+    "id": "daily_vi_0003",
+    "level": "HSK1",
+    "topic": "Mua đồ",
+    "vi_sentence": "Hôm nay tôi muốn đi trường học mua một ít cơm.",
+    "answer_zh": "我今天想去学校买一点儿米饭。",
+    "pinyin": "wǒ jīntiān xiǎng qù xuéxiào mǎi yìdiǎnr mǐfàn.",
+    "grammar_focus": "想 + 去 + 买；一点儿 + danh từ",
+    "focus_words": [
+      "想",
+      "去",
+      "学校",
+      "买",
+      "一点儿",
+      "米饭"
+    ]
+  },
+  {
+    "id": "daily_vi_0004",
+    "level": "HSK1",
+    "topic": "Mua đồ",
+    "vi_sentence": "Hôm nay tôi muốn đi trường học mua một ít quần áo.",
+    "answer_zh": "我今天想去学校买一点儿衣服。",
+    "pinyin": "wǒ jīntiān xiǎng qù xuéxiào mǎi yìdiǎnr yīfu.",
+    "grammar_focus": "想 + 去 + 买；一点儿 + danh từ",
+    "focus_words": [
+      "想",
+      "去",
+      "学校",
+      "买",
+      "一点儿",
+      "衣服"
+    ]
+  },
+  {
+    "id": "daily_vi_0005",
+    "level": "HSK1",
+    "topic": "Mua đồ",
+    "vi_sentence": "Hôm nay tôi muốn đi trường học mua một ít sách.",
+    "answer_zh": "我今天想去学校买一点儿书。",
+    "pinyin": "wǒ jīntiān xiǎng qù xuéxiào mǎi yìdiǎnr shū.",
+    "grammar_focus": "想 + 去 + 买；一点儿 + danh từ",
+    "focus_words": [
+      "想",
+      "去",
+      "学校",
+      "买",
+      "一点儿",
+      "书"
+    ]
+  },
+  {
+    "id": "daily_vi_0006",
+    "level": "HSK1",
+    "topic": "Mua đồ",
+    "vi_sentence": "Hôm nay tôi muốn đi trường học mua một ít nước.",
+    "answer_zh": "我今天想去学校买一点儿水。",
+    "pinyin": "wǒ jīntiān xiǎng qù xuéxiào mǎi yìdiǎnr shuǐ.",
+    "grammar_focus": "想 + 去 + 买；一点儿 + danh từ",
+    "focus_words": [
+      "想",
+      "去",
+      "学校",
+      "买",
+      "一点儿",
+      "水"
+    ]
+  },
+  {
+    "id": "daily_vi_0007",
+    "level": "HSK1",
+    "topic": "Mua đồ",
+    "vi_sentence": "Hôm nay tôi muốn đi bệnh viện mua một ít trái cây.",
+    "answer_zh": "我今天想去医院买一点儿水果。",
+    "pinyin": "wǒ jīntiān xiǎng qù yīyuàn mǎi yìdiǎnr shuǐguǒ.",
+    "grammar_focus": "想 + 去 + 买；一点儿 + danh từ",
+    "focus_words": [
+      "想",
+      "去",
+      "医院",
+      "买",
+      "一点儿",
+      "水果"
+    ]
+  },
+  {
+    "id": "daily_vi_0008",
+    "level": "HSK1",
+    "topic": "Mua đồ",
+    "vi_sentence": "Hôm nay tôi muốn đi bệnh viện mua một ít trà.",
+    "answer_zh": "我今天想去医院买一点儿茶。",
+    "pinyin": "wǒ jīntiān xiǎng qù yīyuàn mǎi yìdiǎnr chá.",
+    "grammar_focus": "想 + 去 + 买；一点儿 + danh từ",
+    "focus_words": [
+      "想",
+      "去",
+      "医院",
+      "买",
+      "一点儿",
+      "茶"
+    ]
+  },
+  {
+    "id": "daily_vi_0009",
+    "level": "HSK1",
+    "topic": "Mua đồ",
+    "vi_sentence": "Hôm nay tôi muốn đi bệnh viện mua một ít cơm.",
+    "answer_zh": "我今天想去医院买一点儿米饭。",
+    "pinyin": "wǒ jīntiān xiǎng qù yīyuàn mǎi yìdiǎnr mǐfàn.",
+    "grammar_focus": "想 + 去 + 买；一点儿 + danh từ",
+    "focus_words": [
+      "想",
+      "去",
+      "医院",
+      "买",
+      "一点儿",
+      "米饭"
+    ]
+  },
+  {
+    "id": "daily_vi_0010",
+    "level": "HSK1",
+    "topic": "Mua đồ",
+    "vi_sentence": "Hôm nay tôi muốn đi bệnh viện mua một ít quần áo.",
+    "answer_zh": "我今天想去医院买一点儿衣服。",
+    "pinyin": "wǒ jīntiān xiǎng qù yīyuàn mǎi yìdiǎnr yīfu.",
+    "grammar_focus": "想 + 去 + 买；一点儿 + danh từ",
+    "focus_words": [
+      "想",
+      "去",
+      "医院",
+      "买",
+      "一点儿",
+      "衣服"
+    ]
+  },
+  {
+    "id": "daily_vi_0011",
+    "level": "HSK1",
+    "topic": "Mua đồ",
+    "vi_sentence": "Hôm nay tôi muốn đi bệnh viện mua một ít sách.",
+    "answer_zh": "我今天想去医院买一点儿书。",
+    "pinyin": "wǒ jīntiān xiǎng qù yīyuàn mǎi yìdiǎnr shū.",
+    "grammar_focus": "想 + 去 + 买；一点儿 + danh từ",
+    "focus_words": [
+      "想",
+      "去",
+      "医院",
+      "买",
+      "一点儿",
+      "书"
+    ]
+  },
+  {
+    "id": "daily_vi_0012",
+    "level": "HSK1",
+    "topic": "Mua đồ",
+    "vi_sentence": "Hôm nay tôi muốn đi bệnh viện mua một ít nước.",
+    "answer_zh": "我今天想去医院买一点儿水。",
+    "pinyin": "wǒ jīntiān xiǎng qù yīyuàn mǎi yìdiǎnr shuǐ.",
+    "grammar_focus": "想 + 去 + 买；一点儿 + danh từ",
+    "focus_words": [
+      "想",
+      "去",
+      "医院",
+      "买",
+      "一点儿",
+      "水"
+    ]
+  },
+  {
+    "id": "daily_vi_0013",
+    "level": "HSK1",
+    "topic": "Mua đồ",
+    "vi_sentence": "Hôm nay tôi muốn đi cửa hàng mua một ít trái cây.",
+    "answer_zh": "我今天想去商店买一点儿水果。",
+    "pinyin": "wǒ jīntiān xiǎng qù shāngdiàn mǎi yìdiǎnr shuǐguǒ.",
+    "grammar_focus": "想 + 去 + 买；一点儿 + danh từ",
+    "focus_words": [
+      "想",
+      "去",
+      "商店",
+      "买",
+      "一点儿",
+      "水果"
+    ]
+  },
+  {
+    "id": "daily_vi_0014",
+    "level": "HSK1",
+    "topic": "Mua đồ",
+    "vi_sentence": "Hôm nay tôi muốn đi cửa hàng mua một ít trà.",
+    "answer_zh": "我今天想去商店买一点儿茶。",
+    "pinyin": "wǒ jīntiān xiǎng qù shāngdiàn mǎi yìdiǎnr chá.",
+    "grammar_focus": "想 + 去 + 买；一点儿 + danh từ",
+    "focus_words": [
+      "想",
+      "去",
+      "商店",
+      "买",
+      "一点儿",
+      "茶"
+    ]
+  },
+  {
+    "id": "daily_vi_0015",
+    "level": "HSK1",
+    "topic": "Mua đồ",
+    "vi_sentence": "Hôm nay tôi muốn đi cửa hàng mua một ít cơm.",
+    "answer_zh": "我今天想去商店买一点儿米饭。",
+    "pinyin": "wǒ jīntiān xiǎng qù shāngdiàn mǎi yìdiǎnr mǐfàn.",
+    "grammar_focus": "想 + 去 + 买；一点儿 + danh từ",
+    "focus_words": [
+      "想",
+      "去",
+      "商店",
+      "买",
+      "一点儿",
+      "米饭"
+    ]
+  },
+  {
+    "id": "daily_vi_0016",
+    "level": "HSK1",
+    "topic": "Mua đồ",
+    "vi_sentence": "Hôm nay tôi muốn đi cửa hàng mua một ít quần áo.",
+    "answer_zh": "我今天想去商店买一点儿衣服。",
+    "pinyin": "wǒ jīntiān xiǎng qù shāngdiàn mǎi yìdiǎnr yīfu.",
+    "grammar_focus": "想 + 去 + 买；一点儿 + danh từ",
+    "focus_words": [
+      "想",
+      "去",
+      "商店",
+      "买",
+      "一点儿",
+      "衣服"
+    ]
+  },
+  {
+    "id": "daily_vi_0017",
+    "level": "HSK1",
+    "topic": "Mua đồ",
+    "vi_sentence": "Hôm nay tôi muốn đi cửa hàng mua một ít sách.",
+    "answer_zh": "我今天想去商店买一点儿书。",
+    "pinyin": "wǒ jīntiān xiǎng qù shāngdiàn mǎi yìdiǎnr shū.",
+    "grammar_focus": "想 + 去 + 买；一点儿 + danh từ",
+    "focus_words": [
+      "想",
+      "去",
+      "商店",
+      "买",
+      "一点儿",
+      "书"
+    ]
+  },
+  {
+    "id": "daily_vi_0018",
+    "level": "HSK1",
+    "topic": "Mua đồ",
+    "vi_sentence": "Hôm nay tôi muốn đi cửa hàng mua một ít nước.",
+    "answer_zh": "我今天想去商店买一点儿水。",
+    "pinyin": "wǒ jīntiān xiǎng qù shāngdiàn mǎi yìdiǎnr shuǐ.",
+    "grammar_focus": "想 + 去 + 买；一点儿 + danh từ",
+    "focus_words": [
+      "想",
+      "去",
+      "商店",
+      "买",
+      "一点儿",
+      "水"
+    ]
+  },
+  {
+    "id": "daily_vi_0019",
+    "level": "HSK1",
+    "topic": "Mua đồ",
+    "vi_sentence": "Hôm nay tôi muốn đi nhà hàng mua một ít trái cây.",
+    "answer_zh": "我今天想去饭店买一点儿水果。",
+    "pinyin": "wǒ jīntiān xiǎng qù fàndiàn mǎi yìdiǎnr shuǐguǒ.",
+    "grammar_focus": "想 + 去 + 买；一点儿 + danh từ",
+    "focus_words": [
+      "想",
+      "去",
+      "饭店",
+      "买",
+      "一点儿",
+      "水果"
+    ]
+  },
+  {
+    "id": "daily_vi_0020",
+    "level": "HSK1",
+    "topic": "Mua đồ",
+    "vi_sentence": "Hôm nay tôi muốn đi nhà hàng mua một ít trà.",
+    "answer_zh": "我今天想去饭店买一点儿茶。",
+    "pinyin": "wǒ jīntiān xiǎng qù fàndiàn mǎi yìdiǎnr chá.",
+    "grammar_focus": "想 + 去 + 买；一点儿 + danh từ",
+    "focus_words": [
+      "想",
+      "去",
+      "饭店",
+      "买",
+      "一点儿",
+      "茶"
+    ]
+  },
+  {
+    "id": "daily_vi_0021",
+    "level": "HSK1",
+    "topic": "Mua đồ",
+    "vi_sentence": "Hôm nay tôi muốn đi nhà hàng mua một ít cơm.",
+    "answer_zh": "我今天想去饭店买一点儿米饭。",
+    "pinyin": "wǒ jīntiān xiǎng qù fàndiàn mǎi yìdiǎnr mǐfàn.",
+    "grammar_focus": "想 + 去 + 买；一点儿 + danh từ",
+    "focus_words": [
+      "想",
+      "去",
+      "饭店",
+      "买",
+      "一点儿",
+      "米饭"
+    ]
+  },
+  {
+    "id": "daily_vi_0022",
+    "level": "HSK1",
+    "topic": "Mua đồ",
+    "vi_sentence": "Hôm nay tôi muốn đi nhà hàng mua một ít quần áo.",
+    "answer_zh": "我今天想去饭店买一点儿衣服。",
+    "pinyin": "wǒ jīntiān xiǎng qù fàndiàn mǎi yìdiǎnr yīfu.",
+    "grammar_focus": "想 + 去 + 买；一点儿 + danh từ",
+    "focus_words": [
+      "想",
+      "去",
+      "饭店",
+      "买",
+      "一点儿",
+      "衣服"
+    ]
+  },
+  {
+    "id": "daily_vi_0023",
+    "level": "HSK1",
+    "topic": "Mua đồ",
+    "vi_sentence": "Hôm nay tôi muốn đi nhà hàng mua một ít sách.",
+    "answer_zh": "我今天想去饭店买一点儿书。",
+    "pinyin": "wǒ jīntiān xiǎng qù fàndiàn mǎi yìdiǎnr shū.",
+    "grammar_focus": "想 + 去 + 买；一点儿 + danh từ",
+    "focus_words": [
+      "想",
+      "去",
+      "饭店",
+      "买",
+      "一点儿",
+      "书"
+    ]
+  },
+  {
+    "id": "daily_vi_0024",
+    "level": "HSK1",
+    "topic": "Mua đồ",
+    "vi_sentence": "Hôm nay tôi muốn đi nhà hàng mua một ít nước.",
+    "answer_zh": "我今天想去饭店买一点儿水。",
+    "pinyin": "wǒ jīntiān xiǎng qù fàndiàn mǎi yìdiǎnr shuǐ.",
+    "grammar_focus": "想 + 去 + 买；一点儿 + danh từ",
+    "focus_words": [
+      "想",
+      "去",
+      "饭店",
+      "买",
+      "一点儿",
+      "水"
+    ]
+  },
+  {
+    "id": "daily_vi_0025",
+    "level": "HSK1",
+    "topic": "Mua đồ",
+    "vi_sentence": "Hôm nay tôi muốn đi công ty mua một ít trái cây.",
+    "answer_zh": "我今天想去公司买一点儿水果。",
+    "pinyin": "wǒ jīntiān xiǎng qù gōngsī mǎi yìdiǎnr shuǐguǒ.",
+    "grammar_focus": "想 + 去 + 买；一点儿 + danh từ",
+    "focus_words": [
+      "想",
+      "去",
+      "公司",
+      "买",
+      "一点儿",
+      "水果"
+    ]
+  },
+  {
+    "id": "daily_vi_0026",
+    "level": "HSK1",
+    "topic": "Mua đồ",
+    "vi_sentence": "Hôm nay tôi muốn đi công ty mua một ít trà.",
+    "answer_zh": "我今天想去公司买一点儿茶。",
+    "pinyin": "wǒ jīntiān xiǎng qù gōngsī mǎi yìdiǎnr chá.",
+    "grammar_focus": "想 + 去 + 买；一点儿 + danh từ",
+    "focus_words": [
+      "想",
+      "去",
+      "公司",
+      "买",
+      "一点儿",
+      "茶"
+    ]
+  },
+  {
+    "id": "daily_vi_0027",
+    "level": "HSK1",
+    "topic": "Mua đồ",
+    "vi_sentence": "Hôm nay tôi muốn đi công ty mua một ít cơm.",
+    "answer_zh": "我今天想去公司买一点儿米饭。",
+    "pinyin": "wǒ jīntiān xiǎng qù gōngsī mǎi yìdiǎnr mǐfàn.",
+    "grammar_focus": "想 + 去 + 买；一点儿 + danh từ",
+    "focus_words": [
+      "想",
+      "去",
+      "公司",
+      "买",
+      "一点儿",
+      "米饭"
+    ]
+  },
+  {
+    "id": "daily_vi_0028",
+    "level": "HSK1",
+    "topic": "Mua đồ",
+    "vi_sentence": "Hôm nay tôi muốn đi công ty mua một ít quần áo.",
+    "answer_zh": "我今天想去公司买一点儿衣服。",
+    "pinyin": "wǒ jīntiān xiǎng qù gōngsī mǎi yìdiǎnr yīfu.",
+    "grammar_focus": "想 + 去 + 买；一点儿 + danh từ",
+    "focus_words": [
+      "想",
+      "去",
+      "公司",
+      "买",
+      "一点儿",
+      "衣服"
+    ]
+  },
+  {
+    "id": "daily_vi_0029",
+    "level": "HSK1",
+    "topic": "Mua đồ",
+    "vi_sentence": "Hôm nay tôi muốn đi công ty mua một ít sách.",
+    "answer_zh": "我今天想去公司买一点儿书。",
+    "pinyin": "wǒ jīntiān xiǎng qù gōngsī mǎi yìdiǎnr shū.",
+    "grammar_focus": "想 + 去 + 买；一点儿 + danh từ",
+    "focus_words": [
+      "想",
+      "去",
+      "公司",
+      "买",
+      "一点儿",
+      "书"
+    ]
+  },
+  {
+    "id": "daily_vi_0030",
+    "level": "HSK1",
+    "topic": "Mua đồ",
+    "vi_sentence": "Hôm nay tôi muốn đi công ty mua một ít nước.",
+    "answer_zh": "我今天想去公司买一点儿水。",
+    "pinyin": "wǒ jīntiān xiǎng qù gōngsī mǎi yìdiǎnr shuǐ.",
+    "grammar_focus": "想 + 去 + 买；一点儿 + danh từ",
+    "focus_words": [
+      "想",
+      "去",
+      "公司",
+      "买",
+      "一点儿",
+      "水"
+    ]
+  },
+  {
+    "id": "daily_vi_0031",
+    "level": "HSK1",
+    "topic": "Mua đồ",
+    "vi_sentence": "Hôm nay bạn tôi muốn đi trường học mua một ít trái cây.",
+    "answer_zh": "我朋友今天想去学校买一点儿水果。",
+    "pinyin": "wǒ péngyou jīntiān xiǎng qù xuéxiào mǎi yìdiǎnr shuǐguǒ.",
+    "grammar_focus": "想 + 去 + 买；一点儿 + danh từ",
+    "focus_words": [
+      "想",
+      "去",
+      "学校",
+      "买",
+      "一点儿",
+      "水果"
+    ]
+  },
+  {
+    "id": "daily_vi_0032",
+    "level": "HSK1",
+    "topic": "Mua đồ",
+    "vi_sentence": "Hôm nay bạn tôi muốn đi trường học mua một ít trà.",
+    "answer_zh": "我朋友今天想去学校买一点儿茶。",
+    "pinyin": "wǒ péngyou jīntiān xiǎng qù xuéxiào mǎi yìdiǎnr chá.",
+    "grammar_focus": "想 + 去 + 买；一点儿 + danh từ",
+    "focus_words": [
+      "想",
+      "去",
+      "学校",
+      "买",
+      "一点儿",
+      "茶"
+    ]
+  },
+  {
+    "id": "daily_vi_0033",
+    "level": "HSK1",
+    "topic": "Mua đồ",
+    "vi_sentence": "Hôm nay bạn tôi muốn đi trường học mua một ít cơm.",
+    "answer_zh": "我朋友今天想去学校买一点儿米饭。",
+    "pinyin": "wǒ péngyou jīntiān xiǎng qù xuéxiào mǎi yìdiǎnr mǐfàn.",
+    "grammar_focus": "想 + 去 + 买；一点儿 + danh từ",
+    "focus_words": [
+      "想",
+      "去",
+      "学校",
+      "买",
+      "一点儿",
+      "米饭"
+    ]
+  },
+  {
+    "id": "daily_vi_0034",
+    "level": "HSK1",
+    "topic": "Mua đồ",
+    "vi_sentence": "Hôm nay bạn tôi muốn đi trường học mua một ít quần áo.",
+    "answer_zh": "我朋友今天想去学校买一点儿衣服。",
+    "pinyin": "wǒ péngyou jīntiān xiǎng qù xuéxiào mǎi yìdiǎnr yīfu.",
+    "grammar_focus": "想 + 去 + 买；一点儿 + danh từ",
+    "focus_words": [
+      "想",
+      "去",
+      "学校",
+      "买",
+      "一点儿",
+      "衣服"
+    ]
+  },
+  {
+    "id": "daily_vi_0035",
+    "level": "HSK1",
+    "topic": "Mua đồ",
+    "vi_sentence": "Hôm nay bạn tôi muốn đi trường học mua một ít sách.",
+    "answer_zh": "我朋友今天想去学校买一点儿书。",
+    "pinyin": "wǒ péngyou jīntiān xiǎng qù xuéxiào mǎi yìdiǎnr shū.",
+    "grammar_focus": "想 + 去 + 买；一点儿 + danh từ",
+    "focus_words": [
+      "想",
+      "去",
+      "学校",
+      "买",
+      "一点儿",
+      "书"
+    ]
+  },
+  {
+    "id": "daily_vi_0036",
+    "level": "HSK1",
+    "topic": "Mua đồ",
+    "vi_sentence": "Hôm nay bạn tôi muốn đi trường học mua một ít nước.",
+    "answer_zh": "我朋友今天想去学校买一点儿水。",
+    "pinyin": "wǒ péngyou jīntiān xiǎng qù xuéxiào mǎi yìdiǎnr shuǐ.",
+    "grammar_focus": "想 + 去 + 买；一点儿 + danh từ",
+    "focus_words": [
+      "想",
+      "去",
+      "学校",
+      "买",
+      "一点儿",
+      "水"
+    ]
+  },
+  {
+    "id": "daily_vi_0037",
+    "level": "HSK1",
+    "topic": "Mua đồ",
+    "vi_sentence": "Hôm nay bạn tôi muốn đi bệnh viện mua một ít trái cây.",
+    "answer_zh": "我朋友今天想去医院买一点儿水果。",
+    "pinyin": "wǒ péngyou jīntiān xiǎng qù yīyuàn mǎi yìdiǎnr shuǐguǒ.",
+    "grammar_focus": "想 + 去 + 买；一点儿 + danh từ",
+    "focus_words": [
+      "想",
+      "去",
+      "医院",
+      "买",
+      "一点儿",
+      "水果"
+    ]
+  },
+  {
+    "id": "daily_vi_0038",
+    "level": "HSK1",
+    "topic": "Mua đồ",
+    "vi_sentence": "Hôm nay bạn tôi muốn đi bệnh viện mua một ít trà.",
+    "answer_zh": "我朋友今天想去医院买一点儿茶。",
+    "pinyin": "wǒ péngyou jīntiān xiǎng qù yīyuàn mǎi yìdiǎnr chá.",
+    "grammar_focus": "想 + 去 + 买；一点儿 + danh từ",
+    "focus_words": [
+      "想",
+      "去",
+      "医院",
+      "买",
+      "一点儿",
+      "茶"
+    ]
+  },
+  {
+    "id": "daily_vi_0039",
+    "level": "HSK1",
+    "topic": "Mua đồ",
+    "vi_sentence": "Hôm nay bạn tôi muốn đi bệnh viện mua một ít cơm.",
+    "answer_zh": "我朋友今天想去医院买一点儿米饭。",
+    "pinyin": "wǒ péngyou jīntiān xiǎng qù yīyuàn mǎi yìdiǎnr mǐfàn.",
+    "grammar_focus": "想 + 去 + 买；一点儿 + danh từ",
+    "focus_words": [
+      "想",
+      "去",
+      "医院",
+      "买",
+      "一点儿",
+      "米饭"
+    ]
+  },
+  {
+    "id": "daily_vi_0040",
+    "level": "HSK1",
+    "topic": "Mua đồ",
+    "vi_sentence": "Hôm nay bạn tôi muốn đi bệnh viện mua một ít quần áo.",
+    "answer_zh": "我朋友今天想去医院买一点儿衣服。",
+    "pinyin": "wǒ péngyou jīntiān xiǎng qù yīyuàn mǎi yìdiǎnr yīfu.",
+    "grammar_focus": "想 + 去 + 买；一点儿 + danh từ",
+    "focus_words": [
+      "想",
+      "去",
+      "医院",
+      "买",
+      "一点儿",
+      "衣服"
+    ]
+  },
+  {
+    "id": "daily_vi_0041",
+    "level": "HSK1",
+    "topic": "Mua đồ",
+    "vi_sentence": "Hôm nay bạn tôi muốn đi bệnh viện mua một ít sách.",
+    "answer_zh": "我朋友今天想去医院买一点儿书。",
+    "pinyin": "wǒ péngyou jīntiān xiǎng qù yīyuàn mǎi yìdiǎnr shū.",
+    "grammar_focus": "想 + 去 + 买；一点儿 + danh từ",
+    "focus_words": [
+      "想",
+      "去",
+      "医院",
+      "买",
+      "一点儿",
+      "书"
+    ]
+  },
+  {
+    "id": "daily_vi_0042",
+    "level": "HSK1",
+    "topic": "Mua đồ",
+    "vi_sentence": "Hôm nay bạn tôi muốn đi bệnh viện mua một ít nước.",
+    "answer_zh": "我朋友今天想去医院买一点儿水。",
+    "pinyin": "wǒ péngyou jīntiān xiǎng qù yīyuàn mǎi yìdiǎnr shuǐ.",
+    "grammar_focus": "想 + 去 + 买；一点儿 + danh từ",
+    "focus_words": [
+      "想",
+      "去",
+      "医院",
+      "买",
+      "一点儿",
+      "水"
+    ]
+  },
+  {
+    "id": "daily_vi_0043",
+    "level": "HSK1",
+    "topic": "Mua đồ",
+    "vi_sentence": "Hôm nay bạn tôi muốn đi cửa hàng mua một ít trái cây.",
+    "answer_zh": "我朋友今天想去商店买一点儿水果。",
+    "pinyin": "wǒ péngyou jīntiān xiǎng qù shāngdiàn mǎi yìdiǎnr shuǐguǒ.",
+    "grammar_focus": "想 + 去 + 买；一点儿 + danh từ",
+    "focus_words": [
+      "想",
+      "去",
+      "商店",
+      "买",
+      "一点儿",
+      "水果"
+    ]
+  },
+  {
+    "id": "daily_vi_0044",
+    "level": "HSK1",
+    "topic": "Mua đồ",
+    "vi_sentence": "Hôm nay bạn tôi muốn đi cửa hàng mua một ít trà.",
+    "answer_zh": "我朋友今天想去商店买一点儿茶。",
+    "pinyin": "wǒ péngyou jīntiān xiǎng qù shāngdiàn mǎi yìdiǎnr chá.",
+    "grammar_focus": "想 + 去 + 买；一点儿 + danh từ",
+    "focus_words": [
+      "想",
+      "去",
+      "商店",
+      "买",
+      "一点儿",
+      "茶"
+    ]
+  },
+  {
+    "id": "daily_vi_0045",
+    "level": "HSK1",
+    "topic": "Mua đồ",
+    "vi_sentence": "Hôm nay bạn tôi muốn đi cửa hàng mua một ít cơm.",
+    "answer_zh": "我朋友今天想去商店买一点儿米饭。",
+    "pinyin": "wǒ péngyou jīntiān xiǎng qù shāngdiàn mǎi yìdiǎnr mǐfàn.",
+    "grammar_focus": "想 + 去 + 买；一点儿 + danh từ",
+    "focus_words": [
+      "想",
+      "去",
+      "商店",
+      "买",
+      "一点儿",
+      "米饭"
+    ]
+  },
+  {
+    "id": "daily_vi_0046",
+    "level": "HSK1",
+    "topic": "Mua đồ",
+    "vi_sentence": "Hôm nay bạn tôi muốn đi cửa hàng mua một ít quần áo.",
+    "answer_zh": "我朋友今天想去商店买一点儿衣服。",
+    "pinyin": "wǒ péngyou jīntiān xiǎng qù shāngdiàn mǎi yìdiǎnr yīfu.",
+    "grammar_focus": "想 + 去 + 买；一点儿 + danh từ",
+    "focus_words": [
+      "想",
+      "去",
+      "商店",
+      "买",
+      "一点儿",
+      "衣服"
+    ]
+  },
+  {
+    "id": "daily_vi_0047",
+    "level": "HSK1",
+    "topic": "Mua đồ",
+    "vi_sentence": "Hôm nay bạn tôi muốn đi cửa hàng mua một ít sách.",
+    "answer_zh": "我朋友今天想去商店买一点儿书。",
+    "pinyin": "wǒ péngyou jīntiān xiǎng qù shāngdiàn mǎi yìdiǎnr shū.",
+    "grammar_focus": "想 + 去 + 买；一点儿 + danh từ",
+    "focus_words": [
+      "想",
+      "去",
+      "商店",
+      "买",
+      "一点儿",
+      "书"
+    ]
+  },
+  {
+    "id": "daily_vi_0048",
+    "level": "HSK1",
+    "topic": "Mua đồ",
+    "vi_sentence": "Hôm nay bạn tôi muốn đi cửa hàng mua một ít nước.",
+    "answer_zh": "我朋友今天想去商店买一点儿水。",
+    "pinyin": "wǒ péngyou jīntiān xiǎng qù shāngdiàn mǎi yìdiǎnr shuǐ.",
+    "grammar_focus": "想 + 去 + 买；一点儿 + danh từ",
+    "focus_words": [
+      "想",
+      "去",
+      "商店",
+      "买",
+      "一点儿",
+      "水"
+    ]
+  },
+  {
+    "id": "daily_vi_0049",
+    "level": "HSK1",
+    "topic": "Mua đồ",
+    "vi_sentence": "Hôm nay bạn tôi muốn đi nhà hàng mua một ít trái cây.",
+    "answer_zh": "我朋友今天想去饭店买一点儿水果。",
+    "pinyin": "wǒ péngyou jīntiān xiǎng qù fàndiàn mǎi yìdiǎnr shuǐguǒ.",
+    "grammar_focus": "想 + 去 + 买；一点儿 + danh từ",
+    "focus_words": [
+      "想",
+      "去",
+      "饭店",
+      "买",
+      "一点儿",
+      "水果"
+    ]
+  },
+  {
+    "id": "daily_vi_0050",
+    "level": "HSK1",
+    "topic": "Mua đồ",
+    "vi_sentence": "Hôm nay bạn tôi muốn đi nhà hàng mua một ít trà.",
+    "answer_zh": "我朋友今天想去饭店买一点儿茶。",
+    "pinyin": "wǒ péngyou jīntiān xiǎng qù fàndiàn mǎi yìdiǎnr chá.",
+    "grammar_focus": "想 + 去 + 买；一点儿 + danh từ",
+    "focus_words": [
+      "想",
+      "去",
+      "饭店",
+      "买",
+      "一点儿",
+      "茶"
+    ]
+  },
+  {
+    "id": "daily_vi_0051",
+    "level": "HSK1",
+    "topic": "Mua đồ",
+    "vi_sentence": "Hôm nay bạn tôi muốn đi nhà hàng mua một ít cơm.",
+    "answer_zh": "我朋友今天想去饭店买一点儿米饭。",
+    "pinyin": "wǒ péngyou jīntiān xiǎng qù fàndiàn mǎi yìdiǎnr mǐfàn.",
+    "grammar_focus": "想 + 去 + 买；一点儿 + danh từ",
+    "focus_words": [
+      "想",
+      "去",
+      "饭店",
+      "买",
+      "一点儿",
+      "米饭"
+    ]
+  },
+  {
+    "id": "daily_vi_0052",
+    "level": "HSK1",
+    "topic": "Mua đồ",
+    "vi_sentence": "Hôm nay bạn tôi muốn đi nhà hàng mua một ít quần áo.",
+    "answer_zh": "我朋友今天想去饭店买一点儿衣服。",
+    "pinyin": "wǒ péngyou jīntiān xiǎng qù fàndiàn mǎi yìdiǎnr yīfu.",
+    "grammar_focus": "想 + 去 + 买；一点儿 + danh từ",
+    "focus_words": [
+      "想",
+      "去",
+      "饭店",
+      "买",
+      "一点儿",
+      "衣服"
+    ]
+  },
+  {
+    "id": "daily_vi_0053",
+    "level": "HSK1",
+    "topic": "Mua đồ",
+    "vi_sentence": "Hôm nay bạn tôi muốn đi nhà hàng mua một ít sách.",
+    "answer_zh": "我朋友今天想去饭店买一点儿书。",
+    "pinyin": "wǒ péngyou jīntiān xiǎng qù fàndiàn mǎi yìdiǎnr shū.",
+    "grammar_focus": "想 + 去 + 买；一点儿 + danh từ",
+    "focus_words": [
+      "想",
+      "去",
+      "饭店",
+      "买",
+      "一点儿",
+      "书"
+    ]
+  },
+  {
+    "id": "daily_vi_0054",
+    "level": "HSK1",
+    "topic": "Mua đồ",
+    "vi_sentence": "Hôm nay bạn tôi muốn đi nhà hàng mua một ít nước.",
+    "answer_zh": "我朋友今天想去饭店买一点儿水。",
+    "pinyin": "wǒ péngyou jīntiān xiǎng qù fàndiàn mǎi yìdiǎnr shuǐ.",
+    "grammar_focus": "想 + 去 + 买；一点儿 + danh từ",
+    "focus_words": [
+      "想",
+      "去",
+      "饭店",
+      "买",
+      "一点儿",
+      "水"
+    ]
+  },
+  {
+    "id": "daily_vi_0055",
+    "level": "HSK1",
+    "topic": "Mua đồ",
+    "vi_sentence": "Hôm nay bạn tôi muốn đi công ty mua một ít trái cây.",
+    "answer_zh": "我朋友今天想去公司买一点儿水果。",
+    "pinyin": "wǒ péngyou jīntiān xiǎng qù gōngsī mǎi yìdiǎnr shuǐguǒ.",
+    "grammar_focus": "想 + 去 + 买；一点儿 + danh từ",
+    "focus_words": [
+      "想",
+      "去",
+      "公司",
+      "买",
+      "一点儿",
+      "水果"
+    ]
+  },
+  {
+    "id": "daily_vi_0056",
+    "level": "HSK1",
+    "topic": "Mua đồ",
+    "vi_sentence": "Hôm nay bạn tôi muốn đi công ty mua một ít trà.",
+    "answer_zh": "我朋友今天想去公司买一点儿茶。",
+    "pinyin": "wǒ péngyou jīntiān xiǎng qù gōngsī mǎi yìdiǎnr chá.",
+    "grammar_focus": "想 + 去 + 买；一点儿 + danh từ",
+    "focus_words": [
+      "想",
+      "去",
+      "公司",
+      "买",
+      "一点儿",
+      "茶"
+    ]
+  },
+  {
+    "id": "daily_vi_0057",
+    "level": "HSK1",
+    "topic": "Mua đồ",
+    "vi_sentence": "Hôm nay bạn tôi muốn đi công ty mua một ít cơm.",
+    "answer_zh": "我朋友今天想去公司买一点儿米饭。",
+    "pinyin": "wǒ péngyou jīntiān xiǎng qù gōngsī mǎi yìdiǎnr mǐfàn.",
+    "grammar_focus": "想 + 去 + 买；一点儿 + danh từ",
+    "focus_words": [
+      "想",
+      "去",
+      "公司",
+      "买",
+      "一点儿",
+      "米饭"
+    ]
+  },
+  {
+    "id": "daily_vi_0058",
+    "level": "HSK1",
+    "topic": "Mua đồ",
+    "vi_sentence": "Hôm nay bạn tôi muốn đi công ty mua một ít quần áo.",
+    "answer_zh": "我朋友今天想去公司买一点儿衣服。",
+    "pinyin": "wǒ péngyou jīntiān xiǎng qù gōngsī mǎi yìdiǎnr yīfu.",
+    "grammar_focus": "想 + 去 + 买；一点儿 + danh từ",
+    "focus_words": [
+      "想",
+      "去",
+      "公司",
+      "买",
+      "一点儿",
+      "衣服"
+    ]
+  },
+  {
+    "id": "daily_vi_0059",
+    "level": "HSK1",
+    "topic": "Mua đồ",
+    "vi_sentence": "Hôm nay bạn tôi muốn đi công ty mua một ít sách.",
+    "answer_zh": "我朋友今天想去公司买一点儿书。",
+    "pinyin": "wǒ péngyou jīntiān xiǎng qù gōngsī mǎi yìdiǎnr shū.",
+    "grammar_focus": "想 + 去 + 买；一点儿 + danh từ",
+    "focus_words": [
+      "想",
+      "去",
+      "公司",
+      "买",
+      "一点儿",
+      "书"
+    ]
+  },
+  {
+    "id": "daily_vi_0060",
+    "level": "HSK1",
+    "topic": "Mua đồ",
+    "vi_sentence": "Hôm nay bạn tôi muốn đi công ty mua một ít nước.",
+    "answer_zh": "我朋友今天想去公司买一点儿水。",
+    "pinyin": "wǒ péngyou jīntiān xiǎng qù gōngsī mǎi yìdiǎnr shuǐ.",
+    "grammar_focus": "想 + 去 + 买；一点儿 + danh từ",
+    "focus_words": [
+      "想",
+      "去",
+      "公司",
+      "买",
+      "一点儿",
+      "水"
+    ]
+  },
+  {
+    "id": "daily_vi_0061",
+    "level": "HSK1",
+    "topic": "Mua đồ",
+    "vi_sentence": "Hôm nay mẹ tôi muốn đi trường học mua một ít trái cây.",
+    "answer_zh": "我妈妈今天想去学校买一点儿水果。",
+    "pinyin": "wǒ māma jīntiān xiǎng qù xuéxiào mǎi yìdiǎnr shuǐguǒ.",
+    "grammar_focus": "想 + 去 + 买；一点儿 + danh từ",
+    "focus_words": [
+      "想",
+      "去",
+      "学校",
+      "买",
+      "一点儿",
+      "水果"
+    ]
+  },
+  {
+    "id": "daily_vi_0062",
+    "level": "HSK1",
+    "topic": "Mua đồ",
+    "vi_sentence": "Hôm nay mẹ tôi muốn đi trường học mua một ít trà.",
+    "answer_zh": "我妈妈今天想去学校买一点儿茶。",
+    "pinyin": "wǒ māma jīntiān xiǎng qù xuéxiào mǎi yìdiǎnr chá.",
+    "grammar_focus": "想 + 去 + 买；一点儿 + danh từ",
+    "focus_words": [
+      "想",
+      "去",
+      "学校",
+      "买",
+      "一点儿",
+      "茶"
+    ]
+  },
+  {
+    "id": "daily_vi_0063",
+    "level": "HSK1",
+    "topic": "Mua đồ",
+    "vi_sentence": "Hôm nay mẹ tôi muốn đi trường học mua một ít cơm.",
+    "answer_zh": "我妈妈今天想去学校买一点儿米饭。",
+    "pinyin": "wǒ māma jīntiān xiǎng qù xuéxiào mǎi yìdiǎnr mǐfàn.",
+    "grammar_focus": "想 + 去 + 买；一点儿 + danh từ",
+    "focus_words": [
+      "想",
+      "去",
+      "学校",
+      "买",
+      "一点儿",
+      "米饭"
+    ]
+  },
+  {
+    "id": "daily_vi_0064",
+    "level": "HSK1",
+    "topic": "Mua đồ",
+    "vi_sentence": "Hôm nay mẹ tôi muốn đi trường học mua một ít quần áo.",
+    "answer_zh": "我妈妈今天想去学校买一点儿衣服。",
+    "pinyin": "wǒ māma jīntiān xiǎng qù xuéxiào mǎi yìdiǎnr yīfu.",
+    "grammar_focus": "想 + 去 + 买；一点儿 + danh từ",
+    "focus_words": [
+      "想",
+      "去",
+      "学校",
+      "买",
+      "一点儿",
+      "衣服"
+    ]
+  },
+  {
+    "id": "daily_vi_0065",
+    "level": "HSK1",
+    "topic": "Mua đồ",
+    "vi_sentence": "Hôm nay mẹ tôi muốn đi trường học mua một ít sách.",
+    "answer_zh": "我妈妈今天想去学校买一点儿书。",
+    "pinyin": "wǒ māma jīntiān xiǎng qù xuéxiào mǎi yìdiǎnr shū.",
+    "grammar_focus": "想 + 去 + 买；一点儿 + danh từ",
+    "focus_words": [
+      "想",
+      "去",
+      "学校",
+      "买",
+      "一点儿",
+      "书"
+    ]
+  },
+  {
+    "id": "daily_vi_0066",
+    "level": "HSK1",
+    "topic": "Mua đồ",
+    "vi_sentence": "Hôm nay mẹ tôi muốn đi trường học mua một ít nước.",
+    "answer_zh": "我妈妈今天想去学校买一点儿水。",
+    "pinyin": "wǒ māma jīntiān xiǎng qù xuéxiào mǎi yìdiǎnr shuǐ.",
+    "grammar_focus": "想 + 去 + 买；一点儿 + danh từ",
+    "focus_words": [
+      "想",
+      "去",
+      "学校",
+      "买",
+      "一点儿",
+      "水"
+    ]
+  },
+  {
+    "id": "daily_vi_0067",
+    "level": "HSK1",
+    "topic": "Mua đồ",
+    "vi_sentence": "Hôm nay mẹ tôi muốn đi bệnh viện mua một ít trái cây.",
+    "answer_zh": "我妈妈今天想去医院买一点儿水果。",
+    "pinyin": "wǒ māma jīntiān xiǎng qù yīyuàn mǎi yìdiǎnr shuǐguǒ.",
+    "grammar_focus": "想 + 去 + 买；一点儿 + danh từ",
+    "focus_words": [
+      "想",
+      "去",
+      "医院",
+      "买",
+      "一点儿",
+      "水果"
+    ]
+  },
+  {
+    "id": "daily_vi_0068",
+    "level": "HSK1",
+    "topic": "Mua đồ",
+    "vi_sentence": "Hôm nay mẹ tôi muốn đi bệnh viện mua một ít trà.",
+    "answer_zh": "我妈妈今天想去医院买一点儿茶。",
+    "pinyin": "wǒ māma jīntiān xiǎng qù yīyuàn mǎi yìdiǎnr chá.",
+    "grammar_focus": "想 + 去 + 买；一点儿 + danh từ",
+    "focus_words": [
+      "想",
+      "去",
+      "医院",
+      "买",
+      "一点儿",
+      "茶"
+    ]
+  },
+  {
+    "id": "daily_vi_0069",
+    "level": "HSK1",
+    "topic": "Mua đồ",
+    "vi_sentence": "Hôm nay mẹ tôi muốn đi bệnh viện mua một ít cơm.",
+    "answer_zh": "我妈妈今天想去医院买一点儿米饭。",
+    "pinyin": "wǒ māma jīntiān xiǎng qù yīyuàn mǎi yìdiǎnr mǐfàn.",
+    "grammar_focus": "想 + 去 + 买；一点儿 + danh từ",
+    "focus_words": [
+      "想",
+      "去",
+      "医院",
+      "买",
+      "一点儿",
+      "米饭"
+    ]
+  },
+  {
+    "id": "daily_vi_0070",
+    "level": "HSK1",
+    "topic": "Mua đồ",
+    "vi_sentence": "Hôm nay mẹ tôi muốn đi bệnh viện mua một ít quần áo.",
+    "answer_zh": "我妈妈今天想去医院买一点儿衣服。",
+    "pinyin": "wǒ māma jīntiān xiǎng qù yīyuàn mǎi yìdiǎnr yīfu.",
+    "grammar_focus": "想 + 去 + 买；一点儿 + danh từ",
+    "focus_words": [
+      "想",
+      "去",
+      "医院",
+      "买",
+      "一点儿",
+      "衣服"
+    ]
+  },
+  {
+    "id": "daily_vi_0071",
+    "level": "HSK1",
+    "topic": "Mua đồ",
+    "vi_sentence": "Hôm nay mẹ tôi muốn đi bệnh viện mua một ít sách.",
+    "answer_zh": "我妈妈今天想去医院买一点儿书。",
+    "pinyin": "wǒ māma jīntiān xiǎng qù yīyuàn mǎi yìdiǎnr shū.",
+    "grammar_focus": "想 + 去 + 买；一点儿 + danh từ",
+    "focus_words": [
+      "想",
+      "去",
+      "医院",
+      "买",
+      "一点儿",
+      "书"
+    ]
+  },
+  {
+    "id": "daily_vi_0072",
+    "level": "HSK1",
+    "topic": "Mua đồ",
+    "vi_sentence": "Hôm nay mẹ tôi muốn đi bệnh viện mua một ít nước.",
+    "answer_zh": "我妈妈今天想去医院买一点儿水。",
+    "pinyin": "wǒ māma jīntiān xiǎng qù yīyuàn mǎi yìdiǎnr shuǐ.",
+    "grammar_focus": "想 + 去 + 买；一点儿 + danh từ",
+    "focus_words": [
+      "想",
+      "去",
+      "医院",
+      "买",
+      "一点儿",
+      "水"
+    ]
+  },
+  {
+    "id": "daily_vi_0073",
+    "level": "HSK1",
+    "topic": "Mua đồ",
+    "vi_sentence": "Hôm nay mẹ tôi muốn đi cửa hàng mua một ít trái cây.",
+    "answer_zh": "我妈妈今天想去商店买一点儿水果。",
+    "pinyin": "wǒ māma jīntiān xiǎng qù shāngdiàn mǎi yìdiǎnr shuǐguǒ.",
+    "grammar_focus": "想 + 去 + 买；一点儿 + danh từ",
+    "focus_words": [
+      "想",
+      "去",
+      "商店",
+      "买",
+      "一点儿",
+      "水果"
+    ]
+  },
+  {
+    "id": "daily_vi_0074",
+    "level": "HSK1",
+    "topic": "Mua đồ",
+    "vi_sentence": "Hôm nay mẹ tôi muốn đi cửa hàng mua một ít trà.",
+    "answer_zh": "我妈妈今天想去商店买一点儿茶。",
+    "pinyin": "wǒ māma jīntiān xiǎng qù shāngdiàn mǎi yìdiǎnr chá.",
+    "grammar_focus": "想 + 去 + 买；一点儿 + danh từ",
+    "focus_words": [
+      "想",
+      "去",
+      "商店",
+      "买",
+      "一点儿",
+      "茶"
+    ]
+  },
+  {
+    "id": "daily_vi_0075",
+    "level": "HSK1",
+    "topic": "Mua đồ",
+    "vi_sentence": "Hôm nay mẹ tôi muốn đi cửa hàng mua một ít cơm.",
+    "answer_zh": "我妈妈今天想去商店买一点儿米饭。",
+    "pinyin": "wǒ māma jīntiān xiǎng qù shāngdiàn mǎi yìdiǎnr mǐfàn.",
+    "grammar_focus": "想 + 去 + 买；一点儿 + danh từ",
+    "focus_words": [
+      "想",
+      "去",
+      "商店",
+      "买",
+      "一点儿",
+      "米饭"
+    ]
+  },
+  {
+    "id": "daily_vi_0076",
+    "level": "HSK1",
+    "topic": "Mua đồ",
+    "vi_sentence": "Hôm nay mẹ tôi muốn đi cửa hàng mua một ít quần áo.",
+    "answer_zh": "我妈妈今天想去商店买一点儿衣服。",
+    "pinyin": "wǒ māma jīntiān xiǎng qù shāngdiàn mǎi yìdiǎnr yīfu.",
+    "grammar_focus": "想 + 去 + 买；一点儿 + danh từ",
+    "focus_words": [
+      "想",
+      "去",
+      "商店",
+      "买",
+      "一点儿",
+      "衣服"
+    ]
+  },
+  {
+    "id": "daily_vi_0077",
+    "level": "HSK1",
+    "topic": "Mua đồ",
+    "vi_sentence": "Hôm nay mẹ tôi muốn đi cửa hàng mua một ít sách.",
+    "answer_zh": "我妈妈今天想去商店买一点儿书。",
+    "pinyin": "wǒ māma jīntiān xiǎng qù shāngdiàn mǎi yìdiǎnr shū.",
+    "grammar_focus": "想 + 去 + 买；一点儿 + danh từ",
+    "focus_words": [
+      "想",
+      "去",
+      "商店",
+      "买",
+      "一点儿",
+      "书"
+    ]
+  },
+  {
+    "id": "daily_vi_0078",
+    "level": "HSK1",
+    "topic": "Mua đồ",
+    "vi_sentence": "Hôm nay mẹ tôi muốn đi cửa hàng mua một ít nước.",
+    "answer_zh": "我妈妈今天想去商店买一点儿水。",
+    "pinyin": "wǒ māma jīntiān xiǎng qù shāngdiàn mǎi yìdiǎnr shuǐ.",
+    "grammar_focus": "想 + 去 + 买；一点儿 + danh từ",
+    "focus_words": [
+      "想",
+      "去",
+      "商店",
+      "买",
+      "一点儿",
+      "水"
+    ]
+  },
+  {
+    "id": "daily_vi_0079",
+    "level": "HSK1",
+    "topic": "Mua đồ",
+    "vi_sentence": "Hôm nay mẹ tôi muốn đi nhà hàng mua một ít trái cây.",
+    "answer_zh": "我妈妈今天想去饭店买一点儿水果。",
+    "pinyin": "wǒ māma jīntiān xiǎng qù fàndiàn mǎi yìdiǎnr shuǐguǒ.",
+    "grammar_focus": "想 + 去 + 买；一点儿 + danh từ",
+    "focus_words": [
+      "想",
+      "去",
+      "饭店",
+      "买",
+      "一点儿",
+      "水果"
+    ]
+  },
+  {
+    "id": "daily_vi_0080",
+    "level": "HSK1",
+    "topic": "Mua đồ",
+    "vi_sentence": "Hôm nay mẹ tôi muốn đi nhà hàng mua một ít trà.",
+    "answer_zh": "我妈妈今天想去饭店买一点儿茶。",
+    "pinyin": "wǒ māma jīntiān xiǎng qù fàndiàn mǎi yìdiǎnr chá.",
+    "grammar_focus": "想 + 去 + 买；一点儿 + danh từ",
+    "focus_words": [
+      "想",
+      "去",
+      "饭店",
+      "买",
+      "一点儿",
+      "茶"
+    ]
+  },
+  {
+    "id": "daily_vi_0081",
+    "level": "HSK1",
+    "topic": "Hoạt động hằng ngày",
+    "vi_sentence": "Hôm nay tôi đang ở trường học học tiếng Trung.",
+    "answer_zh": "我今天在学校学习汉语。",
+    "pinyin": "wǒ jīntiān zài xuéxiào xuéxí Hànyǔ.",
+    "grammar_focus": "在 + địa điểm + động từ",
+    "focus_words": [
+      "今天",
+      "在",
+      "学校",
+      "学习汉语"
+    ]
+  },
+  {
+    "id": "daily_vi_0082",
+    "level": "HSK1",
+    "topic": "Hoạt động hằng ngày",
+    "vi_sentence": "Hôm nay tôi đang ở trường học đọc sách.",
+    "answer_zh": "我今天在学校看书。",
+    "pinyin": "wǒ jīntiān zài xuéxiào kàn shū.",
+    "grammar_focus": "在 + địa điểm + động từ",
+    "focus_words": [
+      "今天",
+      "在",
+      "学校",
+      "看书"
+    ]
+  },
+  {
+    "id": "daily_vi_0083",
+    "level": "HSK1",
+    "topic": "Hoạt động hằng ngày",
+    "vi_sentence": "Hôm nay tôi đang ở trường học xem phim.",
+    "answer_zh": "我今天在学校看电影。",
+    "pinyin": "wǒ jīntiān zài xuéxiào kàn diànyǐng.",
+    "grammar_focus": "在 + địa điểm + động từ",
+    "focus_words": [
+      "今天",
+      "在",
+      "学校",
+      "看电影"
+    ]
+  },
+  {
+    "id": "daily_vi_0084",
+    "level": "HSK1",
+    "topic": "Hoạt động hằng ngày",
+    "vi_sentence": "Hôm nay tôi đang ở trường học nghe thầy giáo nói.",
+    "answer_zh": "我今天在学校听老师说话。",
+    "pinyin": "wǒ jīntiān zài xuéxiào tīng lǎoshī shuōhuà.",
+    "grammar_focus": "在 + địa điểm + động từ",
+    "focus_words": [
+      "今天",
+      "在",
+      "学校",
+      "听老师说话"
+    ]
+  },
+  {
+    "id": "daily_vi_0085",
+    "level": "HSK1",
+    "topic": "Hoạt động hằng ngày",
+    "vi_sentence": "Hôm nay tôi đang ở trường học gọi điện thoại.",
+    "answer_zh": "我今天在学校打电话。",
+    "pinyin": "wǒ jīntiān zài xuéxiào dǎ diànhuà.",
+    "grammar_focus": "在 + địa điểm + động từ",
+    "focus_words": [
+      "今天",
+      "在",
+      "学校",
+      "打电话"
+    ]
+  },
+  {
+    "id": "daily_vi_0086",
+    "level": "HSK1",
+    "topic": "Hoạt động hằng ngày",
+    "vi_sentence": "Hôm nay tôi đang ở trường học nghỉ ngơi.",
+    "answer_zh": "我今天在学校休息。",
+    "pinyin": "wǒ jīntiān zài xuéxiào xiūxi.",
+    "grammar_focus": "在 + địa điểm + động từ",
+    "focus_words": [
+      "今天",
+      "在",
+      "学校",
+      "休息"
+    ]
+  },
+  {
+    "id": "daily_vi_0087",
+    "level": "HSK1",
+    "topic": "Hoạt động hằng ngày",
+    "vi_sentence": "Hôm nay tôi đang ở bệnh viện học tiếng Trung.",
+    "answer_zh": "我今天在医院学习汉语。",
+    "pinyin": "wǒ jīntiān zài yīyuàn xuéxí Hànyǔ.",
+    "grammar_focus": "在 + địa điểm + động từ",
+    "focus_words": [
+      "今天",
+      "在",
+      "医院",
+      "学习汉语"
+    ]
+  },
+  {
+    "id": "daily_vi_0088",
+    "level": "HSK1",
+    "topic": "Hoạt động hằng ngày",
+    "vi_sentence": "Hôm nay tôi đang ở bệnh viện đọc sách.",
+    "answer_zh": "我今天在医院看书。",
+    "pinyin": "wǒ jīntiān zài yīyuàn kàn shū.",
+    "grammar_focus": "在 + địa điểm + động từ",
+    "focus_words": [
+      "今天",
+      "在",
+      "医院",
+      "看书"
+    ]
+  },
+  {
+    "id": "daily_vi_0089",
+    "level": "HSK1",
+    "topic": "Hoạt động hằng ngày",
+    "vi_sentence": "Hôm nay tôi đang ở bệnh viện xem phim.",
+    "answer_zh": "我今天在医院看电影。",
+    "pinyin": "wǒ jīntiān zài yīyuàn kàn diànyǐng.",
+    "grammar_focus": "在 + địa điểm + động từ",
+    "focus_words": [
+      "今天",
+      "在",
+      "医院",
+      "看电影"
+    ]
+  },
+  {
+    "id": "daily_vi_0090",
+    "level": "HSK1",
+    "topic": "Hoạt động hằng ngày",
+    "vi_sentence": "Hôm nay tôi đang ở bệnh viện nghe thầy giáo nói.",
+    "answer_zh": "我今天在医院听老师说话。",
+    "pinyin": "wǒ jīntiān zài yīyuàn tīng lǎoshī shuōhuà.",
+    "grammar_focus": "在 + địa điểm + động từ",
+    "focus_words": [
+      "今天",
+      "在",
+      "医院",
+      "听老师说话"
+    ]
+  },
+  {
+    "id": "daily_vi_0091",
+    "level": "HSK1",
+    "topic": "Hoạt động hằng ngày",
+    "vi_sentence": "Hôm nay tôi đang ở bệnh viện gọi điện thoại.",
+    "answer_zh": "我今天在医院打电话。",
+    "pinyin": "wǒ jīntiān zài yīyuàn dǎ diànhuà.",
+    "grammar_focus": "在 + địa điểm + động từ",
+    "focus_words": [
+      "今天",
+      "在",
+      "医院",
+      "打电话"
+    ]
+  },
+  {
+    "id": "daily_vi_0092",
+    "level": "HSK1",
+    "topic": "Hoạt động hằng ngày",
+    "vi_sentence": "Hôm nay tôi đang ở bệnh viện nghỉ ngơi.",
+    "answer_zh": "我今天在医院休息。",
+    "pinyin": "wǒ jīntiān zài yīyuàn xiūxi.",
+    "grammar_focus": "在 + địa điểm + động từ",
+    "focus_words": [
+      "今天",
+      "在",
+      "医院",
+      "休息"
+    ]
+  },
+  {
+    "id": "daily_vi_0093",
+    "level": "HSK1",
+    "topic": "Hoạt động hằng ngày",
+    "vi_sentence": "Hôm nay tôi đang ở cửa hàng học tiếng Trung.",
+    "answer_zh": "我今天在商店学习汉语。",
+    "pinyin": "wǒ jīntiān zài shāngdiàn xuéxí Hànyǔ.",
+    "grammar_focus": "在 + địa điểm + động từ",
+    "focus_words": [
+      "今天",
+      "在",
+      "商店",
+      "学习汉语"
+    ]
+  },
+  {
+    "id": "daily_vi_0094",
+    "level": "HSK1",
+    "topic": "Hoạt động hằng ngày",
+    "vi_sentence": "Hôm nay tôi đang ở cửa hàng đọc sách.",
+    "answer_zh": "我今天在商店看书。",
+    "pinyin": "wǒ jīntiān zài shāngdiàn kàn shū.",
+    "grammar_focus": "在 + địa điểm + động từ",
+    "focus_words": [
+      "今天",
+      "在",
+      "商店",
+      "看书"
+    ]
+  },
+  {
+    "id": "daily_vi_0095",
+    "level": "HSK1",
+    "topic": "Hoạt động hằng ngày",
+    "vi_sentence": "Hôm nay tôi đang ở cửa hàng xem phim.",
+    "answer_zh": "我今天在商店看电影。",
+    "pinyin": "wǒ jīntiān zài shāngdiàn kàn diànyǐng.",
+    "grammar_focus": "在 + địa điểm + động từ",
+    "focus_words": [
+      "今天",
+      "在",
+      "商店",
+      "看电影"
+    ]
+  },
+  {
+    "id": "daily_vi_0096",
+    "level": "HSK1",
+    "topic": "Hoạt động hằng ngày",
+    "vi_sentence": "Hôm nay tôi đang ở cửa hàng nghe thầy giáo nói.",
+    "answer_zh": "我今天在商店听老师说话。",
+    "pinyin": "wǒ jīntiān zài shāngdiàn tīng lǎoshī shuōhuà.",
+    "grammar_focus": "在 + địa điểm + động từ",
+    "focus_words": [
+      "今天",
+      "在",
+      "商店",
+      "听老师说话"
+    ]
+  },
+  {
+    "id": "daily_vi_0097",
+    "level": "HSK1",
+    "topic": "Hoạt động hằng ngày",
+    "vi_sentence": "Hôm nay tôi đang ở cửa hàng gọi điện thoại.",
+    "answer_zh": "我今天在商店打电话。",
+    "pinyin": "wǒ jīntiān zài shāngdiàn dǎ diànhuà.",
+    "grammar_focus": "在 + địa điểm + động từ",
+    "focus_words": [
+      "今天",
+      "在",
+      "商店",
+      "打电话"
+    ]
+  },
+  {
+    "id": "daily_vi_0098",
+    "level": "HSK1",
+    "topic": "Hoạt động hằng ngày",
+    "vi_sentence": "Hôm nay tôi đang ở cửa hàng nghỉ ngơi.",
+    "answer_zh": "我今天在商店休息。",
+    "pinyin": "wǒ jīntiān zài shāngdiàn xiūxi.",
+    "grammar_focus": "在 + địa điểm + động từ",
+    "focus_words": [
+      "今天",
+      "在",
+      "商店",
+      "休息"
+    ]
+  },
+  {
+    "id": "daily_vi_0099",
+    "level": "HSK1",
+    "topic": "Hoạt động hằng ngày",
+    "vi_sentence": "Hôm nay tôi đang ở nhà hàng học tiếng Trung.",
+    "answer_zh": "我今天在饭店学习汉语。",
+    "pinyin": "wǒ jīntiān zài fàndiàn xuéxí Hànyǔ.",
+    "grammar_focus": "在 + địa điểm + động từ",
+    "focus_words": [
+      "今天",
+      "在",
+      "饭店",
+      "学习汉语"
+    ]
+  },
+  {
+    "id": "daily_vi_0100",
+    "level": "HSK1",
+    "topic": "Hoạt động hằng ngày",
+    "vi_sentence": "Hôm nay tôi đang ở nhà hàng đọc sách.",
+    "answer_zh": "我今天在饭店看书。",
+    "pinyin": "wǒ jīntiān zài fàndiàn kàn shū.",
+    "grammar_focus": "在 + địa điểm + động từ",
+    "focus_words": [
+      "今天",
+      "在",
+      "饭店",
+      "看书"
+    ]
+  },
+  {
+    "id": "daily_vi_0101",
+    "level": "HSK1",
+    "topic": "Hoạt động hằng ngày",
+    "vi_sentence": "Hôm nay tôi đang ở nhà hàng xem phim.",
+    "answer_zh": "我今天在饭店看电影。",
+    "pinyin": "wǒ jīntiān zài fàndiàn kàn diànyǐng.",
+    "grammar_focus": "在 + địa điểm + động từ",
+    "focus_words": [
+      "今天",
+      "在",
+      "饭店",
+      "看电影"
+    ]
+  },
+  {
+    "id": "daily_vi_0102",
+    "level": "HSK1",
+    "topic": "Hoạt động hằng ngày",
+    "vi_sentence": "Hôm nay tôi đang ở nhà hàng nghe thầy giáo nói.",
+    "answer_zh": "我今天在饭店听老师说话。",
+    "pinyin": "wǒ jīntiān zài fàndiàn tīng lǎoshī shuōhuà.",
+    "grammar_focus": "在 + địa điểm + động từ",
+    "focus_words": [
+      "今天",
+      "在",
+      "饭店",
+      "听老师说话"
+    ]
+  },
+  {
+    "id": "daily_vi_0103",
+    "level": "HSK1",
+    "topic": "Hoạt động hằng ngày",
+    "vi_sentence": "Hôm nay tôi đang ở nhà hàng gọi điện thoại.",
+    "answer_zh": "我今天在饭店打电话。",
+    "pinyin": "wǒ jīntiān zài fàndiàn dǎ diànhuà.",
+    "grammar_focus": "在 + địa điểm + động từ",
+    "focus_words": [
+      "今天",
+      "在",
+      "饭店",
+      "打电话"
+    ]
+  },
+  {
+    "id": "daily_vi_0104",
+    "level": "HSK1",
+    "topic": "Hoạt động hằng ngày",
+    "vi_sentence": "Hôm nay tôi đang ở nhà hàng nghỉ ngơi.",
+    "answer_zh": "我今天在饭店休息。",
+    "pinyin": "wǒ jīntiān zài fàndiàn xiūxi.",
+    "grammar_focus": "在 + địa điểm + động từ",
+    "focus_words": [
+      "今天",
+      "在",
+      "饭店",
+      "休息"
+    ]
+  },
+  {
+    "id": "daily_vi_0105",
+    "level": "HSK1",
+    "topic": "Hoạt động hằng ngày",
+    "vi_sentence": "Hôm nay tôi đang ở công ty học tiếng Trung.",
+    "answer_zh": "我今天在公司学习汉语。",
+    "pinyin": "wǒ jīntiān zài gōngsī xuéxí Hànyǔ.",
+    "grammar_focus": "在 + địa điểm + động từ",
+    "focus_words": [
+      "今天",
+      "在",
+      "公司",
+      "学习汉语"
+    ]
+  },
+  {
+    "id": "daily_vi_0106",
+    "level": "HSK1",
+    "topic": "Hoạt động hằng ngày",
+    "vi_sentence": "Hôm nay tôi đang ở công ty đọc sách.",
+    "answer_zh": "我今天在公司看书。",
+    "pinyin": "wǒ jīntiān zài gōngsī kàn shū.",
+    "grammar_focus": "在 + địa điểm + động từ",
+    "focus_words": [
+      "今天",
+      "在",
+      "公司",
+      "看书"
+    ]
+  },
+  {
+    "id": "daily_vi_0107",
+    "level": "HSK1",
+    "topic": "Hoạt động hằng ngày",
+    "vi_sentence": "Hôm nay tôi đang ở công ty xem phim.",
+    "answer_zh": "我今天在公司看电影。",
+    "pinyin": "wǒ jīntiān zài gōngsī kàn diànyǐng.",
+    "grammar_focus": "在 + địa điểm + động từ",
+    "focus_words": [
+      "今天",
+      "在",
+      "公司",
+      "看电影"
+    ]
+  },
+  {
+    "id": "daily_vi_0108",
+    "level": "HSK1",
+    "topic": "Hoạt động hằng ngày",
+    "vi_sentence": "Hôm nay tôi đang ở công ty nghe thầy giáo nói.",
+    "answer_zh": "我今天在公司听老师说话。",
+    "pinyin": "wǒ jīntiān zài gōngsī tīng lǎoshī shuōhuà.",
+    "grammar_focus": "在 + địa điểm + động từ",
+    "focus_words": [
+      "今天",
+      "在",
+      "公司",
+      "听老师说话"
+    ]
+  },
+  {
+    "id": "daily_vi_0109",
+    "level": "HSK1",
+    "topic": "Hoạt động hằng ngày",
+    "vi_sentence": "Hôm nay tôi đang ở công ty gọi điện thoại.",
+    "answer_zh": "我今天在公司打电话。",
+    "pinyin": "wǒ jīntiān zài gōngsī dǎ diànhuà.",
+    "grammar_focus": "在 + địa điểm + động từ",
+    "focus_words": [
+      "今天",
+      "在",
+      "公司",
+      "打电话"
+    ]
+  },
+  {
+    "id": "daily_vi_0110",
+    "level": "HSK1",
+    "topic": "Hoạt động hằng ngày",
+    "vi_sentence": "Hôm nay tôi đang ở công ty nghỉ ngơi.",
+    "answer_zh": "我今天在公司休息。",
+    "pinyin": "wǒ jīntiān zài gōngsī xiūxi.",
+    "grammar_focus": "在 + địa điểm + động từ",
+    "focus_words": [
+      "今天",
+      "在",
+      "公司",
+      "休息"
+    ]
+  },
+  {
+    "id": "daily_vi_0111",
+    "level": "HSK1",
+    "topic": "Hoạt động hằng ngày",
+    "vi_sentence": "Hôm nay tôi đang ở sân bay học tiếng Trung.",
+    "answer_zh": "我今天在机场学习汉语。",
+    "pinyin": "wǒ jīntiān zài jīchǎng xuéxí Hànyǔ.",
+    "grammar_focus": "在 + địa điểm + động từ",
+    "focus_words": [
+      "今天",
+      "在",
+      "机场",
+      "学习汉语"
+    ]
+  },
+  {
+    "id": "daily_vi_0112",
+    "level": "HSK1",
+    "topic": "Hoạt động hằng ngày",
+    "vi_sentence": "Hôm nay tôi đang ở sân bay đọc sách.",
+    "answer_zh": "我今天在机场看书。",
+    "pinyin": "wǒ jīntiān zài jīchǎng kàn shū.",
+    "grammar_focus": "在 + địa điểm + động từ",
+    "focus_words": [
+      "今天",
+      "在",
+      "机场",
+      "看书"
+    ]
+  },
+  {
+    "id": "daily_vi_0113",
+    "level": "HSK1",
+    "topic": "Hoạt động hằng ngày",
+    "vi_sentence": "Hôm nay tôi đang ở sân bay xem phim.",
+    "answer_zh": "我今天在机场看电影。",
+    "pinyin": "wǒ jīntiān zài jīchǎng kàn diànyǐng.",
+    "grammar_focus": "在 + địa điểm + động từ",
+    "focus_words": [
+      "今天",
+      "在",
+      "机场",
+      "看电影"
+    ]
+  },
+  {
+    "id": "daily_vi_0114",
+    "level": "HSK1",
+    "topic": "Hoạt động hằng ngày",
+    "vi_sentence": "Hôm nay tôi đang ở sân bay nghe thầy giáo nói.",
+    "answer_zh": "我今天在机场听老师说话。",
+    "pinyin": "wǒ jīntiān zài jīchǎng tīng lǎoshī shuōhuà.",
+    "grammar_focus": "在 + địa điểm + động từ",
+    "focus_words": [
+      "今天",
+      "在",
+      "机场",
+      "听老师说话"
+    ]
+  },
+  {
+    "id": "daily_vi_0115",
+    "level": "HSK1",
+    "topic": "Hoạt động hằng ngày",
+    "vi_sentence": "Hôm nay tôi đang ở sân bay gọi điện thoại.",
+    "answer_zh": "我今天在机场打电话。",
+    "pinyin": "wǒ jīntiān zài jīchǎng dǎ diànhuà.",
+    "grammar_focus": "在 + địa điểm + động từ",
+    "focus_words": [
+      "今天",
+      "在",
+      "机场",
+      "打电话"
+    ]
+  },
+  {
+    "id": "daily_vi_0116",
+    "level": "HSK1",
+    "topic": "Hoạt động hằng ngày",
+    "vi_sentence": "Hôm nay tôi đang ở sân bay nghỉ ngơi.",
+    "answer_zh": "我今天在机场休息。",
+    "pinyin": "wǒ jīntiān zài jīchǎng xiūxi.",
+    "grammar_focus": "在 + địa điểm + động từ",
+    "focus_words": [
+      "今天",
+      "在",
+      "机场",
+      "休息"
+    ]
+  },
+  {
+    "id": "daily_vi_0117",
+    "level": "HSK1",
+    "topic": "Hoạt động hằng ngày",
+    "vi_sentence": "Hôm nay tôi đang ở ga tàu học tiếng Trung.",
+    "answer_zh": "我今天在火车站学习汉语。",
+    "pinyin": "wǒ jīntiān zài huǒchēzhàn xuéxí Hànyǔ.",
+    "grammar_focus": "在 + địa điểm + động từ",
+    "focus_words": [
+      "今天",
+      "在",
+      "火车站",
+      "学习汉语"
+    ]
+  },
+  {
+    "id": "daily_vi_0118",
+    "level": "HSK1",
+    "topic": "Hoạt động hằng ngày",
+    "vi_sentence": "Hôm nay tôi đang ở ga tàu đọc sách.",
+    "answer_zh": "我今天在火车站看书。",
+    "pinyin": "wǒ jīntiān zài huǒchēzhàn kàn shū.",
+    "grammar_focus": "在 + địa điểm + động từ",
+    "focus_words": [
+      "今天",
+      "在",
+      "火车站",
+      "看书"
+    ]
+  },
+  {
+    "id": "daily_vi_0119",
+    "level": "HSK1",
+    "topic": "Hoạt động hằng ngày",
+    "vi_sentence": "Hôm nay tôi đang ở ga tàu xem phim.",
+    "answer_zh": "我今天在火车站看电影。",
+    "pinyin": "wǒ jīntiān zài huǒchēzhàn kàn diànyǐng.",
+    "grammar_focus": "在 + địa điểm + động từ",
+    "focus_words": [
+      "今天",
+      "在",
+      "火车站",
+      "看电影"
+    ]
+  },
+  {
+    "id": "daily_vi_0120",
+    "level": "HSK1",
+    "topic": "Hoạt động hằng ngày",
+    "vi_sentence": "Hôm nay tôi đang ở ga tàu nghe thầy giáo nói.",
+    "answer_zh": "我今天在火车站听老师说话。",
+    "pinyin": "wǒ jīntiān zài huǒchēzhàn tīng lǎoshī shuōhuà.",
+    "grammar_focus": "在 + địa điểm + động từ",
+    "focus_words": [
+      "今天",
+      "在",
+      "火车站",
+      "听老师说话"
+    ]
+  },
+  {
+    "id": "daily_vi_0121",
+    "level": "HSK1",
+    "topic": "Hoạt động hằng ngày",
+    "vi_sentence": "Hôm nay tôi đang ở ga tàu gọi điện thoại.",
+    "answer_zh": "我今天在火车站打电话。",
+    "pinyin": "wǒ jīntiān zài huǒchēzhàn dǎ diànhuà.",
+    "grammar_focus": "在 + địa điểm + động từ",
+    "focus_words": [
+      "今天",
+      "在",
+      "火车站",
+      "打电话"
+    ]
+  },
+  {
+    "id": "daily_vi_0122",
+    "level": "HSK1",
+    "topic": "Hoạt động hằng ngày",
+    "vi_sentence": "Hôm nay tôi đang ở ga tàu nghỉ ngơi.",
+    "answer_zh": "我今天在火车站休息。",
+    "pinyin": "wǒ jīntiān zài huǒchēzhàn xiūxi.",
+    "grammar_focus": "在 + địa điểm + động từ",
+    "focus_words": [
+      "今天",
+      "在",
+      "火车站",
+      "休息"
+    ]
+  },
+  {
+    "id": "daily_vi_0123",
+    "level": "HSK1",
+    "topic": "Hoạt động hằng ngày",
+    "vi_sentence": "Hôm nay tôi đang ở Bắc Kinh học tiếng Trung.",
+    "answer_zh": "我今天在北京学习汉语。",
+    "pinyin": "wǒ jīntiān zài Běijīng xuéxí Hànyǔ.",
+    "grammar_focus": "在 + địa điểm + động từ",
+    "focus_words": [
+      "今天",
+      "在",
+      "北京",
+      "学习汉语"
+    ]
+  },
+  {
+    "id": "daily_vi_0124",
+    "level": "HSK1",
+    "topic": "Hoạt động hằng ngày",
+    "vi_sentence": "Hôm nay tôi đang ở Bắc Kinh đọc sách.",
+    "answer_zh": "我今天在北京看书。",
+    "pinyin": "wǒ jīntiān zài Běijīng kàn shū.",
+    "grammar_focus": "在 + địa điểm + động từ",
+    "focus_words": [
+      "今天",
+      "在",
+      "北京",
+      "看书"
+    ]
+  },
+  {
+    "id": "daily_vi_0125",
+    "level": "HSK1",
+    "topic": "Hoạt động hằng ngày",
+    "vi_sentence": "Hôm nay tôi đang ở Bắc Kinh xem phim.",
+    "answer_zh": "我今天在北京看电影。",
+    "pinyin": "wǒ jīntiān zài Běijīng kàn diànyǐng.",
+    "grammar_focus": "在 + địa điểm + động từ",
+    "focus_words": [
+      "今天",
+      "在",
+      "北京",
+      "看电影"
+    ]
+  },
+  {
+    "id": "daily_vi_0126",
+    "level": "HSK1",
+    "topic": "Hoạt động hằng ngày",
+    "vi_sentence": "Hôm nay tôi đang ở Bắc Kinh nghe thầy giáo nói.",
+    "answer_zh": "我今天在北京听老师说话。",
+    "pinyin": "wǒ jīntiān zài Běijīng tīng lǎoshī shuōhuà.",
+    "grammar_focus": "在 + địa điểm + động từ",
+    "focus_words": [
+      "今天",
+      "在",
+      "北京",
+      "听老师说话"
+    ]
+  },
+  {
+    "id": "daily_vi_0127",
+    "level": "HSK1",
+    "topic": "Hoạt động hằng ngày",
+    "vi_sentence": "Hôm nay tôi đang ở Bắc Kinh gọi điện thoại.",
+    "answer_zh": "我今天在北京打电话。",
+    "pinyin": "wǒ jīntiān zài Běijīng dǎ diànhuà.",
+    "grammar_focus": "在 + địa điểm + động từ",
+    "focus_words": [
+      "今天",
+      "在",
+      "北京",
+      "打电话"
+    ]
+  },
+  {
+    "id": "daily_vi_0128",
+    "level": "HSK1",
+    "topic": "Hoạt động hằng ngày",
+    "vi_sentence": "Hôm nay tôi đang ở Bắc Kinh nghỉ ngơi.",
+    "answer_zh": "我今天在北京休息。",
+    "pinyin": "wǒ jīntiān zài Běijīng xiūxi.",
+    "grammar_focus": "在 + địa điểm + động từ",
+    "focus_words": [
+      "今天",
+      "在",
+      "北京",
+      "休息"
+    ]
+  },
+  {
+    "id": "daily_vi_0129",
+    "level": "HSK1",
+    "topic": "Hoạt động hằng ngày",
+    "vi_sentence": "Hôm nay bạn tôi đang ở trường học học tiếng Trung.",
+    "answer_zh": "我朋友今天在学校学习汉语。",
+    "pinyin": "wǒ péngyou jīntiān zài xuéxiào xuéxí Hànyǔ.",
+    "grammar_focus": "在 + địa điểm + động từ",
+    "focus_words": [
+      "今天",
+      "在",
+      "学校",
+      "学习汉语"
+    ]
+  },
+  {
+    "id": "daily_vi_0130",
+    "level": "HSK1",
+    "topic": "Hoạt động hằng ngày",
+    "vi_sentence": "Hôm nay bạn tôi đang ở trường học đọc sách.",
+    "answer_zh": "我朋友今天在学校看书。",
+    "pinyin": "wǒ péngyou jīntiān zài xuéxiào kàn shū.",
+    "grammar_focus": "在 + địa điểm + động từ",
+    "focus_words": [
+      "今天",
+      "在",
+      "学校",
+      "看书"
+    ]
+  },
+  {
+    "id": "daily_vi_0131",
+    "level": "HSK1",
+    "topic": "Hoạt động hằng ngày",
+    "vi_sentence": "Hôm nay bạn tôi đang ở trường học xem phim.",
+    "answer_zh": "我朋友今天在学校看电影。",
+    "pinyin": "wǒ péngyou jīntiān zài xuéxiào kàn diànyǐng.",
+    "grammar_focus": "在 + địa điểm + động từ",
+    "focus_words": [
+      "今天",
+      "在",
+      "学校",
+      "看电影"
+    ]
+  },
+  {
+    "id": "daily_vi_0132",
+    "level": "HSK1",
+    "topic": "Hoạt động hằng ngày",
+    "vi_sentence": "Hôm nay bạn tôi đang ở trường học nghe thầy giáo nói.",
+    "answer_zh": "我朋友今天在学校听老师说话。",
+    "pinyin": "wǒ péngyou jīntiān zài xuéxiào tīng lǎoshī shuōhuà.",
+    "grammar_focus": "在 + địa điểm + động từ",
+    "focus_words": [
+      "今天",
+      "在",
+      "学校",
+      "听老师说话"
+    ]
+  },
+  {
+    "id": "daily_vi_0133",
+    "level": "HSK1",
+    "topic": "Hoạt động hằng ngày",
+    "vi_sentence": "Hôm nay bạn tôi đang ở trường học gọi điện thoại.",
+    "answer_zh": "我朋友今天在学校打电话。",
+    "pinyin": "wǒ péngyou jīntiān zài xuéxiào dǎ diànhuà.",
+    "grammar_focus": "在 + địa điểm + động từ",
+    "focus_words": [
+      "今天",
+      "在",
+      "学校",
+      "打电话"
+    ]
+  },
+  {
+    "id": "daily_vi_0134",
+    "level": "HSK1",
+    "topic": "Hoạt động hằng ngày",
+    "vi_sentence": "Hôm nay bạn tôi đang ở trường học nghỉ ngơi.",
+    "answer_zh": "我朋友今天在学校休息。",
+    "pinyin": "wǒ péngyou jīntiān zài xuéxiào xiūxi.",
+    "grammar_focus": "在 + địa điểm + động từ",
+    "focus_words": [
+      "今天",
+      "在",
+      "学校",
+      "休息"
+    ]
+  },
+  {
+    "id": "daily_vi_0135",
+    "level": "HSK1",
+    "topic": "Hoạt động hằng ngày",
+    "vi_sentence": "Hôm nay bạn tôi đang ở bệnh viện học tiếng Trung.",
+    "answer_zh": "我朋友今天在医院学习汉语。",
+    "pinyin": "wǒ péngyou jīntiān zài yīyuàn xuéxí Hànyǔ.",
+    "grammar_focus": "在 + địa điểm + động từ",
+    "focus_words": [
+      "今天",
+      "在",
+      "医院",
+      "学习汉语"
+    ]
+  },
+  {
+    "id": "daily_vi_0136",
+    "level": "HSK1",
+    "topic": "Hoạt động hằng ngày",
+    "vi_sentence": "Hôm nay bạn tôi đang ở bệnh viện đọc sách.",
+    "answer_zh": "我朋友今天在医院看书。",
+    "pinyin": "wǒ péngyou jīntiān zài yīyuàn kàn shū.",
+    "grammar_focus": "在 + địa điểm + động từ",
+    "focus_words": [
+      "今天",
+      "在",
+      "医院",
+      "看书"
+    ]
+  },
+  {
+    "id": "daily_vi_0137",
+    "level": "HSK1",
+    "topic": "Hoạt động hằng ngày",
+    "vi_sentence": "Hôm nay bạn tôi đang ở bệnh viện xem phim.",
+    "answer_zh": "我朋友今天在医院看电影。",
+    "pinyin": "wǒ péngyou jīntiān zài yīyuàn kàn diànyǐng.",
+    "grammar_focus": "在 + địa điểm + động từ",
+    "focus_words": [
+      "今天",
+      "在",
+      "医院",
+      "看电影"
+    ]
+  },
+  {
+    "id": "daily_vi_0138",
+    "level": "HSK1",
+    "topic": "Hoạt động hằng ngày",
+    "vi_sentence": "Hôm nay bạn tôi đang ở bệnh viện nghe thầy giáo nói.",
+    "answer_zh": "我朋友今天在医院听老师说话。",
+    "pinyin": "wǒ péngyou jīntiān zài yīyuàn tīng lǎoshī shuōhuà.",
+    "grammar_focus": "在 + địa điểm + động từ",
+    "focus_words": [
+      "今天",
+      "在",
+      "医院",
+      "听老师说话"
+    ]
+  },
+  {
+    "id": "daily_vi_0139",
+    "level": "HSK1",
+    "topic": "Hoạt động hằng ngày",
+    "vi_sentence": "Hôm nay bạn tôi đang ở bệnh viện gọi điện thoại.",
+    "answer_zh": "我朋友今天在医院打电话。",
+    "pinyin": "wǒ péngyou jīntiān zài yīyuàn dǎ diànhuà.",
+    "grammar_focus": "在 + địa điểm + động từ",
+    "focus_words": [
+      "今天",
+      "在",
+      "医院",
+      "打电话"
+    ]
+  },
+  {
+    "id": "daily_vi_0140",
+    "level": "HSK1",
+    "topic": "Hoạt động hằng ngày",
+    "vi_sentence": "Hôm nay bạn tôi đang ở bệnh viện nghỉ ngơi.",
+    "answer_zh": "我朋友今天在医院休息。",
+    "pinyin": "wǒ péngyou jīntiān zài yīyuàn xiūxi.",
+    "grammar_focus": "在 + địa điểm + động từ",
+    "focus_words": [
+      "今天",
+      "在",
+      "医院",
+      "休息"
+    ]
+  },
+  {
+    "id": "daily_vi_0141",
+    "level": "HSK1",
+    "topic": "Hoạt động hằng ngày",
+    "vi_sentence": "Hôm nay bạn tôi đang ở cửa hàng học tiếng Trung.",
+    "answer_zh": "我朋友今天在商店学习汉语。",
+    "pinyin": "wǒ péngyou jīntiān zài shāngdiàn xuéxí Hànyǔ.",
+    "grammar_focus": "在 + địa điểm + động từ",
+    "focus_words": [
+      "今天",
+      "在",
+      "商店",
+      "学习汉语"
+    ]
+  },
+  {
+    "id": "daily_vi_0142",
+    "level": "HSK1",
+    "topic": "Hoạt động hằng ngày",
+    "vi_sentence": "Hôm nay bạn tôi đang ở cửa hàng đọc sách.",
+    "answer_zh": "我朋友今天在商店看书。",
+    "pinyin": "wǒ péngyou jīntiān zài shāngdiàn kàn shū.",
+    "grammar_focus": "在 + địa điểm + động từ",
+    "focus_words": [
+      "今天",
+      "在",
+      "商店",
+      "看书"
+    ]
+  },
+  {
+    "id": "daily_vi_0143",
+    "level": "HSK1",
+    "topic": "Hoạt động hằng ngày",
+    "vi_sentence": "Hôm nay bạn tôi đang ở cửa hàng xem phim.",
+    "answer_zh": "我朋友今天在商店看电影。",
+    "pinyin": "wǒ péngyou jīntiān zài shāngdiàn kàn diànyǐng.",
+    "grammar_focus": "在 + địa điểm + động từ",
+    "focus_words": [
+      "今天",
+      "在",
+      "商店",
+      "看电影"
+    ]
+  },
+  {
+    "id": "daily_vi_0144",
+    "level": "HSK1",
+    "topic": "Hoạt động hằng ngày",
+    "vi_sentence": "Hôm nay bạn tôi đang ở cửa hàng nghe thầy giáo nói.",
+    "answer_zh": "我朋友今天在商店听老师说话。",
+    "pinyin": "wǒ péngyou jīntiān zài shāngdiàn tīng lǎoshī shuōhuà.",
+    "grammar_focus": "在 + địa điểm + động từ",
+    "focus_words": [
+      "今天",
+      "在",
+      "商店",
+      "听老师说话"
+    ]
+  },
+  {
+    "id": "daily_vi_0145",
+    "level": "HSK1",
+    "topic": "Hoạt động hằng ngày",
+    "vi_sentence": "Hôm nay bạn tôi đang ở cửa hàng gọi điện thoại.",
+    "answer_zh": "我朋友今天在商店打电话。",
+    "pinyin": "wǒ péngyou jīntiān zài shāngdiàn dǎ diànhuà.",
+    "grammar_focus": "在 + địa điểm + động từ",
+    "focus_words": [
+      "今天",
+      "在",
+      "商店",
+      "打电话"
+    ]
+  },
+  {
+    "id": "daily_vi_0146",
+    "level": "HSK1",
+    "topic": "Hoạt động hằng ngày",
+    "vi_sentence": "Hôm nay bạn tôi đang ở cửa hàng nghỉ ngơi.",
+    "answer_zh": "我朋友今天在商店休息。",
+    "pinyin": "wǒ péngyou jīntiān zài shāngdiàn xiūxi.",
+    "grammar_focus": "在 + địa điểm + động từ",
+    "focus_words": [
+      "今天",
+      "在",
+      "商店",
+      "休息"
+    ]
+  },
+  {
+    "id": "daily_vi_0147",
+    "level": "HSK1",
+    "topic": "Hoạt động hằng ngày",
+    "vi_sentence": "Hôm nay bạn tôi đang ở nhà hàng học tiếng Trung.",
+    "answer_zh": "我朋友今天在饭店学习汉语。",
+    "pinyin": "wǒ péngyou jīntiān zài fàndiàn xuéxí Hànyǔ.",
+    "grammar_focus": "在 + địa điểm + động từ",
+    "focus_words": [
+      "今天",
+      "在",
+      "饭店",
+      "学习汉语"
+    ]
+  },
+  {
+    "id": "daily_vi_0148",
+    "level": "HSK1",
+    "topic": "Hoạt động hằng ngày",
+    "vi_sentence": "Hôm nay bạn tôi đang ở nhà hàng đọc sách.",
+    "answer_zh": "我朋友今天在饭店看书。",
+    "pinyin": "wǒ péngyou jīntiān zài fàndiàn kàn shū.",
+    "grammar_focus": "在 + địa điểm + động từ",
+    "focus_words": [
+      "今天",
+      "在",
+      "饭店",
+      "看书"
+    ]
+  },
+  {
+    "id": "daily_vi_0149",
+    "level": "HSK1",
+    "topic": "Hoạt động hằng ngày",
+    "vi_sentence": "Hôm nay bạn tôi đang ở nhà hàng xem phim.",
+    "answer_zh": "我朋友今天在饭店看电影。",
+    "pinyin": "wǒ péngyou jīntiān zài fàndiàn kàn diànyǐng.",
+    "grammar_focus": "在 + địa điểm + động từ",
+    "focus_words": [
+      "今天",
+      "在",
+      "饭店",
+      "看电影"
+    ]
+  },
+  {
+    "id": "daily_vi_0150",
+    "level": "HSK1",
+    "topic": "Hoạt động hằng ngày",
+    "vi_sentence": "Hôm nay bạn tôi đang ở nhà hàng nghe thầy giáo nói.",
+    "answer_zh": "我朋友今天在饭店听老师说话。",
+    "pinyin": "wǒ péngyou jīntiān zài fàndiàn tīng lǎoshī shuōhuà.",
+    "grammar_focus": "在 + địa điểm + động từ",
+    "focus_words": [
+      "今天",
+      "在",
+      "饭店",
+      "听老师说话"
+    ]
+  },
+  {
+    "id": "daily_vi_0151",
+    "level": "HSK2",
+    "topic": "Lý do - kết quả",
+    "vi_sentence": "Vì trời mưa, nên tôi không đi trường học.",
+    "answer_zh": "因为下雨，所以我不去学校。",
+    "pinyin": "yīnwèi xià yǔ, suǒyǐ wǒ bù qù xuéxiào.",
+    "grammar_focus": "因为...所以...",
+    "focus_words": [
+      "因为",
+      "下雨",
+      "所以",
+      "不",
+      "去",
+      "学校"
+    ]
+  },
+  {
+    "id": "daily_vi_0152",
+    "level": "HSK2",
+    "topic": "Lý do - kết quả",
+    "vi_sentence": "Vì trời mưa, nên tôi không đi bệnh viện.",
+    "answer_zh": "因为下雨，所以我不去医院。",
+    "pinyin": "yīnwèi xià yǔ, suǒyǐ wǒ bù qù yīyuàn.",
+    "grammar_focus": "因为...所以...",
+    "focus_words": [
+      "因为",
+      "下雨",
+      "所以",
+      "不",
+      "去",
+      "医院"
+    ]
+  },
+  {
+    "id": "daily_vi_0153",
+    "level": "HSK2",
+    "topic": "Lý do - kết quả",
+    "vi_sentence": "Vì trời mưa, nên tôi không đi cửa hàng.",
+    "answer_zh": "因为下雨，所以我不去商店。",
+    "pinyin": "yīnwèi xià yǔ, suǒyǐ wǒ bù qù shāngdiàn.",
+    "grammar_focus": "因为...所以...",
+    "focus_words": [
+      "因为",
+      "下雨",
+      "所以",
+      "不",
+      "去",
+      "商店"
+    ]
+  },
+  {
+    "id": "daily_vi_0154",
+    "level": "HSK2",
+    "topic": "Lý do - kết quả",
+    "vi_sentence": "Vì trời mưa, nên tôi không đi nhà hàng.",
+    "answer_zh": "因为下雨，所以我不去饭店。",
+    "pinyin": "yīnwèi xià yǔ, suǒyǐ wǒ bù qù fàndiàn.",
+    "grammar_focus": "因为...所以...",
+    "focus_words": [
+      "因为",
+      "下雨",
+      "所以",
+      "不",
+      "去",
+      "饭店"
+    ]
+  },
+  {
+    "id": "daily_vi_0155",
+    "level": "HSK2",
+    "topic": "Lý do - kết quả",
+    "vi_sentence": "Vì trời mưa, nên tôi không đi công ty.",
+    "answer_zh": "因为下雨，所以我不去公司。",
+    "pinyin": "yīnwèi xià yǔ, suǒyǐ wǒ bù qù gōngsī.",
+    "grammar_focus": "因为...所以...",
+    "focus_words": [
+      "因为",
+      "下雨",
+      "所以",
+      "不",
+      "去",
+      "公司"
+    ]
+  },
+  {
+    "id": "daily_vi_0156",
+    "level": "HSK2",
+    "topic": "Lý do - kết quả",
+    "vi_sentence": "Vì trời mưa, nên bạn tôi không đi trường học.",
+    "answer_zh": "因为下雨，所以我朋友不去学校。",
+    "pinyin": "yīnwèi xià yǔ, suǒyǐ wǒ péngyou bù qù xuéxiào.",
+    "grammar_focus": "因为...所以...",
+    "focus_words": [
+      "因为",
+      "下雨",
+      "所以",
+      "不",
+      "去",
+      "学校"
+    ]
+  },
+  {
+    "id": "daily_vi_0157",
+    "level": "HSK2",
+    "topic": "Lý do - kết quả",
+    "vi_sentence": "Vì trời mưa, nên bạn tôi không đi bệnh viện.",
+    "answer_zh": "因为下雨，所以我朋友不去医院。",
+    "pinyin": "yīnwèi xià yǔ, suǒyǐ wǒ péngyou bù qù yīyuàn.",
+    "grammar_focus": "因为...所以...",
+    "focus_words": [
+      "因为",
+      "下雨",
+      "所以",
+      "不",
+      "去",
+      "医院"
+    ]
+  },
+  {
+    "id": "daily_vi_0158",
+    "level": "HSK2",
+    "topic": "Lý do - kết quả",
+    "vi_sentence": "Vì trời mưa, nên bạn tôi không đi cửa hàng.",
+    "answer_zh": "因为下雨，所以我朋友不去商店。",
+    "pinyin": "yīnwèi xià yǔ, suǒyǐ wǒ péngyou bù qù shāngdiàn.",
+    "grammar_focus": "因为...所以...",
+    "focus_words": [
+      "因为",
+      "下雨",
+      "所以",
+      "不",
+      "去",
+      "商店"
+    ]
+  },
+  {
+    "id": "daily_vi_0159",
+    "level": "HSK2",
+    "topic": "Lý do - kết quả",
+    "vi_sentence": "Vì trời mưa, nên bạn tôi không đi nhà hàng.",
+    "answer_zh": "因为下雨，所以我朋友不去饭店。",
+    "pinyin": "yīnwèi xià yǔ, suǒyǐ wǒ péngyou bù qù fàndiàn.",
+    "grammar_focus": "因为...所以...",
+    "focus_words": [
+      "因为",
+      "下雨",
+      "所以",
+      "不",
+      "去",
+      "饭店"
+    ]
+  },
+  {
+    "id": "daily_vi_0160",
+    "level": "HSK2",
+    "topic": "Lý do - kết quả",
+    "vi_sentence": "Vì trời mưa, nên bạn tôi không đi công ty.",
+    "answer_zh": "因为下雨，所以我朋友不去公司。",
+    "pinyin": "yīnwèi xià yǔ, suǒyǐ wǒ péngyou bù qù gōngsī.",
+    "grammar_focus": "因为...所以...",
+    "focus_words": [
+      "因为",
+      "下雨",
+      "所以",
+      "不",
+      "去",
+      "公司"
+    ]
+  },
+  {
+    "id": "daily_vi_0161",
+    "level": "HSK2",
+    "topic": "Lý do - kết quả",
+    "vi_sentence": "Vì trời mưa, nên mẹ tôi không đi trường học.",
+    "answer_zh": "因为下雨，所以我妈妈不去学校。",
+    "pinyin": "yīnwèi xià yǔ, suǒyǐ wǒ māma bù qù xuéxiào.",
+    "grammar_focus": "因为...所以...",
+    "focus_words": [
+      "因为",
+      "下雨",
+      "所以",
+      "不",
+      "去",
+      "学校"
+    ]
+  },
+  {
+    "id": "daily_vi_0162",
+    "level": "HSK2",
+    "topic": "Lý do - kết quả",
+    "vi_sentence": "Vì trời mưa, nên mẹ tôi không đi bệnh viện.",
+    "answer_zh": "因为下雨，所以我妈妈不去医院。",
+    "pinyin": "yīnwèi xià yǔ, suǒyǐ wǒ māma bù qù yīyuàn.",
+    "grammar_focus": "因为...所以...",
+    "focus_words": [
+      "因为",
+      "下雨",
+      "所以",
+      "不",
+      "去",
+      "医院"
+    ]
+  },
+  {
+    "id": "daily_vi_0163",
+    "level": "HSK2",
+    "topic": "Lý do - kết quả",
+    "vi_sentence": "Vì trời mưa, nên mẹ tôi không đi cửa hàng.",
+    "answer_zh": "因为下雨，所以我妈妈不去商店。",
+    "pinyin": "yīnwèi xià yǔ, suǒyǐ wǒ māma bù qù shāngdiàn.",
+    "grammar_focus": "因为...所以...",
+    "focus_words": [
+      "因为",
+      "下雨",
+      "所以",
+      "不",
+      "去",
+      "商店"
+    ]
+  },
+  {
+    "id": "daily_vi_0164",
+    "level": "HSK2",
+    "topic": "Lý do - kết quả",
+    "vi_sentence": "Vì trời mưa, nên mẹ tôi không đi nhà hàng.",
+    "answer_zh": "因为下雨，所以我妈妈不去饭店。",
+    "pinyin": "yīnwèi xià yǔ, suǒyǐ wǒ māma bù qù fàndiàn.",
+    "grammar_focus": "因为...所以...",
+    "focus_words": [
+      "因为",
+      "下雨",
+      "所以",
+      "不",
+      "去",
+      "饭店"
+    ]
+  },
+  {
+    "id": "daily_vi_0165",
+    "level": "HSK2",
+    "topic": "Lý do - kết quả",
+    "vi_sentence": "Vì trời mưa, nên mẹ tôi không đi công ty.",
+    "answer_zh": "因为下雨，所以我妈妈不去公司。",
+    "pinyin": "yīnwèi xià yǔ, suǒyǐ wǒ māma bù qù gōngsī.",
+    "grammar_focus": "因为...所以...",
+    "focus_words": [
+      "因为",
+      "下雨",
+      "所以",
+      "不",
+      "去",
+      "公司"
+    ]
+  },
+  {
+    "id": "daily_vi_0166",
+    "level": "HSK2",
+    "topic": "Lý do - kết quả",
+    "vi_sentence": "Vì trời mưa, nên bố tôi không đi trường học.",
+    "answer_zh": "因为下雨，所以我爸爸不去学校。",
+    "pinyin": "yīnwèi xià yǔ, suǒyǐ wǒ bàba bù qù xuéxiào.",
+    "grammar_focus": "因为...所以...",
+    "focus_words": [
+      "因为",
+      "下雨",
+      "所以",
+      "不",
+      "去",
+      "学校"
+    ]
+  },
+  {
+    "id": "daily_vi_0167",
+    "level": "HSK2",
+    "topic": "Lý do - kết quả",
+    "vi_sentence": "Vì trời mưa, nên bố tôi không đi bệnh viện.",
+    "answer_zh": "因为下雨，所以我爸爸不去医院。",
+    "pinyin": "yīnwèi xià yǔ, suǒyǐ wǒ bàba bù qù yīyuàn.",
+    "grammar_focus": "因为...所以...",
+    "focus_words": [
+      "因为",
+      "下雨",
+      "所以",
+      "不",
+      "去",
+      "医院"
+    ]
+  },
+  {
+    "id": "daily_vi_0168",
+    "level": "HSK2",
+    "topic": "Lý do - kết quả",
+    "vi_sentence": "Vì trời mưa, nên bố tôi không đi cửa hàng.",
+    "answer_zh": "因为下雨，所以我爸爸不去商店。",
+    "pinyin": "yīnwèi xià yǔ, suǒyǐ wǒ bàba bù qù shāngdiàn.",
+    "grammar_focus": "因为...所以...",
+    "focus_words": [
+      "因为",
+      "下雨",
+      "所以",
+      "不",
+      "去",
+      "商店"
+    ]
+  },
+  {
+    "id": "daily_vi_0169",
+    "level": "HSK2",
+    "topic": "Lý do - kết quả",
+    "vi_sentence": "Vì trời mưa, nên bố tôi không đi nhà hàng.",
+    "answer_zh": "因为下雨，所以我爸爸不去饭店。",
+    "pinyin": "yīnwèi xià yǔ, suǒyǐ wǒ bàba bù qù fàndiàn.",
+    "grammar_focus": "因为...所以...",
+    "focus_words": [
+      "因为",
+      "下雨",
+      "所以",
+      "不",
+      "去",
+      "饭店"
+    ]
+  },
+  {
+    "id": "daily_vi_0170",
+    "level": "HSK2",
+    "topic": "Lý do - kết quả",
+    "vi_sentence": "Vì trời mưa, nên bố tôi không đi công ty.",
+    "answer_zh": "因为下雨，所以我爸爸不去公司。",
+    "pinyin": "yīnwèi xià yǔ, suǒyǐ wǒ bàba bù qù gōngsī.",
+    "grammar_focus": "因为...所以...",
+    "focus_words": [
+      "因为",
+      "下雨",
+      "所以",
+      "不",
+      "去",
+      "公司"
+    ]
+  },
+  {
+    "id": "daily_vi_0171",
+    "level": "HSK2",
+    "topic": "Lý do - kết quả",
+    "vi_sentence": "Vì thời tiết rất lạnh, nên tôi không đi trường học.",
+    "answer_zh": "因为天气很冷，所以我不去学校。",
+    "pinyin": "yīnwèi tiānqì hěn lěng, suǒyǐ wǒ bù qù xuéxiào.",
+    "grammar_focus": "因为...所以...",
+    "focus_words": [
+      "因为",
+      "天气很冷",
+      "所以",
+      "不",
+      "去",
+      "学校"
+    ]
+  },
+  {
+    "id": "daily_vi_0172",
+    "level": "HSK2",
+    "topic": "Lý do - kết quả",
+    "vi_sentence": "Vì thời tiết rất lạnh, nên tôi không đi bệnh viện.",
+    "answer_zh": "因为天气很冷，所以我不去医院。",
+    "pinyin": "yīnwèi tiānqì hěn lěng, suǒyǐ wǒ bù qù yīyuàn.",
+    "grammar_focus": "因为...所以...",
+    "focus_words": [
+      "因为",
+      "天气很冷",
+      "所以",
+      "不",
+      "去",
+      "医院"
+    ]
+  },
+  {
+    "id": "daily_vi_0173",
+    "level": "HSK2",
+    "topic": "Lý do - kết quả",
+    "vi_sentence": "Vì thời tiết rất lạnh, nên tôi không đi cửa hàng.",
+    "answer_zh": "因为天气很冷，所以我不去商店。",
+    "pinyin": "yīnwèi tiānqì hěn lěng, suǒyǐ wǒ bù qù shāngdiàn.",
+    "grammar_focus": "因为...所以...",
+    "focus_words": [
+      "因为",
+      "天气很冷",
+      "所以",
+      "不",
+      "去",
+      "商店"
+    ]
+  },
+  {
+    "id": "daily_vi_0174",
+    "level": "HSK2",
+    "topic": "Lý do - kết quả",
+    "vi_sentence": "Vì thời tiết rất lạnh, nên tôi không đi nhà hàng.",
+    "answer_zh": "因为天气很冷，所以我不去饭店。",
+    "pinyin": "yīnwèi tiānqì hěn lěng, suǒyǐ wǒ bù qù fàndiàn.",
+    "grammar_focus": "因为...所以...",
+    "focus_words": [
+      "因为",
+      "天气很冷",
+      "所以",
+      "不",
+      "去",
+      "饭店"
+    ]
+  },
+  {
+    "id": "daily_vi_0175",
+    "level": "HSK2",
+    "topic": "Lý do - kết quả",
+    "vi_sentence": "Vì thời tiết rất lạnh, nên tôi không đi công ty.",
+    "answer_zh": "因为天气很冷，所以我不去公司。",
+    "pinyin": "yīnwèi tiānqì hěn lěng, suǒyǐ wǒ bù qù gōngsī.",
+    "grammar_focus": "因为...所以...",
+    "focus_words": [
+      "因为",
+      "天气很冷",
+      "所以",
+      "不",
+      "去",
+      "公司"
+    ]
+  },
+  {
+    "id": "daily_vi_0176",
+    "level": "HSK2",
+    "topic": "Lý do - kết quả",
+    "vi_sentence": "Vì thời tiết rất lạnh, nên bạn tôi không đi trường học.",
+    "answer_zh": "因为天气很冷，所以我朋友不去学校。",
+    "pinyin": "yīnwèi tiānqì hěn lěng, suǒyǐ wǒ péngyou bù qù xuéxiào.",
+    "grammar_focus": "因为...所以...",
+    "focus_words": [
+      "因为",
+      "天气很冷",
+      "所以",
+      "不",
+      "去",
+      "学校"
+    ]
+  },
+  {
+    "id": "daily_vi_0177",
+    "level": "HSK2",
+    "topic": "Lý do - kết quả",
+    "vi_sentence": "Vì thời tiết rất lạnh, nên bạn tôi không đi bệnh viện.",
+    "answer_zh": "因为天气很冷，所以我朋友不去医院。",
+    "pinyin": "yīnwèi tiānqì hěn lěng, suǒyǐ wǒ péngyou bù qù yīyuàn.",
+    "grammar_focus": "因为...所以...",
+    "focus_words": [
+      "因为",
+      "天气很冷",
+      "所以",
+      "不",
+      "去",
+      "医院"
+    ]
+  },
+  {
+    "id": "daily_vi_0178",
+    "level": "HSK2",
+    "topic": "Lý do - kết quả",
+    "vi_sentence": "Vì thời tiết rất lạnh, nên bạn tôi không đi cửa hàng.",
+    "answer_zh": "因为天气很冷，所以我朋友不去商店。",
+    "pinyin": "yīnwèi tiānqì hěn lěng, suǒyǐ wǒ péngyou bù qù shāngdiàn.",
+    "grammar_focus": "因为...所以...",
+    "focus_words": [
+      "因为",
+      "天气很冷",
+      "所以",
+      "不",
+      "去",
+      "商店"
+    ]
+  },
+  {
+    "id": "daily_vi_0179",
+    "level": "HSK2",
+    "topic": "Lý do - kết quả",
+    "vi_sentence": "Vì thời tiết rất lạnh, nên bạn tôi không đi nhà hàng.",
+    "answer_zh": "因为天气很冷，所以我朋友不去饭店。",
+    "pinyin": "yīnwèi tiānqì hěn lěng, suǒyǐ wǒ péngyou bù qù fàndiàn.",
+    "grammar_focus": "因为...所以...",
+    "focus_words": [
+      "因为",
+      "天气很冷",
+      "所以",
+      "不",
+      "去",
+      "饭店"
+    ]
+  },
+  {
+    "id": "daily_vi_0180",
+    "level": "HSK2",
+    "topic": "Lý do - kết quả",
+    "vi_sentence": "Vì thời tiết rất lạnh, nên bạn tôi không đi công ty.",
+    "answer_zh": "因为天气很冷，所以我朋友不去公司。",
+    "pinyin": "yīnwèi tiānqì hěn lěng, suǒyǐ wǒ péngyou bù qù gōngsī.",
+    "grammar_focus": "因为...所以...",
+    "focus_words": [
+      "因为",
+      "天气很冷",
+      "所以",
+      "不",
+      "去",
+      "公司"
+    ]
+  },
+  {
+    "id": "daily_vi_0181",
+    "level": "HSK2",
+    "topic": "Lý do - kết quả",
+    "vi_sentence": "Vì thời tiết rất lạnh, nên mẹ tôi không đi trường học.",
+    "answer_zh": "因为天气很冷，所以我妈妈不去学校。",
+    "pinyin": "yīnwèi tiānqì hěn lěng, suǒyǐ wǒ māma bù qù xuéxiào.",
+    "grammar_focus": "因为...所以...",
+    "focus_words": [
+      "因为",
+      "天气很冷",
+      "所以",
+      "不",
+      "去",
+      "学校"
+    ]
+  },
+  {
+    "id": "daily_vi_0182",
+    "level": "HSK2",
+    "topic": "Lý do - kết quả",
+    "vi_sentence": "Vì thời tiết rất lạnh, nên mẹ tôi không đi bệnh viện.",
+    "answer_zh": "因为天气很冷，所以我妈妈不去医院。",
+    "pinyin": "yīnwèi tiānqì hěn lěng, suǒyǐ wǒ māma bù qù yīyuàn.",
+    "grammar_focus": "因为...所以...",
+    "focus_words": [
+      "因为",
+      "天气很冷",
+      "所以",
+      "不",
+      "去",
+      "医院"
+    ]
+  },
+  {
+    "id": "daily_vi_0183",
+    "level": "HSK2",
+    "topic": "Lý do - kết quả",
+    "vi_sentence": "Vì thời tiết rất lạnh, nên mẹ tôi không đi cửa hàng.",
+    "answer_zh": "因为天气很冷，所以我妈妈不去商店。",
+    "pinyin": "yīnwèi tiānqì hěn lěng, suǒyǐ wǒ māma bù qù shāngdiàn.",
+    "grammar_focus": "因为...所以...",
+    "focus_words": [
+      "因为",
+      "天气很冷",
+      "所以",
+      "不",
+      "去",
+      "商店"
+    ]
+  },
+  {
+    "id": "daily_vi_0184",
+    "level": "HSK2",
+    "topic": "Lý do - kết quả",
+    "vi_sentence": "Vì thời tiết rất lạnh, nên mẹ tôi không đi nhà hàng.",
+    "answer_zh": "因为天气很冷，所以我妈妈不去饭店。",
+    "pinyin": "yīnwèi tiānqì hěn lěng, suǒyǐ wǒ māma bù qù fàndiàn.",
+    "grammar_focus": "因为...所以...",
+    "focus_words": [
+      "因为",
+      "天气很冷",
+      "所以",
+      "不",
+      "去",
+      "饭店"
+    ]
+  },
+  {
+    "id": "daily_vi_0185",
+    "level": "HSK2",
+    "topic": "Lý do - kết quả",
+    "vi_sentence": "Vì thời tiết rất lạnh, nên mẹ tôi không đi công ty.",
+    "answer_zh": "因为天气很冷，所以我妈妈不去公司。",
+    "pinyin": "yīnwèi tiānqì hěn lěng, suǒyǐ wǒ māma bù qù gōngsī.",
+    "grammar_focus": "因为...所以...",
+    "focus_words": [
+      "因为",
+      "天气很冷",
+      "所以",
+      "不",
+      "去",
+      "公司"
+    ]
+  },
+  {
+    "id": "daily_vi_0186",
+    "level": "HSK2",
+    "topic": "Lý do - kết quả",
+    "vi_sentence": "Vì thời tiết rất lạnh, nên bố tôi không đi trường học.",
+    "answer_zh": "因为天气很冷，所以我爸爸不去学校。",
+    "pinyin": "yīnwèi tiānqì hěn lěng, suǒyǐ wǒ bàba bù qù xuéxiào.",
+    "grammar_focus": "因为...所以...",
+    "focus_words": [
+      "因为",
+      "天气很冷",
+      "所以",
+      "不",
+      "去",
+      "学校"
+    ]
+  },
+  {
+    "id": "daily_vi_0187",
+    "level": "HSK2",
+    "topic": "Lý do - kết quả",
+    "vi_sentence": "Vì thời tiết rất lạnh, nên bố tôi không đi bệnh viện.",
+    "answer_zh": "因为天气很冷，所以我爸爸不去医院。",
+    "pinyin": "yīnwèi tiānqì hěn lěng, suǒyǐ wǒ bàba bù qù yīyuàn.",
+    "grammar_focus": "因为...所以...",
+    "focus_words": [
+      "因为",
+      "天气很冷",
+      "所以",
+      "不",
+      "去",
+      "医院"
+    ]
+  },
+  {
+    "id": "daily_vi_0188",
+    "level": "HSK2",
+    "topic": "Lý do - kết quả",
+    "vi_sentence": "Vì thời tiết rất lạnh, nên bố tôi không đi cửa hàng.",
+    "answer_zh": "因为天气很冷，所以我爸爸不去商店。",
+    "pinyin": "yīnwèi tiānqì hěn lěng, suǒyǐ wǒ bàba bù qù shāngdiàn.",
+    "grammar_focus": "因为...所以...",
+    "focus_words": [
+      "因为",
+      "天气很冷",
+      "所以",
+      "不",
+      "去",
+      "商店"
+    ]
+  },
+  {
+    "id": "daily_vi_0189",
+    "level": "HSK2",
+    "topic": "Lý do - kết quả",
+    "vi_sentence": "Vì thời tiết rất lạnh, nên bố tôi không đi nhà hàng.",
+    "answer_zh": "因为天气很冷，所以我爸爸不去饭店。",
+    "pinyin": "yīnwèi tiānqì hěn lěng, suǒyǐ wǒ bàba bù qù fàndiàn.",
+    "grammar_focus": "因为...所以...",
+    "focus_words": [
+      "因为",
+      "天气很冷",
+      "所以",
+      "不",
+      "去",
+      "饭店"
+    ]
+  },
+  {
+    "id": "daily_vi_0190",
+    "level": "HSK2",
+    "topic": "Lý do - kết quả",
+    "vi_sentence": "Vì thời tiết rất lạnh, nên bố tôi không đi công ty.",
+    "answer_zh": "因为天气很冷，所以我爸爸不去公司。",
+    "pinyin": "yīnwèi tiānqì hěn lěng, suǒyǐ wǒ bàba bù qù gōngsī.",
+    "grammar_focus": "因为...所以...",
+    "focus_words": [
+      "因为",
+      "天气很冷",
+      "所以",
+      "不",
+      "去",
+      "公司"
+    ]
+  },
+  {
+    "id": "daily_vi_0191",
+    "level": "HSK2",
+    "topic": "Lý do - kết quả",
+    "vi_sentence": "Vì thời tiết rất nóng, nên tôi không đi trường học.",
+    "answer_zh": "因为天气很热，所以我不去学校。",
+    "pinyin": "yīnwèi tiānqì hěn rè, suǒyǐ wǒ bù qù xuéxiào.",
+    "grammar_focus": "因为...所以...",
+    "focus_words": [
+      "因为",
+      "天气很热",
+      "所以",
+      "不",
+      "去",
+      "学校"
+    ]
+  },
+  {
+    "id": "daily_vi_0192",
+    "level": "HSK2",
+    "topic": "Lý do - kết quả",
+    "vi_sentence": "Vì thời tiết rất nóng, nên tôi không đi bệnh viện.",
+    "answer_zh": "因为天气很热，所以我不去医院。",
+    "pinyin": "yīnwèi tiānqì hěn rè, suǒyǐ wǒ bù qù yīyuàn.",
+    "grammar_focus": "因为...所以...",
+    "focus_words": [
+      "因为",
+      "天气很热",
+      "所以",
+      "不",
+      "去",
+      "医院"
+    ]
+  },
+  {
+    "id": "daily_vi_0193",
+    "level": "HSK2",
+    "topic": "Lý do - kết quả",
+    "vi_sentence": "Vì thời tiết rất nóng, nên tôi không đi cửa hàng.",
+    "answer_zh": "因为天气很热，所以我不去商店。",
+    "pinyin": "yīnwèi tiānqì hěn rè, suǒyǐ wǒ bù qù shāngdiàn.",
+    "grammar_focus": "因为...所以...",
+    "focus_words": [
+      "因为",
+      "天气很热",
+      "所以",
+      "不",
+      "去",
+      "商店"
+    ]
+  },
+  {
+    "id": "daily_vi_0194",
+    "level": "HSK2",
+    "topic": "Lý do - kết quả",
+    "vi_sentence": "Vì thời tiết rất nóng, nên tôi không đi nhà hàng.",
+    "answer_zh": "因为天气很热，所以我不去饭店。",
+    "pinyin": "yīnwèi tiānqì hěn rè, suǒyǐ wǒ bù qù fàndiàn.",
+    "grammar_focus": "因为...所以...",
+    "focus_words": [
+      "因为",
+      "天气很热",
+      "所以",
+      "不",
+      "去",
+      "饭店"
+    ]
+  },
+  {
+    "id": "daily_vi_0195",
+    "level": "HSK2",
+    "topic": "Lý do - kết quả",
+    "vi_sentence": "Vì thời tiết rất nóng, nên tôi không đi công ty.",
+    "answer_zh": "因为天气很热，所以我不去公司。",
+    "pinyin": "yīnwèi tiānqì hěn rè, suǒyǐ wǒ bù qù gōngsī.",
+    "grammar_focus": "因为...所以...",
+    "focus_words": [
+      "因为",
+      "天气很热",
+      "所以",
+      "不",
+      "去",
+      "公司"
+    ]
+  },
+  {
+    "id": "daily_vi_0196",
+    "level": "HSK2",
+    "topic": "Lý do - kết quả",
+    "vi_sentence": "Vì thời tiết rất nóng, nên bạn tôi không đi trường học.",
+    "answer_zh": "因为天气很热，所以我朋友不去学校。",
+    "pinyin": "yīnwèi tiānqì hěn rè, suǒyǐ wǒ péngyou bù qù xuéxiào.",
+    "grammar_focus": "因为...所以...",
+    "focus_words": [
+      "因为",
+      "天气很热",
+      "所以",
+      "不",
+      "去",
+      "学校"
+    ]
+  },
+  {
+    "id": "daily_vi_0197",
+    "level": "HSK2",
+    "topic": "Lý do - kết quả",
+    "vi_sentence": "Vì thời tiết rất nóng, nên bạn tôi không đi bệnh viện.",
+    "answer_zh": "因为天气很热，所以我朋友不去医院。",
+    "pinyin": "yīnwèi tiānqì hěn rè, suǒyǐ wǒ péngyou bù qù yīyuàn.",
+    "grammar_focus": "因为...所以...",
+    "focus_words": [
+      "因为",
+      "天气很热",
+      "所以",
+      "不",
+      "去",
+      "医院"
+    ]
+  },
+  {
+    "id": "daily_vi_0198",
+    "level": "HSK2",
+    "topic": "Lý do - kết quả",
+    "vi_sentence": "Vì thời tiết rất nóng, nên bạn tôi không đi cửa hàng.",
+    "answer_zh": "因为天气很热，所以我朋友不去商店。",
+    "pinyin": "yīnwèi tiānqì hěn rè, suǒyǐ wǒ péngyou bù qù shāngdiàn.",
+    "grammar_focus": "因为...所以...",
+    "focus_words": [
+      "因为",
+      "天气很热",
+      "所以",
+      "不",
+      "去",
+      "商店"
+    ]
+  },
+  {
+    "id": "daily_vi_0199",
+    "level": "HSK2",
+    "topic": "Lý do - kết quả",
+    "vi_sentence": "Vì thời tiết rất nóng, nên bạn tôi không đi nhà hàng.",
+    "answer_zh": "因为天气很热，所以我朋友不去饭店。",
+    "pinyin": "yīnwèi tiānqì hěn rè, suǒyǐ wǒ péngyou bù qù fàndiàn.",
+    "grammar_focus": "因为...所以...",
+    "focus_words": [
+      "因为",
+      "天气很热",
+      "所以",
+      "不",
+      "去",
+      "饭店"
+    ]
+  },
+  {
+    "id": "daily_vi_0200",
+    "level": "HSK2",
+    "topic": "Lý do - kết quả",
+    "vi_sentence": "Vì thời tiết rất nóng, nên bạn tôi không đi công ty.",
+    "answer_zh": "因为天气很热，所以我朋友不去公司。",
+    "pinyin": "yīnwèi tiānqì hěn rè, suǒyǐ wǒ péngyou bù qù gōngsī.",
+    "grammar_focus": "因为...所以...",
+    "focus_words": [
+      "因为",
+      "天气很热",
+      "所以",
+      "不",
+      "去",
+      "公司"
+    ]
+  },
+  {
+    "id": "daily_vi_0201",
+    "level": "HSK2",
+    "topic": "Lý do - kết quả",
+    "vi_sentence": "Vì thời tiết rất nóng, nên mẹ tôi không đi trường học.",
+    "answer_zh": "因为天气很热，所以我妈妈不去学校。",
+    "pinyin": "yīnwèi tiānqì hěn rè, suǒyǐ wǒ māma bù qù xuéxiào.",
+    "grammar_focus": "因为...所以...",
+    "focus_words": [
+      "因为",
+      "天气很热",
+      "所以",
+      "不",
+      "去",
+      "学校"
+    ]
+  },
+  {
+    "id": "daily_vi_0202",
+    "level": "HSK2",
+    "topic": "Lý do - kết quả",
+    "vi_sentence": "Vì thời tiết rất nóng, nên mẹ tôi không đi bệnh viện.",
+    "answer_zh": "因为天气很热，所以我妈妈不去医院。",
+    "pinyin": "yīnwèi tiānqì hěn rè, suǒyǐ wǒ māma bù qù yīyuàn.",
+    "grammar_focus": "因为...所以...",
+    "focus_words": [
+      "因为",
+      "天气很热",
+      "所以",
+      "不",
+      "去",
+      "医院"
+    ]
+  },
+  {
+    "id": "daily_vi_0203",
+    "level": "HSK2",
+    "topic": "Lý do - kết quả",
+    "vi_sentence": "Vì thời tiết rất nóng, nên mẹ tôi không đi cửa hàng.",
+    "answer_zh": "因为天气很热，所以我妈妈不去商店。",
+    "pinyin": "yīnwèi tiānqì hěn rè, suǒyǐ wǒ māma bù qù shāngdiàn.",
+    "grammar_focus": "因为...所以...",
+    "focus_words": [
+      "因为",
+      "天气很热",
+      "所以",
+      "不",
+      "去",
+      "商店"
+    ]
+  },
+  {
+    "id": "daily_vi_0204",
+    "level": "HSK2",
+    "topic": "Lý do - kết quả",
+    "vi_sentence": "Vì thời tiết rất nóng, nên mẹ tôi không đi nhà hàng.",
+    "answer_zh": "因为天气很热，所以我妈妈不去饭店。",
+    "pinyin": "yīnwèi tiānqì hěn rè, suǒyǐ wǒ māma bù qù fàndiàn.",
+    "grammar_focus": "因为...所以...",
+    "focus_words": [
+      "因为",
+      "天气很热",
+      "所以",
+      "不",
+      "去",
+      "饭店"
+    ]
+  },
+  {
+    "id": "daily_vi_0205",
+    "level": "HSK2",
+    "topic": "Lý do - kết quả",
+    "vi_sentence": "Vì thời tiết rất nóng, nên mẹ tôi không đi công ty.",
+    "answer_zh": "因为天气很热，所以我妈妈不去公司。",
+    "pinyin": "yīnwèi tiānqì hěn rè, suǒyǐ wǒ māma bù qù gōngsī.",
+    "grammar_focus": "因为...所以...",
+    "focus_words": [
+      "因为",
+      "天气很热",
+      "所以",
+      "不",
+      "去",
+      "公司"
+    ]
+  },
+  {
+    "id": "daily_vi_0206",
+    "level": "HSK2",
+    "topic": "Lý do - kết quả",
+    "vi_sentence": "Vì thời tiết rất nóng, nên bố tôi không đi trường học.",
+    "answer_zh": "因为天气很热，所以我爸爸不去学校。",
+    "pinyin": "yīnwèi tiānqì hěn rè, suǒyǐ wǒ bàba bù qù xuéxiào.",
+    "grammar_focus": "因为...所以...",
+    "focus_words": [
+      "因为",
+      "天气很热",
+      "所以",
+      "不",
+      "去",
+      "学校"
+    ]
+  },
+  {
+    "id": "daily_vi_0207",
+    "level": "HSK2",
+    "topic": "Lý do - kết quả",
+    "vi_sentence": "Vì thời tiết rất nóng, nên bố tôi không đi bệnh viện.",
+    "answer_zh": "因为天气很热，所以我爸爸不去医院。",
+    "pinyin": "yīnwèi tiānqì hěn rè, suǒyǐ wǒ bàba bù qù yīyuàn.",
+    "grammar_focus": "因为...所以...",
+    "focus_words": [
+      "因为",
+      "天气很热",
+      "所以",
+      "不",
+      "去",
+      "医院"
+    ]
+  },
+  {
+    "id": "daily_vi_0208",
+    "level": "HSK2",
+    "topic": "Lý do - kết quả",
+    "vi_sentence": "Vì thời tiết rất nóng, nên bố tôi không đi cửa hàng.",
+    "answer_zh": "因为天气很热，所以我爸爸不去商店。",
+    "pinyin": "yīnwèi tiānqì hěn rè, suǒyǐ wǒ bàba bù qù shāngdiàn.",
+    "grammar_focus": "因为...所以...",
+    "focus_words": [
+      "因为",
+      "天气很热",
+      "所以",
+      "不",
+      "去",
+      "商店"
+    ]
+  },
+  {
+    "id": "daily_vi_0209",
+    "level": "HSK2",
+    "topic": "Lý do - kết quả",
+    "vi_sentence": "Vì thời tiết rất nóng, nên bố tôi không đi nhà hàng.",
+    "answer_zh": "因为天气很热，所以我爸爸不去饭店。",
+    "pinyin": "yīnwèi tiānqì hěn rè, suǒyǐ wǒ bàba bù qù fàndiàn.",
+    "grammar_focus": "因为...所以...",
+    "focus_words": [
+      "因为",
+      "天气很热",
+      "所以",
+      "不",
+      "去",
+      "饭店"
+    ]
+  },
+  {
+    "id": "daily_vi_0210",
+    "level": "HSK2",
+    "topic": "Lý do - kết quả",
+    "vi_sentence": "Vì thời tiết rất nóng, nên bố tôi không đi công ty.",
+    "answer_zh": "因为天气很热，所以我爸爸不去公司。",
+    "pinyin": "yīnwèi tiānqì hěn rè, suǒyǐ wǒ bàba bù qù gōngsī.",
+    "grammar_focus": "因为...所以...",
+    "focus_words": [
+      "因为",
+      "天气很热",
+      "所以",
+      "不",
+      "去",
+      "公司"
+    ]
+  },
+  {
+    "id": "daily_vi_0211",
+    "level": "HSK2",
+    "topic": "Tương phản",
+    "vi_sentence": "Tuy tôi rất bận, nhưng vẫn muốn học tiếng Trung.",
+    "answer_zh": "虽然我很忙，但是还想学习汉语。",
+    "pinyin": "suīrán wǒ hěn máng, dànshì hái xiǎng xuéxí Hànyǔ.",
+    "grammar_focus": "虽然...但是...；还想 + động từ",
+    "focus_words": [
+      "虽然",
+      "很",
+      "忙",
+      "但是",
+      "还",
+      "想",
+      "学习汉语"
+    ]
+  },
+  {
+    "id": "daily_vi_0212",
+    "level": "HSK2",
+    "topic": "Tương phản",
+    "vi_sentence": "Tuy tôi rất bận, nhưng vẫn muốn đọc sách.",
+    "answer_zh": "虽然我很忙，但是还想看书。",
+    "pinyin": "suīrán wǒ hěn máng, dànshì hái xiǎng kàn shū.",
+    "grammar_focus": "虽然...但是...；还想 + động từ",
+    "focus_words": [
+      "虽然",
+      "很",
+      "忙",
+      "但是",
+      "还",
+      "想",
+      "看书"
+    ]
+  },
+  {
+    "id": "daily_vi_0213",
+    "level": "HSK2",
+    "topic": "Tương phản",
+    "vi_sentence": "Tuy tôi rất bận, nhưng vẫn muốn xem phim.",
+    "answer_zh": "虽然我很忙，但是还想看电影。",
+    "pinyin": "suīrán wǒ hěn máng, dànshì hái xiǎng kàn diànyǐng.",
+    "grammar_focus": "虽然...但是...；还想 + động từ",
+    "focus_words": [
+      "虽然",
+      "很",
+      "忙",
+      "但是",
+      "还",
+      "想",
+      "看电影"
+    ]
+  },
+  {
+    "id": "daily_vi_0214",
+    "level": "HSK2",
+    "topic": "Tương phản",
+    "vi_sentence": "Tuy tôi rất bận, nhưng vẫn muốn nghe thầy giáo nói.",
+    "answer_zh": "虽然我很忙，但是还想听老师说话。",
+    "pinyin": "suīrán wǒ hěn máng, dànshì hái xiǎng tīng lǎoshī shuōhuà.",
+    "grammar_focus": "虽然...但是...；还想 + động từ",
+    "focus_words": [
+      "虽然",
+      "很",
+      "忙",
+      "但是",
+      "还",
+      "想",
+      "听老师说话"
+    ]
+  },
+  {
+    "id": "daily_vi_0215",
+    "level": "HSK2",
+    "topic": "Tương phản",
+    "vi_sentence": "Tuy tôi rất bận, nhưng vẫn muốn gọi điện thoại.",
+    "answer_zh": "虽然我很忙，但是还想打电话。",
+    "pinyin": "suīrán wǒ hěn máng, dànshì hái xiǎng dǎ diànhuà.",
+    "grammar_focus": "虽然...但是...；还想 + động từ",
+    "focus_words": [
+      "虽然",
+      "很",
+      "忙",
+      "但是",
+      "还",
+      "想",
+      "打电话"
+    ]
+  },
+  {
+    "id": "daily_vi_0216",
+    "level": "HSK2",
+    "topic": "Tương phản",
+    "vi_sentence": "Tuy tôi rất bận, nhưng vẫn muốn nghỉ ngơi.",
+    "answer_zh": "虽然我很忙，但是还想休息。",
+    "pinyin": "suīrán wǒ hěn máng, dànshì hái xiǎng xiūxi.",
+    "grammar_focus": "虽然...但是...；还想 + động từ",
+    "focus_words": [
+      "虽然",
+      "很",
+      "忙",
+      "但是",
+      "还",
+      "想",
+      "休息"
+    ]
+  },
+  {
+    "id": "daily_vi_0217",
+    "level": "HSK2",
+    "topic": "Tương phản",
+    "vi_sentence": "Tuy tôi rất vui, nhưng vẫn muốn học tiếng Trung.",
+    "answer_zh": "虽然我很高兴，但是还想学习汉语。",
+    "pinyin": "suīrán wǒ hěn gāoxìng, dànshì hái xiǎng xuéxí Hànyǔ.",
+    "grammar_focus": "虽然...但是...；还想 + động từ",
+    "focus_words": [
+      "虽然",
+      "很",
+      "高兴",
+      "但是",
+      "还",
+      "想",
+      "学习汉语"
+    ]
+  },
+  {
+    "id": "daily_vi_0218",
+    "level": "HSK2",
+    "topic": "Tương phản",
+    "vi_sentence": "Tuy tôi rất vui, nhưng vẫn muốn đọc sách.",
+    "answer_zh": "虽然我很高兴，但是还想看书。",
+    "pinyin": "suīrán wǒ hěn gāoxìng, dànshì hái xiǎng kàn shū.",
+    "grammar_focus": "虽然...但是...；还想 + động từ",
+    "focus_words": [
+      "虽然",
+      "很",
+      "高兴",
+      "但是",
+      "还",
+      "想",
+      "看书"
+    ]
+  },
+  {
+    "id": "daily_vi_0219",
+    "level": "HSK2",
+    "topic": "Tương phản",
+    "vi_sentence": "Tuy tôi rất vui, nhưng vẫn muốn xem phim.",
+    "answer_zh": "虽然我很高兴，但是还想看电影。",
+    "pinyin": "suīrán wǒ hěn gāoxìng, dànshì hái xiǎng kàn diànyǐng.",
+    "grammar_focus": "虽然...但是...；还想 + động từ",
+    "focus_words": [
+      "虽然",
+      "很",
+      "高兴",
+      "但是",
+      "还",
+      "想",
+      "看电影"
+    ]
+  },
+  {
+    "id": "daily_vi_0220",
+    "level": "HSK2",
+    "topic": "Tương phản",
+    "vi_sentence": "Tuy tôi rất vui, nhưng vẫn muốn nghe thầy giáo nói.",
+    "answer_zh": "虽然我很高兴，但是还想听老师说话。",
+    "pinyin": "suīrán wǒ hěn gāoxìng, dànshì hái xiǎng tīng lǎoshī shuōhuà.",
+    "grammar_focus": "虽然...但是...；还想 + động từ",
+    "focus_words": [
+      "虽然",
+      "很",
+      "高兴",
+      "但是",
+      "还",
+      "想",
+      "听老师说话"
+    ]
+  },
+  {
+    "id": "daily_vi_0221",
+    "level": "HSK2",
+    "topic": "Tương phản",
+    "vi_sentence": "Tuy tôi rất vui, nhưng vẫn muốn gọi điện thoại.",
+    "answer_zh": "虽然我很高兴，但是还想打电话。",
+    "pinyin": "suīrán wǒ hěn gāoxìng, dànshì hái xiǎng dǎ diànhuà.",
+    "grammar_focus": "虽然...但是...；还想 + động từ",
+    "focus_words": [
+      "虽然",
+      "很",
+      "高兴",
+      "但是",
+      "还",
+      "想",
+      "打电话"
+    ]
+  },
+  {
+    "id": "daily_vi_0222",
+    "level": "HSK2",
+    "topic": "Tương phản",
+    "vi_sentence": "Tuy tôi rất vui, nhưng vẫn muốn nghỉ ngơi.",
+    "answer_zh": "虽然我很高兴，但是还想休息。",
+    "pinyin": "suīrán wǒ hěn gāoxìng, dànshì hái xiǎng xiūxi.",
+    "grammar_focus": "虽然...但是...；还想 + động từ",
+    "focus_words": [
+      "虽然",
+      "很",
+      "高兴",
+      "但是",
+      "还",
+      "想",
+      "休息"
+    ]
+  },
+  {
+    "id": "daily_vi_0223",
+    "level": "HSK2",
+    "topic": "Tương phản",
+    "vi_sentence": "Tuy tôi rất mệt, nhưng vẫn muốn học tiếng Trung.",
+    "answer_zh": "虽然我很累，但是还想学习汉语。",
+    "pinyin": "suīrán wǒ hěn lèi, dànshì hái xiǎng xuéxí Hànyǔ.",
+    "grammar_focus": "虽然...但是...；还想 + động từ",
+    "focus_words": [
+      "虽然",
+      "很",
+      "累",
+      "但是",
+      "还",
+      "想",
+      "学习汉语"
+    ]
+  },
+  {
+    "id": "daily_vi_0224",
+    "level": "HSK2",
+    "topic": "Tương phản",
+    "vi_sentence": "Tuy tôi rất mệt, nhưng vẫn muốn đọc sách.",
+    "answer_zh": "虽然我很累，但是还想看书。",
+    "pinyin": "suīrán wǒ hěn lèi, dànshì hái xiǎng kàn shū.",
+    "grammar_focus": "虽然...但是...；还想 + động từ",
+    "focus_words": [
+      "虽然",
+      "很",
+      "累",
+      "但是",
+      "还",
+      "想",
+      "看书"
+    ]
+  },
+  {
+    "id": "daily_vi_0225",
+    "level": "HSK2",
+    "topic": "Tương phản",
+    "vi_sentence": "Tuy tôi rất mệt, nhưng vẫn muốn xem phim.",
+    "answer_zh": "虽然我很累，但是还想看电影。",
+    "pinyin": "suīrán wǒ hěn lèi, dànshì hái xiǎng kàn diànyǐng.",
+    "grammar_focus": "虽然...但是...；还想 + động từ",
+    "focus_words": [
+      "虽然",
+      "很",
+      "累",
+      "但是",
+      "还",
+      "想",
+      "看电影"
+    ]
+  },
+  {
+    "id": "daily_vi_0226",
+    "level": "HSK2",
+    "topic": "Tương phản",
+    "vi_sentence": "Tuy tôi rất mệt, nhưng vẫn muốn nghe thầy giáo nói.",
+    "answer_zh": "虽然我很累，但是还想听老师说话。",
+    "pinyin": "suīrán wǒ hěn lèi, dànshì hái xiǎng tīng lǎoshī shuōhuà.",
+    "grammar_focus": "虽然...但是...；还想 + động từ",
+    "focus_words": [
+      "虽然",
+      "很",
+      "累",
+      "但是",
+      "还",
+      "想",
+      "听老师说话"
+    ]
+  },
+  {
+    "id": "daily_vi_0227",
+    "level": "HSK2",
+    "topic": "Tương phản",
+    "vi_sentence": "Tuy tôi rất mệt, nhưng vẫn muốn gọi điện thoại.",
+    "answer_zh": "虽然我很累，但是还想打电话。",
+    "pinyin": "suīrán wǒ hěn lèi, dànshì hái xiǎng dǎ diànhuà.",
+    "grammar_focus": "虽然...但是...；还想 + động từ",
+    "focus_words": [
+      "虽然",
+      "很",
+      "累",
+      "但是",
+      "还",
+      "想",
+      "打电话"
+    ]
+  },
+  {
+    "id": "daily_vi_0228",
+    "level": "HSK2",
+    "topic": "Tương phản",
+    "vi_sentence": "Tuy tôi rất mệt, nhưng vẫn muốn nghỉ ngơi.",
+    "answer_zh": "虽然我很累，但是还想休息。",
+    "pinyin": "suīrán wǒ hěn lèi, dànshì hái xiǎng xiūxi.",
+    "grammar_focus": "虽然...但是...；还想 + động từ",
+    "focus_words": [
+      "虽然",
+      "很",
+      "累",
+      "但是",
+      "还",
+      "想",
+      "休息"
+    ]
+  },
+  {
+    "id": "daily_vi_0229",
+    "level": "HSK2",
+    "topic": "Tương phản",
+    "vi_sentence": "Tuy tôi rất lạnh, nhưng vẫn muốn học tiếng Trung.",
+    "answer_zh": "虽然我很冷，但是还想学习汉语。",
+    "pinyin": "suīrán wǒ hěn lěng, dànshì hái xiǎng xuéxí Hànyǔ.",
+    "grammar_focus": "虽然...但是...；还想 + động từ",
+    "focus_words": [
+      "虽然",
+      "很",
+      "冷",
+      "但是",
+      "还",
+      "想",
+      "学习汉语"
+    ]
+  },
+  {
+    "id": "daily_vi_0230",
+    "level": "HSK2",
+    "topic": "Tương phản",
+    "vi_sentence": "Tuy tôi rất lạnh, nhưng vẫn muốn đọc sách.",
+    "answer_zh": "虽然我很冷，但是还想看书。",
+    "pinyin": "suīrán wǒ hěn lěng, dànshì hái xiǎng kàn shū.",
+    "grammar_focus": "虽然...但是...；还想 + động từ",
+    "focus_words": [
+      "虽然",
+      "很",
+      "冷",
+      "但是",
+      "还",
+      "想",
+      "看书"
+    ]
+  },
+  {
+    "id": "daily_vi_0231",
+    "level": "HSK2",
+    "topic": "Tương phản",
+    "vi_sentence": "Tuy tôi rất lạnh, nhưng vẫn muốn xem phim.",
+    "answer_zh": "虽然我很冷，但是还想看电影。",
+    "pinyin": "suīrán wǒ hěn lěng, dànshì hái xiǎng kàn diànyǐng.",
+    "grammar_focus": "虽然...但是...；还想 + động từ",
+    "focus_words": [
+      "虽然",
+      "很",
+      "冷",
+      "但是",
+      "还",
+      "想",
+      "看电影"
+    ]
+  },
+  {
+    "id": "daily_vi_0232",
+    "level": "HSK2",
+    "topic": "Tương phản",
+    "vi_sentence": "Tuy tôi rất lạnh, nhưng vẫn muốn nghe thầy giáo nói.",
+    "answer_zh": "虽然我很冷，但是还想听老师说话。",
+    "pinyin": "suīrán wǒ hěn lěng, dànshì hái xiǎng tīng lǎoshī shuōhuà.",
+    "grammar_focus": "虽然...但是...；还想 + động từ",
+    "focus_words": [
+      "虽然",
+      "很",
+      "冷",
+      "但是",
+      "还",
+      "想",
+      "听老师说话"
+    ]
+  },
+  {
+    "id": "daily_vi_0233",
+    "level": "HSK2",
+    "topic": "Tương phản",
+    "vi_sentence": "Tuy tôi rất lạnh, nhưng vẫn muốn gọi điện thoại.",
+    "answer_zh": "虽然我很冷，但是还想打电话。",
+    "pinyin": "suīrán wǒ hěn lěng, dànshì hái xiǎng dǎ diànhuà.",
+    "grammar_focus": "虽然...但是...；还想 + động từ",
+    "focus_words": [
+      "虽然",
+      "很",
+      "冷",
+      "但是",
+      "还",
+      "想",
+      "打电话"
+    ]
+  },
+  {
+    "id": "daily_vi_0234",
+    "level": "HSK2",
+    "topic": "Tương phản",
+    "vi_sentence": "Tuy tôi rất lạnh, nhưng vẫn muốn nghỉ ngơi.",
+    "answer_zh": "虽然我很冷，但是还想休息。",
+    "pinyin": "suīrán wǒ hěn lěng, dànshì hái xiǎng xiūxi.",
+    "grammar_focus": "虽然...但是...；还想 + động từ",
+    "focus_words": [
+      "虽然",
+      "很",
+      "冷",
+      "但是",
+      "还",
+      "想",
+      "休息"
+    ]
+  },
+  {
+    "id": "daily_vi_0235",
+    "level": "HSK2",
+    "topic": "Tương phản",
+    "vi_sentence": "Tuy bạn tôi rất bận, nhưng vẫn muốn học tiếng Trung.",
+    "answer_zh": "虽然我朋友很忙，但是还想学习汉语。",
+    "pinyin": "suīrán wǒ péngyou hěn máng, dànshì hái xiǎng xuéxí Hànyǔ.",
+    "grammar_focus": "虽然...但是...；还想 + động từ",
+    "focus_words": [
+      "虽然",
+      "很",
+      "忙",
+      "但是",
+      "还",
+      "想",
+      "学习汉语"
+    ]
+  },
+  {
+    "id": "daily_vi_0236",
+    "level": "HSK2",
+    "topic": "Tương phản",
+    "vi_sentence": "Tuy bạn tôi rất bận, nhưng vẫn muốn đọc sách.",
+    "answer_zh": "虽然我朋友很忙，但是还想看书。",
+    "pinyin": "suīrán wǒ péngyou hěn máng, dànshì hái xiǎng kàn shū.",
+    "grammar_focus": "虽然...但是...；还想 + động từ",
+    "focus_words": [
+      "虽然",
+      "很",
+      "忙",
+      "但是",
+      "还",
+      "想",
+      "看书"
+    ]
+  },
+  {
+    "id": "daily_vi_0237",
+    "level": "HSK2",
+    "topic": "Tương phản",
+    "vi_sentence": "Tuy bạn tôi rất bận, nhưng vẫn muốn xem phim.",
+    "answer_zh": "虽然我朋友很忙，但是还想看电影。",
+    "pinyin": "suīrán wǒ péngyou hěn máng, dànshì hái xiǎng kàn diànyǐng.",
+    "grammar_focus": "虽然...但是...；还想 + động từ",
+    "focus_words": [
+      "虽然",
+      "很",
+      "忙",
+      "但是",
+      "还",
+      "想",
+      "看电影"
+    ]
+  },
+  {
+    "id": "daily_vi_0238",
+    "level": "HSK2",
+    "topic": "Tương phản",
+    "vi_sentence": "Tuy bạn tôi rất bận, nhưng vẫn muốn nghe thầy giáo nói.",
+    "answer_zh": "虽然我朋友很忙，但是还想听老师说话。",
+    "pinyin": "suīrán wǒ péngyou hěn máng, dànshì hái xiǎng tīng lǎoshī shuōhuà.",
+    "grammar_focus": "虽然...但是...；还想 + động từ",
+    "focus_words": [
+      "虽然",
+      "很",
+      "忙",
+      "但是",
+      "还",
+      "想",
+      "听老师说话"
+    ]
+  },
+  {
+    "id": "daily_vi_0239",
+    "level": "HSK2",
+    "topic": "Tương phản",
+    "vi_sentence": "Tuy bạn tôi rất bận, nhưng vẫn muốn gọi điện thoại.",
+    "answer_zh": "虽然我朋友很忙，但是还想打电话。",
+    "pinyin": "suīrán wǒ péngyou hěn máng, dànshì hái xiǎng dǎ diànhuà.",
+    "grammar_focus": "虽然...但是...；还想 + động từ",
+    "focus_words": [
+      "虽然",
+      "很",
+      "忙",
+      "但是",
+      "还",
+      "想",
+      "打电话"
+    ]
+  },
+  {
+    "id": "daily_vi_0240",
+    "level": "HSK2",
+    "topic": "Tương phản",
+    "vi_sentence": "Tuy bạn tôi rất bận, nhưng vẫn muốn nghỉ ngơi.",
+    "answer_zh": "虽然我朋友很忙，但是还想休息。",
+    "pinyin": "suīrán wǒ péngyou hěn máng, dànshì hái xiǎng xiūxi.",
+    "grammar_focus": "虽然...但是...；还想 + động từ",
+    "focus_words": [
+      "虽然",
+      "很",
+      "忙",
+      "但是",
+      "还",
+      "想",
+      "休息"
+    ]
+  },
+  {
+    "id": "daily_vi_0241",
+    "level": "HSK2",
+    "topic": "Tương phản",
+    "vi_sentence": "Tuy bạn tôi rất vui, nhưng vẫn muốn học tiếng Trung.",
+    "answer_zh": "虽然我朋友很高兴，但是还想学习汉语。",
+    "pinyin": "suīrán wǒ péngyou hěn gāoxìng, dànshì hái xiǎng xuéxí Hànyǔ.",
+    "grammar_focus": "虽然...但是...；还想 + động từ",
+    "focus_words": [
+      "虽然",
+      "很",
+      "高兴",
+      "但是",
+      "还",
+      "想",
+      "学习汉语"
+    ]
+  },
+  {
+    "id": "daily_vi_0242",
+    "level": "HSK2",
+    "topic": "Tương phản",
+    "vi_sentence": "Tuy bạn tôi rất vui, nhưng vẫn muốn đọc sách.",
+    "answer_zh": "虽然我朋友很高兴，但是还想看书。",
+    "pinyin": "suīrán wǒ péngyou hěn gāoxìng, dànshì hái xiǎng kàn shū.",
+    "grammar_focus": "虽然...但是...；还想 + động từ",
+    "focus_words": [
+      "虽然",
+      "很",
+      "高兴",
+      "但是",
+      "还",
+      "想",
+      "看书"
+    ]
+  },
+  {
+    "id": "daily_vi_0243",
+    "level": "HSK2",
+    "topic": "Tương phản",
+    "vi_sentence": "Tuy bạn tôi rất vui, nhưng vẫn muốn xem phim.",
+    "answer_zh": "虽然我朋友很高兴，但是还想看电影。",
+    "pinyin": "suīrán wǒ péngyou hěn gāoxìng, dànshì hái xiǎng kàn diànyǐng.",
+    "grammar_focus": "虽然...但是...；还想 + động từ",
+    "focus_words": [
+      "虽然",
+      "很",
+      "高兴",
+      "但是",
+      "还",
+      "想",
+      "看电影"
+    ]
+  },
+  {
+    "id": "daily_vi_0244",
+    "level": "HSK2",
+    "topic": "Tương phản",
+    "vi_sentence": "Tuy bạn tôi rất vui, nhưng vẫn muốn nghe thầy giáo nói.",
+    "answer_zh": "虽然我朋友很高兴，但是还想听老师说话。",
+    "pinyin": "suīrán wǒ péngyou hěn gāoxìng, dànshì hái xiǎng tīng lǎoshī shuōhuà.",
+    "grammar_focus": "虽然...但是...；还想 + động từ",
+    "focus_words": [
+      "虽然",
+      "很",
+      "高兴",
+      "但是",
+      "还",
+      "想",
+      "听老师说话"
+    ]
+  },
+  {
+    "id": "daily_vi_0245",
+    "level": "HSK2",
+    "topic": "Tương phản",
+    "vi_sentence": "Tuy bạn tôi rất vui, nhưng vẫn muốn gọi điện thoại.",
+    "answer_zh": "虽然我朋友很高兴，但是还想打电话。",
+    "pinyin": "suīrán wǒ péngyou hěn gāoxìng, dànshì hái xiǎng dǎ diànhuà.",
+    "grammar_focus": "虽然...但是...；还想 + động từ",
+    "focus_words": [
+      "虽然",
+      "很",
+      "高兴",
+      "但是",
+      "还",
+      "想",
+      "打电话"
+    ]
+  },
+  {
+    "id": "daily_vi_0246",
+    "level": "HSK2",
+    "topic": "Tương phản",
+    "vi_sentence": "Tuy bạn tôi rất vui, nhưng vẫn muốn nghỉ ngơi.",
+    "answer_zh": "虽然我朋友很高兴，但是还想休息。",
+    "pinyin": "suīrán wǒ péngyou hěn gāoxìng, dànshì hái xiǎng xiūxi.",
+    "grammar_focus": "虽然...但是...；还想 + động từ",
+    "focus_words": [
+      "虽然",
+      "很",
+      "高兴",
+      "但是",
+      "还",
+      "想",
+      "休息"
+    ]
+  },
+  {
+    "id": "daily_vi_0247",
+    "level": "HSK2",
+    "topic": "Tương phản",
+    "vi_sentence": "Tuy bạn tôi rất mệt, nhưng vẫn muốn học tiếng Trung.",
+    "answer_zh": "虽然我朋友很累，但是还想学习汉语。",
+    "pinyin": "suīrán wǒ péngyou hěn lèi, dànshì hái xiǎng xuéxí Hànyǔ.",
+    "grammar_focus": "虽然...但是...；还想 + động từ",
+    "focus_words": [
+      "虽然",
+      "很",
+      "累",
+      "但是",
+      "还",
+      "想",
+      "学习汉语"
+    ]
+  },
+  {
+    "id": "daily_vi_0248",
+    "level": "HSK2",
+    "topic": "Tương phản",
+    "vi_sentence": "Tuy bạn tôi rất mệt, nhưng vẫn muốn đọc sách.",
+    "answer_zh": "虽然我朋友很累，但是还想看书。",
+    "pinyin": "suīrán wǒ péngyou hěn lèi, dànshì hái xiǎng kàn shū.",
+    "grammar_focus": "虽然...但是...；还想 + động từ",
+    "focus_words": [
+      "虽然",
+      "很",
+      "累",
+      "但是",
+      "还",
+      "想",
+      "看书"
+    ]
+  },
+  {
+    "id": "daily_vi_0249",
+    "level": "HSK2",
+    "topic": "Tương phản",
+    "vi_sentence": "Tuy bạn tôi rất mệt, nhưng vẫn muốn xem phim.",
+    "answer_zh": "虽然我朋友很累，但是还想看电影。",
+    "pinyin": "suīrán wǒ péngyou hěn lèi, dànshì hái xiǎng kàn diànyǐng.",
+    "grammar_focus": "虽然...但是...；还想 + động từ",
+    "focus_words": [
+      "虽然",
+      "很",
+      "累",
+      "但是",
+      "还",
+      "想",
+      "看电影"
+    ]
+  },
+  {
+    "id": "daily_vi_0250",
+    "level": "HSK2",
+    "topic": "Tương phản",
+    "vi_sentence": "Tuy bạn tôi rất mệt, nhưng vẫn muốn nghe thầy giáo nói.",
+    "answer_zh": "虽然我朋友很累，但是还想听老师说话。",
+    "pinyin": "suīrán wǒ péngyou hěn lèi, dànshì hái xiǎng tīng lǎoshī shuōhuà.",
+    "grammar_focus": "虽然...但是...；还想 + động từ",
+    "focus_words": [
+      "虽然",
+      "很",
+      "累",
+      "但是",
+      "还",
+      "想",
+      "听老师说话"
+    ]
+  },
+  {
+    "id": "daily_vi_0251",
+    "level": "HSK2",
+    "topic": "Tương phản",
+    "vi_sentence": "Tuy bạn tôi rất mệt, nhưng vẫn muốn gọi điện thoại.",
+    "answer_zh": "虽然我朋友很累，但是还想打电话。",
+    "pinyin": "suīrán wǒ péngyou hěn lèi, dànshì hái xiǎng dǎ diànhuà.",
+    "grammar_focus": "虽然...但是...；还想 + động từ",
+    "focus_words": [
+      "虽然",
+      "很",
+      "累",
+      "但是",
+      "还",
+      "想",
+      "打电话"
+    ]
+  },
+  {
+    "id": "daily_vi_0252",
+    "level": "HSK2",
+    "topic": "Tương phản",
+    "vi_sentence": "Tuy bạn tôi rất mệt, nhưng vẫn muốn nghỉ ngơi.",
+    "answer_zh": "虽然我朋友很累，但是还想休息。",
+    "pinyin": "suīrán wǒ péngyou hěn lèi, dànshì hái xiǎng xiūxi.",
+    "grammar_focus": "虽然...但是...；还想 + động từ",
+    "focus_words": [
+      "虽然",
+      "很",
+      "累",
+      "但是",
+      "还",
+      "想",
+      "休息"
+    ]
+  },
+  {
+    "id": "daily_vi_0253",
+    "level": "HSK2",
+    "topic": "Tương phản",
+    "vi_sentence": "Tuy bạn tôi rất lạnh, nhưng vẫn muốn học tiếng Trung.",
+    "answer_zh": "虽然我朋友很冷，但是还想学习汉语。",
+    "pinyin": "suīrán wǒ péngyou hěn lěng, dànshì hái xiǎng xuéxí Hànyǔ.",
+    "grammar_focus": "虽然...但是...；还想 + động từ",
+    "focus_words": [
+      "虽然",
+      "很",
+      "冷",
+      "但是",
+      "还",
+      "想",
+      "学习汉语"
+    ]
+  },
+  {
+    "id": "daily_vi_0254",
+    "level": "HSK2",
+    "topic": "Tương phản",
+    "vi_sentence": "Tuy bạn tôi rất lạnh, nhưng vẫn muốn đọc sách.",
+    "answer_zh": "虽然我朋友很冷，但是还想看书。",
+    "pinyin": "suīrán wǒ péngyou hěn lěng, dànshì hái xiǎng kàn shū.",
+    "grammar_focus": "虽然...但是...；还想 + động từ",
+    "focus_words": [
+      "虽然",
+      "很",
+      "冷",
+      "但是",
+      "还",
+      "想",
+      "看书"
+    ]
+  },
+  {
+    "id": "daily_vi_0255",
+    "level": "HSK2",
+    "topic": "Tương phản",
+    "vi_sentence": "Tuy bạn tôi rất lạnh, nhưng vẫn muốn xem phim.",
+    "answer_zh": "虽然我朋友很冷，但是还想看电影。",
+    "pinyin": "suīrán wǒ péngyou hěn lěng, dànshì hái xiǎng kàn diànyǐng.",
+    "grammar_focus": "虽然...但是...；还想 + động từ",
+    "focus_words": [
+      "虽然",
+      "很",
+      "冷",
+      "但是",
+      "还",
+      "想",
+      "看电影"
+    ]
+  },
+  {
+    "id": "daily_vi_0256",
+    "level": "HSK2",
+    "topic": "Tương phản",
+    "vi_sentence": "Tuy bạn tôi rất lạnh, nhưng vẫn muốn nghe thầy giáo nói.",
+    "answer_zh": "虽然我朋友很冷，但是还想听老师说话。",
+    "pinyin": "suīrán wǒ péngyou hěn lěng, dànshì hái xiǎng tīng lǎoshī shuōhuà.",
+    "grammar_focus": "虽然...但是...；还想 + động từ",
+    "focus_words": [
+      "虽然",
+      "很",
+      "冷",
+      "但是",
+      "还",
+      "想",
+      "听老师说话"
+    ]
+  },
+  {
+    "id": "daily_vi_0257",
+    "level": "HSK2",
+    "topic": "Tương phản",
+    "vi_sentence": "Tuy bạn tôi rất lạnh, nhưng vẫn muốn gọi điện thoại.",
+    "answer_zh": "虽然我朋友很冷，但是还想打电话。",
+    "pinyin": "suīrán wǒ péngyou hěn lěng, dànshì hái xiǎng dǎ diànhuà.",
+    "grammar_focus": "虽然...但是...；还想 + động từ",
+    "focus_words": [
+      "虽然",
+      "很",
+      "冷",
+      "但是",
+      "还",
+      "想",
+      "打电话"
+    ]
+  },
+  {
+    "id": "daily_vi_0258",
+    "level": "HSK2",
+    "topic": "Tương phản",
+    "vi_sentence": "Tuy bạn tôi rất lạnh, nhưng vẫn muốn nghỉ ngơi.",
+    "answer_zh": "虽然我朋友很冷，但是还想休息。",
+    "pinyin": "suīrán wǒ péngyou hěn lěng, dànshì hái xiǎng xiūxi.",
+    "grammar_focus": "虽然...但是...；还想 + động từ",
+    "focus_words": [
+      "虽然",
+      "很",
+      "冷",
+      "但是",
+      "还",
+      "想",
+      "休息"
+    ]
+  },
+  {
+    "id": "daily_vi_0259",
+    "level": "HSK2",
+    "topic": "Tương phản",
+    "vi_sentence": "Tuy mẹ tôi rất bận, nhưng vẫn muốn học tiếng Trung.",
+    "answer_zh": "虽然我妈妈很忙，但是还想学习汉语。",
+    "pinyin": "suīrán wǒ māma hěn máng, dànshì hái xiǎng xuéxí Hànyǔ.",
+    "grammar_focus": "虽然...但是...；还想 + động từ",
+    "focus_words": [
+      "虽然",
+      "很",
+      "忙",
+      "但是",
+      "还",
+      "想",
+      "学习汉语"
+    ]
+  },
+  {
+    "id": "daily_vi_0260",
+    "level": "HSK2",
+    "topic": "Tương phản",
+    "vi_sentence": "Tuy mẹ tôi rất bận, nhưng vẫn muốn đọc sách.",
+    "answer_zh": "虽然我妈妈很忙，但是还想看书。",
+    "pinyin": "suīrán wǒ māma hěn máng, dànshì hái xiǎng kàn shū.",
+    "grammar_focus": "虽然...但是...；还想 + động từ",
+    "focus_words": [
+      "虽然",
+      "很",
+      "忙",
+      "但是",
+      "还",
+      "想",
+      "看书"
+    ]
+  },
+  {
+    "id": "daily_vi_0261",
+    "level": "HSK2",
+    "topic": "So sánh",
+    "vi_sentence": "Anh trai tôi cao hơn tôi.",
+    "answer_zh": "我哥哥比我高。",
+    "pinyin": "wǒ gēge bǐ wǒ gāo.",
+    "grammar_focus": "A 比 B + tính từ",
+    "focus_words": [
+      "我哥哥",
+      "比",
+      "我",
+      "高"
+    ]
+  },
+  {
+    "id": "daily_vi_0262",
+    "level": "HSK2",
+    "topic": "So sánh",
+    "vi_sentence": "Chị gái tôi bận hơn mẹ tôi.",
+    "answer_zh": "我姐姐比我妈妈忙。",
+    "pinyin": "wǒ jiějie bǐ wǒ māma máng.",
+    "grammar_focus": "A 比 B + tính từ",
+    "focus_words": [
+      "我姐姐",
+      "比",
+      "我妈妈",
+      "忙"
+    ]
+  },
+  {
+    "id": "daily_vi_0263",
+    "level": "HSK2",
+    "topic": "So sánh",
+    "vi_sentence": "Bạn tôi vui hơn tôi.",
+    "answer_zh": "我朋友比我高兴。",
+    "pinyin": "wǒ péngyou bǐ wǒ gāoxìng.",
+    "grammar_focus": "A 比 B + tính từ",
+    "focus_words": [
+      "我朋友",
+      "比",
+      "我",
+      "高兴"
+    ]
+  },
+  {
+    "id": "daily_vi_0264",
+    "level": "HSK2",
+    "topic": "So sánh",
+    "vi_sentence": "Trường học gần hơn nhà tôi.",
+    "answer_zh": "学校比我家近。",
+    "pinyin": "xuéxiào bǐ wǒ jiā jìn.",
+    "grammar_focus": "A 比 B + tính từ",
+    "focus_words": [
+      "学校",
+      "比",
+      "我家",
+      "近"
+    ]
+  },
+  {
+    "id": "daily_vi_0265",
+    "level": "HSK2",
+    "topic": "So sánh",
+    "vi_sentence": "Sân bay xa hơn công ty.",
+    "answer_zh": "机场比公司远。",
+    "pinyin": "jīchǎng bǐ gōngsī yuǎn.",
+    "grammar_focus": "A 比 B + tính từ",
+    "focus_words": [
+      "机场",
+      "比",
+      "公司",
+      "远"
+    ]
+  },
+  {
+    "id": "daily_vi_0266",
+    "level": "HSK2",
+    "topic": "Thói quen",
+    "vi_sentence": "Mỗi ngày tôi đều học tiếng Trung.",
+    "answer_zh": "我每天都学习汉语。",
+    "pinyin": "wǒ měitiān dōu xuéxí Hànyǔ.",
+    "grammar_focus": "每天都 + động từ",
+    "focus_words": [
+      "我",
+      "每天",
+      "都",
+      "学习汉语"
+    ]
+  },
+  {
+    "id": "daily_vi_0267",
+    "level": "HSK2",
+    "topic": "Thói quen",
+    "vi_sentence": "Mỗi ngày tôi đều đọc sách.",
+    "answer_zh": "我每天都看书。",
+    "pinyin": "wǒ měitiān dōu kàn shū.",
+    "grammar_focus": "每天都 + động từ",
+    "focus_words": [
+      "我",
+      "每天",
+      "都",
+      "看书"
+    ]
+  },
+  {
+    "id": "daily_vi_0268",
+    "level": "HSK2",
+    "topic": "Thói quen",
+    "vi_sentence": "Mỗi ngày tôi đều xem phim.",
+    "answer_zh": "我每天都看电影。",
+    "pinyin": "wǒ měitiān dōu kàn diànyǐng.",
+    "grammar_focus": "每天都 + động từ",
+    "focus_words": [
+      "我",
+      "每天",
+      "都",
+      "看电影"
+    ]
+  },
+  {
+    "id": "daily_vi_0269",
+    "level": "HSK2",
+    "topic": "Thói quen",
+    "vi_sentence": "Mỗi ngày tôi đều nghe thầy giáo nói.",
+    "answer_zh": "我每天都听老师说话。",
+    "pinyin": "wǒ měitiān dōu tīng lǎoshī shuōhuà.",
+    "grammar_focus": "每天都 + động từ",
+    "focus_words": [
+      "我",
+      "每天",
+      "都",
+      "听老师说话"
+    ]
+  },
+  {
+    "id": "daily_vi_0270",
+    "level": "HSK2",
+    "topic": "Thói quen",
+    "vi_sentence": "Mỗi ngày tôi đều gọi điện thoại.",
+    "answer_zh": "我每天都打电话。",
+    "pinyin": "wǒ měitiān dōu dǎ diànhuà.",
+    "grammar_focus": "每天都 + động từ",
+    "focus_words": [
+      "我",
+      "每天",
+      "都",
+      "打电话"
+    ]
+  },
+  {
+    "id": "daily_vi_0271",
+    "level": "HSK2",
+    "topic": "Thói quen",
+    "vi_sentence": "Mỗi ngày tôi đều nghỉ ngơi.",
+    "answer_zh": "我每天都休息。",
+    "pinyin": "wǒ měitiān dōu xiūxi.",
+    "grammar_focus": "每天都 + động từ",
+    "focus_words": [
+      "我",
+      "每天",
+      "都",
+      "休息"
+    ]
+  },
+  {
+    "id": "daily_vi_0272",
+    "level": "HSK2",
+    "topic": "Thói quen",
+    "vi_sentence": "Mỗi ngày tôi đều chạy bộ.",
+    "answer_zh": "我每天都跑步。",
+    "pinyin": "wǒ měitiān dōu pǎobù.",
+    "grammar_focus": "每天都 + động từ",
+    "focus_words": [
+      "我",
+      "每天",
+      "都",
+      "跑步"
+    ]
+  },
+  {
+    "id": "daily_vi_0273",
+    "level": "HSK2",
+    "topic": "Thói quen",
+    "vi_sentence": "Mỗi ngày tôi đều bơi.",
+    "answer_zh": "我每天都游泳。",
+    "pinyin": "wǒ měitiān dōu yóuyǒng.",
+    "grammar_focus": "每天都 + động từ",
+    "focus_words": [
+      "我",
+      "每天",
+      "都",
+      "游泳"
+    ]
+  },
+  {
+    "id": "daily_vi_0274",
+    "level": "HSK2",
+    "topic": "Thói quen",
+    "vi_sentence": "Mỗi ngày tôi đều đá bóng.",
+    "answer_zh": "我每天都踢足球。",
+    "pinyin": "wǒ měitiān dōu tī zúqiú.",
+    "grammar_focus": "每天都 + động từ",
+    "focus_words": [
+      "我",
+      "每天",
+      "都",
+      "踢足球"
+    ]
+  },
+  {
+    "id": "daily_vi_0275",
+    "level": "HSK2",
+    "topic": "Thói quen",
+    "vi_sentence": "Mỗi ngày tôi đều chơi bóng rổ.",
+    "answer_zh": "我每天都打篮球。",
+    "pinyin": "wǒ měitiān dōu dǎ lánqiú.",
+    "grammar_focus": "每天都 + động từ",
+    "focus_words": [
+      "我",
+      "每天",
+      "都",
+      "打篮球"
+    ]
+  },
+  {
+    "id": "daily_vi_0276",
+    "level": "HSK2",
+    "topic": "Thói quen",
+    "vi_sentence": "Mỗi ngày bạn tôi đều học tiếng Trung.",
+    "answer_zh": "我朋友每天都学习汉语。",
+    "pinyin": "wǒ péngyou měitiān dōu xuéxí Hànyǔ.",
+    "grammar_focus": "每天都 + động từ",
+    "focus_words": [
+      "我朋友",
+      "每天",
+      "都",
+      "学习汉语"
+    ]
+  },
+  {
+    "id": "daily_vi_0277",
+    "level": "HSK2",
+    "topic": "Thói quen",
+    "vi_sentence": "Mỗi ngày bạn tôi đều đọc sách.",
+    "answer_zh": "我朋友每天都看书。",
+    "pinyin": "wǒ péngyou měitiān dōu kàn shū.",
+    "grammar_focus": "每天都 + động từ",
+    "focus_words": [
+      "我朋友",
+      "每天",
+      "都",
+      "看书"
+    ]
+  },
+  {
+    "id": "daily_vi_0278",
+    "level": "HSK2",
+    "topic": "Thói quen",
+    "vi_sentence": "Mỗi ngày bạn tôi đều xem phim.",
+    "answer_zh": "我朋友每天都看电影。",
+    "pinyin": "wǒ péngyou měitiān dōu kàn diànyǐng.",
+    "grammar_focus": "每天都 + động từ",
+    "focus_words": [
+      "我朋友",
+      "每天",
+      "都",
+      "看电影"
+    ]
+  },
+  {
+    "id": "daily_vi_0279",
+    "level": "HSK2",
+    "topic": "Thói quen",
+    "vi_sentence": "Mỗi ngày bạn tôi đều nghe thầy giáo nói.",
+    "answer_zh": "我朋友每天都听老师说话。",
+    "pinyin": "wǒ péngyou měitiān dōu tīng lǎoshī shuōhuà.",
+    "grammar_focus": "每天都 + động từ",
+    "focus_words": [
+      "我朋友",
+      "每天",
+      "都",
+      "听老师说话"
+    ]
+  },
+  {
+    "id": "daily_vi_0280",
+    "level": "HSK2",
+    "topic": "Thói quen",
+    "vi_sentence": "Mỗi ngày bạn tôi đều gọi điện thoại.",
+    "answer_zh": "我朋友每天都打电话。",
+    "pinyin": "wǒ péngyou měitiān dōu dǎ diànhuà.",
+    "grammar_focus": "每天都 + động từ",
+    "focus_words": [
+      "我朋友",
+      "每天",
+      "都",
+      "打电话"
+    ]
+  },
+  {
+    "id": "daily_vi_0281",
+    "level": "HSK2",
+    "topic": "Thói quen",
+    "vi_sentence": "Mỗi ngày bạn tôi đều nghỉ ngơi.",
+    "answer_zh": "我朋友每天都休息。",
+    "pinyin": "wǒ péngyou měitiān dōu xiūxi.",
+    "grammar_focus": "每天都 + động từ",
+    "focus_words": [
+      "我朋友",
+      "每天",
+      "都",
+      "休息"
+    ]
+  },
+  {
+    "id": "daily_vi_0282",
+    "level": "HSK2",
+    "topic": "Thói quen",
+    "vi_sentence": "Mỗi ngày bạn tôi đều chạy bộ.",
+    "answer_zh": "我朋友每天都跑步。",
+    "pinyin": "wǒ péngyou měitiān dōu pǎobù.",
+    "grammar_focus": "每天都 + động từ",
+    "focus_words": [
+      "我朋友",
+      "每天",
+      "都",
+      "跑步"
+    ]
+  },
+  {
+    "id": "daily_vi_0283",
+    "level": "HSK2",
+    "topic": "Thói quen",
+    "vi_sentence": "Mỗi ngày bạn tôi đều bơi.",
+    "answer_zh": "我朋友每天都游泳。",
+    "pinyin": "wǒ péngyou měitiān dōu yóuyǒng.",
+    "grammar_focus": "每天都 + động từ",
+    "focus_words": [
+      "我朋友",
+      "每天",
+      "都",
+      "游泳"
+    ]
+  },
+  {
+    "id": "daily_vi_0284",
+    "level": "HSK2",
+    "topic": "Thói quen",
+    "vi_sentence": "Mỗi ngày bạn tôi đều đá bóng.",
+    "answer_zh": "我朋友每天都踢足球。",
+    "pinyin": "wǒ péngyou měitiān dōu tī zúqiú.",
+    "grammar_focus": "每天都 + động từ",
+    "focus_words": [
+      "我朋友",
+      "每天",
+      "都",
+      "踢足球"
+    ]
+  },
+  {
+    "id": "daily_vi_0285",
+    "level": "HSK2",
+    "topic": "Thói quen",
+    "vi_sentence": "Mỗi ngày bạn tôi đều chơi bóng rổ.",
+    "answer_zh": "我朋友每天都打篮球。",
+    "pinyin": "wǒ péngyou měitiān dōu dǎ lánqiú.",
+    "grammar_focus": "每天都 + động từ",
+    "focus_words": [
+      "我朋友",
+      "每天",
+      "都",
+      "打篮球"
+    ]
+  },
+  {
+    "id": "daily_vi_0286",
+    "level": "HSK2",
+    "topic": "Thói quen",
+    "vi_sentence": "Mỗi ngày mẹ tôi đều học tiếng Trung.",
+    "answer_zh": "我妈妈每天都学习汉语。",
+    "pinyin": "wǒ māma měitiān dōu xuéxí Hànyǔ.",
+    "grammar_focus": "每天都 + động từ",
+    "focus_words": [
+      "我妈妈",
+      "每天",
+      "都",
+      "学习汉语"
+    ]
+  },
+  {
+    "id": "daily_vi_0287",
+    "level": "HSK2",
+    "topic": "Thói quen",
+    "vi_sentence": "Mỗi ngày mẹ tôi đều đọc sách.",
+    "answer_zh": "我妈妈每天都看书。",
+    "pinyin": "wǒ māma měitiān dōu kàn shū.",
+    "grammar_focus": "每天都 + động từ",
+    "focus_words": [
+      "我妈妈",
+      "每天",
+      "都",
+      "看书"
+    ]
+  },
+  {
+    "id": "daily_vi_0288",
+    "level": "HSK2",
+    "topic": "Thói quen",
+    "vi_sentence": "Mỗi ngày mẹ tôi đều xem phim.",
+    "answer_zh": "我妈妈每天都看电影。",
+    "pinyin": "wǒ māma měitiān dōu kàn diànyǐng.",
+    "grammar_focus": "每天都 + động từ",
+    "focus_words": [
+      "我妈妈",
+      "每天",
+      "都",
+      "看电影"
+    ]
+  },
+  {
+    "id": "daily_vi_0289",
+    "level": "HSK2",
+    "topic": "Thói quen",
+    "vi_sentence": "Mỗi ngày mẹ tôi đều nghe thầy giáo nói.",
+    "answer_zh": "我妈妈每天都听老师说话。",
+    "pinyin": "wǒ māma měitiān dōu tīng lǎoshī shuōhuà.",
+    "grammar_focus": "每天都 + động từ",
+    "focus_words": [
+      "我妈妈",
+      "每天",
+      "都",
+      "听老师说话"
+    ]
+  },
+  {
+    "id": "daily_vi_0290",
+    "level": "HSK2",
+    "topic": "Thói quen",
+    "vi_sentence": "Mỗi ngày mẹ tôi đều gọi điện thoại.",
+    "answer_zh": "我妈妈每天都打电话。",
+    "pinyin": "wǒ māma měitiān dōu dǎ diànhuà.",
+    "grammar_focus": "每天都 + động từ",
+    "focus_words": [
+      "我妈妈",
+      "每天",
+      "都",
+      "打电话"
+    ]
+  },
+  {
+    "id": "daily_vi_0291",
+    "level": "HSK2",
+    "topic": "Thói quen",
+    "vi_sentence": "Mỗi ngày mẹ tôi đều nghỉ ngơi.",
+    "answer_zh": "我妈妈每天都休息。",
+    "pinyin": "wǒ māma měitiān dōu xiūxi.",
+    "grammar_focus": "每天都 + động từ",
+    "focus_words": [
+      "我妈妈",
+      "每天",
+      "都",
+      "休息"
+    ]
+  },
+  {
+    "id": "daily_vi_0292",
+    "level": "HSK2",
+    "topic": "Thói quen",
+    "vi_sentence": "Mỗi ngày mẹ tôi đều chạy bộ.",
+    "answer_zh": "我妈妈每天都跑步。",
+    "pinyin": "wǒ māma měitiān dōu pǎobù.",
+    "grammar_focus": "每天都 + động từ",
+    "focus_words": [
+      "我妈妈",
+      "每天",
+      "都",
+      "跑步"
+    ]
+  },
+  {
+    "id": "daily_vi_0293",
+    "level": "HSK2",
+    "topic": "Thói quen",
+    "vi_sentence": "Mỗi ngày mẹ tôi đều bơi.",
+    "answer_zh": "我妈妈每天都游泳。",
+    "pinyin": "wǒ māma měitiān dōu yóuyǒng.",
+    "grammar_focus": "每天都 + động từ",
+    "focus_words": [
+      "我妈妈",
+      "每天",
+      "都",
+      "游泳"
+    ]
+  },
+  {
+    "id": "daily_vi_0294",
+    "level": "HSK2",
+    "topic": "Thói quen",
+    "vi_sentence": "Mỗi ngày mẹ tôi đều đá bóng.",
+    "answer_zh": "我妈妈每天都踢足球。",
+    "pinyin": "wǒ māma měitiān dōu tī zúqiú.",
+    "grammar_focus": "每天都 + động từ",
+    "focus_words": [
+      "我妈妈",
+      "每天",
+      "都",
+      "踢足球"
+    ]
+  },
+  {
+    "id": "daily_vi_0295",
+    "level": "HSK2",
+    "topic": "Thói quen",
+    "vi_sentence": "Mỗi ngày mẹ tôi đều chơi bóng rổ.",
+    "answer_zh": "我妈妈每天都打篮球。",
+    "pinyin": "wǒ māma měitiān dōu dǎ lánqiú.",
+    "grammar_focus": "每天都 + động từ",
+    "focus_words": [
+      "我妈妈",
+      "每天",
+      "都",
+      "打篮球"
+    ]
+  },
+  {
+    "id": "daily_vi_0296",
+    "level": "HSK2",
+    "topic": "Thói quen",
+    "vi_sentence": "Mỗi ngày bố tôi đều học tiếng Trung.",
+    "answer_zh": "我爸爸每天都学习汉语。",
+    "pinyin": "wǒ bàba měitiān dōu xuéxí Hànyǔ.",
+    "grammar_focus": "每天都 + động từ",
+    "focus_words": [
+      "我爸爸",
+      "每天",
+      "都",
+      "学习汉语"
+    ]
+  },
+  {
+    "id": "daily_vi_0297",
+    "level": "HSK2",
+    "topic": "Thói quen",
+    "vi_sentence": "Mỗi ngày bố tôi đều đọc sách.",
+    "answer_zh": "我爸爸每天都看书。",
+    "pinyin": "wǒ bàba měitiān dōu kàn shū.",
+    "grammar_focus": "每天都 + động từ",
+    "focus_words": [
+      "我爸爸",
+      "每天",
+      "都",
+      "看书"
+    ]
+  },
+  {
+    "id": "daily_vi_0298",
+    "level": "HSK2",
+    "topic": "Thói quen",
+    "vi_sentence": "Mỗi ngày bố tôi đều xem phim.",
+    "answer_zh": "我爸爸每天都看电影。",
+    "pinyin": "wǒ bàba měitiān dōu kàn diànyǐng.",
+    "grammar_focus": "每天都 + động từ",
+    "focus_words": [
+      "我爸爸",
+      "每天",
+      "都",
+      "看电影"
+    ]
+  },
+  {
+    "id": "daily_vi_0299",
+    "level": "HSK2",
+    "topic": "Thói quen",
+    "vi_sentence": "Mỗi ngày bố tôi đều nghe thầy giáo nói.",
+    "answer_zh": "我爸爸每天都听老师说话。",
+    "pinyin": "wǒ bàba měitiān dōu tīng lǎoshī shuōhuà.",
+    "grammar_focus": "每天都 + động từ",
+    "focus_words": [
+      "我爸爸",
+      "每天",
+      "都",
+      "听老师说话"
+    ]
+  },
+  {
+    "id": "daily_vi_0300",
+    "level": "HSK2",
+    "topic": "Thói quen",
+    "vi_sentence": "Mỗi ngày bố tôi đều gọi điện thoại.",
+    "answer_zh": "我爸爸每天都打电话。",
+    "pinyin": "wǒ bàba měitiān dōu dǎ diànhuà.",
+    "grammar_focus": "每天都 + động từ",
+    "focus_words": [
+      "我爸爸",
+      "每天",
+      "都",
+      "打电话"
+    ]
+  },
+  {
+    "id": "daily_vi_0301",
+    "level": "HSK2",
+    "topic": "Thói quen",
+    "vi_sentence": "Mỗi ngày bố tôi đều nghỉ ngơi.",
+    "answer_zh": "我爸爸每天都休息。",
+    "pinyin": "wǒ bàba měitiān dōu xiūxi.",
+    "grammar_focus": "每天都 + động từ",
+    "focus_words": [
+      "我爸爸",
+      "每天",
+      "都",
+      "休息"
+    ]
+  },
+  {
+    "id": "daily_vi_0302",
+    "level": "HSK2",
+    "topic": "Thói quen",
+    "vi_sentence": "Mỗi ngày bố tôi đều chạy bộ.",
+    "answer_zh": "我爸爸每天都跑步。",
+    "pinyin": "wǒ bàba měitiān dōu pǎobù.",
+    "grammar_focus": "每天都 + động từ",
+    "focus_words": [
+      "我爸爸",
+      "每天",
+      "都",
+      "跑步"
+    ]
+  },
+  {
+    "id": "daily_vi_0303",
+    "level": "HSK2",
+    "topic": "Thói quen",
+    "vi_sentence": "Mỗi ngày bố tôi đều bơi.",
+    "answer_zh": "我爸爸每天都游泳。",
+    "pinyin": "wǒ bàba měitiān dōu yóuyǒng.",
+    "grammar_focus": "每天都 + động từ",
+    "focus_words": [
+      "我爸爸",
+      "每天",
+      "都",
+      "游泳"
+    ]
+  },
+  {
+    "id": "daily_vi_0304",
+    "level": "HSK2",
+    "topic": "Thói quen",
+    "vi_sentence": "Mỗi ngày bố tôi đều đá bóng.",
+    "answer_zh": "我爸爸每天都踢足球。",
+    "pinyin": "wǒ bàba měitiān dōu tī zúqiú.",
+    "grammar_focus": "每天都 + động từ",
+    "focus_words": [
+      "我爸爸",
+      "每天",
+      "都",
+      "踢足球"
+    ]
+  },
+  {
+    "id": "daily_vi_0305",
+    "level": "HSK2",
+    "topic": "Thói quen",
+    "vi_sentence": "Mỗi ngày bố tôi đều chơi bóng rổ.",
+    "answer_zh": "我爸爸每天都打篮球。",
+    "pinyin": "wǒ bàba měitiān dōu dǎ lánqiú.",
+    "grammar_focus": "每天都 + động từ",
+    "focus_words": [
+      "我爸爸",
+      "每天",
+      "都",
+      "打篮球"
+    ]
+  },
+  {
+    "id": "daily_vi_0306",
+    "level": "HSK2",
+    "topic": "Kinh nghiệm",
+    "vi_sentence": "Tôi đã từng đi trường học.",
+    "answer_zh": "我去过学校。",
+    "pinyin": "wǒ qù guo xuéxiào.",
+    "grammar_focus": "Động từ + 过",
+    "focus_words": [
+      "我",
+      "去过",
+      "学校"
+    ]
+  },
+  {
+    "id": "daily_vi_0307",
+    "level": "HSK2",
+    "topic": "Kinh nghiệm",
+    "vi_sentence": "Tôi đã từng đi bệnh viện.",
+    "answer_zh": "我去过医院。",
+    "pinyin": "wǒ qù guo yīyuàn.",
+    "grammar_focus": "Động từ + 过",
+    "focus_words": [
+      "我",
+      "去过",
+      "医院"
+    ]
+  },
+  {
+    "id": "daily_vi_0308",
+    "level": "HSK2",
+    "topic": "Kinh nghiệm",
+    "vi_sentence": "Tôi đã từng đi cửa hàng.",
+    "answer_zh": "我去过商店。",
+    "pinyin": "wǒ qù guo shāngdiàn.",
+    "grammar_focus": "Động từ + 过",
+    "focus_words": [
+      "我",
+      "去过",
+      "商店"
+    ]
+  },
+  {
+    "id": "daily_vi_0309",
+    "level": "HSK2",
+    "topic": "Kinh nghiệm",
+    "vi_sentence": "Tôi đã từng đi nhà hàng.",
+    "answer_zh": "我去过饭店。",
+    "pinyin": "wǒ qù guo fàndiàn.",
+    "grammar_focus": "Động từ + 过",
+    "focus_words": [
+      "我",
+      "去过",
+      "饭店"
+    ]
+  },
+  {
+    "id": "daily_vi_0310",
+    "level": "HSK2",
+    "topic": "Kinh nghiệm",
+    "vi_sentence": "Tôi đã từng đi công ty.",
+    "answer_zh": "我去过公司。",
+    "pinyin": "wǒ qù guo gōngsī.",
+    "grammar_focus": "Động từ + 过",
+    "focus_words": [
+      "我",
+      "去过",
+      "公司"
+    ]
+  },
+  {
+    "id": "daily_vi_0311",
+    "level": "HSK2",
+    "topic": "Kinh nghiệm",
+    "vi_sentence": "Tôi đã từng đi sân bay.",
+    "answer_zh": "我去过机场。",
+    "pinyin": "wǒ qù guo jīchǎng.",
+    "grammar_focus": "Động từ + 过",
+    "focus_words": [
+      "我",
+      "去过",
+      "机场"
+    ]
+  },
+  {
+    "id": "daily_vi_0312",
+    "level": "HSK2",
+    "topic": "Kinh nghiệm",
+    "vi_sentence": "Tôi đã từng đi ga tàu.",
+    "answer_zh": "我去过火车站。",
+    "pinyin": "wǒ qù guo huǒchēzhàn.",
+    "grammar_focus": "Động từ + 过",
+    "focus_words": [
+      "我",
+      "去过",
+      "火车站"
+    ]
+  },
+  {
+    "id": "daily_vi_0313",
+    "level": "HSK2",
+    "topic": "Kinh nghiệm",
+    "vi_sentence": "Tôi đã từng đi Bắc Kinh.",
+    "answer_zh": "我去过北京。",
+    "pinyin": "wǒ qù guo Běijīng.",
+    "grammar_focus": "Động từ + 过",
+    "focus_words": [
+      "我",
+      "去过",
+      "北京"
+    ]
+  },
+  {
+    "id": "daily_vi_0314",
+    "level": "HSK2",
+    "topic": "Kinh nghiệm",
+    "vi_sentence": "Bạn tôi đã từng đi trường học.",
+    "answer_zh": "我朋友去过学校。",
+    "pinyin": "wǒ péngyou qù guo xuéxiào.",
+    "grammar_focus": "Động từ + 过",
+    "focus_words": [
+      "我朋友",
+      "去过",
+      "学校"
+    ]
+  },
+  {
+    "id": "daily_vi_0315",
+    "level": "HSK2",
+    "topic": "Kinh nghiệm",
+    "vi_sentence": "Bạn tôi đã từng đi bệnh viện.",
+    "answer_zh": "我朋友去过医院。",
+    "pinyin": "wǒ péngyou qù guo yīyuàn.",
+    "grammar_focus": "Động từ + 过",
+    "focus_words": [
+      "我朋友",
+      "去过",
+      "医院"
+    ]
+  },
+  {
+    "id": "daily_vi_0316",
+    "level": "HSK2",
+    "topic": "Kinh nghiệm",
+    "vi_sentence": "Bạn tôi đã từng đi cửa hàng.",
+    "answer_zh": "我朋友去过商店。",
+    "pinyin": "wǒ péngyou qù guo shāngdiàn.",
+    "grammar_focus": "Động từ + 过",
+    "focus_words": [
+      "我朋友",
+      "去过",
+      "商店"
+    ]
+  },
+  {
+    "id": "daily_vi_0317",
+    "level": "HSK2",
+    "topic": "Kinh nghiệm",
+    "vi_sentence": "Bạn tôi đã từng đi nhà hàng.",
+    "answer_zh": "我朋友去过饭店。",
+    "pinyin": "wǒ péngyou qù guo fàndiàn.",
+    "grammar_focus": "Động từ + 过",
+    "focus_words": [
+      "我朋友",
+      "去过",
+      "饭店"
+    ]
+  },
+  {
+    "id": "daily_vi_0318",
+    "level": "HSK2",
+    "topic": "Kinh nghiệm",
+    "vi_sentence": "Bạn tôi đã từng đi công ty.",
+    "answer_zh": "我朋友去过公司。",
+    "pinyin": "wǒ péngyou qù guo gōngsī.",
+    "grammar_focus": "Động từ + 过",
+    "focus_words": [
+      "我朋友",
+      "去过",
+      "公司"
+    ]
+  },
+  {
+    "id": "daily_vi_0319",
+    "level": "HSK2",
+    "topic": "Kinh nghiệm",
+    "vi_sentence": "Bạn tôi đã từng đi sân bay.",
+    "answer_zh": "我朋友去过机场。",
+    "pinyin": "wǒ péngyou qù guo jīchǎng.",
+    "grammar_focus": "Động từ + 过",
+    "focus_words": [
+      "我朋友",
+      "去过",
+      "机场"
+    ]
+  },
+  {
+    "id": "daily_vi_0320",
+    "level": "HSK2",
+    "topic": "Kinh nghiệm",
+    "vi_sentence": "Bạn tôi đã từng đi ga tàu.",
+    "answer_zh": "我朋友去过火车站。",
+    "pinyin": "wǒ péngyou qù guo huǒchēzhàn.",
+    "grammar_focus": "Động từ + 过",
+    "focus_words": [
+      "我朋友",
+      "去过",
+      "火车站"
+    ]
+  },
+  {
+    "id": "daily_vi_0321",
+    "level": "HSK2",
+    "topic": "Kinh nghiệm",
+    "vi_sentence": "Bạn tôi đã từng đi Bắc Kinh.",
+    "answer_zh": "我朋友去过北京。",
+    "pinyin": "wǒ péngyou qù guo Běijīng.",
+    "grammar_focus": "Động từ + 过",
+    "focus_words": [
+      "我朋友",
+      "去过",
+      "北京"
+    ]
+  },
+  {
+    "id": "daily_vi_0322",
+    "level": "HSK2",
+    "topic": "Kinh nghiệm",
+    "vi_sentence": "Mẹ tôi đã từng đi trường học.",
+    "answer_zh": "我妈妈去过学校。",
+    "pinyin": "wǒ māma qù guo xuéxiào.",
+    "grammar_focus": "Động từ + 过",
+    "focus_words": [
+      "我妈妈",
+      "去过",
+      "学校"
+    ]
+  },
+  {
+    "id": "daily_vi_0323",
+    "level": "HSK2",
+    "topic": "Kinh nghiệm",
+    "vi_sentence": "Mẹ tôi đã từng đi bệnh viện.",
+    "answer_zh": "我妈妈去过医院。",
+    "pinyin": "wǒ māma qù guo yīyuàn.",
+    "grammar_focus": "Động từ + 过",
+    "focus_words": [
+      "我妈妈",
+      "去过",
+      "医院"
+    ]
+  },
+  {
+    "id": "daily_vi_0324",
+    "level": "HSK2",
+    "topic": "Kinh nghiệm",
+    "vi_sentence": "Mẹ tôi đã từng đi cửa hàng.",
+    "answer_zh": "我妈妈去过商店。",
+    "pinyin": "wǒ māma qù guo shāngdiàn.",
+    "grammar_focus": "Động từ + 过",
+    "focus_words": [
+      "我妈妈",
+      "去过",
+      "商店"
+    ]
+  },
+  {
+    "id": "daily_vi_0325",
+    "level": "HSK2",
+    "topic": "Kinh nghiệm",
+    "vi_sentence": "Mẹ tôi đã từng đi nhà hàng.",
+    "answer_zh": "我妈妈去过饭店。",
+    "pinyin": "wǒ māma qù guo fàndiàn.",
+    "grammar_focus": "Động từ + 过",
+    "focus_words": [
+      "我妈妈",
+      "去过",
+      "饭店"
+    ]
+  },
+  {
+    "id": "daily_vi_0326",
+    "level": "HSK2",
+    "topic": "Kinh nghiệm",
+    "vi_sentence": "Mẹ tôi đã từng đi công ty.",
+    "answer_zh": "我妈妈去过公司。",
+    "pinyin": "wǒ māma qù guo gōngsī.",
+    "grammar_focus": "Động từ + 过",
+    "focus_words": [
+      "我妈妈",
+      "去过",
+      "公司"
+    ]
+  },
+  {
+    "id": "daily_vi_0327",
+    "level": "HSK2",
+    "topic": "Kinh nghiệm",
+    "vi_sentence": "Mẹ tôi đã từng đi sân bay.",
+    "answer_zh": "我妈妈去过机场。",
+    "pinyin": "wǒ māma qù guo jīchǎng.",
+    "grammar_focus": "Động từ + 过",
+    "focus_words": [
+      "我妈妈",
+      "去过",
+      "机场"
+    ]
+  },
+  {
+    "id": "daily_vi_0328",
+    "level": "HSK2",
+    "topic": "Kinh nghiệm",
+    "vi_sentence": "Mẹ tôi đã từng đi ga tàu.",
+    "answer_zh": "我妈妈去过火车站。",
+    "pinyin": "wǒ māma qù guo huǒchēzhàn.",
+    "grammar_focus": "Động từ + 过",
+    "focus_words": [
+      "我妈妈",
+      "去过",
+      "火车站"
+    ]
+  },
+  {
+    "id": "daily_vi_0329",
+    "level": "HSK2",
+    "topic": "Kinh nghiệm",
+    "vi_sentence": "Mẹ tôi đã từng đi Bắc Kinh.",
+    "answer_zh": "我妈妈去过北京。",
+    "pinyin": "wǒ māma qù guo Běijīng.",
+    "grammar_focus": "Động từ + 过",
+    "focus_words": [
+      "我妈妈",
+      "去过",
+      "北京"
+    ]
+  },
+  {
+    "id": "daily_vi_0330",
+    "level": "HSK2",
+    "topic": "Kinh nghiệm",
+    "vi_sentence": "Bố tôi đã từng đi trường học.",
+    "answer_zh": "我爸爸去过学校。",
+    "pinyin": "wǒ bàba qù guo xuéxiào.",
+    "grammar_focus": "Động từ + 过",
+    "focus_words": [
+      "我爸爸",
+      "去过",
+      "学校"
+    ]
+  },
+  {
+    "id": "daily_vi_0331",
+    "level": "HSK2",
+    "topic": "Kinh nghiệm",
+    "vi_sentence": "Bố tôi đã từng đi bệnh viện.",
+    "answer_zh": "我爸爸去过医院。",
+    "pinyin": "wǒ bàba qù guo yīyuàn.",
+    "grammar_focus": "Động từ + 过",
+    "focus_words": [
+      "我爸爸",
+      "去过",
+      "医院"
+    ]
+  },
+  {
+    "id": "daily_vi_0332",
+    "level": "HSK2",
+    "topic": "Kinh nghiệm",
+    "vi_sentence": "Bố tôi đã từng đi cửa hàng.",
+    "answer_zh": "我爸爸去过商店。",
+    "pinyin": "wǒ bàba qù guo shāngdiàn.",
+    "grammar_focus": "Động từ + 过",
+    "focus_words": [
+      "我爸爸",
+      "去过",
+      "商店"
+    ]
+  },
+  {
+    "id": "daily_vi_0333",
+    "level": "HSK2",
+    "topic": "Kinh nghiệm",
+    "vi_sentence": "Bố tôi đã từng đi nhà hàng.",
+    "answer_zh": "我爸爸去过饭店。",
+    "pinyin": "wǒ bàba qù guo fàndiàn.",
+    "grammar_focus": "Động từ + 过",
+    "focus_words": [
+      "我爸爸",
+      "去过",
+      "饭店"
+    ]
+  },
+  {
+    "id": "daily_vi_0334",
+    "level": "HSK2",
+    "topic": "Kinh nghiệm",
+    "vi_sentence": "Bố tôi đã từng đi công ty.",
+    "answer_zh": "我爸爸去过公司。",
+    "pinyin": "wǒ bàba qù guo gōngsī.",
+    "grammar_focus": "Động từ + 过",
+    "focus_words": [
+      "我爸爸",
+      "去过",
+      "公司"
+    ]
+  },
+  {
+    "id": "daily_vi_0335",
+    "level": "HSK2",
+    "topic": "Kinh nghiệm",
+    "vi_sentence": "Bố tôi đã từng đi sân bay.",
+    "answer_zh": "我爸爸去过机场。",
+    "pinyin": "wǒ bàba qù guo jīchǎng.",
+    "grammar_focus": "Động từ + 过",
+    "focus_words": [
+      "我爸爸",
+      "去过",
+      "机场"
+    ]
+  },
+  {
+    "id": "daily_vi_0336",
+    "level": "HSK2",
+    "topic": "Kinh nghiệm",
+    "vi_sentence": "Bố tôi đã từng đi ga tàu.",
+    "answer_zh": "我爸爸去过火车站。",
+    "pinyin": "wǒ bàba qù guo huǒchēzhàn.",
+    "grammar_focus": "Động từ + 过",
+    "focus_words": [
+      "我爸爸",
+      "去过",
+      "火车站"
+    ]
+  },
+  {
+    "id": "daily_vi_0337",
+    "level": "HSK2",
+    "topic": "Kinh nghiệm",
+    "vi_sentence": "Bố tôi đã từng đi Bắc Kinh.",
+    "answer_zh": "我爸爸去过北京。",
+    "pinyin": "wǒ bàba qù guo Běijīng.",
+    "grammar_focus": "Động từ + 过",
+    "focus_words": [
+      "我爸爸",
+      "去过",
+      "北京"
+    ]
+  },
+  {
+    "id": "daily_vi_0338",
+    "level": "HSK2",
+    "topic": "Kinh nghiệm",
+    "vi_sentence": "Anh trai tôi đã từng đi trường học.",
+    "answer_zh": "我哥哥去过学校。",
+    "pinyin": "wǒ gēge qù guo xuéxiào.",
+    "grammar_focus": "Động từ + 过",
+    "focus_words": [
+      "我哥哥",
+      "去过",
+      "学校"
+    ]
+  },
+  {
+    "id": "daily_vi_0339",
+    "level": "HSK2",
+    "topic": "Kinh nghiệm",
+    "vi_sentence": "Anh trai tôi đã từng đi bệnh viện.",
+    "answer_zh": "我哥哥去过医院。",
+    "pinyin": "wǒ gēge qù guo yīyuàn.",
+    "grammar_focus": "Động từ + 过",
+    "focus_words": [
+      "我哥哥",
+      "去过",
+      "医院"
+    ]
+  },
+  {
+    "id": "daily_vi_0340",
+    "level": "HSK2",
+    "topic": "Kinh nghiệm",
+    "vi_sentence": "Anh trai tôi đã từng đi cửa hàng.",
+    "answer_zh": "我哥哥去过商店。",
+    "pinyin": "wǒ gēge qù guo shāngdiàn.",
+    "grammar_focus": "Động từ + 过",
+    "focus_words": [
+      "我哥哥",
+      "去过",
+      "商店"
+    ]
+  },
+  {
+    "id": "daily_vi_0341",
+    "level": "HSK2",
+    "topic": "Kinh nghiệm",
+    "vi_sentence": "Anh trai tôi đã từng đi nhà hàng.",
+    "answer_zh": "我哥哥去过饭店。",
+    "pinyin": "wǒ gēge qù guo fàndiàn.",
+    "grammar_focus": "Động từ + 过",
+    "focus_words": [
+      "我哥哥",
+      "去过",
+      "饭店"
+    ]
+  },
+  {
+    "id": "daily_vi_0342",
+    "level": "HSK2",
+    "topic": "Kinh nghiệm",
+    "vi_sentence": "Anh trai tôi đã từng đi công ty.",
+    "answer_zh": "我哥哥去过公司。",
+    "pinyin": "wǒ gēge qù guo gōngsī.",
+    "grammar_focus": "Động từ + 过",
+    "focus_words": [
+      "我哥哥",
+      "去过",
+      "公司"
+    ]
+  },
+  {
+    "id": "daily_vi_0343",
+    "level": "HSK2",
+    "topic": "Kinh nghiệm",
+    "vi_sentence": "Anh trai tôi đã từng đi sân bay.",
+    "answer_zh": "我哥哥去过机场。",
+    "pinyin": "wǒ gēge qù guo jīchǎng.",
+    "grammar_focus": "Động từ + 过",
+    "focus_words": [
+      "我哥哥",
+      "去过",
+      "机场"
+    ]
+  },
+  {
+    "id": "daily_vi_0344",
+    "level": "HSK2",
+    "topic": "Kinh nghiệm",
+    "vi_sentence": "Anh trai tôi đã từng đi ga tàu.",
+    "answer_zh": "我哥哥去过火车站。",
+    "pinyin": "wǒ gēge qù guo huǒchēzhàn.",
+    "grammar_focus": "Động từ + 过",
+    "focus_words": [
+      "我哥哥",
+      "去过",
+      "火车站"
+    ]
+  },
+  {
+    "id": "daily_vi_0345",
+    "level": "HSK2",
+    "topic": "Kinh nghiệm",
+    "vi_sentence": "Anh trai tôi đã từng đi Bắc Kinh.",
+    "answer_zh": "我哥哥去过北京。",
+    "pinyin": "wǒ gēge qù guo Běijīng.",
+    "grammar_focus": "Động từ + 过",
+    "focus_words": [
+      "我哥哥",
+      "去过",
+      "北京"
+    ]
+  },
+  {
+    "id": "daily_vi_0346",
+    "level": "HSK2",
+    "topic": "Câu hỏi giao tiếp",
+    "vi_sentence": "Hôm nay tôi có thể đến trường học không?",
+    "answer_zh": "我今天可以到学校吗？",
+    "pinyin": "wǒ jīntiān kěyǐ dào xuéxiào ma?",
+    "grammar_focus": "可以 + động từ；吗",
+    "focus_words": [
+      "我",
+      "今天",
+      "可以",
+      "到",
+      "学校",
+      "吗"
+    ]
+  },
+  {
+    "id": "daily_vi_0347",
+    "level": "HSK2",
+    "topic": "Câu hỏi giao tiếp",
+    "vi_sentence": "Hôm nay tôi có thể đến bệnh viện không?",
+    "answer_zh": "我今天可以到医院吗？",
+    "pinyin": "wǒ jīntiān kěyǐ dào yīyuàn ma?",
+    "grammar_focus": "可以 + động từ；吗",
+    "focus_words": [
+      "我",
+      "今天",
+      "可以",
+      "到",
+      "医院",
+      "吗"
+    ]
+  },
+  {
+    "id": "daily_vi_0348",
+    "level": "HSK2",
+    "topic": "Câu hỏi giao tiếp",
+    "vi_sentence": "Hôm nay tôi có thể đến cửa hàng không?",
+    "answer_zh": "我今天可以到商店吗？",
+    "pinyin": "wǒ jīntiān kěyǐ dào shāngdiàn ma?",
+    "grammar_focus": "可以 + động từ；吗",
+    "focus_words": [
+      "我",
+      "今天",
+      "可以",
+      "到",
+      "商店",
+      "吗"
+    ]
+  },
+  {
+    "id": "daily_vi_0349",
+    "level": "HSK2",
+    "topic": "Câu hỏi giao tiếp",
+    "vi_sentence": "Hôm nay tôi có thể đến nhà hàng không?",
+    "answer_zh": "我今天可以到饭店吗？",
+    "pinyin": "wǒ jīntiān kěyǐ dào fàndiàn ma?",
+    "grammar_focus": "可以 + động từ；吗",
+    "focus_words": [
+      "我",
+      "今天",
+      "可以",
+      "到",
+      "饭店",
+      "吗"
+    ]
+  },
+  {
+    "id": "daily_vi_0350",
+    "level": "HSK2",
+    "topic": "Câu hỏi giao tiếp",
+    "vi_sentence": "Hôm nay tôi có thể đến công ty không?",
+    "answer_zh": "我今天可以到公司吗？",
+    "pinyin": "wǒ jīntiān kěyǐ dào gōngsī ma?",
+    "grammar_focus": "可以 + động từ；吗",
+    "focus_words": [
+      "我",
+      "今天",
+      "可以",
+      "到",
+      "公司",
+      "吗"
+    ]
+  },
+  {
+    "id": "daily_vi_0351",
+    "level": "HSK2",
+    "topic": "Câu hỏi giao tiếp",
+    "vi_sentence": "Ngày mai tôi có thể đến trường học không?",
+    "answer_zh": "我明天可以到学校吗？",
+    "pinyin": "wǒ míngtiān kěyǐ dào xuéxiào ma?",
+    "grammar_focus": "可以 + động từ；吗",
+    "focus_words": [
+      "我",
+      "明天",
+      "可以",
+      "到",
+      "学校",
+      "吗"
+    ]
+  },
+  {
+    "id": "daily_vi_0352",
+    "level": "HSK2",
+    "topic": "Câu hỏi giao tiếp",
+    "vi_sentence": "Ngày mai tôi có thể đến bệnh viện không?",
+    "answer_zh": "我明天可以到医院吗？",
+    "pinyin": "wǒ míngtiān kěyǐ dào yīyuàn ma?",
+    "grammar_focus": "可以 + động từ；吗",
+    "focus_words": [
+      "我",
+      "明天",
+      "可以",
+      "到",
+      "医院",
+      "吗"
+    ]
+  },
+  {
+    "id": "daily_vi_0353",
+    "level": "HSK2",
+    "topic": "Câu hỏi giao tiếp",
+    "vi_sentence": "Ngày mai tôi có thể đến cửa hàng không?",
+    "answer_zh": "我明天可以到商店吗？",
+    "pinyin": "wǒ míngtiān kěyǐ dào shāngdiàn ma?",
+    "grammar_focus": "可以 + động từ；吗",
+    "focus_words": [
+      "我",
+      "明天",
+      "可以",
+      "到",
+      "商店",
+      "吗"
+    ]
+  },
+  {
+    "id": "daily_vi_0354",
+    "level": "HSK2",
+    "topic": "Câu hỏi giao tiếp",
+    "vi_sentence": "Ngày mai tôi có thể đến nhà hàng không?",
+    "answer_zh": "我明天可以到饭店吗？",
+    "pinyin": "wǒ míngtiān kěyǐ dào fàndiàn ma?",
+    "grammar_focus": "可以 + động từ；吗",
+    "focus_words": [
+      "我",
+      "明天",
+      "可以",
+      "到",
+      "饭店",
+      "吗"
+    ]
+  },
+  {
+    "id": "daily_vi_0355",
+    "level": "HSK2",
+    "topic": "Câu hỏi giao tiếp",
+    "vi_sentence": "Ngày mai tôi có thể đến công ty không?",
+    "answer_zh": "我明天可以到公司吗？",
+    "pinyin": "wǒ míngtiān kěyǐ dào gōngsī ma?",
+    "grammar_focus": "可以 + động từ；吗",
+    "focus_words": [
+      "我",
+      "明天",
+      "可以",
+      "到",
+      "公司",
+      "吗"
+    ]
+  },
+  {
+    "id": "daily_vi_0356",
+    "level": "HSK2",
+    "topic": "Câu hỏi giao tiếp",
+    "vi_sentence": "Sáng nay tôi có thể đến trường học không?",
+    "answer_zh": "我今天早上可以到学校吗？",
+    "pinyin": "wǒ jīntiān zǎoshang kěyǐ dào xuéxiào ma?",
+    "grammar_focus": "可以 + động từ；吗",
+    "focus_words": [
+      "我",
+      "今天早上",
+      "可以",
+      "到",
+      "学校",
+      "吗"
+    ]
+  },
+  {
+    "id": "daily_vi_0357",
+    "level": "HSK2",
+    "topic": "Câu hỏi giao tiếp",
+    "vi_sentence": "Sáng nay tôi có thể đến bệnh viện không?",
+    "answer_zh": "我今天早上可以到医院吗？",
+    "pinyin": "wǒ jīntiān zǎoshang kěyǐ dào yīyuàn ma?",
+    "grammar_focus": "可以 + động từ；吗",
+    "focus_words": [
+      "我",
+      "今天早上",
+      "可以",
+      "到",
+      "医院",
+      "吗"
+    ]
+  },
+  {
+    "id": "daily_vi_0358",
+    "level": "HSK2",
+    "topic": "Câu hỏi giao tiếp",
+    "vi_sentence": "Sáng nay tôi có thể đến cửa hàng không?",
+    "answer_zh": "我今天早上可以到商店吗？",
+    "pinyin": "wǒ jīntiān zǎoshang kěyǐ dào shāngdiàn ma?",
+    "grammar_focus": "可以 + động từ；吗",
+    "focus_words": [
+      "我",
+      "今天早上",
+      "可以",
+      "到",
+      "商店",
+      "吗"
+    ]
+  },
+  {
+    "id": "daily_vi_0359",
+    "level": "HSK2",
+    "topic": "Câu hỏi giao tiếp",
+    "vi_sentence": "Sáng nay tôi có thể đến nhà hàng không?",
+    "answer_zh": "我今天早上可以到饭店吗？",
+    "pinyin": "wǒ jīntiān zǎoshang kěyǐ dào fàndiàn ma?",
+    "grammar_focus": "可以 + động từ；吗",
+    "focus_words": [
+      "我",
+      "今天早上",
+      "可以",
+      "到",
+      "饭店",
+      "吗"
+    ]
+  },
+  {
+    "id": "daily_vi_0360",
+    "level": "HSK2",
+    "topic": "Câu hỏi giao tiếp",
+    "vi_sentence": "Sáng nay tôi có thể đến công ty không?",
+    "answer_zh": "我今天早上可以到公司吗？",
+    "pinyin": "wǒ jīntiān zǎoshang kěyǐ dào gōngsī ma?",
+    "grammar_focus": "可以 + động từ；吗",
+    "focus_words": [
+      "我",
+      "今天早上",
+      "可以",
+      "到",
+      "公司",
+      "吗"
+    ]
+  },
+  {
+    "id": "daily_vi_0361",
+    "level": "HSK2",
+    "topic": "Câu hỏi giao tiếp",
+    "vi_sentence": "Tối nay tôi có thể đến trường học không?",
+    "answer_zh": "我今天晚上可以到学校吗？",
+    "pinyin": "wǒ jīntiān wǎnshang kěyǐ dào xuéxiào ma?",
+    "grammar_focus": "可以 + động từ；吗",
+    "focus_words": [
+      "我",
+      "今天晚上",
+      "可以",
+      "到",
+      "学校",
+      "吗"
+    ]
+  },
+  {
+    "id": "daily_vi_0362",
+    "level": "HSK2",
+    "topic": "Câu hỏi giao tiếp",
+    "vi_sentence": "Tối nay tôi có thể đến bệnh viện không?",
+    "answer_zh": "我今天晚上可以到医院吗？",
+    "pinyin": "wǒ jīntiān wǎnshang kěyǐ dào yīyuàn ma?",
+    "grammar_focus": "可以 + động từ；吗",
+    "focus_words": [
+      "我",
+      "今天晚上",
+      "可以",
+      "到",
+      "医院",
+      "吗"
+    ]
+  },
+  {
+    "id": "daily_vi_0363",
+    "level": "HSK2",
+    "topic": "Câu hỏi giao tiếp",
+    "vi_sentence": "Tối nay tôi có thể đến cửa hàng không?",
+    "answer_zh": "我今天晚上可以到商店吗？",
+    "pinyin": "wǒ jīntiān wǎnshang kěyǐ dào shāngdiàn ma?",
+    "grammar_focus": "可以 + động từ；吗",
+    "focus_words": [
+      "我",
+      "今天晚上",
+      "可以",
+      "到",
+      "商店",
+      "吗"
+    ]
+  },
+  {
+    "id": "daily_vi_0364",
+    "level": "HSK2",
+    "topic": "Câu hỏi giao tiếp",
+    "vi_sentence": "Tối nay tôi có thể đến nhà hàng không?",
+    "answer_zh": "我今天晚上可以到饭店吗？",
+    "pinyin": "wǒ jīntiān wǎnshang kěyǐ dào fàndiàn ma?",
+    "grammar_focus": "可以 + động từ；吗",
+    "focus_words": [
+      "我",
+      "今天晚上",
+      "可以",
+      "到",
+      "饭店",
+      "吗"
+    ]
+  },
+  {
+    "id": "daily_vi_0365",
+    "level": "HSK2",
+    "topic": "Câu hỏi giao tiếp",
+    "vi_sentence": "Tối nay tôi có thể đến công ty không?",
+    "answer_zh": "我今天晚上可以到公司吗？",
+    "pinyin": "wǒ jīntiān wǎnshang kěyǐ dào gōngsī ma?",
+    "grammar_focus": "可以 + động từ；吗",
+    "focus_words": [
+      "我",
+      "今天晚上",
+      "可以",
+      "到",
+      "公司",
+      "吗"
+    ]
+  }
+]

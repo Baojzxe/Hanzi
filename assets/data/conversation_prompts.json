@@ -1,0 +1,1302 @@
+[
+  {
+    "id": "q_hsk1_001",
+    "level": "HSK1",
+    "topic": "Chào hỏi",
+    "question_zh": "你好！你叫什么名字？",
+    "pinyin": "Nǐ hǎo! Nǐ jiào shénme míngzi?",
+    "question_vi": "Xin chào! Bạn tên là gì?",
+    "sample_answer_zh": "你好！我叫安。",
+    "sample_answer_pinyin": "Nǐ hǎo! Wǒ jiào Ān.",
+    "sample_answer_vi": "Xin chào! Tôi tên là An.",
+    "answer_guide": "Dùng 我叫 + tên. Khi nói tự nhiên có thể thêm 你好 ở đầu câu.",
+    "focus_words": [
+      "我",
+      "叫"
+    ]
+  },
+  {
+    "id": "q_hsk1_002",
+    "level": "HSK1",
+    "topic": "Quốc tịch",
+    "question_zh": "你是哪国人？",
+    "pinyin": "Nǐ shì nǎ guó rén?",
+    "question_vi": "Bạn là người nước nào?",
+    "sample_answer_zh": "我是越南人。",
+    "sample_answer_pinyin": "Wǒ shì Yuènán rén.",
+    "sample_answer_vi": "Tôi là người Việt Nam.",
+    "answer_guide": "Dùng 我是 + quốc tịch + 人. Không cần dùng 的.",
+    "focus_words": [
+      "我",
+      "是",
+      "人"
+    ]
+  },
+  {
+    "id": "q_hsk1_003",
+    "level": "HSK1",
+    "topic": "Học tập",
+    "question_zh": "你学习汉语吗？",
+    "pinyin": "Nǐ xuéxí Hànyǔ ma?",
+    "question_vi": "Bạn có học tiếng Trung không?",
+    "sample_answer_zh": "我学习汉语，我也学习英语。",
+    "sample_answer_pinyin": "Wǒ xuéxí Hànyǔ, wǒ yě xuéxí Yīngyǔ.",
+    "sample_answer_vi": "Tôi học tiếng Trung, tôi cũng học tiếng Anh.",
+    "answer_guide": "Trả lời có/không rồi mở rộng thêm bằng 也 để giống giao tiếp tự nhiên.",
+    "focus_words": [
+      "学习",
+      "汉语"
+    ]
+  },
+  {
+    "id": "q_hsk1_004",
+    "level": "HSK1",
+    "topic": "Gia đình",
+    "question_zh": "你家有几口人？",
+    "pinyin": "Nǐ jiā yǒu jǐ kǒu rén?",
+    "question_vi": "Nhà bạn có mấy người?",
+    "sample_answer_zh": "我家有四口人：爸爸、妈妈、哥哥和我。",
+    "sample_answer_pinyin": "Wǒ jiā yǒu sì kǒu rén: bàba, māma, gēge hé wǒ.",
+    "sample_answer_vi": "Nhà tôi có bốn người: bố, mẹ, anh trai và tôi.",
+    "answer_guide": "Dùng 我家有 + số + 口人. Liệt kê người trong gia đình bằng 和.",
+    "focus_words": [
+      "我家",
+      "有",
+      "口人"
+    ]
+  },
+  {
+    "id": "q_hsk1_005",
+    "level": "HSK1",
+    "topic": "Ăn uống",
+    "question_zh": "你喜欢喝茶吗？",
+    "pinyin": "Nǐ xǐhuan hē chá ma?",
+    "question_vi": "Bạn thích uống trà không?",
+    "sample_answer_zh": "我喜欢喝茶，但是我不喜欢喝咖啡。",
+    "sample_answer_pinyin": "Wǒ xǐhuan hē chá, dànshì wǒ bù xǐhuan hē kāfēi.",
+    "sample_answer_vi": "Tôi thích uống trà, nhưng tôi không thích uống cà phê.",
+    "answer_guide": "HSK1 có thể trả lời đơn giản: 我喜欢/我不喜欢. Nếu muốn tự nhiên hơn thêm 但是.",
+    "focus_words": [
+      "喜欢",
+      "喝",
+      "茶"
+    ]
+  },
+  {
+    "id": "q_hsk1_006",
+    "level": "HSK1",
+    "topic": "Thời gian",
+    "question_zh": "你今天忙吗？",
+    "pinyin": "Nǐ jīntiān máng ma?",
+    "question_vi": "Hôm nay bạn bận không?",
+    "sample_answer_zh": "我今天很忙，明天有时间。",
+    "sample_answer_pinyin": "Wǒ jīntiān hěn máng, míngtiān yǒu shíjiān.",
+    "sample_answer_vi": "Hôm nay tôi rất bận, ngày mai tôi có thời gian.",
+    "answer_guide": "Đặt thời gian 今天/明天 trước động từ hoặc tính từ để câu rõ ràng.",
+    "focus_words": [
+      "今天",
+      "忙",
+      "明天"
+    ]
+  },
+  {
+    "id": "q_hsk1_007",
+    "level": "HSK1",
+    "topic": "Địa điểm",
+    "question_zh": "你在哪儿学习？",
+    "pinyin": "Nǐ zài nǎr xuéxí?",
+    "question_vi": "Bạn học ở đâu?",
+    "sample_answer_zh": "我在学校学习汉语。",
+    "sample_answer_pinyin": "Wǒ zài xuéxiào xuéxí Hànyǔ.",
+    "sample_answer_vi": "Tôi học tiếng Trung ở trường.",
+    "answer_guide": "Mẫu: 我在 + địa điểm + học/làm việc.",
+    "focus_words": [
+      "在",
+      "学校",
+      "学习"
+    ]
+  },
+  {
+    "id": "q_hsk1_008",
+    "level": "HSK1",
+    "topic": "Mua đồ",
+    "question_zh": "你想买什么？",
+    "pinyin": "Nǐ xiǎng mǎi shénme?",
+    "question_vi": "Bạn muốn mua gì?",
+    "sample_answer_zh": "我想买一本书和一杯茶。",
+    "sample_answer_pinyin": "Wǒ xiǎng mǎi yì běn shū hé yì bēi chá.",
+    "sample_answer_vi": "Tôi muốn mua một quyển sách và một cốc trà.",
+    "answer_guide": "Dùng 想买 + đồ vật. Chú ý lượng từ: 一本书, 一杯茶.",
+    "focus_words": [
+      "想",
+      "买"
+    ]
+  },
+  {
+    "id": "q_hsk1_009",
+    "level": "HSK1",
+    "topic": "Sức khỏe",
+    "question_zh": "你今天怎么样？",
+    "pinyin": "Nǐ jīntiān zěnmeyàng?",
+    "question_vi": "Hôm nay bạn thế nào?",
+    "sample_answer_zh": "我今天很好，谢谢。",
+    "sample_answer_pinyin": "Wǒ jīntiān hěn hǎo, xièxie.",
+    "sample_answer_vi": "Hôm nay tôi khỏe/tốt, cảm ơn.",
+    "answer_guide": "Mẫu giao tiếp rất thông dụng: 我今天很好，谢谢.",
+    "focus_words": [
+      "今天",
+      "很好",
+      "谢谢"
+    ]
+  },
+  {
+    "id": "q_hsk1_010",
+    "level": "HSK1",
+    "topic": "Sở thích",
+    "question_zh": "你喜欢看电影吗？",
+    "pinyin": "Nǐ xǐhuan kàn diànyǐng ma?",
+    "question_vi": "Bạn thích xem phim không?",
+    "sample_answer_zh": "我喜欢看电影，也喜欢听音乐。",
+    "sample_answer_pinyin": "Wǒ xǐhuan kàn diànyǐng, yě xǐhuan tīng yīnyuè.",
+    "sample_answer_vi": "Tôi thích xem phim, cũng thích nghe nhạc.",
+    "answer_guide": "Dùng 也 để mở rộng câu trả lời tự nhiên hơn.",
+    "focus_words": [
+      "喜欢",
+      "看电影",
+      "也"
+    ]
+  },
+  {
+    "id": "q_hsk1_011",
+    "level": "HSK1",
+    "topic": "Đi lại",
+    "question_zh": "你明天去哪儿？",
+    "pinyin": "Nǐ míngtiān qù nǎr?",
+    "question_vi": "Ngày mai bạn đi đâu?",
+    "sample_answer_zh": "我明天去学校。",
+    "sample_answer_pinyin": "Wǒ míngtiān qù xuéxiào.",
+    "sample_answer_vi": "Ngày mai tôi đi đến trường.",
+    "answer_guide": "Thời gian 明天 thường đặt sau chủ ngữ hoặc đầu câu.",
+    "focus_words": [
+      "明天",
+      "去"
+    ]
+  },
+  {
+    "id": "q_hsk1_012",
+    "level": "HSK1",
+    "topic": "Lời mời",
+    "question_zh": "你现在想喝水吗？",
+    "pinyin": "Nǐ xiànzài xiǎng hē shuǐ ma?",
+    "question_vi": "Bây giờ bạn muốn uống nước không?",
+    "sample_answer_zh": "我现在不想喝水，我想喝茶。",
+    "sample_answer_pinyin": "Wǒ xiànzài bù xiǎng hē shuǐ, wǒ xiǎng hē chá.",
+    "sample_answer_vi": "Bây giờ tôi không muốn uống nước, tôi muốn uống trà.",
+    "answer_guide": "Phủ định mong muốn: 不想 + động từ.",
+    "focus_words": [
+      "现在",
+      "想",
+      "喝"
+    ]
+  },
+  {
+    "id": "q_hsk2_001",
+    "level": "HSK2",
+    "topic": "Kế hoạch",
+    "question_zh": "你明天有什么计划？",
+    "pinyin": "Nǐ míngtiān yǒu shénme jìhuà?",
+    "question_vi": "Ngày mai bạn có kế hoạch gì?",
+    "sample_answer_zh": "我明天上午学习汉语，下午去运动。",
+    "sample_answer_pinyin": "Wǒ míngtiān shàngwǔ xuéxí Hànyǔ, xiàwǔ qù yùndòng.",
+    "sample_answer_vi": "Sáng mai tôi học tiếng Trung, chiều đi vận động/thể thao.",
+    "answer_guide": "Dùng 上午/下午 để câu rõ thời gian, nghe tự nhiên hơn.",
+    "focus_words": [
+      "明天",
+      "上午",
+      "下午"
+    ]
+  },
+  {
+    "id": "q_hsk2_002",
+    "level": "HSK2",
+    "topic": "Kinh nghiệm",
+    "question_zh": "你去过北京吗？",
+    "pinyin": "Nǐ qù guo Běijīng ma?",
+    "question_vi": "Bạn đã từng đi Bắc Kinh chưa?",
+    "sample_answer_zh": "我没去过北京，但是我想去。",
+    "sample_answer_pinyin": "Wǒ méi qù guo Běijīng, dànshì wǒ xiǎng qù.",
+    "sample_answer_vi": "Tôi chưa từng đi Bắc Kinh, nhưng tôi muốn đi.",
+    "answer_guide": "Phủ định kinh nghiệm: 没 + động từ + 过.",
+    "focus_words": [
+      "去过",
+      "没",
+      "想"
+    ]
+  },
+  {
+    "id": "q_hsk2_003",
+    "level": "HSK2",
+    "topic": "So sánh",
+    "question_zh": "你觉得汉语比英语难吗？",
+    "pinyin": "Nǐ juéde Hànyǔ bǐ Yīngyǔ nán ma?",
+    "question_vi": "Bạn thấy tiếng Trung khó hơn tiếng Anh không?",
+    "sample_answer_zh": "我觉得汉语比英语难，但是很有意思。",
+    "sample_answer_pinyin": "Wǒ juéde Hànyǔ bǐ Yīngyǔ nán, dànshì hěn yǒu yìsi.",
+    "sample_answer_vi": "Tôi thấy tiếng Trung khó hơn tiếng Anh, nhưng rất thú vị.",
+    "answer_guide": "Mẫu: 我觉得 + A 比 B + tính từ.",
+    "focus_words": [
+      "觉得",
+      "比",
+      "但是"
+    ]
+  },
+  {
+    "id": "q_hsk2_004",
+    "level": "HSK2",
+    "topic": "Hỏi đường",
+    "question_zh": "从你家到学校远吗？",
+    "pinyin": "Cóng nǐ jiā dào xuéxiào yuǎn ma?",
+    "question_vi": "Từ nhà bạn đến trường có xa không?",
+    "sample_answer_zh": "不远，从我家到学校坐公共汽车二十分钟。",
+    "sample_answer_pinyin": "Bù yuǎn, cóng wǒ jiā dào xuéxiào zuò gōnggòng qìchē èrshí fēnzhōng.",
+    "sample_answer_vi": "Không xa, từ nhà tôi đến trường đi xe buýt 20 phút.",
+    "answer_guide": "Dùng 从...到... để nói từ đâu đến đâu.",
+    "focus_words": [
+      "从",
+      "到",
+      "分钟"
+    ]
+  },
+  {
+    "id": "q_hsk2_005",
+    "level": "HSK2",
+    "topic": "Thói quen",
+    "question_zh": "你每天什么时候学习汉语？",
+    "pinyin": "Nǐ měitiān shénme shíhou xuéxí Hànyǔ?",
+    "question_vi": "Mỗi ngày bạn học tiếng Trung lúc nào?",
+    "sample_answer_zh": "我每天晚上八点的时候学习汉语。",
+    "sample_answer_pinyin": "Wǒ měitiān wǎnshang bā diǎn de shíhou xuéxí Hànyǔ.",
+    "sample_answer_vi": "Mỗi ngày khi 8 giờ tối tôi học tiếng Trung.",
+    "answer_guide": "的时候 = khi/lúc. Đặt sau cụm thời gian hoặc hành động.",
+    "focus_words": [
+      "每天",
+      "的时候",
+      "学习"
+    ]
+  },
+  {
+    "id": "q_hsk2_006",
+    "level": "HSK2",
+    "topic": "Lý do",
+    "question_zh": "你为什么学习汉语？",
+    "pinyin": "Nǐ wèishénme xuéxí Hànyǔ?",
+    "question_vi": "Tại sao bạn học tiếng Trung?",
+    "sample_answer_zh": "因为我想和中国人说话，所以我学习汉语。",
+    "sample_answer_pinyin": "Yīnwèi wǒ xiǎng hé Zhōngguó rén shuōhuà, suǒyǐ wǒ xuéxí Hànyǔ.",
+    "sample_answer_vi": "Vì tôi muốn nói chuyện với người Trung Quốc, nên tôi học tiếng Trung.",
+    "answer_guide": "Câu lý do tự nhiên: 因为...所以...",
+    "focus_words": [
+      "因为",
+      "所以",
+      "说话"
+    ]
+  },
+  {
+    "id": "q_hsk2_007",
+    "level": "HSK2",
+    "topic": "Mua sắm",
+    "question_zh": "这件衣服怎么样？",
+    "pinyin": "Zhè jiàn yīfu zěnmeyàng?",
+    "question_vi": "Bộ quần áo này thế nào?",
+    "sample_answer_zh": "这件衣服很好看，但是有点儿贵。",
+    "sample_answer_pinyin": "Zhè jiàn yīfu hěn hǎokàn, dànshì yǒudiǎnr guì.",
+    "sample_answer_vi": "Bộ quần áo này đẹp, nhưng hơi đắt.",
+    "answer_guide": "有点儿 + tính từ thường dùng cho cảm giác hơi tiêu cực: hơi đắt, hơi mệt.",
+    "focus_words": [
+      "这件",
+      "但是",
+      "有点儿"
+    ]
+  },
+  {
+    "id": "q_hsk2_008",
+    "level": "HSK2",
+    "topic": "Sức khỏe",
+    "question_zh": "你哪里不舒服？",
+    "pinyin": "Nǐ nǎlǐ bù shūfu?",
+    "question_vi": "Bạn khó chịu ở đâu?",
+    "sample_answer_zh": "我有点儿累，想回家休息一下。",
+    "sample_answer_pinyin": "Wǒ yǒudiǎnr lèi, xiǎng huí jiā xiūxi yíxià.",
+    "sample_answer_vi": "Tôi hơi mệt, muốn về nhà nghỉ một chút.",
+    "answer_guide": "休息一下 nghe nhẹ nhàng, tự nhiên hơn 休息.",
+    "focus_words": [
+      "有点儿",
+      "想",
+      "一下"
+    ]
+  },
+  {
+    "id": "q_hsk2_009",
+    "level": "HSK2",
+    "topic": "Đang làm",
+    "question_zh": "你现在正在做什么？",
+    "pinyin": "Nǐ xiànzài zhèngzài zuò shénme?",
+    "question_vi": "Bây giờ bạn đang làm gì?",
+    "sample_answer_zh": "我现在正在写作业，写完以后去吃饭。",
+    "sample_answer_pinyin": "Wǒ xiànzài zhèngzài xiě zuòyè, xiě wán yǐhòu qù chī fàn.",
+    "sample_answer_vi": "Bây giờ tôi đang làm bài tập, làm xong rồi đi ăn cơm.",
+    "answer_guide": "正在 nhấn mạnh đang làm; 以后 = sau khi.",
+    "focus_words": [
+      "现在",
+      "正在",
+      "以后"
+    ]
+  },
+  {
+    "id": "q_hsk2_010",
+    "level": "HSK2",
+    "topic": "Mời bạn",
+    "question_zh": "你周末想做什么？",
+    "pinyin": "Nǐ zhōumò xiǎng zuò shénme?",
+    "question_vi": "Cuối tuần bạn muốn làm gì?",
+    "sample_answer_zh": "我周末想和朋友一起去喝咖啡。",
+    "sample_answer_pinyin": "Wǒ zhōumò xiǎng hé péngyou yìqǐ qù hē kāfēi.",
+    "sample_answer_vi": "Cuối tuần tôi muốn cùng bạn đi uống cà phê.",
+    "answer_guide": "一起 làm câu thân mật hơn: cùng nhau.",
+    "focus_words": [
+      "周末",
+      "一起",
+      "咖啡"
+    ]
+  },
+  {
+    "id": "q_hsk2_011",
+    "level": "HSK2",
+    "topic": "Thời tiết",
+    "question_zh": "明天天气怎么样？",
+    "pinyin": "Míngtiān tiānqì zěnmeyàng?",
+    "question_vi": "Thời tiết ngày mai thế nào?",
+    "sample_answer_zh": "明天可能下雨，出门的时候别忘了带伞。",
+    "sample_answer_pinyin": "Míngtiān kěnéng xià yǔ, chūmén de shíhou bié wàng le dài sǎn.",
+    "sample_answer_vi": "Ngày mai có thể mưa, khi ra ngoài đừng quên mang ô.",
+    "answer_guide": "Có thể dùng 可能 để dự đoán; 的时候 chỉ thời điểm xảy ra hành động.",
+    "focus_words": [
+      "明天",
+      "可能",
+      "的时候"
+    ]
+  },
+  {
+    "id": "q_hsk2_012",
+    "level": "HSK2",
+    "topic": "Cảm nhận",
+    "question_zh": "你觉得这个饭店怎么样？",
+    "pinyin": "Nǐ juéde zhège fàndiàn zěnmeyàng?",
+    "question_vi": "Bạn thấy nhà hàng này thế nào?",
+    "sample_answer_zh": "我觉得这个饭店的菜很好吃，服务员也很热情。",
+    "sample_answer_pinyin": "Wǒ juéde zhège fàndiàn de cài hěn hǎochī, fúwùyuán yě hěn rèqíng.",
+    "sample_answer_vi": "Tôi thấy đồ ăn của nhà hàng này rất ngon, nhân viên phục vụ cũng rất nhiệt tình.",
+    "answer_guide": "的 dùng để nối quan hệ: 饭店的菜 = đồ ăn của nhà hàng.",
+    "focus_words": [
+      "觉得",
+      "的",
+      "也"
+    ]
+  },
+  {
+    "id": "teacher_hsk1_0001",
+    "level": "HSK1",
+    "topic": "Chào hỏi",
+    "question_zh": "你好吗？",
+    "pinyin": "Nǐ hǎo ma?",
+    "question_vi": "Bạn khỏe không?",
+    "sample_answer_zh": "我很好，谢谢。",
+    "sample_answer_pinyin": "Wǒ hěn hǎo, xièxie.",
+    "sample_answer_vi": "Tôi khỏe, cảm ơn.",
+    "answer_guide": "Có thể trả lời tốt/không tốt/bận/mệt. Người bản địa thường thêm 谢谢 để lịch sự.",
+    "focus_words": [
+      "我",
+      "很好",
+      "谢谢"
+    ]
+  },
+  {
+    "id": "teacher_hsk1_0002",
+    "level": "HSK1",
+    "topic": "Tên họ",
+    "question_zh": "你姓什么？",
+    "pinyin": "Nǐ xìng shénme?",
+    "question_vi": "Bạn họ gì?",
+    "sample_answer_zh": "我姓阮。",
+    "sample_answer_pinyin": "Wǒ xìng Ruǎn.",
+    "sample_answer_vi": "Tôi họ Nguyễn.",
+    "answer_guide": "Dùng 我姓 + họ. Nếu nói tên đầy đủ dùng 我叫 + tên.",
+    "focus_words": [
+      "我",
+      "姓"
+    ]
+  },
+  {
+    "id": "teacher_hsk1_0003",
+    "level": "HSK1",
+    "topic": "Tên đầy đủ",
+    "question_zh": "你的名字是什么？",
+    "pinyin": "Nǐ de míngzi shì shénme?",
+    "question_vi": "Tên của bạn là gì?",
+    "sample_answer_zh": "我的名字是安。",
+    "sample_answer_pinyin": "Wǒ de míngzi shì Ān.",
+    "sample_answer_vi": "Tên của tôi là An.",
+    "answer_guide": "Có thể nói ngắn hơn: 我叫安.",
+    "focus_words": [
+      "我的",
+      "名字",
+      "是"
+    ]
+  },
+  {
+    "id": "teacher_hsk1_0004",
+    "level": "HSK1",
+    "topic": "Ngôn ngữ",
+    "question_zh": "你会说汉语吗？",
+    "pinyin": "Nǐ huì shuō Hànyǔ ma?",
+    "question_vi": "Bạn biết nói tiếng Trung không?",
+    "sample_answer_zh": "我会说一点儿汉语。",
+    "sample_answer_pinyin": "Wǒ huì shuō yìdiǎnr Hànyǔ.",
+    "sample_answer_vi": "Tôi biết nói một chút tiếng Trung.",
+    "answer_guide": "一点儿 làm câu khiêm tốn và tự nhiên hơn.",
+    "focus_words": [
+      "我",
+      "会",
+      "说",
+      "汉语"
+    ]
+  },
+  {
+    "id": "teacher_hsk1_0005",
+    "level": "HSK1",
+    "topic": "Nghề nghiệp",
+    "question_zh": "你爸爸做什么工作？",
+    "pinyin": "Nǐ bàba zuò shénme gōngzuò?",
+    "question_vi": "Bố bạn làm công việc gì?",
+    "sample_answer_zh": "我爸爸是医生。",
+    "sample_answer_pinyin": "Wǒ bàba shì yīshēng.",
+    "sample_answer_vi": "Bố tôi là bác sĩ.",
+    "answer_guide": "Có thể trả lời bằng 是 + nghề nghiệp.",
+    "focus_words": [
+      "我爸爸",
+      "是",
+      "医生"
+    ]
+  },
+  {
+    "id": "teacher_hsk1_0006",
+    "level": "HSK1",
+    "topic": "Thời gian học",
+    "question_zh": "你今天什么时候学习？",
+    "pinyin": "Nǐ jīntiān shénme shíhou xuéxí?",
+    "question_vi": "Hôm nay bạn học lúc nào?",
+    "sample_answer_zh": "我今天晚上学习。",
+    "sample_answer_pinyin": "Wǒ jīntiān wǎnshang xuéxí.",
+    "sample_answer_vi": "Tối nay tôi học.",
+    "answer_guide": "Cụm thời gian thường đặt trước động từ: 今天晚上 + 学习.",
+    "focus_words": [
+      "我",
+      "今天",
+      "晚上",
+      "学习"
+    ]
+  },
+  {
+    "id": "teacher_hsk1_0007",
+    "level": "HSK1",
+    "topic": "Ăn uống",
+    "question_zh": "你喜欢吃什么？",
+    "pinyin": "Nǐ xǐhuan chī shénme?",
+    "question_vi": "Bạn thích ăn gì?",
+    "sample_answer_zh": "我喜欢吃米饭和水果。",
+    "sample_answer_pinyin": "Wǒ xǐhuan chī mǐfàn hé shuǐguǒ.",
+    "sample_answer_vi": "Tôi thích ăn cơm và trái cây.",
+    "answer_guide": "和 nối danh từ, không nối hai mệnh đề dài.",
+    "focus_words": [
+      "我",
+      "喜欢",
+      "吃"
+    ]
+  },
+  {
+    "id": "teacher_hsk1_0008",
+    "level": "HSK1",
+    "topic": "Uống gì",
+    "question_zh": "你想喝什么？",
+    "pinyin": "Nǐ xiǎng hē shénme?",
+    "question_vi": "Bạn muốn uống gì?",
+    "sample_answer_zh": "我想喝茶。",
+    "sample_answer_pinyin": "Wǒ xiǎng hē chá.",
+    "sample_answer_vi": "Tôi muốn uống trà.",
+    "answer_guide": "想 + động từ diễn tả muốn làm gì.",
+    "focus_words": [
+      "我",
+      "想",
+      "喝"
+    ]
+  },
+  {
+    "id": "teacher_hsk1_0009",
+    "level": "HSK1",
+    "topic": "Giá tiền",
+    "question_zh": "这个多少钱？",
+    "pinyin": "Zhège duōshao qián?",
+    "question_vi": "Cái này bao nhiêu tiền?",
+    "sample_answer_zh": "这个二十块。",
+    "sample_answer_pinyin": "Zhège èrshí kuài.",
+    "sample_answer_vi": "Cái này 20 tệ/đồng.",
+    "answer_guide": "Trả lời số tiền + 块. Có thể thêm 太贵了 nếu thấy đắt.",
+    "focus_words": [
+      "这个",
+      "钱",
+      "块"
+    ]
+  },
+  {
+    "id": "teacher_hsk1_0010",
+    "level": "HSK1",
+    "topic": "Thời tiết",
+    "question_zh": "今天天气怎么样？",
+    "pinyin": "Jīntiān tiānqì zěnmeyàng?",
+    "question_vi": "Thời tiết hôm nay thế nào?",
+    "sample_answer_zh": "今天天气很好，不冷也不热。",
+    "sample_answer_pinyin": "Jīntiān tiānqì hěn hǎo, bù lěng yě bú rè.",
+    "sample_answer_vi": "Thời tiết hôm nay rất tốt, không lạnh cũng không nóng.",
+    "answer_guide": "怎么样 hỏi đánh giá/cảm nhận.",
+    "focus_words": [
+      "今天",
+      "天气",
+      "很"
+    ]
+  },
+  {
+    "id": "teacher_hsk1_0011",
+    "level": "HSK1",
+    "topic": "Hỏi đường đơn giản",
+    "question_zh": "学校在哪儿？",
+    "pinyin": "Xuéxiào zài nǎr?",
+    "question_vi": "Trường học ở đâu?",
+    "sample_answer_zh": "学校在前面。",
+    "sample_answer_pinyin": "Xuéxiào zài qiánmiàn.",
+    "sample_answer_vi": "Trường ở phía trước.",
+    "answer_guide": "Địa điểm + 在 + phương vị.",
+    "focus_words": [
+      "学校",
+      "在",
+      "前面"
+    ]
+  },
+  {
+    "id": "teacher_hsk1_0012",
+    "level": "HSK1",
+    "topic": "Đang làm gì",
+    "question_zh": "你现在做什么？",
+    "pinyin": "Nǐ xiànzài zuò shénme?",
+    "question_vi": "Bây giờ bạn đang làm gì?",
+    "sample_answer_zh": "我现在看书。",
+    "sample_answer_pinyin": "Wǒ xiànzài kàn shū.",
+    "sample_answer_vi": "Bây giờ tôi đọc sách.",
+    "answer_guide": "HSK1 có thể dùng 现在 + động từ, không bắt buộc thêm 正在.",
+    "focus_words": [
+      "我",
+      "现在",
+      "看书"
+    ]
+  },
+  {
+    "id": "teacher_hsk1_0013",
+    "level": "HSK1",
+    "topic": "Gọi điện",
+    "question_zh": "你给谁打电话？",
+    "pinyin": "Nǐ gěi shéi dǎ diànhuà?",
+    "question_vi": "Bạn gọi điện cho ai?",
+    "sample_answer_zh": "我给妈妈打电话。",
+    "sample_answer_pinyin": "Wǒ gěi māma dǎ diànhuà.",
+    "sample_answer_vi": "Tôi gọi điện cho mẹ.",
+    "answer_guide": "给 + người nhận + làm việc gì.",
+    "focus_words": [
+      "我",
+      "给",
+      "打电话"
+    ]
+  },
+  {
+    "id": "teacher_hsk1_0014",
+    "level": "HSK1",
+    "topic": "Sinh nhật",
+    "question_zh": "你的生日是几月几号？",
+    "pinyin": "Nǐ de shēngrì shì jǐ yuè jǐ hào?",
+    "question_vi": "Sinh nhật của bạn là tháng mấy ngày mấy?",
+    "sample_answer_zh": "我的生日是五月一号。",
+    "sample_answer_pinyin": "Wǒ de shēngrì shì wǔ yuè yī hào.",
+    "sample_answer_vi": "Sinh nhật của tôi là ngày 1 tháng 5.",
+    "answer_guide": "Ngày tháng: 月 + 号.",
+    "focus_words": [
+      "我的",
+      "生日",
+      "月",
+      "号"
+    ]
+  },
+  {
+    "id": "teacher_hsk1_0015",
+    "level": "HSK1",
+    "topic": "Tuổi",
+    "question_zh": "你今年多大？",
+    "pinyin": "Nǐ jīnnián duō dà?",
+    "question_vi": "Năm nay bạn bao nhiêu tuổi?",
+    "sample_answer_zh": "我今年二十岁。",
+    "sample_answer_pinyin": "Wǒ jīnnián èrshí suì.",
+    "sample_answer_vi": "Năm nay tôi 20 tuổi.",
+    "answer_guide": "Hỏi tuổi thân mật dùng 多大; trả lời số + 岁.",
+    "focus_words": [
+      "我",
+      "今年",
+      "岁"
+    ]
+  },
+  {
+    "id": "teacher_hsk2_0016",
+    "level": "HSK2",
+    "topic": "Kế hoạch",
+    "question_zh": "你明天打算做什么？",
+    "pinyin": "Nǐ míngtiān dǎsuàn zuò shénme?",
+    "question_vi": "Ngày mai bạn định làm gì?",
+    "sample_answer_zh": "我明天打算去学校学习汉语。",
+    "sample_answer_pinyin": "Wǒ míngtiān dǎsuàn qù xuéxiào xuéxí Hànyǔ.",
+    "sample_answer_vi": "Ngày mai tôi định đến trường học tiếng Trung.",
+    "answer_guide": "打算/想/要 đều dùng được để nói kế hoạch.",
+    "focus_words": [
+      "我",
+      "明天",
+      "打算",
+      "去",
+      "学习"
+    ]
+  },
+  {
+    "id": "teacher_hsk2_0017",
+    "level": "HSK2",
+    "topic": "Sau khi",
+    "question_zh": "你下课以后做什么？",
+    "pinyin": "Nǐ xiàkè yǐhòu zuò shénme?",
+    "question_vi": "Sau khi tan học bạn làm gì?",
+    "sample_answer_zh": "我下课以后回家休息。",
+    "sample_answer_pinyin": "Wǒ xiàkè yǐhòu huí jiā xiūxi.",
+    "sample_answer_vi": "Sau khi tan học tôi về nhà nghỉ ngơi.",
+    "answer_guide": "以后 đặt sau sự kiện: 下课以后 = sau khi tan học.",
+    "focus_words": [
+      "我",
+      "以后",
+      "回家",
+      "休息"
+    ]
+  },
+  {
+    "id": "teacher_hsk2_0018",
+    "level": "HSK2",
+    "topic": "Trước khi",
+    "question_zh": "你睡觉以前常常做什么？",
+    "pinyin": "Nǐ shuìjiào yǐqián chángcháng zuò shénme?",
+    "question_vi": "Trước khi ngủ bạn thường làm gì?",
+    "sample_answer_zh": "我睡觉以前常常看书。",
+    "sample_answer_pinyin": "Wǒ shuìjiào yǐqián chángcháng kàn shū.",
+    "sample_answer_vi": "Trước khi ngủ tôi thường đọc sách.",
+    "answer_guide": "以前 đặt sau sự kiện: 睡觉以前.",
+    "focus_words": [
+      "我",
+      "以前",
+      "看书"
+    ]
+  },
+  {
+    "id": "teacher_hsk2_0019",
+    "level": "HSK2",
+    "topic": "So sánh",
+    "question_zh": "汉语和英语，你觉得哪个比较难？",
+    "pinyin": "Hànyǔ hé Yīngyǔ, nǐ juéde nǎge bǐjiào nán?",
+    "question_vi": "Tiếng Trung và tiếng Anh, bạn thấy cái nào khó hơn?",
+    "sample_answer_zh": "我觉得汉语比英语难一点儿。",
+    "sample_answer_pinyin": "Wǒ juéde Hànyǔ bǐ Yīngyǔ nán yìdiǎnr.",
+    "sample_answer_vi": "Tôi thấy tiếng Trung khó hơn tiếng Anh một chút.",
+    "answer_guide": "A 比 B + tính từ; 一点儿 làm mức độ nhẹ hơn.",
+    "focus_words": [
+      "我",
+      "觉得",
+      "比",
+      "一点儿"
+    ]
+  },
+  {
+    "id": "teacher_hsk2_0020",
+    "level": "HSK2",
+    "topic": "Cảm nhận",
+    "question_zh": "你觉得今天的课怎么样？",
+    "pinyin": "Nǐ juéde jīntiān de kè zěnmeyàng?",
+    "question_vi": "Bạn thấy buổi học hôm nay thế nào?",
+    "sample_answer_zh": "我觉得今天的课很有意思，也不太难。",
+    "sample_answer_pinyin": "Wǒ juéde jīntiān de kè hěn yǒu yìsi, yě bú tài nán.",
+    "sample_answer_vi": "Tôi thấy buổi học hôm nay rất thú vị, cũng không quá khó.",
+    "answer_guide": "的 nối định ngữ: 今天的课.",
+    "focus_words": [
+      "觉得",
+      "的",
+      "有意思",
+      "也"
+    ]
+  },
+  {
+    "id": "teacher_hsk2_0021",
+    "level": "HSK2",
+    "topic": "Sức khỏe",
+    "question_zh": "你身体怎么样？",
+    "pinyin": "Nǐ shēntǐ zěnmeyàng?",
+    "question_vi": "Sức khỏe của bạn thế nào?",
+    "sample_answer_zh": "我有点儿累，想休息一下。",
+    "sample_answer_pinyin": "Wǒ yǒudiǎnr lèi, xiǎng xiūxi yíxià.",
+    "sample_answer_vi": "Tôi hơi mệt, muốn nghỉ một chút.",
+    "answer_guide": "有点儿 thường dùng cho cảm giác hơi tiêu cực.",
+    "focus_words": [
+      "我",
+      "有点儿",
+      "想",
+      "一下"
+    ]
+  },
+  {
+    "id": "teacher_hsk2_0022",
+    "level": "HSK2",
+    "topic": "Đang làm",
+    "question_zh": "你正在做什么？",
+    "pinyin": "Nǐ zhèngzài zuò shénme?",
+    "question_vi": "Bạn đang làm gì?",
+    "sample_answer_zh": "我正在写作业，写完以后去吃饭。",
+    "sample_answer_pinyin": "Wǒ zhèngzài xiě zuòyè, xiě wán yǐhòu qù chī fàn.",
+    "sample_answer_vi": "Tôi đang làm bài tập, làm xong rồi đi ăn cơm.",
+    "answer_guide": "正在 nhấn mạnh hành động đang diễn ra.",
+    "focus_words": [
+      "我",
+      "正在",
+      "以后",
+      "去"
+    ]
+  },
+  {
+    "id": "teacher_hsk2_0023",
+    "level": "HSK2",
+    "topic": "Thời tiết dự đoán",
+    "question_zh": "明天天气可能怎么样？",
+    "pinyin": "Míngtiān tiānqì kěnéng zěnmeyàng?",
+    "question_vi": "Thời tiết ngày mai có thể thế nào?",
+    "sample_answer_zh": "明天可能下雨，所以我要带伞。",
+    "sample_answer_pinyin": "Míngtiān kěnéng xià yǔ, suǒyǐ wǒ yào dài sǎn.",
+    "sample_answer_vi": "Ngày mai có thể mưa nên tôi cần mang ô.",
+    "answer_guide": "可能 dùng để phỏng đoán.",
+    "focus_words": [
+      "明天",
+      "可能",
+      "所以",
+      "要"
+    ]
+  },
+  {
+    "id": "teacher_hsk2_0024",
+    "level": "HSK2",
+    "topic": "Hỏi đường",
+    "question_zh": "从学校到你家远吗？",
+    "pinyin": "Cóng xuéxiào dào nǐ jiā yuǎn ma?",
+    "question_vi": "Từ trường đến nhà bạn có xa không?",
+    "sample_answer_zh": "从学校到我家不远，坐公共汽车二十分钟。",
+    "sample_answer_pinyin": "Cóng xuéxiào dào wǒ jiā bù yuǎn, zuò gōnggòng qìchē èrshí fēnzhōng.",
+    "sample_answer_vi": "Từ trường đến nhà tôi không xa, đi xe buýt 20 phút.",
+    "answer_guide": "从...到... nói điểm đầu và điểm cuối.",
+    "focus_words": [
+      "从",
+      "到",
+      "我家",
+      "分钟"
+    ]
+  },
+  {
+    "id": "teacher_hsk2_0025",
+    "level": "HSK2",
+    "topic": "Mua quần áo",
+    "question_zh": "你觉得这件衣服怎么样？",
+    "pinyin": "Nǐ juéde zhè jiàn yīfu zěnmeyàng?",
+    "question_vi": "Bạn thấy bộ quần áo này thế nào?",
+    "sample_answer_zh": "我觉得这件衣服很好看，但是有点儿贵。",
+    "sample_answer_pinyin": "Wǒ juéde zhè jiàn yīfu hěn hǎokàn, dànshì yǒudiǎnr guì.",
+    "sample_answer_vi": "Tôi thấy bộ này đẹp, nhưng hơi đắt.",
+    "answer_guide": "这件 dùng với quần áo; 但是 nối ý trái ngược.",
+    "focus_words": [
+      "觉得",
+      "这件",
+      "但是",
+      "有点儿"
+    ]
+  },
+  {
+    "id": "teacher_hsk2_0026",
+    "level": "HSK2",
+    "topic": "Nhờ giúp",
+    "question_zh": "你可以帮我一下吗？",
+    "pinyin": "Nǐ kěyǐ bāng wǒ yíxià ma?",
+    "question_vi": "Bạn có thể giúp tôi một chút không?",
+    "sample_answer_zh": "可以，我现在帮你。",
+    "sample_answer_pinyin": "Kěyǐ, wǒ xiànzài bāng nǐ.",
+    "sample_answer_vi": "Được, bây giờ tôi giúp bạn.",
+    "answer_guide": "可以 dùng để đồng ý/cho phép. 一下 làm câu mềm hơn.",
+    "focus_words": [
+      "可以",
+      "我",
+      "现在",
+      "帮"
+    ]
+  },
+  {
+    "id": "teacher_hsk2_0027",
+    "level": "HSK2",
+    "topic": "Mời bạn",
+    "question_zh": "你想和我一起吃饭吗？",
+    "pinyin": "Nǐ xiǎng hé wǒ yìqǐ chī fàn ma?",
+    "question_vi": "Bạn muốn ăn cơm cùng tôi không?",
+    "sample_answer_zh": "好啊，我们一起去饭店吃饭吧。",
+    "sample_answer_pinyin": "Hǎo a, wǒmen yìqǐ qù fàndiàn chī fàn ba.",
+    "sample_answer_vi": "Được đó, chúng ta cùng đến nhà hàng ăn cơm nhé.",
+    "answer_guide": "吧 làm lời rủ rê nhẹ nhàng hơn.",
+    "focus_words": [
+      "好",
+      "我们",
+      "一起",
+      "吧"
+    ]
+  },
+  {
+    "id": "teacher_hsk2_0028",
+    "level": "HSK2",
+    "topic": "Công việc",
+    "question_zh": "你每天几点上班？",
+    "pinyin": "Nǐ měitiān jǐ diǎn shàngbān?",
+    "question_vi": "Mỗi ngày bạn mấy giờ đi làm?",
+    "sample_answer_zh": "我每天早上八点上班，下午五点下班。",
+    "sample_answer_pinyin": "Wǒ měitiān zǎoshang bā diǎn shàngbān, xiàwǔ wǔ diǎn xiàbān.",
+    "sample_answer_vi": "Mỗi sáng tôi đi làm lúc 8 giờ, chiều 5 giờ tan làm.",
+    "answer_guide": "Thời gian cụ thể đặt trước động từ: 八点上班.",
+    "focus_words": [
+      "我",
+      "每天",
+      "早上",
+      "上班"
+    ]
+  },
+  {
+    "id": "teacher_hsk2_0029",
+    "level": "HSK2",
+    "topic": "Du lịch",
+    "question_zh": "你想去哪儿旅游？",
+    "pinyin": "Nǐ xiǎng qù nǎr lǚyóu?",
+    "question_vi": "Bạn muốn đi đâu du lịch?",
+    "sample_answer_zh": "我想去北京旅游，因为我想看长城。",
+    "sample_answer_pinyin": "Wǒ xiǎng qù Běijīng lǚyóu, yīnwèi wǒ xiǎng kàn Chángchéng.",
+    "sample_answer_vi": "Tôi muốn đi Bắc Kinh du lịch vì tôi muốn xem Vạn Lý Trường Thành.",
+    "answer_guide": "Muốn đi đâu làm gì: 想去 + địa điểm + hoạt động.",
+    "focus_words": [
+      "我",
+      "想",
+      "去",
+      "因为"
+    ]
+  },
+  {
+    "id": "teacher_hsk2_0030",
+    "level": "HSK2",
+    "topic": "Đánh giá món ăn",
+    "question_zh": "你觉得这个菜好吃吗？",
+    "pinyin": "Nǐ juéde zhège cài hǎochī ma?",
+    "question_vi": "Bạn thấy món này ngon không?",
+    "sample_answer_zh": "我觉得这个菜很好吃，但是有点儿辣。",
+    "sample_answer_pinyin": "Wǒ juéde zhège cài hěn hǎochī, dànshì yǒudiǎnr là.",
+    "sample_answer_vi": "Tôi thấy món này rất ngon, nhưng hơi cay.",
+    "answer_guide": "Có thể đánh giá kèm nhượng bộ: 很好吃，但是...",
+    "focus_words": [
+      "觉得",
+      "好吃",
+      "但是",
+      "有点儿"
+    ]
+  },
+  {
+    "id": "teacher_hsk2_0031",
+    "level": "HSK2",
+    "topic": "Lời khuyên",
+    "question_zh": "如果明天下雨，你怎么办？",
+    "pinyin": "Rúguǒ míngtiān xià yǔ, nǐ zěnme bàn?",
+    "question_vi": "Nếu ngày mai mưa, bạn làm thế nào?",
+    "sample_answer_zh": "如果明天下雨，我就不出去。",
+    "sample_answer_pinyin": "Rúguǒ míngtiān xià yǔ, wǒ jiù bù chūqù.",
+    "sample_answer_vi": "Nếu ngày mai mưa, tôi sẽ không ra ngoài.",
+    "answer_guide": "如果...就... là mẫu giả định thường gặp khi giao tiếp.",
+    "focus_words": [
+      "如果",
+      "明天",
+      "就",
+      "不"
+    ]
+  },
+  {
+    "id": "teacher_hsk2_0032",
+    "level": "HSK2",
+    "topic": "Trình tự",
+    "question_zh": "你早上起床以后先做什么？",
+    "pinyin": "Nǐ zǎoshang qǐchuáng yǐhòu xiān zuò shénme?",
+    "question_vi": "Buổi sáng sau khi dậy bạn làm gì trước?",
+    "sample_answer_zh": "我起床以后先喝水，然后吃早饭。",
+    "sample_answer_pinyin": "Wǒ qǐchuáng yǐhòu xiān hē shuǐ, ránhòu chī zǎofàn.",
+    "sample_answer_vi": "Sau khi dậy tôi uống nước trước, sau đó ăn sáng.",
+    "answer_guide": "先...然后... giúp câu kể tự nhiên hơn.",
+    "focus_words": [
+      "以后",
+      "先",
+      "然后"
+    ]
+  },
+  {
+    "id": "teacher_hsk1_0033",
+    "level": "HSK1",
+    "topic": "Sinh hoạt hằng ngày",
+    "question_zh": "你今天想做什么？",
+    "pinyin": "Nǐ 今天 xiǎng zuò shénme?",
+    "question_vi": "Hôm nay bạn muốn làm gì?",
+    "sample_answer_zh": "我今天想学习汉语。",
+    "sample_answer_pinyin": "Wǒ 今天 xiǎng 学习汉语.",
+    "sample_answer_vi": "Hôm nay tôi muốn học tiếng Trung.",
+    "answer_guide": "想 + động từ. Bạn có thể đổi hành động miễn đúng ý cá nhân.",
+    "focus_words": [
+      "我",
+      "今天",
+      "想"
+    ]
+  },
+  {
+    "id": "teacher_hsk1_0034",
+    "level": "HSK1",
+    "topic": "Sinh hoạt hằng ngày",
+    "question_zh": "你明天想做什么？",
+    "pinyin": "Nǐ 明天 xiǎng zuò shénme?",
+    "question_vi": "Ngày mai bạn muốn làm gì?",
+    "sample_answer_zh": "我明天想学习汉语。",
+    "sample_answer_pinyin": "Wǒ 明天 xiǎng 学习汉语.",
+    "sample_answer_vi": "Ngày mai tôi muốn học tiếng Trung.",
+    "answer_guide": "想 + động từ. Bạn có thể đổi hành động miễn đúng ý cá nhân.",
+    "focus_words": [
+      "我",
+      "明天",
+      "想"
+    ]
+  },
+  {
+    "id": "teacher_hsk1_0035",
+    "level": "HSK1",
+    "topic": "Sinh hoạt hằng ngày",
+    "question_zh": "你今天晚上想做什么？",
+    "pinyin": "Nǐ 今天晚上 xiǎng zuò shénme?",
+    "question_vi": "Tối nay bạn muốn làm gì?",
+    "sample_answer_zh": "我今天晚上想学习汉语。",
+    "sample_answer_pinyin": "Wǒ 今天晚上 xiǎng 学习汉语.",
+    "sample_answer_vi": "Tối nay tôi muốn học tiếng Trung.",
+    "answer_guide": "想 + động từ. Bạn có thể đổi hành động miễn đúng ý cá nhân.",
+    "focus_words": [
+      "我",
+      "今天晚上",
+      "想"
+    ]
+  },
+  {
+    "id": "teacher_hsk1_0036",
+    "level": "HSK1",
+    "topic": "Sinh hoạt hằng ngày",
+    "question_zh": "你明天早上想做什么？",
+    "pinyin": "Nǐ 明天早上 xiǎng zuò shénme?",
+    "question_vi": "Sáng mai bạn muốn làm gì?",
+    "sample_answer_zh": "我明天早上想学习汉语。",
+    "sample_answer_pinyin": "Wǒ 明天早上 xiǎng 学习汉语.",
+    "sample_answer_vi": "Sáng mai tôi muốn học tiếng Trung.",
+    "answer_guide": "想 + động từ. Bạn có thể đổi hành động miễn đúng ý cá nhân.",
+    "focus_words": [
+      "我",
+      "明天早上",
+      "想"
+    ]
+  },
+  {
+    "id": "teacher_hsk1_0037",
+    "level": "HSK1",
+    "topic": "Địa điểm",
+    "question_zh": "你常常在哪儿学习汉语？",
+    "pinyin": "Nǐ chángcháng zài nǎr 学习汉语?",
+    "question_vi": "Bạn thường học tiếng Trung ở đâu?",
+    "sample_answer_zh": "我常常在学校学习汉语。",
+    "sample_answer_pinyin": "Wǒ chángcháng zài 学校 学习汉语.",
+    "sample_answer_vi": "Tôi thường học tiếng Trung ở trường học.",
+    "answer_guide": "在 + địa điểm + hành động.",
+    "focus_words": [
+      "我",
+      "在",
+      "学校"
+    ]
+  },
+  {
+    "id": "teacher_hsk1_0038",
+    "level": "HSK1",
+    "topic": "Địa điểm",
+    "question_zh": "你常常在哪儿看书？",
+    "pinyin": "Nǐ chángcháng zài nǎr 看书?",
+    "question_vi": "Bạn thường đọc sách ở đâu?",
+    "sample_answer_zh": "我常常在学校看书。",
+    "sample_answer_pinyin": "Wǒ chángcháng zài 学校 看书.",
+    "sample_answer_vi": "Tôi thường đọc sách ở trường học.",
+    "answer_guide": "在 + địa điểm + hành động.",
+    "focus_words": [
+      "我",
+      "在",
+      "学校"
+    ]
+  },
+  {
+    "id": "teacher_hsk1_0039",
+    "level": "HSK1",
+    "topic": "Địa điểm",
+    "question_zh": "你常常在哪儿看电影？",
+    "pinyin": "Nǐ chángcháng zài nǎr 看电影?",
+    "question_vi": "Bạn thường xem phim ở đâu?",
+    "sample_answer_zh": "我常常在学校看电影。",
+    "sample_answer_pinyin": "Wǒ chángcháng zài 学校 看电影.",
+    "sample_answer_vi": "Tôi thường xem phim ở trường học.",
+    "answer_guide": "在 + địa điểm + hành động.",
+    "focus_words": [
+      "我",
+      "在",
+      "学校"
+    ]
+  },
+  {
+    "id": "teacher_hsk1_0040",
+    "level": "HSK1",
+    "topic": "Địa điểm",
+    "question_zh": "你常常在哪儿打电话？",
+    "pinyin": "Nǐ chángcháng zài nǎr 打电话?",
+    "question_vi": "Bạn thường gọi điện thoại ở đâu?",
+    "sample_answer_zh": "我常常在学校打电话。",
+    "sample_answer_pinyin": "Wǒ chángcháng zài 学校 打电话.",
+    "sample_answer_vi": "Tôi thường gọi điện thoại ở trường học.",
+    "answer_guide": "在 + địa điểm + hành động.",
+    "focus_words": [
+      "我",
+      "在",
+      "学校"
+    ]
+  },
+  {
+    "id": "teacher_hsk2_0041",
+    "level": "HSK2",
+    "topic": "Lý do học",
+    "question_zh": "你为什么想学中文？",
+    "pinyin": "Nǐ wèishénme xiǎng xué Zhōngwén?",
+    "question_vi": "Tại sao bạn muốn học tiếng Trung?",
+    "sample_answer_zh": "因为我想和中国人说话，所以我想学中文。",
+    "sample_answer_pinyin": "Yīnwèi wǒ 想和中国人说话, suǒyǐ wǒ xiǎng xué Zhōngwén.",
+    "sample_answer_vi": "Vì tôi muốn nói chuyện với người Trung Quốc, nên tôi muốn học tiếng Trung.",
+    "answer_guide": "因为...所以...；中文 = 汉语.",
+    "focus_words": [
+      "因为",
+      "所以",
+      "想",
+      "中文"
+    ]
+  },
+  {
+    "id": "teacher_hsk2_0042",
+    "level": "HSK2",
+    "topic": "Kế hoạch thời gian",
+    "question_zh": "今天你打算去哪儿？",
+    "pinyin": "今天 nǐ dǎsuàn qù nǎr?",
+    "question_vi": "Hôm nay bạn định đi đâu?",
+    "sample_answer_zh": "我今天打算去学校。",
+    "sample_answer_pinyin": "Wǒ 今天 dǎsuàn qù 学校.",
+    "sample_answer_vi": "Hôm nay tôi định đi trường học.",
+    "answer_guide": "打算/想/要 đều được. Thời gian đặt trước 打算/去.",
+    "focus_words": [
+      "我",
+      "今天",
+      "打算",
+      "去"
+    ]
+  },
+  {
+    "id": "teacher_hsk2_0043",
+    "level": "HSK2",
+    "topic": "Kế hoạch thời gian",
+    "question_zh": "明天你打算去哪儿？",
+    "pinyin": "明天 nǐ dǎsuàn qù nǎr?",
+    "question_vi": "Ngày mai bạn định đi đâu?",
+    "sample_answer_zh": "我明天打算去学校。",
+    "sample_answer_pinyin": "Wǒ 明天 dǎsuàn qù 学校.",
+    "sample_answer_vi": "Ngày mai tôi định đi trường học.",
+    "answer_guide": "打算/想/要 đều được. Thời gian đặt trước 打算/去.",
+    "focus_words": [
+      "我",
+      "明天",
+      "打算",
+      "去"
+    ]
+  },
+  {
+    "id": "teacher_hsk2_0044",
+    "level": "HSK2",
+    "topic": "Kế hoạch thời gian",
+    "question_zh": "今天晚上你打算去哪儿？",
+    "pinyin": "今天晚上 nǐ dǎsuàn qù nǎr?",
+    "question_vi": "Tối nay bạn định đi đâu?",
+    "sample_answer_zh": "我今天晚上打算去学校。",
+    "sample_answer_pinyin": "Wǒ 今天晚上 dǎsuàn qù 学校.",
+    "sample_answer_vi": "Tối nay tôi định đi trường học.",
+    "answer_guide": "打算/想/要 đều được. Thời gian đặt trước 打算/去.",
+    "focus_words": [
+      "我",
+      "今天晚上",
+      "打算",
+      "去"
+    ]
+  },
+  {
+    "id": "teacher_hsk2_0045",
+    "level": "HSK2",
+    "topic": "Kế hoạch thời gian",
+    "question_zh": "明天早上你打算去哪儿？",
+    "pinyin": "明天早上 nǐ dǎsuàn qù nǎr?",
+    "question_vi": "Sáng mai bạn định đi đâu?",
+    "sample_answer_zh": "我明天早上打算去学校。",
+    "sample_answer_pinyin": "Wǒ 明天早上 dǎsuàn qù 学校.",
+    "sample_answer_vi": "Sáng mai tôi định đi trường học.",
+    "answer_guide": "打算/想/要 đều được. Thời gian đặt trước 打算/去.",
+    "focus_words": [
+      "我",
+      "明天早上",
+      "打算",
+      "去"
+    ]
+  },
+  {
+    "id": "teacher_hsk2_0046",
+    "level": "HSK2",
+    "topic": "Kế hoạch thời gian",
+    "question_zh": "周末你打算去哪儿？",
+    "pinyin": "周末 nǐ dǎsuàn qù nǎr?",
+    "question_vi": "Cuối tuần bạn định đi đâu?",
+    "sample_answer_zh": "我周末打算去学校。",
+    "sample_answer_pinyin": "Wǒ 周末 dǎsuàn qù 学校.",
+    "sample_answer_vi": "Cuối tuần tôi định đi trường học.",
+    "answer_guide": "打算/想/要 đều được. Thời gian đặt trước 打算/去.",
+    "focus_words": [
+      "我",
+      "周末",
+      "打算",
+      "去"
+    ]
+  },
+  {
+    "id": "teacher_hsk2_0047",
+    "level": "HSK2",
+    "topic": "Kinh nghiệm",
+    "question_zh": "你去过学校吗？",
+    "pinyin": "Nǐ qù guo 学校 ma?",
+    "question_vi": "Bạn đã từng đi trường học chưa?",
+    "sample_answer_zh": "我去过学校，但是只去过一次。",
+    "sample_answer_pinyin": "Wǒ qù guo 学校, dànshì zhǐ qù guo yí cì.",
+    "sample_answer_vi": "Tôi đã từng đi trường học, nhưng chỉ đi một lần.",
+    "answer_guide": "过 nói kinh nghiệm; 次 nói số lần.",
+    "focus_words": [
+      "我",
+      "去过",
+      "但是",
+      "次"
+    ]
+  },
+  {
+    "id": "teacher_hsk2_0048",
+    "level": "HSK2",
+    "topic": "Kinh nghiệm",
+    "question_zh": "你去过公司吗？",
+    "pinyin": "Nǐ qù guo 公司 ma?",
+    "question_vi": "Bạn đã từng đi công ty chưa?",
+    "sample_answer_zh": "我去过公司，但是只去过一次。",
+    "sample_answer_pinyin": "Wǒ qù guo 公司, dànshì zhǐ qù guo yí cì.",
+    "sample_answer_vi": "Tôi đã từng đi công ty, nhưng chỉ đi một lần.",
+    "answer_guide": "过 nói kinh nghiệm; 次 nói số lần.",
+    "focus_words": [
+      "我",
+      "去过",
+      "但是",
+      "次"
+    ]
+  },
+  {
+    "id": "teacher_hsk2_0049",
+    "level": "HSK2",
+    "topic": "Kinh nghiệm",
+    "question_zh": "你去过商店吗？",
+    "pinyin": "Nǐ qù guo 商店 ma?",
+    "question_vi": "Bạn đã từng đi cửa hàng chưa?",
+    "sample_answer_zh": "我去过商店，但是只去过一次。",
+    "sample_answer_pinyin": "Wǒ qù guo 商店, dànshì zhǐ qù guo yí cì.",
+    "sample_answer_vi": "Tôi đã từng đi cửa hàng, nhưng chỉ đi một lần.",
+    "answer_guide": "过 nói kinh nghiệm; 次 nói số lần.",
+    "focus_words": [
+      "我",
+      "去过",
+      "但是",
+      "次"
+    ]
+  },
+  {
+    "id": "teacher_hsk2_0050",
+    "level": "HSK2",
+    "topic": "Kinh nghiệm",
+    "question_zh": "你去过饭店吗？",
+    "pinyin": "Nǐ qù guo 饭店 ma?",
+    "question_vi": "Bạn đã từng đi nhà hàng chưa?",
+    "sample_answer_zh": "我去过饭店，但是只去过一次。",
+    "sample_answer_pinyin": "Wǒ qù guo 饭店, dànshì zhǐ qù guo yí cì.",
+    "sample_answer_vi": "Tôi đã từng đi nhà hàng, nhưng chỉ đi một lần.",
+    "answer_guide": "过 nói kinh nghiệm; 次 nói số lần.",
+    "focus_words": [
+      "我",
+      "去过",
+      "但是",
+      "次"
+    ]
+  },
+  {
+    "id": "teacher_hsk2_0051",
+    "level": "HSK2",
+    "topic": "Kinh nghiệm",
+    "question_zh": "你去过家吗？",
+    "pinyin": "Nǐ qù guo 家 ma?",
+    "question_vi": "Bạn đã từng đi nhà chưa?",
+    "sample_answer_zh": "我去过家，但是只去过一次。",
+    "sample_answer_pinyin": "Wǒ qù guo 家, dànshì zhǐ qù guo yí cì.",
+    "sample_answer_vi": "Tôi đã từng đi nhà, nhưng chỉ đi một lần.",
+    "answer_guide": "过 nói kinh nghiệm; 次 nói số lần.",
+    "focus_words": [
+      "我",
+      "去过",
+      "但是",
+      "次"
+    ]
+  }
+]

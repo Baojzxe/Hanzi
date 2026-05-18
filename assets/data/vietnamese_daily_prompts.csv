@@ -1,0 +1,366 @@
+id,level,topic,vi_sentence,answer_zh,pinyin,grammar_focus,focus_words
+daily_vi_0001,HSK1,Mua đồ,Hôm nay tôi muốn đi trường học mua một ít trái cây.,我今天想去学校买一点儿水果。,wǒ jīntiān xiǎng qù xuéxiào mǎi yìdiǎnr shuǐguǒ.,想 + 去 + 买；一点儿 + danh từ,想 / 去 / 学校 / 买 / 一点儿 / 水果
+daily_vi_0002,HSK1,Mua đồ,Hôm nay tôi muốn đi trường học mua một ít trà.,我今天想去学校买一点儿茶。,wǒ jīntiān xiǎng qù xuéxiào mǎi yìdiǎnr chá.,想 + 去 + 买；一点儿 + danh từ,想 / 去 / 学校 / 买 / 一点儿 / 茶
+daily_vi_0003,HSK1,Mua đồ,Hôm nay tôi muốn đi trường học mua một ít cơm.,我今天想去学校买一点儿米饭。,wǒ jīntiān xiǎng qù xuéxiào mǎi yìdiǎnr mǐfàn.,想 + 去 + 买；一点儿 + danh từ,想 / 去 / 学校 / 买 / 一点儿 / 米饭
+daily_vi_0004,HSK1,Mua đồ,Hôm nay tôi muốn đi trường học mua một ít quần áo.,我今天想去学校买一点儿衣服。,wǒ jīntiān xiǎng qù xuéxiào mǎi yìdiǎnr yīfu.,想 + 去 + 买；一点儿 + danh từ,想 / 去 / 学校 / 买 / 一点儿 / 衣服
+daily_vi_0005,HSK1,Mua đồ,Hôm nay tôi muốn đi trường học mua một ít sách.,我今天想去学校买一点儿书。,wǒ jīntiān xiǎng qù xuéxiào mǎi yìdiǎnr shū.,想 + 去 + 买；一点儿 + danh từ,想 / 去 / 学校 / 买 / 一点儿 / 书
+daily_vi_0006,HSK1,Mua đồ,Hôm nay tôi muốn đi trường học mua một ít nước.,我今天想去学校买一点儿水。,wǒ jīntiān xiǎng qù xuéxiào mǎi yìdiǎnr shuǐ.,想 + 去 + 买；一点儿 + danh từ,想 / 去 / 学校 / 买 / 一点儿 / 水
+daily_vi_0007,HSK1,Mua đồ,Hôm nay tôi muốn đi bệnh viện mua một ít trái cây.,我今天想去医院买一点儿水果。,wǒ jīntiān xiǎng qù yīyuàn mǎi yìdiǎnr shuǐguǒ.,想 + 去 + 买；一点儿 + danh từ,想 / 去 / 医院 / 买 / 一点儿 / 水果
+daily_vi_0008,HSK1,Mua đồ,Hôm nay tôi muốn đi bệnh viện mua một ít trà.,我今天想去医院买一点儿茶。,wǒ jīntiān xiǎng qù yīyuàn mǎi yìdiǎnr chá.,想 + 去 + 买；一点儿 + danh từ,想 / 去 / 医院 / 买 / 一点儿 / 茶
+daily_vi_0009,HSK1,Mua đồ,Hôm nay tôi muốn đi bệnh viện mua một ít cơm.,我今天想去医院买一点儿米饭。,wǒ jīntiān xiǎng qù yīyuàn mǎi yìdiǎnr mǐfàn.,想 + 去 + 买；一点儿 + danh từ,想 / 去 / 医院 / 买 / 一点儿 / 米饭
+daily_vi_0010,HSK1,Mua đồ,Hôm nay tôi muốn đi bệnh viện mua một ít quần áo.,我今天想去医院买一点儿衣服。,wǒ jīntiān xiǎng qù yīyuàn mǎi yìdiǎnr yīfu.,想 + 去 + 买；一点儿 + danh từ,想 / 去 / 医院 / 买 / 一点儿 / 衣服
+daily_vi_0011,HSK1,Mua đồ,Hôm nay tôi muốn đi bệnh viện mua một ít sách.,我今天想去医院买一点儿书。,wǒ jīntiān xiǎng qù yīyuàn mǎi yìdiǎnr shū.,想 + 去 + 买；一点儿 + danh từ,想 / 去 / 医院 / 买 / 一点儿 / 书
+daily_vi_0012,HSK1,Mua đồ,Hôm nay tôi muốn đi bệnh viện mua một ít nước.,我今天想去医院买一点儿水。,wǒ jīntiān xiǎng qù yīyuàn mǎi yìdiǎnr shuǐ.,想 + 去 + 买；一点儿 + danh từ,想 / 去 / 医院 / 买 / 一点儿 / 水
+daily_vi_0013,HSK1,Mua đồ,Hôm nay tôi muốn đi cửa hàng mua một ít trái cây.,我今天想去商店买一点儿水果。,wǒ jīntiān xiǎng qù shāngdiàn mǎi yìdiǎnr shuǐguǒ.,想 + 去 + 买；一点儿 + danh từ,想 / 去 / 商店 / 买 / 一点儿 / 水果
+daily_vi_0014,HSK1,Mua đồ,Hôm nay tôi muốn đi cửa hàng mua một ít trà.,我今天想去商店买一点儿茶。,wǒ jīntiān xiǎng qù shāngdiàn mǎi yìdiǎnr chá.,想 + 去 + 买；一点儿 + danh từ,想 / 去 / 商店 / 买 / 一点儿 / 茶
+daily_vi_0015,HSK1,Mua đồ,Hôm nay tôi muốn đi cửa hàng mua một ít cơm.,我今天想去商店买一点儿米饭。,wǒ jīntiān xiǎng qù shāngdiàn mǎi yìdiǎnr mǐfàn.,想 + 去 + 买；一点儿 + danh từ,想 / 去 / 商店 / 买 / 一点儿 / 米饭
+daily_vi_0016,HSK1,Mua đồ,Hôm nay tôi muốn đi cửa hàng mua một ít quần áo.,我今天想去商店买一点儿衣服。,wǒ jīntiān xiǎng qù shāngdiàn mǎi yìdiǎnr yīfu.,想 + 去 + 买；一点儿 + danh từ,想 / 去 / 商店 / 买 / 一点儿 / 衣服
+daily_vi_0017,HSK1,Mua đồ,Hôm nay tôi muốn đi cửa hàng mua một ít sách.,我今天想去商店买一点儿书。,wǒ jīntiān xiǎng qù shāngdiàn mǎi yìdiǎnr shū.,想 + 去 + 买；一点儿 + danh từ,想 / 去 / 商店 / 买 / 一点儿 / 书
+daily_vi_0018,HSK1,Mua đồ,Hôm nay tôi muốn đi cửa hàng mua một ít nước.,我今天想去商店买一点儿水。,wǒ jīntiān xiǎng qù shāngdiàn mǎi yìdiǎnr shuǐ.,想 + 去 + 买；一点儿 + danh từ,想 / 去 / 商店 / 买 / 一点儿 / 水
+daily_vi_0019,HSK1,Mua đồ,Hôm nay tôi muốn đi nhà hàng mua một ít trái cây.,我今天想去饭店买一点儿水果。,wǒ jīntiān xiǎng qù fàndiàn mǎi yìdiǎnr shuǐguǒ.,想 + 去 + 买；一点儿 + danh từ,想 / 去 / 饭店 / 买 / 一点儿 / 水果
+daily_vi_0020,HSK1,Mua đồ,Hôm nay tôi muốn đi nhà hàng mua một ít trà.,我今天想去饭店买一点儿茶。,wǒ jīntiān xiǎng qù fàndiàn mǎi yìdiǎnr chá.,想 + 去 + 买；一点儿 + danh từ,想 / 去 / 饭店 / 买 / 一点儿 / 茶
+daily_vi_0021,HSK1,Mua đồ,Hôm nay tôi muốn đi nhà hàng mua một ít cơm.,我今天想去饭店买一点儿米饭。,wǒ jīntiān xiǎng qù fàndiàn mǎi yìdiǎnr mǐfàn.,想 + 去 + 买；一点儿 + danh từ,想 / 去 / 饭店 / 买 / 一点儿 / 米饭
+daily_vi_0022,HSK1,Mua đồ,Hôm nay tôi muốn đi nhà hàng mua một ít quần áo.,我今天想去饭店买一点儿衣服。,wǒ jīntiān xiǎng qù fàndiàn mǎi yìdiǎnr yīfu.,想 + 去 + 买；一点儿 + danh từ,想 / 去 / 饭店 / 买 / 一点儿 / 衣服
+daily_vi_0023,HSK1,Mua đồ,Hôm nay tôi muốn đi nhà hàng mua một ít sách.,我今天想去饭店买一点儿书。,wǒ jīntiān xiǎng qù fàndiàn mǎi yìdiǎnr shū.,想 + 去 + 买；一点儿 + danh từ,想 / 去 / 饭店 / 买 / 一点儿 / 书
+daily_vi_0024,HSK1,Mua đồ,Hôm nay tôi muốn đi nhà hàng mua một ít nước.,我今天想去饭店买一点儿水。,wǒ jīntiān xiǎng qù fàndiàn mǎi yìdiǎnr shuǐ.,想 + 去 + 买；一点儿 + danh từ,想 / 去 / 饭店 / 买 / 一点儿 / 水
+daily_vi_0025,HSK1,Mua đồ,Hôm nay tôi muốn đi công ty mua một ít trái cây.,我今天想去公司买一点儿水果。,wǒ jīntiān xiǎng qù gōngsī mǎi yìdiǎnr shuǐguǒ.,想 + 去 + 买；一点儿 + danh từ,想 / 去 / 公司 / 买 / 一点儿 / 水果
+daily_vi_0026,HSK1,Mua đồ,Hôm nay tôi muốn đi công ty mua một ít trà.,我今天想去公司买一点儿茶。,wǒ jīntiān xiǎng qù gōngsī mǎi yìdiǎnr chá.,想 + 去 + 买；一点儿 + danh từ,想 / 去 / 公司 / 买 / 一点儿 / 茶
+daily_vi_0027,HSK1,Mua đồ,Hôm nay tôi muốn đi công ty mua một ít cơm.,我今天想去公司买一点儿米饭。,wǒ jīntiān xiǎng qù gōngsī mǎi yìdiǎnr mǐfàn.,想 + 去 + 买；一点儿 + danh từ,想 / 去 / 公司 / 买 / 一点儿 / 米饭
+daily_vi_0028,HSK1,Mua đồ,Hôm nay tôi muốn đi công ty mua một ít quần áo.,我今天想去公司买一点儿衣服。,wǒ jīntiān xiǎng qù gōngsī mǎi yìdiǎnr yīfu.,想 + 去 + 买；一点儿 + danh từ,想 / 去 / 公司 / 买 / 一点儿 / 衣服
+daily_vi_0029,HSK1,Mua đồ,Hôm nay tôi muốn đi công ty mua một ít sách.,我今天想去公司买一点儿书。,wǒ jīntiān xiǎng qù gōngsī mǎi yìdiǎnr shū.,想 + 去 + 买；一点儿 + danh từ,想 / 去 / 公司 / 买 / 一点儿 / 书
+daily_vi_0030,HSK1,Mua đồ,Hôm nay tôi muốn đi công ty mua một ít nước.,我今天想去公司买一点儿水。,wǒ jīntiān xiǎng qù gōngsī mǎi yìdiǎnr shuǐ.,想 + 去 + 买；一点儿 + danh từ,想 / 去 / 公司 / 买 / 一点儿 / 水
+daily_vi_0031,HSK1,Mua đồ,Hôm nay bạn tôi muốn đi trường học mua một ít trái cây.,我朋友今天想去学校买一点儿水果。,wǒ péngyou jīntiān xiǎng qù xuéxiào mǎi yìdiǎnr shuǐguǒ.,想 + 去 + 买；一点儿 + danh từ,想 / 去 / 学校 / 买 / 一点儿 / 水果
+daily_vi_0032,HSK1,Mua đồ,Hôm nay bạn tôi muốn đi trường học mua một ít trà.,我朋友今天想去学校买一点儿茶。,wǒ péngyou jīntiān xiǎng qù xuéxiào mǎi yìdiǎnr chá.,想 + 去 + 买；一点儿 + danh từ,想 / 去 / 学校 / 买 / 一点儿 / 茶
+daily_vi_0033,HSK1,Mua đồ,Hôm nay bạn tôi muốn đi trường học mua một ít cơm.,我朋友今天想去学校买一点儿米饭。,wǒ péngyou jīntiān xiǎng qù xuéxiào mǎi yìdiǎnr mǐfàn.,想 + 去 + 买；一点儿 + danh từ,想 / 去 / 学校 / 买 / 一点儿 / 米饭
+daily_vi_0034,HSK1,Mua đồ,Hôm nay bạn tôi muốn đi trường học mua một ít quần áo.,我朋友今天想去学校买一点儿衣服。,wǒ péngyou jīntiān xiǎng qù xuéxiào mǎi yìdiǎnr yīfu.,想 + 去 + 买；一点儿 + danh từ,想 / 去 / 学校 / 买 / 一点儿 / 衣服
+daily_vi_0035,HSK1,Mua đồ,Hôm nay bạn tôi muốn đi trường học mua một ít sách.,我朋友今天想去学校买一点儿书。,wǒ péngyou jīntiān xiǎng qù xuéxiào mǎi yìdiǎnr shū.,想 + 去 + 买；一点儿 + danh từ,想 / 去 / 学校 / 买 / 一点儿 / 书
+daily_vi_0036,HSK1,Mua đồ,Hôm nay bạn tôi muốn đi trường học mua một ít nước.,我朋友今天想去学校买一点儿水。,wǒ péngyou jīntiān xiǎng qù xuéxiào mǎi yìdiǎnr shuǐ.,想 + 去 + 买；一点儿 + danh từ,想 / 去 / 学校 / 买 / 一点儿 / 水
+daily_vi_0037,HSK1,Mua đồ,Hôm nay bạn tôi muốn đi bệnh viện mua một ít trái cây.,我朋友今天想去医院买一点儿水果。,wǒ péngyou jīntiān xiǎng qù yīyuàn mǎi yìdiǎnr shuǐguǒ.,想 + 去 + 买；一点儿 + danh từ,想 / 去 / 医院 / 买 / 一点儿 / 水果
+daily_vi_0038,HSK1,Mua đồ,Hôm nay bạn tôi muốn đi bệnh viện mua một ít trà.,我朋友今天想去医院买一点儿茶。,wǒ péngyou jīntiān xiǎng qù yīyuàn mǎi yìdiǎnr chá.,想 + 去 + 买；一点儿 + danh từ,想 / 去 / 医院 / 买 / 一点儿 / 茶
+daily_vi_0039,HSK1,Mua đồ,Hôm nay bạn tôi muốn đi bệnh viện mua một ít cơm.,我朋友今天想去医院买一点儿米饭。,wǒ péngyou jīntiān xiǎng qù yīyuàn mǎi yìdiǎnr mǐfàn.,想 + 去 + 买；一点儿 + danh từ,想 / 去 / 医院 / 买 / 一点儿 / 米饭
+daily_vi_0040,HSK1,Mua đồ,Hôm nay bạn tôi muốn đi bệnh viện mua một ít quần áo.,我朋友今天想去医院买一点儿衣服。,wǒ péngyou jīntiān xiǎng qù yīyuàn mǎi yìdiǎnr yīfu.,想 + 去 + 买；一点儿 + danh từ,想 / 去 / 医院 / 买 / 一点儿 / 衣服
+daily_vi_0041,HSK1,Mua đồ,Hôm nay bạn tôi muốn đi bệnh viện mua một ít sách.,我朋友今天想去医院买一点儿书。,wǒ péngyou jīntiān xiǎng qù yīyuàn mǎi yìdiǎnr shū.,想 + 去 + 买；一点儿 + danh từ,想 / 去 / 医院 / 买 / 一点儿 / 书
+daily_vi_0042,HSK1,Mua đồ,Hôm nay bạn tôi muốn đi bệnh viện mua một ít nước.,我朋友今天想去医院买一点儿水。,wǒ péngyou jīntiān xiǎng qù yīyuàn mǎi yìdiǎnr shuǐ.,想 + 去 + 买；一点儿 + danh từ,想 / 去 / 医院 / 买 / 一点儿 / 水
+daily_vi_0043,HSK1,Mua đồ,Hôm nay bạn tôi muốn đi cửa hàng mua một ít trái cây.,我朋友今天想去商店买一点儿水果。,wǒ péngyou jīntiān xiǎng qù shāngdiàn mǎi yìdiǎnr shuǐguǒ.,想 + 去 + 买；一点儿 + danh từ,想 / 去 / 商店 / 买 / 一点儿 / 水果
+daily_vi_0044,HSK1,Mua đồ,Hôm nay bạn tôi muốn đi cửa hàng mua một ít trà.,我朋友今天想去商店买一点儿茶。,wǒ péngyou jīntiān xiǎng qù shāngdiàn mǎi yìdiǎnr chá.,想 + 去 + 买；一点儿 + danh từ,想 / 去 / 商店 / 买 / 一点儿 / 茶
+daily_vi_0045,HSK1,Mua đồ,Hôm nay bạn tôi muốn đi cửa hàng mua một ít cơm.,我朋友今天想去商店买一点儿米饭。,wǒ péngyou jīntiān xiǎng qù shāngdiàn mǎi yìdiǎnr mǐfàn.,想 + 去 + 买；一点儿 + danh từ,想 / 去 / 商店 / 买 / 一点儿 / 米饭
+daily_vi_0046,HSK1,Mua đồ,Hôm nay bạn tôi muốn đi cửa hàng mua một ít quần áo.,我朋友今天想去商店买一点儿衣服。,wǒ péngyou jīntiān xiǎng qù shāngdiàn mǎi yìdiǎnr yīfu.,想 + 去 + 买；一点儿 + danh từ,想 / 去 / 商店 / 买 / 一点儿 / 衣服
+daily_vi_0047,HSK1,Mua đồ,Hôm nay bạn tôi muốn đi cửa hàng mua một ít sách.,我朋友今天想去商店买一点儿书。,wǒ péngyou jīntiān xiǎng qù shāngdiàn mǎi yìdiǎnr shū.,想 + 去 + 买；一点儿 + danh từ,想 / 去 / 商店 / 买 / 一点儿 / 书
+daily_vi_0048,HSK1,Mua đồ,Hôm nay bạn tôi muốn đi cửa hàng mua một ít nước.,我朋友今天想去商店买一点儿水。,wǒ péngyou jīntiān xiǎng qù shāngdiàn mǎi yìdiǎnr shuǐ.,想 + 去 + 买；一点儿 + danh từ,想 / 去 / 商店 / 买 / 一点儿 / 水
+daily_vi_0049,HSK1,Mua đồ,Hôm nay bạn tôi muốn đi nhà hàng mua một ít trái cây.,我朋友今天想去饭店买一点儿水果。,wǒ péngyou jīntiān xiǎng qù fàndiàn mǎi yìdiǎnr shuǐguǒ.,想 + 去 + 买；一点儿 + danh từ,想 / 去 / 饭店 / 买 / 一点儿 / 水果
+daily_vi_0050,HSK1,Mua đồ,Hôm nay bạn tôi muốn đi nhà hàng mua một ít trà.,我朋友今天想去饭店买一点儿茶。,wǒ péngyou jīntiān xiǎng qù fàndiàn mǎi yìdiǎnr chá.,想 + 去 + 买；一点儿 + danh từ,想 / 去 / 饭店 / 买 / 一点儿 / 茶
+daily_vi_0051,HSK1,Mua đồ,Hôm nay bạn tôi muốn đi nhà hàng mua một ít cơm.,我朋友今天想去饭店买一点儿米饭。,wǒ péngyou jīntiān xiǎng qù fàndiàn mǎi yìdiǎnr mǐfàn.,想 + 去 + 买；一点儿 + danh từ,想 / 去 / 饭店 / 买 / 一点儿 / 米饭
+daily_vi_0052,HSK1,Mua đồ,Hôm nay bạn tôi muốn đi nhà hàng mua một ít quần áo.,我朋友今天想去饭店买一点儿衣服。,wǒ péngyou jīntiān xiǎng qù fàndiàn mǎi yìdiǎnr yīfu.,想 + 去 + 买；一点儿 + danh từ,想 / 去 / 饭店 / 买 / 一点儿 / 衣服
+daily_vi_0053,HSK1,Mua đồ,Hôm nay bạn tôi muốn đi nhà hàng mua một ít sách.,我朋友今天想去饭店买一点儿书。,wǒ péngyou jīntiān xiǎng qù fàndiàn mǎi yìdiǎnr shū.,想 + 去 + 买；一点儿 + danh từ,想 / 去 / 饭店 / 买 / 一点儿 / 书
+daily_vi_0054,HSK1,Mua đồ,Hôm nay bạn tôi muốn đi nhà hàng mua một ít nước.,我朋友今天想去饭店买一点儿水。,wǒ péngyou jīntiān xiǎng qù fàndiàn mǎi yìdiǎnr shuǐ.,想 + 去 + 买；一点儿 + danh từ,想 / 去 / 饭店 / 买 / 一点儿 / 水
+daily_vi_0055,HSK1,Mua đồ,Hôm nay bạn tôi muốn đi công ty mua một ít trái cây.,我朋友今天想去公司买一点儿水果。,wǒ péngyou jīntiān xiǎng qù gōngsī mǎi yìdiǎnr shuǐguǒ.,想 + 去 + 买；一点儿 + danh từ,想 / 去 / 公司 / 买 / 一点儿 / 水果
+daily_vi_0056,HSK1,Mua đồ,Hôm nay bạn tôi muốn đi công ty mua một ít trà.,我朋友今天想去公司买一点儿茶。,wǒ péngyou jīntiān xiǎng qù gōngsī mǎi yìdiǎnr chá.,想 + 去 + 买；一点儿 + danh từ,想 / 去 / 公司 / 买 / 一点儿 / 茶
+daily_vi_0057,HSK1,Mua đồ,Hôm nay bạn tôi muốn đi công ty mua một ít cơm.,我朋友今天想去公司买一点儿米饭。,wǒ péngyou jīntiān xiǎng qù gōngsī mǎi yìdiǎnr mǐfàn.,想 + 去 + 买；一点儿 + danh từ,想 / 去 / 公司 / 买 / 一点儿 / 米饭
+daily_vi_0058,HSK1,Mua đồ,Hôm nay bạn tôi muốn đi công ty mua một ít quần áo.,我朋友今天想去公司买一点儿衣服。,wǒ péngyou jīntiān xiǎng qù gōngsī mǎi yìdiǎnr yīfu.,想 + 去 + 买；一点儿 + danh từ,想 / 去 / 公司 / 买 / 一点儿 / 衣服
+daily_vi_0059,HSK1,Mua đồ,Hôm nay bạn tôi muốn đi công ty mua một ít sách.,我朋友今天想去公司买一点儿书。,wǒ péngyou jīntiān xiǎng qù gōngsī mǎi yìdiǎnr shū.,想 + 去 + 买；一点儿 + danh từ,想 / 去 / 公司 / 买 / 一点儿 / 书
+daily_vi_0060,HSK1,Mua đồ,Hôm nay bạn tôi muốn đi công ty mua một ít nước.,我朋友今天想去公司买一点儿水。,wǒ péngyou jīntiān xiǎng qù gōngsī mǎi yìdiǎnr shuǐ.,想 + 去 + 买；一点儿 + danh từ,想 / 去 / 公司 / 买 / 一点儿 / 水
+daily_vi_0061,HSK1,Mua đồ,Hôm nay mẹ tôi muốn đi trường học mua một ít trái cây.,我妈妈今天想去学校买一点儿水果。,wǒ māma jīntiān xiǎng qù xuéxiào mǎi yìdiǎnr shuǐguǒ.,想 + 去 + 买；一点儿 + danh từ,想 / 去 / 学校 / 买 / 一点儿 / 水果
+daily_vi_0062,HSK1,Mua đồ,Hôm nay mẹ tôi muốn đi trường học mua một ít trà.,我妈妈今天想去学校买一点儿茶。,wǒ māma jīntiān xiǎng qù xuéxiào mǎi yìdiǎnr chá.,想 + 去 + 买；一点儿 + danh từ,想 / 去 / 学校 / 买 / 一点儿 / 茶
+daily_vi_0063,HSK1,Mua đồ,Hôm nay mẹ tôi muốn đi trường học mua một ít cơm.,我妈妈今天想去学校买一点儿米饭。,wǒ māma jīntiān xiǎng qù xuéxiào mǎi yìdiǎnr mǐfàn.,想 + 去 + 买；一点儿 + danh từ,想 / 去 / 学校 / 买 / 一点儿 / 米饭
+daily_vi_0064,HSK1,Mua đồ,Hôm nay mẹ tôi muốn đi trường học mua một ít quần áo.,我妈妈今天想去学校买一点儿衣服。,wǒ māma jīntiān xiǎng qù xuéxiào mǎi yìdiǎnr yīfu.,想 + 去 + 买；一点儿 + danh từ,想 / 去 / 学校 / 买 / 一点儿 / 衣服
+daily_vi_0065,HSK1,Mua đồ,Hôm nay mẹ tôi muốn đi trường học mua một ít sách.,我妈妈今天想去学校买一点儿书。,wǒ māma jīntiān xiǎng qù xuéxiào mǎi yìdiǎnr shū.,想 + 去 + 买；一点儿 + danh từ,想 / 去 / 学校 / 买 / 一点儿 / 书
+daily_vi_0066,HSK1,Mua đồ,Hôm nay mẹ tôi muốn đi trường học mua một ít nước.,我妈妈今天想去学校买一点儿水。,wǒ māma jīntiān xiǎng qù xuéxiào mǎi yìdiǎnr shuǐ.,想 + 去 + 买；一点儿 + danh từ,想 / 去 / 学校 / 买 / 一点儿 / 水
+daily_vi_0067,HSK1,Mua đồ,Hôm nay mẹ tôi muốn đi bệnh viện mua một ít trái cây.,我妈妈今天想去医院买一点儿水果。,wǒ māma jīntiān xiǎng qù yīyuàn mǎi yìdiǎnr shuǐguǒ.,想 + 去 + 买；一点儿 + danh từ,想 / 去 / 医院 / 买 / 一点儿 / 水果
+daily_vi_0068,HSK1,Mua đồ,Hôm nay mẹ tôi muốn đi bệnh viện mua một ít trà.,我妈妈今天想去医院买一点儿茶。,wǒ māma jīntiān xiǎng qù yīyuàn mǎi yìdiǎnr chá.,想 + 去 + 买；一点儿 + danh từ,想 / 去 / 医院 / 买 / 一点儿 / 茶
+daily_vi_0069,HSK1,Mua đồ,Hôm nay mẹ tôi muốn đi bệnh viện mua một ít cơm.,我妈妈今天想去医院买一点儿米饭。,wǒ māma jīntiān xiǎng qù yīyuàn mǎi yìdiǎnr mǐfàn.,想 + 去 + 买；一点儿 + danh từ,想 / 去 / 医院 / 买 / 一点儿 / 米饭
+daily_vi_0070,HSK1,Mua đồ,Hôm nay mẹ tôi muốn đi bệnh viện mua một ít quần áo.,我妈妈今天想去医院买一点儿衣服。,wǒ māma jīntiān xiǎng qù yīyuàn mǎi yìdiǎnr yīfu.,想 + 去 + 买；一点儿 + danh từ,想 / 去 / 医院 / 买 / 一点儿 / 衣服
+daily_vi_0071,HSK1,Mua đồ,Hôm nay mẹ tôi muốn đi bệnh viện mua một ít sách.,我妈妈今天想去医院买一点儿书。,wǒ māma jīntiān xiǎng qù yīyuàn mǎi yìdiǎnr shū.,想 + 去 + 买；一点儿 + danh từ,想 / 去 / 医院 / 买 / 一点儿 / 书
+daily_vi_0072,HSK1,Mua đồ,Hôm nay mẹ tôi muốn đi bệnh viện mua một ít nước.,我妈妈今天想去医院买一点儿水。,wǒ māma jīntiān xiǎng qù yīyuàn mǎi yìdiǎnr shuǐ.,想 + 去 + 买；一点儿 + danh từ,想 / 去 / 医院 / 买 / 一点儿 / 水
+daily_vi_0073,HSK1,Mua đồ,Hôm nay mẹ tôi muốn đi cửa hàng mua một ít trái cây.,我妈妈今天想去商店买一点儿水果。,wǒ māma jīntiān xiǎng qù shāngdiàn mǎi yìdiǎnr shuǐguǒ.,想 + 去 + 买；一点儿 + danh từ,想 / 去 / 商店 / 买 / 一点儿 / 水果
+daily_vi_0074,HSK1,Mua đồ,Hôm nay mẹ tôi muốn đi cửa hàng mua một ít trà.,我妈妈今天想去商店买一点儿茶。,wǒ māma jīntiān xiǎng qù shāngdiàn mǎi yìdiǎnr chá.,想 + 去 + 买；一点儿 + danh từ,想 / 去 / 商店 / 买 / 一点儿 / 茶
+daily_vi_0075,HSK1,Mua đồ,Hôm nay mẹ tôi muốn đi cửa hàng mua một ít cơm.,我妈妈今天想去商店买一点儿米饭。,wǒ māma jīntiān xiǎng qù shāngdiàn mǎi yìdiǎnr mǐfàn.,想 + 去 + 买；一点儿 + danh từ,想 / 去 / 商店 / 买 / 一点儿 / 米饭
+daily_vi_0076,HSK1,Mua đồ,Hôm nay mẹ tôi muốn đi cửa hàng mua một ít quần áo.,我妈妈今天想去商店买一点儿衣服。,wǒ māma jīntiān xiǎng qù shāngdiàn mǎi yìdiǎnr yīfu.,想 + 去 + 买；一点儿 + danh từ,想 / 去 / 商店 / 买 / 一点儿 / 衣服
+daily_vi_0077,HSK1,Mua đồ,Hôm nay mẹ tôi muốn đi cửa hàng mua một ít sách.,我妈妈今天想去商店买一点儿书。,wǒ māma jīntiān xiǎng qù shāngdiàn mǎi yìdiǎnr shū.,想 + 去 + 买；一点儿 + danh từ,想 / 去 / 商店 / 买 / 一点儿 / 书
+daily_vi_0078,HSK1,Mua đồ,Hôm nay mẹ tôi muốn đi cửa hàng mua một ít nước.,我妈妈今天想去商店买一点儿水。,wǒ māma jīntiān xiǎng qù shāngdiàn mǎi yìdiǎnr shuǐ.,想 + 去 + 买；一点儿 + danh từ,想 / 去 / 商店 / 买 / 一点儿 / 水
+daily_vi_0079,HSK1,Mua đồ,Hôm nay mẹ tôi muốn đi nhà hàng mua một ít trái cây.,我妈妈今天想去饭店买一点儿水果。,wǒ māma jīntiān xiǎng qù fàndiàn mǎi yìdiǎnr shuǐguǒ.,想 + 去 + 买；一点儿 + danh từ,想 / 去 / 饭店 / 买 / 一点儿 / 水果
+daily_vi_0080,HSK1,Mua đồ,Hôm nay mẹ tôi muốn đi nhà hàng mua một ít trà.,我妈妈今天想去饭店买一点儿茶。,wǒ māma jīntiān xiǎng qù fàndiàn mǎi yìdiǎnr chá.,想 + 去 + 买；一点儿 + danh từ,想 / 去 / 饭店 / 买 / 一点儿 / 茶
+daily_vi_0081,HSK1,Hoạt động hằng ngày,Hôm nay tôi đang ở trường học học tiếng Trung.,我今天在学校学习汉语。,wǒ jīntiān zài xuéxiào xuéxí Hànyǔ.,在 + địa điểm + động từ,今天 / 在 / 学校 / 学习汉语
+daily_vi_0082,HSK1,Hoạt động hằng ngày,Hôm nay tôi đang ở trường học đọc sách.,我今天在学校看书。,wǒ jīntiān zài xuéxiào kàn shū.,在 + địa điểm + động từ,今天 / 在 / 学校 / 看书
+daily_vi_0083,HSK1,Hoạt động hằng ngày,Hôm nay tôi đang ở trường học xem phim.,我今天在学校看电影。,wǒ jīntiān zài xuéxiào kàn diànyǐng.,在 + địa điểm + động từ,今天 / 在 / 学校 / 看电影
+daily_vi_0084,HSK1,Hoạt động hằng ngày,Hôm nay tôi đang ở trường học nghe thầy giáo nói.,我今天在学校听老师说话。,wǒ jīntiān zài xuéxiào tīng lǎoshī shuōhuà.,在 + địa điểm + động từ,今天 / 在 / 学校 / 听老师说话
+daily_vi_0085,HSK1,Hoạt động hằng ngày,Hôm nay tôi đang ở trường học gọi điện thoại.,我今天在学校打电话。,wǒ jīntiān zài xuéxiào dǎ diànhuà.,在 + địa điểm + động từ,今天 / 在 / 学校 / 打电话
+daily_vi_0086,HSK1,Hoạt động hằng ngày,Hôm nay tôi đang ở trường học nghỉ ngơi.,我今天在学校休息。,wǒ jīntiān zài xuéxiào xiūxi.,在 + địa điểm + động từ,今天 / 在 / 学校 / 休息
+daily_vi_0087,HSK1,Hoạt động hằng ngày,Hôm nay tôi đang ở bệnh viện học tiếng Trung.,我今天在医院学习汉语。,wǒ jīntiān zài yīyuàn xuéxí Hànyǔ.,在 + địa điểm + động từ,今天 / 在 / 医院 / 学习汉语
+daily_vi_0088,HSK1,Hoạt động hằng ngày,Hôm nay tôi đang ở bệnh viện đọc sách.,我今天在医院看书。,wǒ jīntiān zài yīyuàn kàn shū.,在 + địa điểm + động từ,今天 / 在 / 医院 / 看书
+daily_vi_0089,HSK1,Hoạt động hằng ngày,Hôm nay tôi đang ở bệnh viện xem phim.,我今天在医院看电影。,wǒ jīntiān zài yīyuàn kàn diànyǐng.,在 + địa điểm + động từ,今天 / 在 / 医院 / 看电影
+daily_vi_0090,HSK1,Hoạt động hằng ngày,Hôm nay tôi đang ở bệnh viện nghe thầy giáo nói.,我今天在医院听老师说话。,wǒ jīntiān zài yīyuàn tīng lǎoshī shuōhuà.,在 + địa điểm + động từ,今天 / 在 / 医院 / 听老师说话
+daily_vi_0091,HSK1,Hoạt động hằng ngày,Hôm nay tôi đang ở bệnh viện gọi điện thoại.,我今天在医院打电话。,wǒ jīntiān zài yīyuàn dǎ diànhuà.,在 + địa điểm + động từ,今天 / 在 / 医院 / 打电话
+daily_vi_0092,HSK1,Hoạt động hằng ngày,Hôm nay tôi đang ở bệnh viện nghỉ ngơi.,我今天在医院休息。,wǒ jīntiān zài yīyuàn xiūxi.,在 + địa điểm + động từ,今天 / 在 / 医院 / 休息
+daily_vi_0093,HSK1,Hoạt động hằng ngày,Hôm nay tôi đang ở cửa hàng học tiếng Trung.,我今天在商店学习汉语。,wǒ jīntiān zài shāngdiàn xuéxí Hànyǔ.,在 + địa điểm + động từ,今天 / 在 / 商店 / 学习汉语
+daily_vi_0094,HSK1,Hoạt động hằng ngày,Hôm nay tôi đang ở cửa hàng đọc sách.,我今天在商店看书。,wǒ jīntiān zài shāngdiàn kàn shū.,在 + địa điểm + động từ,今天 / 在 / 商店 / 看书
+daily_vi_0095,HSK1,Hoạt động hằng ngày,Hôm nay tôi đang ở cửa hàng xem phim.,我今天在商店看电影。,wǒ jīntiān zài shāngdiàn kàn diànyǐng.,在 + địa điểm + động từ,今天 / 在 / 商店 / 看电影
+daily_vi_0096,HSK1,Hoạt động hằng ngày,Hôm nay tôi đang ở cửa hàng nghe thầy giáo nói.,我今天在商店听老师说话。,wǒ jīntiān zài shāngdiàn tīng lǎoshī shuōhuà.,在 + địa điểm + động từ,今天 / 在 / 商店 / 听老师说话
+daily_vi_0097,HSK1,Hoạt động hằng ngày,Hôm nay tôi đang ở cửa hàng gọi điện thoại.,我今天在商店打电话。,wǒ jīntiān zài shāngdiàn dǎ diànhuà.,在 + địa điểm + động từ,今天 / 在 / 商店 / 打电话
+daily_vi_0098,HSK1,Hoạt động hằng ngày,Hôm nay tôi đang ở cửa hàng nghỉ ngơi.,我今天在商店休息。,wǒ jīntiān zài shāngdiàn xiūxi.,在 + địa điểm + động từ,今天 / 在 / 商店 / 休息
+daily_vi_0099,HSK1,Hoạt động hằng ngày,Hôm nay tôi đang ở nhà hàng học tiếng Trung.,我今天在饭店学习汉语。,wǒ jīntiān zài fàndiàn xuéxí Hànyǔ.,在 + địa điểm + động từ,今天 / 在 / 饭店 / 学习汉语
+daily_vi_0100,HSK1,Hoạt động hằng ngày,Hôm nay tôi đang ở nhà hàng đọc sách.,我今天在饭店看书。,wǒ jīntiān zài fàndiàn kàn shū.,在 + địa điểm + động từ,今天 / 在 / 饭店 / 看书
+daily_vi_0101,HSK1,Hoạt động hằng ngày,Hôm nay tôi đang ở nhà hàng xem phim.,我今天在饭店看电影。,wǒ jīntiān zài fàndiàn kàn diànyǐng.,在 + địa điểm + động từ,今天 / 在 / 饭店 / 看电影
+daily_vi_0102,HSK1,Hoạt động hằng ngày,Hôm nay tôi đang ở nhà hàng nghe thầy giáo nói.,我今天在饭店听老师说话。,wǒ jīntiān zài fàndiàn tīng lǎoshī shuōhuà.,在 + địa điểm + động từ,今天 / 在 / 饭店 / 听老师说话
+daily_vi_0103,HSK1,Hoạt động hằng ngày,Hôm nay tôi đang ở nhà hàng gọi điện thoại.,我今天在饭店打电话。,wǒ jīntiān zài fàndiàn dǎ diànhuà.,在 + địa điểm + động từ,今天 / 在 / 饭店 / 打电话
+daily_vi_0104,HSK1,Hoạt động hằng ngày,Hôm nay tôi đang ở nhà hàng nghỉ ngơi.,我今天在饭店休息。,wǒ jīntiān zài fàndiàn xiūxi.,在 + địa điểm + động từ,今天 / 在 / 饭店 / 休息
+daily_vi_0105,HSK1,Hoạt động hằng ngày,Hôm nay tôi đang ở công ty học tiếng Trung.,我今天在公司学习汉语。,wǒ jīntiān zài gōngsī xuéxí Hànyǔ.,在 + địa điểm + động từ,今天 / 在 / 公司 / 学习汉语
+daily_vi_0106,HSK1,Hoạt động hằng ngày,Hôm nay tôi đang ở công ty đọc sách.,我今天在公司看书。,wǒ jīntiān zài gōngsī kàn shū.,在 + địa điểm + động từ,今天 / 在 / 公司 / 看书
+daily_vi_0107,HSK1,Hoạt động hằng ngày,Hôm nay tôi đang ở công ty xem phim.,我今天在公司看电影。,wǒ jīntiān zài gōngsī kàn diànyǐng.,在 + địa điểm + động từ,今天 / 在 / 公司 / 看电影
+daily_vi_0108,HSK1,Hoạt động hằng ngày,Hôm nay tôi đang ở công ty nghe thầy giáo nói.,我今天在公司听老师说话。,wǒ jīntiān zài gōngsī tīng lǎoshī shuōhuà.,在 + địa điểm + động từ,今天 / 在 / 公司 / 听老师说话
+daily_vi_0109,HSK1,Hoạt động hằng ngày,Hôm nay tôi đang ở công ty gọi điện thoại.,我今天在公司打电话。,wǒ jīntiān zài gōngsī dǎ diànhuà.,在 + địa điểm + động từ,今天 / 在 / 公司 / 打电话
+daily_vi_0110,HSK1,Hoạt động hằng ngày,Hôm nay tôi đang ở công ty nghỉ ngơi.,我今天在公司休息。,wǒ jīntiān zài gōngsī xiūxi.,在 + địa điểm + động từ,今天 / 在 / 公司 / 休息
+daily_vi_0111,HSK1,Hoạt động hằng ngày,Hôm nay tôi đang ở sân bay học tiếng Trung.,我今天在机场学习汉语。,wǒ jīntiān zài jīchǎng xuéxí Hànyǔ.,在 + địa điểm + động từ,今天 / 在 / 机场 / 学习汉语
+daily_vi_0112,HSK1,Hoạt động hằng ngày,Hôm nay tôi đang ở sân bay đọc sách.,我今天在机场看书。,wǒ jīntiān zài jīchǎng kàn shū.,在 + địa điểm + động từ,今天 / 在 / 机场 / 看书
+daily_vi_0113,HSK1,Hoạt động hằng ngày,Hôm nay tôi đang ở sân bay xem phim.,我今天在机场看电影。,wǒ jīntiān zài jīchǎng kàn diànyǐng.,在 + địa điểm + động từ,今天 / 在 / 机场 / 看电影
+daily_vi_0114,HSK1,Hoạt động hằng ngày,Hôm nay tôi đang ở sân bay nghe thầy giáo nói.,我今天在机场听老师说话。,wǒ jīntiān zài jīchǎng tīng lǎoshī shuōhuà.,在 + địa điểm + động từ,今天 / 在 / 机场 / 听老师说话
+daily_vi_0115,HSK1,Hoạt động hằng ngày,Hôm nay tôi đang ở sân bay gọi điện thoại.,我今天在机场打电话。,wǒ jīntiān zài jīchǎng dǎ diànhuà.,在 + địa điểm + động từ,今天 / 在 / 机场 / 打电话
+daily_vi_0116,HSK1,Hoạt động hằng ngày,Hôm nay tôi đang ở sân bay nghỉ ngơi.,我今天在机场休息。,wǒ jīntiān zài jīchǎng xiūxi.,在 + địa điểm + động từ,今天 / 在 / 机场 / 休息
+daily_vi_0117,HSK1,Hoạt động hằng ngày,Hôm nay tôi đang ở ga tàu học tiếng Trung.,我今天在火车站学习汉语。,wǒ jīntiān zài huǒchēzhàn xuéxí Hànyǔ.,在 + địa điểm + động từ,今天 / 在 / 火车站 / 学习汉语
+daily_vi_0118,HSK1,Hoạt động hằng ngày,Hôm nay tôi đang ở ga tàu đọc sách.,我今天在火车站看书。,wǒ jīntiān zài huǒchēzhàn kàn shū.,在 + địa điểm + động từ,今天 / 在 / 火车站 / 看书
+daily_vi_0119,HSK1,Hoạt động hằng ngày,Hôm nay tôi đang ở ga tàu xem phim.,我今天在火车站看电影。,wǒ jīntiān zài huǒchēzhàn kàn diànyǐng.,在 + địa điểm + động từ,今天 / 在 / 火车站 / 看电影
+daily_vi_0120,HSK1,Hoạt động hằng ngày,Hôm nay tôi đang ở ga tàu nghe thầy giáo nói.,我今天在火车站听老师说话。,wǒ jīntiān zài huǒchēzhàn tīng lǎoshī shuōhuà.,在 + địa điểm + động từ,今天 / 在 / 火车站 / 听老师说话
+daily_vi_0121,HSK1,Hoạt động hằng ngày,Hôm nay tôi đang ở ga tàu gọi điện thoại.,我今天在火车站打电话。,wǒ jīntiān zài huǒchēzhàn dǎ diànhuà.,在 + địa điểm + động từ,今天 / 在 / 火车站 / 打电话
+daily_vi_0122,HSK1,Hoạt động hằng ngày,Hôm nay tôi đang ở ga tàu nghỉ ngơi.,我今天在火车站休息。,wǒ jīntiān zài huǒchēzhàn xiūxi.,在 + địa điểm + động từ,今天 / 在 / 火车站 / 休息
+daily_vi_0123,HSK1,Hoạt động hằng ngày,Hôm nay tôi đang ở Bắc Kinh học tiếng Trung.,我今天在北京学习汉语。,wǒ jīntiān zài Běijīng xuéxí Hànyǔ.,在 + địa điểm + động từ,今天 / 在 / 北京 / 学习汉语
+daily_vi_0124,HSK1,Hoạt động hằng ngày,Hôm nay tôi đang ở Bắc Kinh đọc sách.,我今天在北京看书。,wǒ jīntiān zài Běijīng kàn shū.,在 + địa điểm + động từ,今天 / 在 / 北京 / 看书
+daily_vi_0125,HSK1,Hoạt động hằng ngày,Hôm nay tôi đang ở Bắc Kinh xem phim.,我今天在北京看电影。,wǒ jīntiān zài Běijīng kàn diànyǐng.,在 + địa điểm + động từ,今天 / 在 / 北京 / 看电影
+daily_vi_0126,HSK1,Hoạt động hằng ngày,Hôm nay tôi đang ở Bắc Kinh nghe thầy giáo nói.,我今天在北京听老师说话。,wǒ jīntiān zài Běijīng tīng lǎoshī shuōhuà.,在 + địa điểm + động từ,今天 / 在 / 北京 / 听老师说话
+daily_vi_0127,HSK1,Hoạt động hằng ngày,Hôm nay tôi đang ở Bắc Kinh gọi điện thoại.,我今天在北京打电话。,wǒ jīntiān zài Běijīng dǎ diànhuà.,在 + địa điểm + động từ,今天 / 在 / 北京 / 打电话
+daily_vi_0128,HSK1,Hoạt động hằng ngày,Hôm nay tôi đang ở Bắc Kinh nghỉ ngơi.,我今天在北京休息。,wǒ jīntiān zài Běijīng xiūxi.,在 + địa điểm + động từ,今天 / 在 / 北京 / 休息
+daily_vi_0129,HSK1,Hoạt động hằng ngày,Hôm nay bạn tôi đang ở trường học học tiếng Trung.,我朋友今天在学校学习汉语。,wǒ péngyou jīntiān zài xuéxiào xuéxí Hànyǔ.,在 + địa điểm + động từ,今天 / 在 / 学校 / 学习汉语
+daily_vi_0130,HSK1,Hoạt động hằng ngày,Hôm nay bạn tôi đang ở trường học đọc sách.,我朋友今天在学校看书。,wǒ péngyou jīntiān zài xuéxiào kàn shū.,在 + địa điểm + động từ,今天 / 在 / 学校 / 看书
+daily_vi_0131,HSK1,Hoạt động hằng ngày,Hôm nay bạn tôi đang ở trường học xem phim.,我朋友今天在学校看电影。,wǒ péngyou jīntiān zài xuéxiào kàn diànyǐng.,在 + địa điểm + động từ,今天 / 在 / 学校 / 看电影
+daily_vi_0132,HSK1,Hoạt động hằng ngày,Hôm nay bạn tôi đang ở trường học nghe thầy giáo nói.,我朋友今天在学校听老师说话。,wǒ péngyou jīntiān zài xuéxiào tīng lǎoshī shuōhuà.,在 + địa điểm + động từ,今天 / 在 / 学校 / 听老师说话
+daily_vi_0133,HSK1,Hoạt động hằng ngày,Hôm nay bạn tôi đang ở trường học gọi điện thoại.,我朋友今天在学校打电话。,wǒ péngyou jīntiān zài xuéxiào dǎ diànhuà.,在 + địa điểm + động từ,今天 / 在 / 学校 / 打电话
+daily_vi_0134,HSK1,Hoạt động hằng ngày,Hôm nay bạn tôi đang ở trường học nghỉ ngơi.,我朋友今天在学校休息。,wǒ péngyou jīntiān zài xuéxiào xiūxi.,在 + địa điểm + động từ,今天 / 在 / 学校 / 休息
+daily_vi_0135,HSK1,Hoạt động hằng ngày,Hôm nay bạn tôi đang ở bệnh viện học tiếng Trung.,我朋友今天在医院学习汉语。,wǒ péngyou jīntiān zài yīyuàn xuéxí Hànyǔ.,在 + địa điểm + động từ,今天 / 在 / 医院 / 学习汉语
+daily_vi_0136,HSK1,Hoạt động hằng ngày,Hôm nay bạn tôi đang ở bệnh viện đọc sách.,我朋友今天在医院看书。,wǒ péngyou jīntiān zài yīyuàn kàn shū.,在 + địa điểm + động từ,今天 / 在 / 医院 / 看书
+daily_vi_0137,HSK1,Hoạt động hằng ngày,Hôm nay bạn tôi đang ở bệnh viện xem phim.,我朋友今天在医院看电影。,wǒ péngyou jīntiān zài yīyuàn kàn diànyǐng.,在 + địa điểm + động từ,今天 / 在 / 医院 / 看电影
+daily_vi_0138,HSK1,Hoạt động hằng ngày,Hôm nay bạn tôi đang ở bệnh viện nghe thầy giáo nói.,我朋友今天在医院听老师说话。,wǒ péngyou jīntiān zài yīyuàn tīng lǎoshī shuōhuà.,在 + địa điểm + động từ,今天 / 在 / 医院 / 听老师说话
+daily_vi_0139,HSK1,Hoạt động hằng ngày,Hôm nay bạn tôi đang ở bệnh viện gọi điện thoại.,我朋友今天在医院打电话。,wǒ péngyou jīntiān zài yīyuàn dǎ diànhuà.,在 + địa điểm + động từ,今天 / 在 / 医院 / 打电话
+daily_vi_0140,HSK1,Hoạt động hằng ngày,Hôm nay bạn tôi đang ở bệnh viện nghỉ ngơi.,我朋友今天在医院休息。,wǒ péngyou jīntiān zài yīyuàn xiūxi.,在 + địa điểm + động từ,今天 / 在 / 医院 / 休息
+daily_vi_0141,HSK1,Hoạt động hằng ngày,Hôm nay bạn tôi đang ở cửa hàng học tiếng Trung.,我朋友今天在商店学习汉语。,wǒ péngyou jīntiān zài shāngdiàn xuéxí Hànyǔ.,在 + địa điểm + động từ,今天 / 在 / 商店 / 学习汉语
+daily_vi_0142,HSK1,Hoạt động hằng ngày,Hôm nay bạn tôi đang ở cửa hàng đọc sách.,我朋友今天在商店看书。,wǒ péngyou jīntiān zài shāngdiàn kàn shū.,在 + địa điểm + động từ,今天 / 在 / 商店 / 看书
+daily_vi_0143,HSK1,Hoạt động hằng ngày,Hôm nay bạn tôi đang ở cửa hàng xem phim.,我朋友今天在商店看电影。,wǒ péngyou jīntiān zài shāngdiàn kàn diànyǐng.,在 + địa điểm + động từ,今天 / 在 / 商店 / 看电影
+daily_vi_0144,HSK1,Hoạt động hằng ngày,Hôm nay bạn tôi đang ở cửa hàng nghe thầy giáo nói.,我朋友今天在商店听老师说话。,wǒ péngyou jīntiān zài shāngdiàn tīng lǎoshī shuōhuà.,在 + địa điểm + động từ,今天 / 在 / 商店 / 听老师说话
+daily_vi_0145,HSK1,Hoạt động hằng ngày,Hôm nay bạn tôi đang ở cửa hàng gọi điện thoại.,我朋友今天在商店打电话。,wǒ péngyou jīntiān zài shāngdiàn dǎ diànhuà.,在 + địa điểm + động từ,今天 / 在 / 商店 / 打电话
+daily_vi_0146,HSK1,Hoạt động hằng ngày,Hôm nay bạn tôi đang ở cửa hàng nghỉ ngơi.,我朋友今天在商店休息。,wǒ péngyou jīntiān zài shāngdiàn xiūxi.,在 + địa điểm + động từ,今天 / 在 / 商店 / 休息
+daily_vi_0147,HSK1,Hoạt động hằng ngày,Hôm nay bạn tôi đang ở nhà hàng học tiếng Trung.,我朋友今天在饭店学习汉语。,wǒ péngyou jīntiān zài fàndiàn xuéxí Hànyǔ.,在 + địa điểm + động từ,今天 / 在 / 饭店 / 学习汉语
+daily_vi_0148,HSK1,Hoạt động hằng ngày,Hôm nay bạn tôi đang ở nhà hàng đọc sách.,我朋友今天在饭店看书。,wǒ péngyou jīntiān zài fàndiàn kàn shū.,在 + địa điểm + động từ,今天 / 在 / 饭店 / 看书
+daily_vi_0149,HSK1,Hoạt động hằng ngày,Hôm nay bạn tôi đang ở nhà hàng xem phim.,我朋友今天在饭店看电影。,wǒ péngyou jīntiān zài fàndiàn kàn diànyǐng.,在 + địa điểm + động từ,今天 / 在 / 饭店 / 看电影
+daily_vi_0150,HSK1,Hoạt động hằng ngày,Hôm nay bạn tôi đang ở nhà hàng nghe thầy giáo nói.,我朋友今天在饭店听老师说话。,wǒ péngyou jīntiān zài fàndiàn tīng lǎoshī shuōhuà.,在 + địa điểm + động từ,今天 / 在 / 饭店 / 听老师说话
+daily_vi_0151,HSK2,Lý do - kết quả,"Vì trời mưa, nên tôi không đi trường học.",因为下雨，所以我不去学校。,"yīnwèi xià yǔ, suǒyǐ wǒ bù qù xuéxiào.",因为...所以...,因为 / 下雨 / 所以 / 不 / 去 / 学校
+daily_vi_0152,HSK2,Lý do - kết quả,"Vì trời mưa, nên tôi không đi bệnh viện.",因为下雨，所以我不去医院。,"yīnwèi xià yǔ, suǒyǐ wǒ bù qù yīyuàn.",因为...所以...,因为 / 下雨 / 所以 / 不 / 去 / 医院
+daily_vi_0153,HSK2,Lý do - kết quả,"Vì trời mưa, nên tôi không đi cửa hàng.",因为下雨，所以我不去商店。,"yīnwèi xià yǔ, suǒyǐ wǒ bù qù shāngdiàn.",因为...所以...,因为 / 下雨 / 所以 / 不 / 去 / 商店
+daily_vi_0154,HSK2,Lý do - kết quả,"Vì trời mưa, nên tôi không đi nhà hàng.",因为下雨，所以我不去饭店。,"yīnwèi xià yǔ, suǒyǐ wǒ bù qù fàndiàn.",因为...所以...,因为 / 下雨 / 所以 / 不 / 去 / 饭店
+daily_vi_0155,HSK2,Lý do - kết quả,"Vì trời mưa, nên tôi không đi công ty.",因为下雨，所以我不去公司。,"yīnwèi xià yǔ, suǒyǐ wǒ bù qù gōngsī.",因为...所以...,因为 / 下雨 / 所以 / 不 / 去 / 公司
+daily_vi_0156,HSK2,Lý do - kết quả,"Vì trời mưa, nên bạn tôi không đi trường học.",因为下雨，所以我朋友不去学校。,"yīnwèi xià yǔ, suǒyǐ wǒ péngyou bù qù xuéxiào.",因为...所以...,因为 / 下雨 / 所以 / 不 / 去 / 学校
+daily_vi_0157,HSK2,Lý do - kết quả,"Vì trời mưa, nên bạn tôi không đi bệnh viện.",因为下雨，所以我朋友不去医院。,"yīnwèi xià yǔ, suǒyǐ wǒ péngyou bù qù yīyuàn.",因为...所以...,因为 / 下雨 / 所以 / 不 / 去 / 医院
+daily_vi_0158,HSK2,Lý do - kết quả,"Vì trời mưa, nên bạn tôi không đi cửa hàng.",因为下雨，所以我朋友不去商店。,"yīnwèi xià yǔ, suǒyǐ wǒ péngyou bù qù shāngdiàn.",因为...所以...,因为 / 下雨 / 所以 / 不 / 去 / 商店
+daily_vi_0159,HSK2,Lý do - kết quả,"Vì trời mưa, nên bạn tôi không đi nhà hàng.",因为下雨，所以我朋友不去饭店。,"yīnwèi xià yǔ, suǒyǐ wǒ péngyou bù qù fàndiàn.",因为...所以...,因为 / 下雨 / 所以 / 不 / 去 / 饭店
+daily_vi_0160,HSK2,Lý do - kết quả,"Vì trời mưa, nên bạn tôi không đi công ty.",因为下雨，所以我朋友不去公司。,"yīnwèi xià yǔ, suǒyǐ wǒ péngyou bù qù gōngsī.",因为...所以...,因为 / 下雨 / 所以 / 不 / 去 / 公司
+daily_vi_0161,HSK2,Lý do - kết quả,"Vì trời mưa, nên mẹ tôi không đi trường học.",因为下雨，所以我妈妈不去学校。,"yīnwèi xià yǔ, suǒyǐ wǒ māma bù qù xuéxiào.",因为...所以...,因为 / 下雨 / 所以 / 不 / 去 / 学校
+daily_vi_0162,HSK2,Lý do - kết quả,"Vì trời mưa, nên mẹ tôi không đi bệnh viện.",因为下雨，所以我妈妈不去医院。,"yīnwèi xià yǔ, suǒyǐ wǒ māma bù qù yīyuàn.",因为...所以...,因为 / 下雨 / 所以 / 不 / 去 / 医院
+daily_vi_0163,HSK2,Lý do - kết quả,"Vì trời mưa, nên mẹ tôi không đi cửa hàng.",因为下雨，所以我妈妈不去商店。,"yīnwèi xià yǔ, suǒyǐ wǒ māma bù qù shāngdiàn.",因为...所以...,因为 / 下雨 / 所以 / 不 / 去 / 商店
+daily_vi_0164,HSK2,Lý do - kết quả,"Vì trời mưa, nên mẹ tôi không đi nhà hàng.",因为下雨，所以我妈妈不去饭店。,"yīnwèi xià yǔ, suǒyǐ wǒ māma bù qù fàndiàn.",因为...所以...,因为 / 下雨 / 所以 / 不 / 去 / 饭店
+daily_vi_0165,HSK2,Lý do - kết quả,"Vì trời mưa, nên mẹ tôi không đi công ty.",因为下雨，所以我妈妈不去公司。,"yīnwèi xià yǔ, suǒyǐ wǒ māma bù qù gōngsī.",因为...所以...,因为 / 下雨 / 所以 / 不 / 去 / 公司
+daily_vi_0166,HSK2,Lý do - kết quả,"Vì trời mưa, nên bố tôi không đi trường học.",因为下雨，所以我爸爸不去学校。,"yīnwèi xià yǔ, suǒyǐ wǒ bàba bù qù xuéxiào.",因为...所以...,因为 / 下雨 / 所以 / 不 / 去 / 学校
+daily_vi_0167,HSK2,Lý do - kết quả,"Vì trời mưa, nên bố tôi không đi bệnh viện.",因为下雨，所以我爸爸不去医院。,"yīnwèi xià yǔ, suǒyǐ wǒ bàba bù qù yīyuàn.",因为...所以...,因为 / 下雨 / 所以 / 不 / 去 / 医院
+daily_vi_0168,HSK2,Lý do - kết quả,"Vì trời mưa, nên bố tôi không đi cửa hàng.",因为下雨，所以我爸爸不去商店。,"yīnwèi xià yǔ, suǒyǐ wǒ bàba bù qù shāngdiàn.",因为...所以...,因为 / 下雨 / 所以 / 不 / 去 / 商店
+daily_vi_0169,HSK2,Lý do - kết quả,"Vì trời mưa, nên bố tôi không đi nhà hàng.",因为下雨，所以我爸爸不去饭店。,"yīnwèi xià yǔ, suǒyǐ wǒ bàba bù qù fàndiàn.",因为...所以...,因为 / 下雨 / 所以 / 不 / 去 / 饭店
+daily_vi_0170,HSK2,Lý do - kết quả,"Vì trời mưa, nên bố tôi không đi công ty.",因为下雨，所以我爸爸不去公司。,"yīnwèi xià yǔ, suǒyǐ wǒ bàba bù qù gōngsī.",因为...所以...,因为 / 下雨 / 所以 / 不 / 去 / 公司
+daily_vi_0171,HSK2,Lý do - kết quả,"Vì thời tiết rất lạnh, nên tôi không đi trường học.",因为天气很冷，所以我不去学校。,"yīnwèi tiānqì hěn lěng, suǒyǐ wǒ bù qù xuéxiào.",因为...所以...,因为 / 天气很冷 / 所以 / 不 / 去 / 学校
+daily_vi_0172,HSK2,Lý do - kết quả,"Vì thời tiết rất lạnh, nên tôi không đi bệnh viện.",因为天气很冷，所以我不去医院。,"yīnwèi tiānqì hěn lěng, suǒyǐ wǒ bù qù yīyuàn.",因为...所以...,因为 / 天气很冷 / 所以 / 不 / 去 / 医院
+daily_vi_0173,HSK2,Lý do - kết quả,"Vì thời tiết rất lạnh, nên tôi không đi cửa hàng.",因为天气很冷，所以我不去商店。,"yīnwèi tiānqì hěn lěng, suǒyǐ wǒ bù qù shāngdiàn.",因为...所以...,因为 / 天气很冷 / 所以 / 不 / 去 / 商店
+daily_vi_0174,HSK2,Lý do - kết quả,"Vì thời tiết rất lạnh, nên tôi không đi nhà hàng.",因为天气很冷，所以我不去饭店。,"yīnwèi tiānqì hěn lěng, suǒyǐ wǒ bù qù fàndiàn.",因为...所以...,因为 / 天气很冷 / 所以 / 不 / 去 / 饭店
+daily_vi_0175,HSK2,Lý do - kết quả,"Vì thời tiết rất lạnh, nên tôi không đi công ty.",因为天气很冷，所以我不去公司。,"yīnwèi tiānqì hěn lěng, suǒyǐ wǒ bù qù gōngsī.",因为...所以...,因为 / 天气很冷 / 所以 / 不 / 去 / 公司
+daily_vi_0176,HSK2,Lý do - kết quả,"Vì thời tiết rất lạnh, nên bạn tôi không đi trường học.",因为天气很冷，所以我朋友不去学校。,"yīnwèi tiānqì hěn lěng, suǒyǐ wǒ péngyou bù qù xuéxiào.",因为...所以...,因为 / 天气很冷 / 所以 / 不 / 去 / 学校
+daily_vi_0177,HSK2,Lý do - kết quả,"Vì thời tiết rất lạnh, nên bạn tôi không đi bệnh viện.",因为天气很冷，所以我朋友不去医院。,"yīnwèi tiānqì hěn lěng, suǒyǐ wǒ péngyou bù qù yīyuàn.",因为...所以...,因为 / 天气很冷 / 所以 / 不 / 去 / 医院
+daily_vi_0178,HSK2,Lý do - kết quả,"Vì thời tiết rất lạnh, nên bạn tôi không đi cửa hàng.",因为天气很冷，所以我朋友不去商店。,"yīnwèi tiānqì hěn lěng, suǒyǐ wǒ péngyou bù qù shāngdiàn.",因为...所以...,因为 / 天气很冷 / 所以 / 不 / 去 / 商店
+daily_vi_0179,HSK2,Lý do - kết quả,"Vì thời tiết rất lạnh, nên bạn tôi không đi nhà hàng.",因为天气很冷，所以我朋友不去饭店。,"yīnwèi tiānqì hěn lěng, suǒyǐ wǒ péngyou bù qù fàndiàn.",因为...所以...,因为 / 天气很冷 / 所以 / 不 / 去 / 饭店
+daily_vi_0180,HSK2,Lý do - kết quả,"Vì thời tiết rất lạnh, nên bạn tôi không đi công ty.",因为天气很冷，所以我朋友不去公司。,"yīnwèi tiānqì hěn lěng, suǒyǐ wǒ péngyou bù qù gōngsī.",因为...所以...,因为 / 天气很冷 / 所以 / 不 / 去 / 公司
+daily_vi_0181,HSK2,Lý do - kết quả,"Vì thời tiết rất lạnh, nên mẹ tôi không đi trường học.",因为天气很冷，所以我妈妈不去学校。,"yīnwèi tiānqì hěn lěng, suǒyǐ wǒ māma bù qù xuéxiào.",因为...所以...,因为 / 天气很冷 / 所以 / 不 / 去 / 学校
+daily_vi_0182,HSK2,Lý do - kết quả,"Vì thời tiết rất lạnh, nên mẹ tôi không đi bệnh viện.",因为天气很冷，所以我妈妈不去医院。,"yīnwèi tiānqì hěn lěng, suǒyǐ wǒ māma bù qù yīyuàn.",因为...所以...,因为 / 天气很冷 / 所以 / 不 / 去 / 医院
+daily_vi_0183,HSK2,Lý do - kết quả,"Vì thời tiết rất lạnh, nên mẹ tôi không đi cửa hàng.",因为天气很冷，所以我妈妈不去商店。,"yīnwèi tiānqì hěn lěng, suǒyǐ wǒ māma bù qù shāngdiàn.",因为...所以...,因为 / 天气很冷 / 所以 / 不 / 去 / 商店
+daily_vi_0184,HSK2,Lý do - kết quả,"Vì thời tiết rất lạnh, nên mẹ tôi không đi nhà hàng.",因为天气很冷，所以我妈妈不去饭店。,"yīnwèi tiānqì hěn lěng, suǒyǐ wǒ māma bù qù fàndiàn.",因为...所以...,因为 / 天气很冷 / 所以 / 不 / 去 / 饭店
+daily_vi_0185,HSK2,Lý do - kết quả,"Vì thời tiết rất lạnh, nên mẹ tôi không đi công ty.",因为天气很冷，所以我妈妈不去公司。,"yīnwèi tiānqì hěn lěng, suǒyǐ wǒ māma bù qù gōngsī.",因为...所以...,因为 / 天气很冷 / 所以 / 不 / 去 / 公司
+daily_vi_0186,HSK2,Lý do - kết quả,"Vì thời tiết rất lạnh, nên bố tôi không đi trường học.",因为天气很冷，所以我爸爸不去学校。,"yīnwèi tiānqì hěn lěng, suǒyǐ wǒ bàba bù qù xuéxiào.",因为...所以...,因为 / 天气很冷 / 所以 / 不 / 去 / 学校
+daily_vi_0187,HSK2,Lý do - kết quả,"Vì thời tiết rất lạnh, nên bố tôi không đi bệnh viện.",因为天气很冷，所以我爸爸不去医院。,"yīnwèi tiānqì hěn lěng, suǒyǐ wǒ bàba bù qù yīyuàn.",因为...所以...,因为 / 天气很冷 / 所以 / 不 / 去 / 医院
+daily_vi_0188,HSK2,Lý do - kết quả,"Vì thời tiết rất lạnh, nên bố tôi không đi cửa hàng.",因为天气很冷，所以我爸爸不去商店。,"yīnwèi tiānqì hěn lěng, suǒyǐ wǒ bàba bù qù shāngdiàn.",因为...所以...,因为 / 天气很冷 / 所以 / 不 / 去 / 商店
+daily_vi_0189,HSK2,Lý do - kết quả,"Vì thời tiết rất lạnh, nên bố tôi không đi nhà hàng.",因为天气很冷，所以我爸爸不去饭店。,"yīnwèi tiānqì hěn lěng, suǒyǐ wǒ bàba bù qù fàndiàn.",因为...所以...,因为 / 天气很冷 / 所以 / 不 / 去 / 饭店
+daily_vi_0190,HSK2,Lý do - kết quả,"Vì thời tiết rất lạnh, nên bố tôi không đi công ty.",因为天气很冷，所以我爸爸不去公司。,"yīnwèi tiānqì hěn lěng, suǒyǐ wǒ bàba bù qù gōngsī.",因为...所以...,因为 / 天气很冷 / 所以 / 不 / 去 / 公司
+daily_vi_0191,HSK2,Lý do - kết quả,"Vì thời tiết rất nóng, nên tôi không đi trường học.",因为天气很热，所以我不去学校。,"yīnwèi tiānqì hěn rè, suǒyǐ wǒ bù qù xuéxiào.",因为...所以...,因为 / 天气很热 / 所以 / 不 / 去 / 学校
+daily_vi_0192,HSK2,Lý do - kết quả,"Vì thời tiết rất nóng, nên tôi không đi bệnh viện.",因为天气很热，所以我不去医院。,"yīnwèi tiānqì hěn rè, suǒyǐ wǒ bù qù yīyuàn.",因为...所以...,因为 / 天气很热 / 所以 / 不 / 去 / 医院
+daily_vi_0193,HSK2,Lý do - kết quả,"Vì thời tiết rất nóng, nên tôi không đi cửa hàng.",因为天气很热，所以我不去商店。,"yīnwèi tiānqì hěn rè, suǒyǐ wǒ bù qù shāngdiàn.",因为...所以...,因为 / 天气很热 / 所以 / 不 / 去 / 商店
+daily_vi_0194,HSK2,Lý do - kết quả,"Vì thời tiết rất nóng, nên tôi không đi nhà hàng.",因为天气很热，所以我不去饭店。,"yīnwèi tiānqì hěn rè, suǒyǐ wǒ bù qù fàndiàn.",因为...所以...,因为 / 天气很热 / 所以 / 不 / 去 / 饭店
+daily_vi_0195,HSK2,Lý do - kết quả,"Vì thời tiết rất nóng, nên tôi không đi công ty.",因为天气很热，所以我不去公司。,"yīnwèi tiānqì hěn rè, suǒyǐ wǒ bù qù gōngsī.",因为...所以...,因为 / 天气很热 / 所以 / 不 / 去 / 公司
+daily_vi_0196,HSK2,Lý do - kết quả,"Vì thời tiết rất nóng, nên bạn tôi không đi trường học.",因为天气很热，所以我朋友不去学校。,"yīnwèi tiānqì hěn rè, suǒyǐ wǒ péngyou bù qù xuéxiào.",因为...所以...,因为 / 天气很热 / 所以 / 不 / 去 / 学校
+daily_vi_0197,HSK2,Lý do - kết quả,"Vì thời tiết rất nóng, nên bạn tôi không đi bệnh viện.",因为天气很热，所以我朋友不去医院。,"yīnwèi tiānqì hěn rè, suǒyǐ wǒ péngyou bù qù yīyuàn.",因为...所以...,因为 / 天气很热 / 所以 / 不 / 去 / 医院
+daily_vi_0198,HSK2,Lý do - kết quả,"Vì thời tiết rất nóng, nên bạn tôi không đi cửa hàng.",因为天气很热，所以我朋友不去商店。,"yīnwèi tiānqì hěn rè, suǒyǐ wǒ péngyou bù qù shāngdiàn.",因为...所以...,因为 / 天气很热 / 所以 / 不 / 去 / 商店
+daily_vi_0199,HSK2,Lý do - kết quả,"Vì thời tiết rất nóng, nên bạn tôi không đi nhà hàng.",因为天气很热，所以我朋友不去饭店。,"yīnwèi tiānqì hěn rè, suǒyǐ wǒ péngyou bù qù fàndiàn.",因为...所以...,因为 / 天气很热 / 所以 / 不 / 去 / 饭店
+daily_vi_0200,HSK2,Lý do - kết quả,"Vì thời tiết rất nóng, nên bạn tôi không đi công ty.",因为天气很热，所以我朋友不去公司。,"yīnwèi tiānqì hěn rè, suǒyǐ wǒ péngyou bù qù gōngsī.",因为...所以...,因为 / 天气很热 / 所以 / 不 / 去 / 公司
+daily_vi_0201,HSK2,Lý do - kết quả,"Vì thời tiết rất nóng, nên mẹ tôi không đi trường học.",因为天气很热，所以我妈妈不去学校。,"yīnwèi tiānqì hěn rè, suǒyǐ wǒ māma bù qù xuéxiào.",因为...所以...,因为 / 天气很热 / 所以 / 不 / 去 / 学校
+daily_vi_0202,HSK2,Lý do - kết quả,"Vì thời tiết rất nóng, nên mẹ tôi không đi bệnh viện.",因为天气很热，所以我妈妈不去医院。,"yīnwèi tiānqì hěn rè, suǒyǐ wǒ māma bù qù yīyuàn.",因为...所以...,因为 / 天气很热 / 所以 / 不 / 去 / 医院
+daily_vi_0203,HSK2,Lý do - kết quả,"Vì thời tiết rất nóng, nên mẹ tôi không đi cửa hàng.",因为天气很热，所以我妈妈不去商店。,"yīnwèi tiānqì hěn rè, suǒyǐ wǒ māma bù qù shāngdiàn.",因为...所以...,因为 / 天气很热 / 所以 / 不 / 去 / 商店
+daily_vi_0204,HSK2,Lý do - kết quả,"Vì thời tiết rất nóng, nên mẹ tôi không đi nhà hàng.",因为天气很热，所以我妈妈不去饭店。,"yīnwèi tiānqì hěn rè, suǒyǐ wǒ māma bù qù fàndiàn.",因为...所以...,因为 / 天气很热 / 所以 / 不 / 去 / 饭店
+daily_vi_0205,HSK2,Lý do - kết quả,"Vì thời tiết rất nóng, nên mẹ tôi không đi công ty.",因为天气很热，所以我妈妈不去公司。,"yīnwèi tiānqì hěn rè, suǒyǐ wǒ māma bù qù gōngsī.",因为...所以...,因为 / 天气很热 / 所以 / 不 / 去 / 公司
+daily_vi_0206,HSK2,Lý do - kết quả,"Vì thời tiết rất nóng, nên bố tôi không đi trường học.",因为天气很热，所以我爸爸不去学校。,"yīnwèi tiānqì hěn rè, suǒyǐ wǒ bàba bù qù xuéxiào.",因为...所以...,因为 / 天气很热 / 所以 / 不 / 去 / 学校
+daily_vi_0207,HSK2,Lý do - kết quả,"Vì thời tiết rất nóng, nên bố tôi không đi bệnh viện.",因为天气很热，所以我爸爸不去医院。,"yīnwèi tiānqì hěn rè, suǒyǐ wǒ bàba bù qù yīyuàn.",因为...所以...,因为 / 天气很热 / 所以 / 不 / 去 / 医院
+daily_vi_0208,HSK2,Lý do - kết quả,"Vì thời tiết rất nóng, nên bố tôi không đi cửa hàng.",因为天气很热，所以我爸爸不去商店。,"yīnwèi tiānqì hěn rè, suǒyǐ wǒ bàba bù qù shāngdiàn.",因为...所以...,因为 / 天气很热 / 所以 / 不 / 去 / 商店
+daily_vi_0209,HSK2,Lý do - kết quả,"Vì thời tiết rất nóng, nên bố tôi không đi nhà hàng.",因为天气很热，所以我爸爸不去饭店。,"yīnwèi tiānqì hěn rè, suǒyǐ wǒ bàba bù qù fàndiàn.",因为...所以...,因为 / 天气很热 / 所以 / 不 / 去 / 饭店
+daily_vi_0210,HSK2,Lý do - kết quả,"Vì thời tiết rất nóng, nên bố tôi không đi công ty.",因为天气很热，所以我爸爸不去公司。,"yīnwèi tiānqì hěn rè, suǒyǐ wǒ bàba bù qù gōngsī.",因为...所以...,因为 / 天气很热 / 所以 / 不 / 去 / 公司
+daily_vi_0211,HSK2,Tương phản,"Tuy tôi rất bận, nhưng vẫn muốn học tiếng Trung.",虽然我很忙，但是还想学习汉语。,"suīrán wǒ hěn máng, dànshì hái xiǎng xuéxí Hànyǔ.",虽然...但是...；还想 + động từ,虽然 / 很 / 忙 / 但是 / 还 / 想 / 学习汉语
+daily_vi_0212,HSK2,Tương phản,"Tuy tôi rất bận, nhưng vẫn muốn đọc sách.",虽然我很忙，但是还想看书。,"suīrán wǒ hěn máng, dànshì hái xiǎng kàn shū.",虽然...但是...；还想 + động từ,虽然 / 很 / 忙 / 但是 / 还 / 想 / 看书
+daily_vi_0213,HSK2,Tương phản,"Tuy tôi rất bận, nhưng vẫn muốn xem phim.",虽然我很忙，但是还想看电影。,"suīrán wǒ hěn máng, dànshì hái xiǎng kàn diànyǐng.",虽然...但是...；还想 + động từ,虽然 / 很 / 忙 / 但是 / 还 / 想 / 看电影
+daily_vi_0214,HSK2,Tương phản,"Tuy tôi rất bận, nhưng vẫn muốn nghe thầy giáo nói.",虽然我很忙，但是还想听老师说话。,"suīrán wǒ hěn máng, dànshì hái xiǎng tīng lǎoshī shuōhuà.",虽然...但是...；还想 + động từ,虽然 / 很 / 忙 / 但是 / 还 / 想 / 听老师说话
+daily_vi_0215,HSK2,Tương phản,"Tuy tôi rất bận, nhưng vẫn muốn gọi điện thoại.",虽然我很忙，但是还想打电话。,"suīrán wǒ hěn máng, dànshì hái xiǎng dǎ diànhuà.",虽然...但是...；还想 + động từ,虽然 / 很 / 忙 / 但是 / 还 / 想 / 打电话
+daily_vi_0216,HSK2,Tương phản,"Tuy tôi rất bận, nhưng vẫn muốn nghỉ ngơi.",虽然我很忙，但是还想休息。,"suīrán wǒ hěn máng, dànshì hái xiǎng xiūxi.",虽然...但是...；还想 + động từ,虽然 / 很 / 忙 / 但是 / 还 / 想 / 休息
+daily_vi_0217,HSK2,Tương phản,"Tuy tôi rất vui, nhưng vẫn muốn học tiếng Trung.",虽然我很高兴，但是还想学习汉语。,"suīrán wǒ hěn gāoxìng, dànshì hái xiǎng xuéxí Hànyǔ.",虽然...但是...；还想 + động từ,虽然 / 很 / 高兴 / 但是 / 还 / 想 / 学习汉语
+daily_vi_0218,HSK2,Tương phản,"Tuy tôi rất vui, nhưng vẫn muốn đọc sách.",虽然我很高兴，但是还想看书。,"suīrán wǒ hěn gāoxìng, dànshì hái xiǎng kàn shū.",虽然...但是...；还想 + động từ,虽然 / 很 / 高兴 / 但是 / 还 / 想 / 看书
+daily_vi_0219,HSK2,Tương phản,"Tuy tôi rất vui, nhưng vẫn muốn xem phim.",虽然我很高兴，但是还想看电影。,"suīrán wǒ hěn gāoxìng, dànshì hái xiǎng kàn diànyǐng.",虽然...但是...；还想 + động từ,虽然 / 很 / 高兴 / 但是 / 还 / 想 / 看电影
+daily_vi_0220,HSK2,Tương phản,"Tuy tôi rất vui, nhưng vẫn muốn nghe thầy giáo nói.",虽然我很高兴，但是还想听老师说话。,"suīrán wǒ hěn gāoxìng, dànshì hái xiǎng tīng lǎoshī shuōhuà.",虽然...但是...；还想 + động từ,虽然 / 很 / 高兴 / 但是 / 还 / 想 / 听老师说话
+daily_vi_0221,HSK2,Tương phản,"Tuy tôi rất vui, nhưng vẫn muốn gọi điện thoại.",虽然我很高兴，但是还想打电话。,"suīrán wǒ hěn gāoxìng, dànshì hái xiǎng dǎ diànhuà.",虽然...但是...；还想 + động từ,虽然 / 很 / 高兴 / 但是 / 还 / 想 / 打电话
+daily_vi_0222,HSK2,Tương phản,"Tuy tôi rất vui, nhưng vẫn muốn nghỉ ngơi.",虽然我很高兴，但是还想休息。,"suīrán wǒ hěn gāoxìng, dànshì hái xiǎng xiūxi.",虽然...但是...；还想 + động từ,虽然 / 很 / 高兴 / 但是 / 还 / 想 / 休息
+daily_vi_0223,HSK2,Tương phản,"Tuy tôi rất mệt, nhưng vẫn muốn học tiếng Trung.",虽然我很累，但是还想学习汉语。,"suīrán wǒ hěn lèi, dànshì hái xiǎng xuéxí Hànyǔ.",虽然...但是...；还想 + động từ,虽然 / 很 / 累 / 但是 / 还 / 想 / 学习汉语
+daily_vi_0224,HSK2,Tương phản,"Tuy tôi rất mệt, nhưng vẫn muốn đọc sách.",虽然我很累，但是还想看书。,"suīrán wǒ hěn lèi, dànshì hái xiǎng kàn shū.",虽然...但是...；还想 + động từ,虽然 / 很 / 累 / 但是 / 还 / 想 / 看书
+daily_vi_0225,HSK2,Tương phản,"Tuy tôi rất mệt, nhưng vẫn muốn xem phim.",虽然我很累，但是还想看电影。,"suīrán wǒ hěn lèi, dànshì hái xiǎng kàn diànyǐng.",虽然...但是...；还想 + động từ,虽然 / 很 / 累 / 但是 / 还 / 想 / 看电影
+daily_vi_0226,HSK2,Tương phản,"Tuy tôi rất mệt, nhưng vẫn muốn nghe thầy giáo nói.",虽然我很累，但是还想听老师说话。,"suīrán wǒ hěn lèi, dànshì hái xiǎng tīng lǎoshī shuōhuà.",虽然...但是...；还想 + động từ,虽然 / 很 / 累 / 但是 / 还 / 想 / 听老师说话
+daily_vi_0227,HSK2,Tương phản,"Tuy tôi rất mệt, nhưng vẫn muốn gọi điện thoại.",虽然我很累，但是还想打电话。,"suīrán wǒ hěn lèi, dànshì hái xiǎng dǎ diànhuà.",虽然...但是...；还想 + động từ,虽然 / 很 / 累 / 但是 / 还 / 想 / 打电话
+daily_vi_0228,HSK2,Tương phản,"Tuy tôi rất mệt, nhưng vẫn muốn nghỉ ngơi.",虽然我很累，但是还想休息。,"suīrán wǒ hěn lèi, dànshì hái xiǎng xiūxi.",虽然...但是...；还想 + động từ,虽然 / 很 / 累 / 但是 / 还 / 想 / 休息
+daily_vi_0229,HSK2,Tương phản,"Tuy tôi rất lạnh, nhưng vẫn muốn học tiếng Trung.",虽然我很冷，但是还想学习汉语。,"suīrán wǒ hěn lěng, dànshì hái xiǎng xuéxí Hànyǔ.",虽然...但是...；还想 + động từ,虽然 / 很 / 冷 / 但是 / 还 / 想 / 学习汉语
+daily_vi_0230,HSK2,Tương phản,"Tuy tôi rất lạnh, nhưng vẫn muốn đọc sách.",虽然我很冷，但是还想看书。,"suīrán wǒ hěn lěng, dànshì hái xiǎng kàn shū.",虽然...但是...；还想 + động từ,虽然 / 很 / 冷 / 但是 / 还 / 想 / 看书
+daily_vi_0231,HSK2,Tương phản,"Tuy tôi rất lạnh, nhưng vẫn muốn xem phim.",虽然我很冷，但是还想看电影。,"suīrán wǒ hěn lěng, dànshì hái xiǎng kàn diànyǐng.",虽然...但是...；还想 + động từ,虽然 / 很 / 冷 / 但是 / 还 / 想 / 看电影
+daily_vi_0232,HSK2,Tương phản,"Tuy tôi rất lạnh, nhưng vẫn muốn nghe thầy giáo nói.",虽然我很冷，但是还想听老师说话。,"suīrán wǒ hěn lěng, dànshì hái xiǎng tīng lǎoshī shuōhuà.",虽然...但是...；还想 + động từ,虽然 / 很 / 冷 / 但是 / 还 / 想 / 听老师说话
+daily_vi_0233,HSK2,Tương phản,"Tuy tôi rất lạnh, nhưng vẫn muốn gọi điện thoại.",虽然我很冷，但是还想打电话。,"suīrán wǒ hěn lěng, dànshì hái xiǎng dǎ diànhuà.",虽然...但是...；还想 + động từ,虽然 / 很 / 冷 / 但是 / 还 / 想 / 打电话
+daily_vi_0234,HSK2,Tương phản,"Tuy tôi rất lạnh, nhưng vẫn muốn nghỉ ngơi.",虽然我很冷，但是还想休息。,"suīrán wǒ hěn lěng, dànshì hái xiǎng xiūxi.",虽然...但是...；还想 + động từ,虽然 / 很 / 冷 / 但是 / 还 / 想 / 休息
+daily_vi_0235,HSK2,Tương phản,"Tuy bạn tôi rất bận, nhưng vẫn muốn học tiếng Trung.",虽然我朋友很忙，但是还想学习汉语。,"suīrán wǒ péngyou hěn máng, dànshì hái xiǎng xuéxí Hànyǔ.",虽然...但是...；还想 + động từ,虽然 / 很 / 忙 / 但是 / 还 / 想 / 学习汉语
+daily_vi_0236,HSK2,Tương phản,"Tuy bạn tôi rất bận, nhưng vẫn muốn đọc sách.",虽然我朋友很忙，但是还想看书。,"suīrán wǒ péngyou hěn máng, dànshì hái xiǎng kàn shū.",虽然...但是...；还想 + động từ,虽然 / 很 / 忙 / 但是 / 还 / 想 / 看书
+daily_vi_0237,HSK2,Tương phản,"Tuy bạn tôi rất bận, nhưng vẫn muốn xem phim.",虽然我朋友很忙，但是还想看电影。,"suīrán wǒ péngyou hěn máng, dànshì hái xiǎng kàn diànyǐng.",虽然...但是...；还想 + động từ,虽然 / 很 / 忙 / 但是 / 还 / 想 / 看电影
+daily_vi_0238,HSK2,Tương phản,"Tuy bạn tôi rất bận, nhưng vẫn muốn nghe thầy giáo nói.",虽然我朋友很忙，但是还想听老师说话。,"suīrán wǒ péngyou hěn máng, dànshì hái xiǎng tīng lǎoshī shuōhuà.",虽然...但是...；还想 + động từ,虽然 / 很 / 忙 / 但是 / 还 / 想 / 听老师说话
+daily_vi_0239,HSK2,Tương phản,"Tuy bạn tôi rất bận, nhưng vẫn muốn gọi điện thoại.",虽然我朋友很忙，但是还想打电话。,"suīrán wǒ péngyou hěn máng, dànshì hái xiǎng dǎ diànhuà.",虽然...但是...；还想 + động từ,虽然 / 很 / 忙 / 但是 / 还 / 想 / 打电话
+daily_vi_0240,HSK2,Tương phản,"Tuy bạn tôi rất bận, nhưng vẫn muốn nghỉ ngơi.",虽然我朋友很忙，但是还想休息。,"suīrán wǒ péngyou hěn máng, dànshì hái xiǎng xiūxi.",虽然...但是...；还想 + động từ,虽然 / 很 / 忙 / 但是 / 还 / 想 / 休息
+daily_vi_0241,HSK2,Tương phản,"Tuy bạn tôi rất vui, nhưng vẫn muốn học tiếng Trung.",虽然我朋友很高兴，但是还想学习汉语。,"suīrán wǒ péngyou hěn gāoxìng, dànshì hái xiǎng xuéxí Hànyǔ.",虽然...但是...；还想 + động từ,虽然 / 很 / 高兴 / 但是 / 还 / 想 / 学习汉语
+daily_vi_0242,HSK2,Tương phản,"Tuy bạn tôi rất vui, nhưng vẫn muốn đọc sách.",虽然我朋友很高兴，但是还想看书。,"suīrán wǒ péngyou hěn gāoxìng, dànshì hái xiǎng kàn shū.",虽然...但是...；还想 + động từ,虽然 / 很 / 高兴 / 但是 / 还 / 想 / 看书
+daily_vi_0243,HSK2,Tương phản,"Tuy bạn tôi rất vui, nhưng vẫn muốn xem phim.",虽然我朋友很高兴，但是还想看电影。,"suīrán wǒ péngyou hěn gāoxìng, dànshì hái xiǎng kàn diànyǐng.",虽然...但是...；还想 + động từ,虽然 / 很 / 高兴 / 但是 / 还 / 想 / 看电影
+daily_vi_0244,HSK2,Tương phản,"Tuy bạn tôi rất vui, nhưng vẫn muốn nghe thầy giáo nói.",虽然我朋友很高兴，但是还想听老师说话。,"suīrán wǒ péngyou hěn gāoxìng, dànshì hái xiǎng tīng lǎoshī shuōhuà.",虽然...但是...；还想 + động từ,虽然 / 很 / 高兴 / 但是 / 还 / 想 / 听老师说话
+daily_vi_0245,HSK2,Tương phản,"Tuy bạn tôi rất vui, nhưng vẫn muốn gọi điện thoại.",虽然我朋友很高兴，但是还想打电话。,"suīrán wǒ péngyou hěn gāoxìng, dànshì hái xiǎng dǎ diànhuà.",虽然...但是...；还想 + động từ,虽然 / 很 / 高兴 / 但是 / 还 / 想 / 打电话
+daily_vi_0246,HSK2,Tương phản,"Tuy bạn tôi rất vui, nhưng vẫn muốn nghỉ ngơi.",虽然我朋友很高兴，但是还想休息。,"suīrán wǒ péngyou hěn gāoxìng, dànshì hái xiǎng xiūxi.",虽然...但是...；还想 + động từ,虽然 / 很 / 高兴 / 但是 / 还 / 想 / 休息
+daily_vi_0247,HSK2,Tương phản,"Tuy bạn tôi rất mệt, nhưng vẫn muốn học tiếng Trung.",虽然我朋友很累，但是还想学习汉语。,"suīrán wǒ péngyou hěn lèi, dànshì hái xiǎng xuéxí Hànyǔ.",虽然...但是...；还想 + động từ,虽然 / 很 / 累 / 但是 / 还 / 想 / 学习汉语
+daily_vi_0248,HSK2,Tương phản,"Tuy bạn tôi rất mệt, nhưng vẫn muốn đọc sách.",虽然我朋友很累，但是还想看书。,"suīrán wǒ péngyou hěn lèi, dànshì hái xiǎng kàn shū.",虽然...但是...；还想 + động từ,虽然 / 很 / 累 / 但是 / 还 / 想 / 看书
+daily_vi_0249,HSK2,Tương phản,"Tuy bạn tôi rất mệt, nhưng vẫn muốn xem phim.",虽然我朋友很累，但是还想看电影。,"suīrán wǒ péngyou hěn lèi, dànshì hái xiǎng kàn diànyǐng.",虽然...但是...；还想 + động từ,虽然 / 很 / 累 / 但是 / 还 / 想 / 看电影
+daily_vi_0250,HSK2,Tương phản,"Tuy bạn tôi rất mệt, nhưng vẫn muốn nghe thầy giáo nói.",虽然我朋友很累，但是还想听老师说话。,"suīrán wǒ péngyou hěn lèi, dànshì hái xiǎng tīng lǎoshī shuōhuà.",虽然...但是...；还想 + động từ,虽然 / 很 / 累 / 但是 / 还 / 想 / 听老师说话
+daily_vi_0251,HSK2,Tương phản,"Tuy bạn tôi rất mệt, nhưng vẫn muốn gọi điện thoại.",虽然我朋友很累，但是还想打电话。,"suīrán wǒ péngyou hěn lèi, dànshì hái xiǎng dǎ diànhuà.",虽然...但是...；还想 + động từ,虽然 / 很 / 累 / 但是 / 还 / 想 / 打电话
+daily_vi_0252,HSK2,Tương phản,"Tuy bạn tôi rất mệt, nhưng vẫn muốn nghỉ ngơi.",虽然我朋友很累，但是还想休息。,"suīrán wǒ péngyou hěn lèi, dànshì hái xiǎng xiūxi.",虽然...但是...；还想 + động từ,虽然 / 很 / 累 / 但是 / 还 / 想 / 休息
+daily_vi_0253,HSK2,Tương phản,"Tuy bạn tôi rất lạnh, nhưng vẫn muốn học tiếng Trung.",虽然我朋友很冷，但是还想学习汉语。,"suīrán wǒ péngyou hěn lěng, dànshì hái xiǎng xuéxí Hànyǔ.",虽然...但是...；还想 + động từ,虽然 / 很 / 冷 / 但是 / 还 / 想 / 学习汉语
+daily_vi_0254,HSK2,Tương phản,"Tuy bạn tôi rất lạnh, nhưng vẫn muốn đọc sách.",虽然我朋友很冷，但是还想看书。,"suīrán wǒ péngyou hěn lěng, dànshì hái xiǎng kàn shū.",虽然...但是...；还想 + động từ,虽然 / 很 / 冷 / 但是 / 还 / 想 / 看书
+daily_vi_0255,HSK2,Tương phản,"Tuy bạn tôi rất lạnh, nhưng vẫn muốn xem phim.",虽然我朋友很冷，但是还想看电影。,"suīrán wǒ péngyou hěn lěng, dànshì hái xiǎng kàn diànyǐng.",虽然...但是...；还想 + động từ,虽然 / 很 / 冷 / 但是 / 还 / 想 / 看电影
+daily_vi_0256,HSK2,Tương phản,"Tuy bạn tôi rất lạnh, nhưng vẫn muốn nghe thầy giáo nói.",虽然我朋友很冷，但是还想听老师说话。,"suīrán wǒ péngyou hěn lěng, dànshì hái xiǎng tīng lǎoshī shuōhuà.",虽然...但是...；还想 + động từ,虽然 / 很 / 冷 / 但是 / 还 / 想 / 听老师说话
+daily_vi_0257,HSK2,Tương phản,"Tuy bạn tôi rất lạnh, nhưng vẫn muốn gọi điện thoại.",虽然我朋友很冷，但是还想打电话。,"suīrán wǒ péngyou hěn lěng, dànshì hái xiǎng dǎ diànhuà.",虽然...但是...；还想 + động từ,虽然 / 很 / 冷 / 但是 / 还 / 想 / 打电话
+daily_vi_0258,HSK2,Tương phản,"Tuy bạn tôi rất lạnh, nhưng vẫn muốn nghỉ ngơi.",虽然我朋友很冷，但是还想休息。,"suīrán wǒ péngyou hěn lěng, dànshì hái xiǎng xiūxi.",虽然...但是...；还想 + động từ,虽然 / 很 / 冷 / 但是 / 还 / 想 / 休息
+daily_vi_0259,HSK2,Tương phản,"Tuy mẹ tôi rất bận, nhưng vẫn muốn học tiếng Trung.",虽然我妈妈很忙，但是还想学习汉语。,"suīrán wǒ māma hěn máng, dànshì hái xiǎng xuéxí Hànyǔ.",虽然...但是...；还想 + động từ,虽然 / 很 / 忙 / 但是 / 还 / 想 / 学习汉语
+daily_vi_0260,HSK2,Tương phản,"Tuy mẹ tôi rất bận, nhưng vẫn muốn đọc sách.",虽然我妈妈很忙，但是还想看书。,"suīrán wǒ māma hěn máng, dànshì hái xiǎng kàn shū.",虽然...但是...；还想 + động từ,虽然 / 很 / 忙 / 但是 / 还 / 想 / 看书
+daily_vi_0261,HSK2,So sánh,Anh trai tôi cao hơn tôi.,我哥哥比我高。,wǒ gēge bǐ wǒ gāo.,A 比 B + tính từ,我哥哥 / 比 / 我 / 高
+daily_vi_0262,HSK2,So sánh,Chị gái tôi bận hơn mẹ tôi.,我姐姐比我妈妈忙。,wǒ jiějie bǐ wǒ māma máng.,A 比 B + tính từ,我姐姐 / 比 / 我妈妈 / 忙
+daily_vi_0263,HSK2,So sánh,Bạn tôi vui hơn tôi.,我朋友比我高兴。,wǒ péngyou bǐ wǒ gāoxìng.,A 比 B + tính từ,我朋友 / 比 / 我 / 高兴
+daily_vi_0264,HSK2,So sánh,Trường học gần hơn nhà tôi.,学校比我家近。,xuéxiào bǐ wǒ jiā jìn.,A 比 B + tính từ,学校 / 比 / 我家 / 近
+daily_vi_0265,HSK2,So sánh,Sân bay xa hơn công ty.,机场比公司远。,jīchǎng bǐ gōngsī yuǎn.,A 比 B + tính từ,机场 / 比 / 公司 / 远
+daily_vi_0266,HSK2,Thói quen,Mỗi ngày tôi đều học tiếng Trung.,我每天都学习汉语。,wǒ měitiān dōu xuéxí Hànyǔ.,每天都 + động từ,我 / 每天 / 都 / 学习汉语
+daily_vi_0267,HSK2,Thói quen,Mỗi ngày tôi đều đọc sách.,我每天都看书。,wǒ měitiān dōu kàn shū.,每天都 + động từ,我 / 每天 / 都 / 看书
+daily_vi_0268,HSK2,Thói quen,Mỗi ngày tôi đều xem phim.,我每天都看电影。,wǒ měitiān dōu kàn diànyǐng.,每天都 + động từ,我 / 每天 / 都 / 看电影
+daily_vi_0269,HSK2,Thói quen,Mỗi ngày tôi đều nghe thầy giáo nói.,我每天都听老师说话。,wǒ měitiān dōu tīng lǎoshī shuōhuà.,每天都 + động từ,我 / 每天 / 都 / 听老师说话
+daily_vi_0270,HSK2,Thói quen,Mỗi ngày tôi đều gọi điện thoại.,我每天都打电话。,wǒ měitiān dōu dǎ diànhuà.,每天都 + động từ,我 / 每天 / 都 / 打电话
+daily_vi_0271,HSK2,Thói quen,Mỗi ngày tôi đều nghỉ ngơi.,我每天都休息。,wǒ měitiān dōu xiūxi.,每天都 + động từ,我 / 每天 / 都 / 休息
+daily_vi_0272,HSK2,Thói quen,Mỗi ngày tôi đều chạy bộ.,我每天都跑步。,wǒ měitiān dōu pǎobù.,每天都 + động từ,我 / 每天 / 都 / 跑步
+daily_vi_0273,HSK2,Thói quen,Mỗi ngày tôi đều bơi.,我每天都游泳。,wǒ měitiān dōu yóuyǒng.,每天都 + động từ,我 / 每天 / 都 / 游泳
+daily_vi_0274,HSK2,Thói quen,Mỗi ngày tôi đều đá bóng.,我每天都踢足球。,wǒ měitiān dōu tī zúqiú.,每天都 + động từ,我 / 每天 / 都 / 踢足球
+daily_vi_0275,HSK2,Thói quen,Mỗi ngày tôi đều chơi bóng rổ.,我每天都打篮球。,wǒ měitiān dōu dǎ lánqiú.,每天都 + động từ,我 / 每天 / 都 / 打篮球
+daily_vi_0276,HSK2,Thói quen,Mỗi ngày bạn tôi đều học tiếng Trung.,我朋友每天都学习汉语。,wǒ péngyou měitiān dōu xuéxí Hànyǔ.,每天都 + động từ,我朋友 / 每天 / 都 / 学习汉语
+daily_vi_0277,HSK2,Thói quen,Mỗi ngày bạn tôi đều đọc sách.,我朋友每天都看书。,wǒ péngyou měitiān dōu kàn shū.,每天都 + động từ,我朋友 / 每天 / 都 / 看书
+daily_vi_0278,HSK2,Thói quen,Mỗi ngày bạn tôi đều xem phim.,我朋友每天都看电影。,wǒ péngyou měitiān dōu kàn diànyǐng.,每天都 + động từ,我朋友 / 每天 / 都 / 看电影
+daily_vi_0279,HSK2,Thói quen,Mỗi ngày bạn tôi đều nghe thầy giáo nói.,我朋友每天都听老师说话。,wǒ péngyou měitiān dōu tīng lǎoshī shuōhuà.,每天都 + động từ,我朋友 / 每天 / 都 / 听老师说话
+daily_vi_0280,HSK2,Thói quen,Mỗi ngày bạn tôi đều gọi điện thoại.,我朋友每天都打电话。,wǒ péngyou měitiān dōu dǎ diànhuà.,每天都 + động từ,我朋友 / 每天 / 都 / 打电话
+daily_vi_0281,HSK2,Thói quen,Mỗi ngày bạn tôi đều nghỉ ngơi.,我朋友每天都休息。,wǒ péngyou měitiān dōu xiūxi.,每天都 + động từ,我朋友 / 每天 / 都 / 休息
+daily_vi_0282,HSK2,Thói quen,Mỗi ngày bạn tôi đều chạy bộ.,我朋友每天都跑步。,wǒ péngyou měitiān dōu pǎobù.,每天都 + động từ,我朋友 / 每天 / 都 / 跑步
+daily_vi_0283,HSK2,Thói quen,Mỗi ngày bạn tôi đều bơi.,我朋友每天都游泳。,wǒ péngyou měitiān dōu yóuyǒng.,每天都 + động từ,我朋友 / 每天 / 都 / 游泳
+daily_vi_0284,HSK2,Thói quen,Mỗi ngày bạn tôi đều đá bóng.,我朋友每天都踢足球。,wǒ péngyou měitiān dōu tī zúqiú.,每天都 + động từ,我朋友 / 每天 / 都 / 踢足球
+daily_vi_0285,HSK2,Thói quen,Mỗi ngày bạn tôi đều chơi bóng rổ.,我朋友每天都打篮球。,wǒ péngyou měitiān dōu dǎ lánqiú.,每天都 + động từ,我朋友 / 每天 / 都 / 打篮球
+daily_vi_0286,HSK2,Thói quen,Mỗi ngày mẹ tôi đều học tiếng Trung.,我妈妈每天都学习汉语。,wǒ māma měitiān dōu xuéxí Hànyǔ.,每天都 + động từ,我妈妈 / 每天 / 都 / 学习汉语
+daily_vi_0287,HSK2,Thói quen,Mỗi ngày mẹ tôi đều đọc sách.,我妈妈每天都看书。,wǒ māma měitiān dōu kàn shū.,每天都 + động từ,我妈妈 / 每天 / 都 / 看书
+daily_vi_0288,HSK2,Thói quen,Mỗi ngày mẹ tôi đều xem phim.,我妈妈每天都看电影。,wǒ māma měitiān dōu kàn diànyǐng.,每天都 + động từ,我妈妈 / 每天 / 都 / 看电影
+daily_vi_0289,HSK2,Thói quen,Mỗi ngày mẹ tôi đều nghe thầy giáo nói.,我妈妈每天都听老师说话。,wǒ māma měitiān dōu tīng lǎoshī shuōhuà.,每天都 + động từ,我妈妈 / 每天 / 都 / 听老师说话
+daily_vi_0290,HSK2,Thói quen,Mỗi ngày mẹ tôi đều gọi điện thoại.,我妈妈每天都打电话。,wǒ māma měitiān dōu dǎ diànhuà.,每天都 + động từ,我妈妈 / 每天 / 都 / 打电话
+daily_vi_0291,HSK2,Thói quen,Mỗi ngày mẹ tôi đều nghỉ ngơi.,我妈妈每天都休息。,wǒ māma měitiān dōu xiūxi.,每天都 + động từ,我妈妈 / 每天 / 都 / 休息
+daily_vi_0292,HSK2,Thói quen,Mỗi ngày mẹ tôi đều chạy bộ.,我妈妈每天都跑步。,wǒ māma měitiān dōu pǎobù.,每天都 + động từ,我妈妈 / 每天 / 都 / 跑步
+daily_vi_0293,HSK2,Thói quen,Mỗi ngày mẹ tôi đều bơi.,我妈妈每天都游泳。,wǒ māma měitiān dōu yóuyǒng.,每天都 + động từ,我妈妈 / 每天 / 都 / 游泳
+daily_vi_0294,HSK2,Thói quen,Mỗi ngày mẹ tôi đều đá bóng.,我妈妈每天都踢足球。,wǒ māma měitiān dōu tī zúqiú.,每天都 + động từ,我妈妈 / 每天 / 都 / 踢足球
+daily_vi_0295,HSK2,Thói quen,Mỗi ngày mẹ tôi đều chơi bóng rổ.,我妈妈每天都打篮球。,wǒ māma měitiān dōu dǎ lánqiú.,每天都 + động từ,我妈妈 / 每天 / 都 / 打篮球
+daily_vi_0296,HSK2,Thói quen,Mỗi ngày bố tôi đều học tiếng Trung.,我爸爸每天都学习汉语。,wǒ bàba měitiān dōu xuéxí Hànyǔ.,每天都 + động từ,我爸爸 / 每天 / 都 / 学习汉语
+daily_vi_0297,HSK2,Thói quen,Mỗi ngày bố tôi đều đọc sách.,我爸爸每天都看书。,wǒ bàba měitiān dōu kàn shū.,每天都 + động từ,我爸爸 / 每天 / 都 / 看书
+daily_vi_0298,HSK2,Thói quen,Mỗi ngày bố tôi đều xem phim.,我爸爸每天都看电影。,wǒ bàba měitiān dōu kàn diànyǐng.,每天都 + động từ,我爸爸 / 每天 / 都 / 看电影
+daily_vi_0299,HSK2,Thói quen,Mỗi ngày bố tôi đều nghe thầy giáo nói.,我爸爸每天都听老师说话。,wǒ bàba měitiān dōu tīng lǎoshī shuōhuà.,每天都 + động từ,我爸爸 / 每天 / 都 / 听老师说话
+daily_vi_0300,HSK2,Thói quen,Mỗi ngày bố tôi đều gọi điện thoại.,我爸爸每天都打电话。,wǒ bàba měitiān dōu dǎ diànhuà.,每天都 + động từ,我爸爸 / 每天 / 都 / 打电话
+daily_vi_0301,HSK2,Thói quen,Mỗi ngày bố tôi đều nghỉ ngơi.,我爸爸每天都休息。,wǒ bàba měitiān dōu xiūxi.,每天都 + động từ,我爸爸 / 每天 / 都 / 休息
+daily_vi_0302,HSK2,Thói quen,Mỗi ngày bố tôi đều chạy bộ.,我爸爸每天都跑步。,wǒ bàba měitiān dōu pǎobù.,每天都 + động từ,我爸爸 / 每天 / 都 / 跑步
+daily_vi_0303,HSK2,Thói quen,Mỗi ngày bố tôi đều bơi.,我爸爸每天都游泳。,wǒ bàba měitiān dōu yóuyǒng.,每天都 + động từ,我爸爸 / 每天 / 都 / 游泳
+daily_vi_0304,HSK2,Thói quen,Mỗi ngày bố tôi đều đá bóng.,我爸爸每天都踢足球。,wǒ bàba měitiān dōu tī zúqiú.,每天都 + động từ,我爸爸 / 每天 / 都 / 踢足球
+daily_vi_0305,HSK2,Thói quen,Mỗi ngày bố tôi đều chơi bóng rổ.,我爸爸每天都打篮球。,wǒ bàba měitiān dōu dǎ lánqiú.,每天都 + động từ,我爸爸 / 每天 / 都 / 打篮球
+daily_vi_0306,HSK2,Kinh nghiệm,Tôi đã từng đi trường học.,我去过学校。,wǒ qù guo xuéxiào.,Động từ + 过,我 / 去过 / 学校
+daily_vi_0307,HSK2,Kinh nghiệm,Tôi đã từng đi bệnh viện.,我去过医院。,wǒ qù guo yīyuàn.,Động từ + 过,我 / 去过 / 医院
+daily_vi_0308,HSK2,Kinh nghiệm,Tôi đã từng đi cửa hàng.,我去过商店。,wǒ qù guo shāngdiàn.,Động từ + 过,我 / 去过 / 商店
+daily_vi_0309,HSK2,Kinh nghiệm,Tôi đã từng đi nhà hàng.,我去过饭店。,wǒ qù guo fàndiàn.,Động từ + 过,我 / 去过 / 饭店
+daily_vi_0310,HSK2,Kinh nghiệm,Tôi đã từng đi công ty.,我去过公司。,wǒ qù guo gōngsī.,Động từ + 过,我 / 去过 / 公司
+daily_vi_0311,HSK2,Kinh nghiệm,Tôi đã từng đi sân bay.,我去过机场。,wǒ qù guo jīchǎng.,Động từ + 过,我 / 去过 / 机场
+daily_vi_0312,HSK2,Kinh nghiệm,Tôi đã từng đi ga tàu.,我去过火车站。,wǒ qù guo huǒchēzhàn.,Động từ + 过,我 / 去过 / 火车站
+daily_vi_0313,HSK2,Kinh nghiệm,Tôi đã từng đi Bắc Kinh.,我去过北京。,wǒ qù guo Běijīng.,Động từ + 过,我 / 去过 / 北京
+daily_vi_0314,HSK2,Kinh nghiệm,Bạn tôi đã từng đi trường học.,我朋友去过学校。,wǒ péngyou qù guo xuéxiào.,Động từ + 过,我朋友 / 去过 / 学校
+daily_vi_0315,HSK2,Kinh nghiệm,Bạn tôi đã từng đi bệnh viện.,我朋友去过医院。,wǒ péngyou qù guo yīyuàn.,Động từ + 过,我朋友 / 去过 / 医院
+daily_vi_0316,HSK2,Kinh nghiệm,Bạn tôi đã từng đi cửa hàng.,我朋友去过商店。,wǒ péngyou qù guo shāngdiàn.,Động từ + 过,我朋友 / 去过 / 商店
+daily_vi_0317,HSK2,Kinh nghiệm,Bạn tôi đã từng đi nhà hàng.,我朋友去过饭店。,wǒ péngyou qù guo fàndiàn.,Động từ + 过,我朋友 / 去过 / 饭店
+daily_vi_0318,HSK2,Kinh nghiệm,Bạn tôi đã từng đi công ty.,我朋友去过公司。,wǒ péngyou qù guo gōngsī.,Động từ + 过,我朋友 / 去过 / 公司
+daily_vi_0319,HSK2,Kinh nghiệm,Bạn tôi đã từng đi sân bay.,我朋友去过机场。,wǒ péngyou qù guo jīchǎng.,Động từ + 过,我朋友 / 去过 / 机场
+daily_vi_0320,HSK2,Kinh nghiệm,Bạn tôi đã từng đi ga tàu.,我朋友去过火车站。,wǒ péngyou qù guo huǒchēzhàn.,Động từ + 过,我朋友 / 去过 / 火车站
+daily_vi_0321,HSK2,Kinh nghiệm,Bạn tôi đã từng đi Bắc Kinh.,我朋友去过北京。,wǒ péngyou qù guo Běijīng.,Động từ + 过,我朋友 / 去过 / 北京
+daily_vi_0322,HSK2,Kinh nghiệm,Mẹ tôi đã từng đi trường học.,我妈妈去过学校。,wǒ māma qù guo xuéxiào.,Động từ + 过,我妈妈 / 去过 / 学校
+daily_vi_0323,HSK2,Kinh nghiệm,Mẹ tôi đã từng đi bệnh viện.,我妈妈去过医院。,wǒ māma qù guo yīyuàn.,Động từ + 过,我妈妈 / 去过 / 医院
+daily_vi_0324,HSK2,Kinh nghiệm,Mẹ tôi đã từng đi cửa hàng.,我妈妈去过商店。,wǒ māma qù guo shāngdiàn.,Động từ + 过,我妈妈 / 去过 / 商店
+daily_vi_0325,HSK2,Kinh nghiệm,Mẹ tôi đã từng đi nhà hàng.,我妈妈去过饭店。,wǒ māma qù guo fàndiàn.,Động từ + 过,我妈妈 / 去过 / 饭店
+daily_vi_0326,HSK2,Kinh nghiệm,Mẹ tôi đã từng đi công ty.,我妈妈去过公司。,wǒ māma qù guo gōngsī.,Động từ + 过,我妈妈 / 去过 / 公司
+daily_vi_0327,HSK2,Kinh nghiệm,Mẹ tôi đã từng đi sân bay.,我妈妈去过机场。,wǒ māma qù guo jīchǎng.,Động từ + 过,我妈妈 / 去过 / 机场
+daily_vi_0328,HSK2,Kinh nghiệm,Mẹ tôi đã từng đi ga tàu.,我妈妈去过火车站。,wǒ māma qù guo huǒchēzhàn.,Động từ + 过,我妈妈 / 去过 / 火车站
+daily_vi_0329,HSK2,Kinh nghiệm,Mẹ tôi đã từng đi Bắc Kinh.,我妈妈去过北京。,wǒ māma qù guo Běijīng.,Động từ + 过,我妈妈 / 去过 / 北京
+daily_vi_0330,HSK2,Kinh nghiệm,Bố tôi đã từng đi trường học.,我爸爸去过学校。,wǒ bàba qù guo xuéxiào.,Động từ + 过,我爸爸 / 去过 / 学校
+daily_vi_0331,HSK2,Kinh nghiệm,Bố tôi đã từng đi bệnh viện.,我爸爸去过医院。,wǒ bàba qù guo yīyuàn.,Động từ + 过,我爸爸 / 去过 / 医院
+daily_vi_0332,HSK2,Kinh nghiệm,Bố tôi đã từng đi cửa hàng.,我爸爸去过商店。,wǒ bàba qù guo shāngdiàn.,Động từ + 过,我爸爸 / 去过 / 商店
+daily_vi_0333,HSK2,Kinh nghiệm,Bố tôi đã từng đi nhà hàng.,我爸爸去过饭店。,wǒ bàba qù guo fàndiàn.,Động từ + 过,我爸爸 / 去过 / 饭店
+daily_vi_0334,HSK2,Kinh nghiệm,Bố tôi đã từng đi công ty.,我爸爸去过公司。,wǒ bàba qù guo gōngsī.,Động từ + 过,我爸爸 / 去过 / 公司
+daily_vi_0335,HSK2,Kinh nghiệm,Bố tôi đã từng đi sân bay.,我爸爸去过机场。,wǒ bàba qù guo jīchǎng.,Động từ + 过,我爸爸 / 去过 / 机场
+daily_vi_0336,HSK2,Kinh nghiệm,Bố tôi đã từng đi ga tàu.,我爸爸去过火车站。,wǒ bàba qù guo huǒchēzhàn.,Động từ + 过,我爸爸 / 去过 / 火车站
+daily_vi_0337,HSK2,Kinh nghiệm,Bố tôi đã từng đi Bắc Kinh.,我爸爸去过北京。,wǒ bàba qù guo Běijīng.,Động từ + 过,我爸爸 / 去过 / 北京
+daily_vi_0338,HSK2,Kinh nghiệm,Anh trai tôi đã từng đi trường học.,我哥哥去过学校。,wǒ gēge qù guo xuéxiào.,Động từ + 过,我哥哥 / 去过 / 学校
+daily_vi_0339,HSK2,Kinh nghiệm,Anh trai tôi đã từng đi bệnh viện.,我哥哥去过医院。,wǒ gēge qù guo yīyuàn.,Động từ + 过,我哥哥 / 去过 / 医院
+daily_vi_0340,HSK2,Kinh nghiệm,Anh trai tôi đã từng đi cửa hàng.,我哥哥去过商店。,wǒ gēge qù guo shāngdiàn.,Động từ + 过,我哥哥 / 去过 / 商店
+daily_vi_0341,HSK2,Kinh nghiệm,Anh trai tôi đã từng đi nhà hàng.,我哥哥去过饭店。,wǒ gēge qù guo fàndiàn.,Động từ + 过,我哥哥 / 去过 / 饭店
+daily_vi_0342,HSK2,Kinh nghiệm,Anh trai tôi đã từng đi công ty.,我哥哥去过公司。,wǒ gēge qù guo gōngsī.,Động từ + 过,我哥哥 / 去过 / 公司
+daily_vi_0343,HSK2,Kinh nghiệm,Anh trai tôi đã từng đi sân bay.,我哥哥去过机场。,wǒ gēge qù guo jīchǎng.,Động từ + 过,我哥哥 / 去过 / 机场
+daily_vi_0344,HSK2,Kinh nghiệm,Anh trai tôi đã từng đi ga tàu.,我哥哥去过火车站。,wǒ gēge qù guo huǒchēzhàn.,Động từ + 过,我哥哥 / 去过 / 火车站
+daily_vi_0345,HSK2,Kinh nghiệm,Anh trai tôi đã từng đi Bắc Kinh.,我哥哥去过北京。,wǒ gēge qù guo Běijīng.,Động từ + 过,我哥哥 / 去过 / 北京
+daily_vi_0346,HSK2,Câu hỏi giao tiếp,Hôm nay tôi có thể đến trường học không?,我今天可以到学校吗？,wǒ jīntiān kěyǐ dào xuéxiào ma?,可以 + động từ；吗,我 / 今天 / 可以 / 到 / 学校 / 吗
+daily_vi_0347,HSK2,Câu hỏi giao tiếp,Hôm nay tôi có thể đến bệnh viện không?,我今天可以到医院吗？,wǒ jīntiān kěyǐ dào yīyuàn ma?,可以 + động từ；吗,我 / 今天 / 可以 / 到 / 医院 / 吗
+daily_vi_0348,HSK2,Câu hỏi giao tiếp,Hôm nay tôi có thể đến cửa hàng không?,我今天可以到商店吗？,wǒ jīntiān kěyǐ dào shāngdiàn ma?,可以 + động từ；吗,我 / 今天 / 可以 / 到 / 商店 / 吗
+daily_vi_0349,HSK2,Câu hỏi giao tiếp,Hôm nay tôi có thể đến nhà hàng không?,我今天可以到饭店吗？,wǒ jīntiān kěyǐ dào fàndiàn ma?,可以 + động từ；吗,我 / 今天 / 可以 / 到 / 饭店 / 吗
+daily_vi_0350,HSK2,Câu hỏi giao tiếp,Hôm nay tôi có thể đến công ty không?,我今天可以到公司吗？,wǒ jīntiān kěyǐ dào gōngsī ma?,可以 + động từ；吗,我 / 今天 / 可以 / 到 / 公司 / 吗
+daily_vi_0351,HSK2,Câu hỏi giao tiếp,Ngày mai tôi có thể đến trường học không?,我明天可以到学校吗？,wǒ míngtiān kěyǐ dào xuéxiào ma?,可以 + động từ；吗,我 / 明天 / 可以 / 到 / 学校 / 吗
+daily_vi_0352,HSK2,Câu hỏi giao tiếp,Ngày mai tôi có thể đến bệnh viện không?,我明天可以到医院吗？,wǒ míngtiān kěyǐ dào yīyuàn ma?,可以 + động từ；吗,我 / 明天 / 可以 / 到 / 医院 / 吗
+daily_vi_0353,HSK2,Câu hỏi giao tiếp,Ngày mai tôi có thể đến cửa hàng không?,我明天可以到商店吗？,wǒ míngtiān kěyǐ dào shāngdiàn ma?,可以 + động từ；吗,我 / 明天 / 可以 / 到 / 商店 / 吗
+daily_vi_0354,HSK2,Câu hỏi giao tiếp,Ngày mai tôi có thể đến nhà hàng không?,我明天可以到饭店吗？,wǒ míngtiān kěyǐ dào fàndiàn ma?,可以 + động từ；吗,我 / 明天 / 可以 / 到 / 饭店 / 吗
+daily_vi_0355,HSK2,Câu hỏi giao tiếp,Ngày mai tôi có thể đến công ty không?,我明天可以到公司吗？,wǒ míngtiān kěyǐ dào gōngsī ma?,可以 + động từ；吗,我 / 明天 / 可以 / 到 / 公司 / 吗
+daily_vi_0356,HSK2,Câu hỏi giao tiếp,Sáng nay tôi có thể đến trường học không?,我今天早上可以到学校吗？,wǒ jīntiān zǎoshang kěyǐ dào xuéxiào ma?,可以 + động từ；吗,我 / 今天早上 / 可以 / 到 / 学校 / 吗
+daily_vi_0357,HSK2,Câu hỏi giao tiếp,Sáng nay tôi có thể đến bệnh viện không?,我今天早上可以到医院吗？,wǒ jīntiān zǎoshang kěyǐ dào yīyuàn ma?,可以 + động từ；吗,我 / 今天早上 / 可以 / 到 / 医院 / 吗
+daily_vi_0358,HSK2,Câu hỏi giao tiếp,Sáng nay tôi có thể đến cửa hàng không?,我今天早上可以到商店吗？,wǒ jīntiān zǎoshang kěyǐ dào shāngdiàn ma?,可以 + động từ；吗,我 / 今天早上 / 可以 / 到 / 商店 / 吗
+daily_vi_0359,HSK2,Câu hỏi giao tiếp,Sáng nay tôi có thể đến nhà hàng không?,我今天早上可以到饭店吗？,wǒ jīntiān zǎoshang kěyǐ dào fàndiàn ma?,可以 + động từ；吗,我 / 今天早上 / 可以 / 到 / 饭店 / 吗
+daily_vi_0360,HSK2,Câu hỏi giao tiếp,Sáng nay tôi có thể đến công ty không?,我今天早上可以到公司吗？,wǒ jīntiān zǎoshang kěyǐ dào gōngsī ma?,可以 + động từ；吗,我 / 今天早上 / 可以 / 到 / 公司 / 吗
+daily_vi_0361,HSK2,Câu hỏi giao tiếp,Tối nay tôi có thể đến trường học không?,我今天晚上可以到学校吗？,wǒ jīntiān wǎnshang kěyǐ dào xuéxiào ma?,可以 + động từ；吗,我 / 今天晚上 / 可以 / 到 / 学校 / 吗
+daily_vi_0362,HSK2,Câu hỏi giao tiếp,Tối nay tôi có thể đến bệnh viện không?,我今天晚上可以到医院吗？,wǒ jīntiān wǎnshang kěyǐ dào yīyuàn ma?,可以 + động từ；吗,我 / 今天晚上 / 可以 / 到 / 医院 / 吗
+daily_vi_0363,HSK2,Câu hỏi giao tiếp,Tối nay tôi có thể đến cửa hàng không?,我今天晚上可以到商店吗？,wǒ jīntiān wǎnshang kěyǐ dào shāngdiàn ma?,可以 + động từ；吗,我 / 今天晚上 / 可以 / 到 / 商店 / 吗
+daily_vi_0364,HSK2,Câu hỏi giao tiếp,Tối nay tôi có thể đến nhà hàng không?,我今天晚上可以到饭店吗？,wǒ jīntiān wǎnshang kěyǐ dào fàndiàn ma?,可以 + động từ；吗,我 / 今天晚上 / 可以 / 到 / 饭店 / 吗
+daily_vi_0365,HSK2,Câu hỏi giao tiếp,Tối nay tôi có thể đến công ty không?,我今天晚上可以到公司吗？,wǒ jīntiān wǎnshang kěyǐ dào gōngsī ma?,可以 + động từ；吗,我 / 今天晚上 / 可以 / 到 / 公司 / 吗

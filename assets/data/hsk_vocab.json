@@ -1,0 +1,2102 @@
+[
+  {
+    "id": "hsk1_001",
+    "level": "HSK1",
+    "hanzi": "爱",
+    "pinyin": "ài",
+    "meaning_vi": "yêu; thích"
+  },
+  {
+    "id": "hsk1_002",
+    "level": "HSK1",
+    "hanzi": "八",
+    "pinyin": "bā",
+    "meaning_vi": "số 8"
+  },
+  {
+    "id": "hsk1_003",
+    "level": "HSK1",
+    "hanzi": "爸爸",
+    "pinyin": "bà ba",
+    "meaning_vi": "bố, ba"
+  },
+  {
+    "id": "hsk1_004",
+    "level": "HSK1",
+    "hanzi": "杯子",
+    "pinyin": "bēi zi",
+    "meaning_vi": "cái cốc, ly"
+  },
+  {
+    "id": "hsk1_005",
+    "level": "HSK1",
+    "hanzi": "北京",
+    "pinyin": "běi jīng",
+    "meaning_vi": "Bắc Kinh"
+  },
+  {
+    "id": "hsk1_006",
+    "level": "HSK1",
+    "hanzi": "本",
+    "pinyin": "běn",
+    "meaning_vi": "quyển; lượng từ cho sách"
+  },
+  {
+    "id": "hsk1_007",
+    "level": "HSK1",
+    "hanzi": "不客气",
+    "pinyin": "bú kè qi",
+    "meaning_vi": "không có gì"
+  },
+  {
+    "id": "hsk1_008",
+    "level": "HSK1",
+    "hanzi": "不",
+    "pinyin": "bù",
+    "meaning_vi": "không"
+  },
+  {
+    "id": "hsk1_009",
+    "level": "HSK1",
+    "hanzi": "菜",
+    "pinyin": "cài",
+    "meaning_vi": "món ăn; rau"
+  },
+  {
+    "id": "hsk1_010",
+    "level": "HSK1",
+    "hanzi": "茶",
+    "pinyin": "chá",
+    "meaning_vi": "trà"
+  },
+  {
+    "id": "hsk1_011",
+    "level": "HSK1",
+    "hanzi": "吃",
+    "pinyin": "chī",
+    "meaning_vi": "ăn"
+  },
+  {
+    "id": "hsk1_012",
+    "level": "HSK1",
+    "hanzi": "出租车",
+    "pinyin": "chū zū chē",
+    "meaning_vi": "xe taxi"
+  },
+  {
+    "id": "hsk1_013",
+    "level": "HSK1",
+    "hanzi": "打电话",
+    "pinyin": "dǎ diàn huà",
+    "meaning_vi": "gọi điện thoại"
+  },
+  {
+    "id": "hsk1_014",
+    "level": "HSK1",
+    "hanzi": "大",
+    "pinyin": "dà",
+    "meaning_vi": "to, lớn"
+  },
+  {
+    "id": "hsk1_015",
+    "level": "HSK1",
+    "hanzi": "的",
+    "pinyin": "de",
+    "meaning_vi": "trợ từ sở hữu/định ngữ"
+  },
+  {
+    "id": "hsk1_016",
+    "level": "HSK1",
+    "hanzi": "点",
+    "pinyin": "diǎn",
+    "meaning_vi": "giờ; điểm; chút"
+  },
+  {
+    "id": "hsk1_017",
+    "level": "HSK1",
+    "hanzi": "电脑",
+    "pinyin": "diàn nǎo",
+    "meaning_vi": "máy tính"
+  },
+  {
+    "id": "hsk1_018",
+    "level": "HSK1",
+    "hanzi": "电视",
+    "pinyin": "diàn shì",
+    "meaning_vi": "tivi"
+  },
+  {
+    "id": "hsk1_019",
+    "level": "HSK1",
+    "hanzi": "电影",
+    "pinyin": "diàn yǐng",
+    "meaning_vi": "phim điện ảnh"
+  },
+  {
+    "id": "hsk1_020",
+    "level": "HSK1",
+    "hanzi": "东西",
+    "pinyin": "dōng xi",
+    "meaning_vi": "đồ vật, thứ"
+  },
+  {
+    "id": "hsk1_021",
+    "level": "HSK1",
+    "hanzi": "都",
+    "pinyin": "dōu",
+    "meaning_vi": "đều, tất cả"
+  },
+  {
+    "id": "hsk1_022",
+    "level": "HSK1",
+    "hanzi": "读",
+    "pinyin": "dú",
+    "meaning_vi": "đọc"
+  },
+  {
+    "id": "hsk1_023",
+    "level": "HSK1",
+    "hanzi": "对不起",
+    "pinyin": "duì bu qǐ",
+    "meaning_vi": "xin lỗi"
+  },
+  {
+    "id": "hsk1_024",
+    "level": "HSK1",
+    "hanzi": "多",
+    "pinyin": "duō",
+    "meaning_vi": "nhiều"
+  },
+  {
+    "id": "hsk1_025",
+    "level": "HSK1",
+    "hanzi": "多少",
+    "pinyin": "duō shǎo",
+    "meaning_vi": "bao nhiêu"
+  },
+  {
+    "id": "hsk1_026",
+    "level": "HSK1",
+    "hanzi": "儿子",
+    "pinyin": "ér zi",
+    "meaning_vi": "con trai"
+  },
+  {
+    "id": "hsk1_027",
+    "level": "HSK1",
+    "hanzi": "二",
+    "pinyin": "èr",
+    "meaning_vi": "số 2"
+  },
+  {
+    "id": "hsk1_028",
+    "level": "HSK1",
+    "hanzi": "饭店",
+    "pinyin": "fàn diàn",
+    "meaning_vi": "nhà hàng; khách sạn"
+  },
+  {
+    "id": "hsk1_029",
+    "level": "HSK1",
+    "hanzi": "飞机",
+    "pinyin": "fēi jī",
+    "meaning_vi": "máy bay"
+  },
+  {
+    "id": "hsk1_030",
+    "level": "HSK1",
+    "hanzi": "分钟",
+    "pinyin": "fēn zhōng",
+    "meaning_vi": "phút"
+  },
+  {
+    "id": "hsk1_031",
+    "level": "HSK1",
+    "hanzi": "高兴",
+    "pinyin": "gāo xìng",
+    "meaning_vi": "vui vẻ"
+  },
+  {
+    "id": "hsk1_032",
+    "level": "HSK1",
+    "hanzi": "个",
+    "pinyin": "gè",
+    "meaning_vi": "cái, chiếc; lượng từ chung"
+  },
+  {
+    "id": "hsk1_033",
+    "level": "HSK1",
+    "hanzi": "工作",
+    "pinyin": "gōng zuò",
+    "meaning_vi": "công việc; làm việc"
+  },
+  {
+    "id": "hsk1_034",
+    "level": "HSK1",
+    "hanzi": "狗",
+    "pinyin": "gǒu",
+    "meaning_vi": "con chó"
+  },
+  {
+    "id": "hsk1_035",
+    "level": "HSK1",
+    "hanzi": "汉语",
+    "pinyin": "hàn yǔ",
+    "meaning_vi": "tiếng Hán, tiếng Trung"
+  },
+  {
+    "id": "hsk1_036",
+    "level": "HSK1",
+    "hanzi": "好",
+    "pinyin": "hǎo",
+    "meaning_vi": "tốt, hay, khỏe"
+  },
+  {
+    "id": "hsk1_037",
+    "level": "HSK1",
+    "hanzi": "号",
+    "pinyin": "hào",
+    "meaning_vi": "số; ngày"
+  },
+  {
+    "id": "hsk1_038",
+    "level": "HSK1",
+    "hanzi": "喝",
+    "pinyin": "hē",
+    "meaning_vi": "uống"
+  },
+  {
+    "id": "hsk1_039",
+    "level": "HSK1",
+    "hanzi": "和",
+    "pinyin": "hé",
+    "meaning_vi": "và; với"
+  },
+  {
+    "id": "hsk1_040",
+    "level": "HSK1",
+    "hanzi": "很",
+    "pinyin": "hěn",
+    "meaning_vi": "rất"
+  },
+  {
+    "id": "hsk1_041",
+    "level": "HSK1",
+    "hanzi": "后面",
+    "pinyin": "hòu miàn",
+    "meaning_vi": "phía sau"
+  },
+  {
+    "id": "hsk1_042",
+    "level": "HSK1",
+    "hanzi": "回",
+    "pinyin": "huí",
+    "meaning_vi": "về, quay lại"
+  },
+  {
+    "id": "hsk1_043",
+    "level": "HSK1",
+    "hanzi": "会",
+    "pinyin": "huì",
+    "meaning_vi": "biết; có thể; sẽ"
+  },
+  {
+    "id": "hsk1_044",
+    "level": "HSK1",
+    "hanzi": "几",
+    "pinyin": "jǐ",
+    "meaning_vi": "mấy, bao nhiêu"
+  },
+  {
+    "id": "hsk1_045",
+    "level": "HSK1",
+    "hanzi": "家",
+    "pinyin": "jiā",
+    "meaning_vi": "nhà; gia đình"
+  },
+  {
+    "id": "hsk1_046",
+    "level": "HSK1",
+    "hanzi": "叫",
+    "pinyin": "jiào",
+    "meaning_vi": "tên là; gọi"
+  },
+  {
+    "id": "hsk1_047",
+    "level": "HSK1",
+    "hanzi": "今天",
+    "pinyin": "jīn tiān",
+    "meaning_vi": "hôm nay"
+  },
+  {
+    "id": "hsk1_048",
+    "level": "HSK1",
+    "hanzi": "九",
+    "pinyin": "jiǔ",
+    "meaning_vi": "số 9"
+  },
+  {
+    "id": "hsk1_049",
+    "level": "HSK1",
+    "hanzi": "开",
+    "pinyin": "kāi",
+    "meaning_vi": "mở; lái; bắt đầu"
+  },
+  {
+    "id": "hsk1_050",
+    "level": "HSK1",
+    "hanzi": "看",
+    "pinyin": "kàn",
+    "meaning_vi": "xem, nhìn"
+  },
+  {
+    "id": "hsk1_051",
+    "level": "HSK1",
+    "hanzi": "看见",
+    "pinyin": "kàn jiàn",
+    "meaning_vi": "nhìn thấy"
+  },
+  {
+    "id": "hsk1_052",
+    "level": "HSK1",
+    "hanzi": "块",
+    "pinyin": "kuài",
+    "meaning_vi": "đồng; miếng; cục"
+  },
+  {
+    "id": "hsk1_053",
+    "level": "HSK1",
+    "hanzi": "来",
+    "pinyin": "lái",
+    "meaning_vi": "đến"
+  },
+  {
+    "id": "hsk1_054",
+    "level": "HSK1",
+    "hanzi": "老师",
+    "pinyin": "lǎo shī",
+    "meaning_vi": "giáo viên"
+  },
+  {
+    "id": "hsk1_055",
+    "level": "HSK1",
+    "hanzi": "了",
+    "pinyin": "le",
+    "meaning_vi": "trợ từ hoàn thành/thay đổi"
+  },
+  {
+    "id": "hsk1_056",
+    "level": "HSK1",
+    "hanzi": "冷",
+    "pinyin": "lěng",
+    "meaning_vi": "lạnh"
+  },
+  {
+    "id": "hsk1_057",
+    "level": "HSK1",
+    "hanzi": "里",
+    "pinyin": "lǐ",
+    "meaning_vi": "bên trong"
+  },
+  {
+    "id": "hsk1_058",
+    "level": "HSK1",
+    "hanzi": "六",
+    "pinyin": "liù",
+    "meaning_vi": "số 6"
+  },
+  {
+    "id": "hsk1_059",
+    "level": "HSK1",
+    "hanzi": "吗",
+    "pinyin": "ma",
+    "meaning_vi": "trợ từ nghi vấn"
+  },
+  {
+    "id": "hsk1_060",
+    "level": "HSK1",
+    "hanzi": "妈妈",
+    "pinyin": "mā ma",
+    "meaning_vi": "mẹ, má"
+  },
+  {
+    "id": "hsk1_061",
+    "level": "HSK1",
+    "hanzi": "买",
+    "pinyin": "mǎi",
+    "meaning_vi": "mua"
+  },
+  {
+    "id": "hsk1_062",
+    "level": "HSK1",
+    "hanzi": "猫",
+    "pinyin": "māo",
+    "meaning_vi": "con mèo"
+  },
+  {
+    "id": "hsk1_063",
+    "level": "HSK1",
+    "hanzi": "没关系",
+    "pinyin": "méi guān xi",
+    "meaning_vi": "không sao"
+  },
+  {
+    "id": "hsk1_064",
+    "level": "HSK1",
+    "hanzi": "没有",
+    "pinyin": "méi yǒu",
+    "meaning_vi": "không có; chưa"
+  },
+  {
+    "id": "hsk1_065",
+    "level": "HSK1",
+    "hanzi": "米饭",
+    "pinyin": "mǐ fàn",
+    "meaning_vi": "cơm"
+  },
+  {
+    "id": "hsk1_066",
+    "level": "HSK1",
+    "hanzi": "名字",
+    "pinyin": "míng zi",
+    "meaning_vi": "tên"
+  },
+  {
+    "id": "hsk1_067",
+    "level": "HSK1",
+    "hanzi": "明天",
+    "pinyin": "míng tiān",
+    "meaning_vi": "ngày mai"
+  },
+  {
+    "id": "hsk1_068",
+    "level": "HSK1",
+    "hanzi": "哪",
+    "pinyin": "nǎ",
+    "meaning_vi": "nào"
+  },
+  {
+    "id": "hsk1_069",
+    "level": "HSK1",
+    "hanzi": "哪儿",
+    "pinyin": "nǎ er",
+    "meaning_vi": "ở đâu"
+  },
+  {
+    "id": "hsk1_070",
+    "level": "HSK1",
+    "hanzi": "那",
+    "pinyin": "nà",
+    "meaning_vi": "kia, đó"
+  },
+  {
+    "id": "hsk1_071",
+    "level": "HSK1",
+    "hanzi": "呢",
+    "pinyin": "ne",
+    "meaning_vi": "trợ từ nghi vấn/nhấn mạnh"
+  },
+  {
+    "id": "hsk1_072",
+    "level": "HSK1",
+    "hanzi": "能",
+    "pinyin": "néng",
+    "meaning_vi": "có thể"
+  },
+  {
+    "id": "hsk1_073",
+    "level": "HSK1",
+    "hanzi": "你",
+    "pinyin": "nǐ",
+    "meaning_vi": "bạn, anh, chị"
+  },
+  {
+    "id": "hsk1_074",
+    "level": "HSK1",
+    "hanzi": "年",
+    "pinyin": "nián",
+    "meaning_vi": "năm"
+  },
+  {
+    "id": "hsk1_075",
+    "level": "HSK1",
+    "hanzi": "女儿",
+    "pinyin": "nǚ ér",
+    "meaning_vi": "con gái"
+  },
+  {
+    "id": "hsk1_076",
+    "level": "HSK1",
+    "hanzi": "朋友",
+    "pinyin": "péng you",
+    "meaning_vi": "bạn bè"
+  },
+  {
+    "id": "hsk1_077",
+    "level": "HSK1",
+    "hanzi": "漂亮",
+    "pinyin": "piào liang",
+    "meaning_vi": "xinh đẹp"
+  },
+  {
+    "id": "hsk1_078",
+    "level": "HSK1",
+    "hanzi": "苹果",
+    "pinyin": "píng guǒ",
+    "meaning_vi": "quả táo"
+  },
+  {
+    "id": "hsk1_079",
+    "level": "HSK1",
+    "hanzi": "七",
+    "pinyin": "qī",
+    "meaning_vi": "số 7"
+  },
+  {
+    "id": "hsk1_080",
+    "level": "HSK1",
+    "hanzi": "前面",
+    "pinyin": "qián miàn",
+    "meaning_vi": "phía trước"
+  },
+  {
+    "id": "hsk1_081",
+    "level": "HSK1",
+    "hanzi": "钱",
+    "pinyin": "qián",
+    "meaning_vi": "tiền"
+  },
+  {
+    "id": "hsk1_082",
+    "level": "HSK1",
+    "hanzi": "请",
+    "pinyin": "qǐng",
+    "meaning_vi": "mời; xin vui lòng"
+  },
+  {
+    "id": "hsk1_083",
+    "level": "HSK1",
+    "hanzi": "去",
+    "pinyin": "qù",
+    "meaning_vi": "đi"
+  },
+  {
+    "id": "hsk1_084",
+    "level": "HSK1",
+    "hanzi": "热",
+    "pinyin": "rè",
+    "meaning_vi": "nóng"
+  },
+  {
+    "id": "hsk1_085",
+    "level": "HSK1",
+    "hanzi": "人",
+    "pinyin": "rén",
+    "meaning_vi": "người"
+  },
+  {
+    "id": "hsk1_086",
+    "level": "HSK1",
+    "hanzi": "认识",
+    "pinyin": "rèn shi",
+    "meaning_vi": "quen biết; nhận ra"
+  },
+  {
+    "id": "hsk1_087",
+    "level": "HSK1",
+    "hanzi": "三",
+    "pinyin": "sān",
+    "meaning_vi": "số 3"
+  },
+  {
+    "id": "hsk1_088",
+    "level": "HSK1",
+    "hanzi": "商店",
+    "pinyin": "shāng diàn",
+    "meaning_vi": "cửa hàng"
+  },
+  {
+    "id": "hsk1_089",
+    "level": "HSK1",
+    "hanzi": "上",
+    "pinyin": "shàng",
+    "meaning_vi": "trên; lên"
+  },
+  {
+    "id": "hsk1_090",
+    "level": "HSK1",
+    "hanzi": "上午",
+    "pinyin": "shàng wǔ",
+    "meaning_vi": "buổi sáng"
+  },
+  {
+    "id": "hsk1_091",
+    "level": "HSK1",
+    "hanzi": "少",
+    "pinyin": "shǎo",
+    "meaning_vi": "ít"
+  },
+  {
+    "id": "hsk1_092",
+    "level": "HSK1",
+    "hanzi": "谁",
+    "pinyin": "shéi",
+    "meaning_vi": "ai"
+  },
+  {
+    "id": "hsk1_093",
+    "level": "HSK1",
+    "hanzi": "什么",
+    "pinyin": "shén me",
+    "meaning_vi": "cái gì"
+  },
+  {
+    "id": "hsk1_094",
+    "level": "HSK1",
+    "hanzi": "十",
+    "pinyin": "shí",
+    "meaning_vi": "số 10"
+  },
+  {
+    "id": "hsk1_095",
+    "level": "HSK1",
+    "hanzi": "时候",
+    "pinyin": "shí hou",
+    "meaning_vi": "thời gian; lúc"
+  },
+  {
+    "id": "hsk1_096",
+    "level": "HSK1",
+    "hanzi": "是",
+    "pinyin": "shì",
+    "meaning_vi": "là"
+  },
+  {
+    "id": "hsk1_097",
+    "level": "HSK1",
+    "hanzi": "书",
+    "pinyin": "shū",
+    "meaning_vi": "sách"
+  },
+  {
+    "id": "hsk1_098",
+    "level": "HSK1",
+    "hanzi": "水",
+    "pinyin": "shuǐ",
+    "meaning_vi": "nước"
+  },
+  {
+    "id": "hsk1_099",
+    "level": "HSK1",
+    "hanzi": "水果",
+    "pinyin": "shuǐ guǒ",
+    "meaning_vi": "trái cây"
+  },
+  {
+    "id": "hsk1_100",
+    "level": "HSK1",
+    "hanzi": "睡觉",
+    "pinyin": "shuì jiào",
+    "meaning_vi": "ngủ"
+  },
+  {
+    "id": "hsk1_101",
+    "level": "HSK1",
+    "hanzi": "说",
+    "pinyin": "shuō",
+    "meaning_vi": "nói"
+  },
+  {
+    "id": "hsk1_102",
+    "level": "HSK1",
+    "hanzi": "四",
+    "pinyin": "sì",
+    "meaning_vi": "số 4"
+  },
+  {
+    "id": "hsk1_103",
+    "level": "HSK1",
+    "hanzi": "岁",
+    "pinyin": "suì",
+    "meaning_vi": "tuổi"
+  },
+  {
+    "id": "hsk1_104",
+    "level": "HSK1",
+    "hanzi": "他",
+    "pinyin": "tā",
+    "meaning_vi": "anh ấy; ông ấy"
+  },
+  {
+    "id": "hsk1_105",
+    "level": "HSK1",
+    "hanzi": "她",
+    "pinyin": "tā",
+    "meaning_vi": "cô ấy; bà ấy"
+  },
+  {
+    "id": "hsk1_106",
+    "level": "HSK1",
+    "hanzi": "太",
+    "pinyin": "tài",
+    "meaning_vi": "quá, rất"
+  },
+  {
+    "id": "hsk1_107",
+    "level": "HSK1",
+    "hanzi": "天气",
+    "pinyin": "tiān qì",
+    "meaning_vi": "thời tiết"
+  },
+  {
+    "id": "hsk1_108",
+    "level": "HSK1",
+    "hanzi": "听",
+    "pinyin": "tīng",
+    "meaning_vi": "nghe"
+  },
+  {
+    "id": "hsk1_109",
+    "level": "HSK1",
+    "hanzi": "同学",
+    "pinyin": "tóng xué",
+    "meaning_vi": "bạn học"
+  },
+  {
+    "id": "hsk1_110",
+    "level": "HSK1",
+    "hanzi": "喂",
+    "pinyin": "wèi",
+    "meaning_vi": "alo; này"
+  },
+  {
+    "id": "hsk1_111",
+    "level": "HSK1",
+    "hanzi": "我",
+    "pinyin": "wǒ",
+    "meaning_vi": "tôi"
+  },
+  {
+    "id": "hsk1_112",
+    "level": "HSK1",
+    "hanzi": "我们",
+    "pinyin": "wǒ men",
+    "meaning_vi": "chúng tôi; chúng ta"
+  },
+  {
+    "id": "hsk1_113",
+    "level": "HSK1",
+    "hanzi": "五",
+    "pinyin": "wǔ",
+    "meaning_vi": "số 5"
+  },
+  {
+    "id": "hsk1_114",
+    "level": "HSK1",
+    "hanzi": "喜欢",
+    "pinyin": "xǐ huan",
+    "meaning_vi": "thích"
+  },
+  {
+    "id": "hsk1_115",
+    "level": "HSK1",
+    "hanzi": "下",
+    "pinyin": "xià",
+    "meaning_vi": "dưới; xuống; tiếp theo"
+  },
+  {
+    "id": "hsk1_116",
+    "level": "HSK1",
+    "hanzi": "下午",
+    "pinyin": "xià wǔ",
+    "meaning_vi": "buổi chiều"
+  },
+  {
+    "id": "hsk1_117",
+    "level": "HSK1",
+    "hanzi": "下雨",
+    "pinyin": "xià yǔ",
+    "meaning_vi": "mưa"
+  },
+  {
+    "id": "hsk1_118",
+    "level": "HSK1",
+    "hanzi": "先生",
+    "pinyin": "xiān sheng",
+    "meaning_vi": "ông; ngài; tiên sinh"
+  },
+  {
+    "id": "hsk1_119",
+    "level": "HSK1",
+    "hanzi": "现在",
+    "pinyin": "xiàn zài",
+    "meaning_vi": "bây giờ"
+  },
+  {
+    "id": "hsk1_120",
+    "level": "HSK1",
+    "hanzi": "想",
+    "pinyin": "xiǎng",
+    "meaning_vi": "muốn; nghĩ; nhớ"
+  },
+  {
+    "id": "hsk1_121",
+    "level": "HSK1",
+    "hanzi": "小",
+    "pinyin": "xiǎo",
+    "meaning_vi": "nhỏ"
+  },
+  {
+    "id": "hsk1_122",
+    "level": "HSK1",
+    "hanzi": "小姐",
+    "pinyin": "xiǎo jie",
+    "meaning_vi": "cô, tiểu thư"
+  },
+  {
+    "id": "hsk1_123",
+    "level": "HSK1",
+    "hanzi": "些",
+    "pinyin": "xiē",
+    "meaning_vi": "một vài, một ít"
+  },
+  {
+    "id": "hsk1_124",
+    "level": "HSK1",
+    "hanzi": "写",
+    "pinyin": "xiě",
+    "meaning_vi": "viết"
+  },
+  {
+    "id": "hsk1_125",
+    "level": "HSK1",
+    "hanzi": "谢谢",
+    "pinyin": "xiè xie",
+    "meaning_vi": "cảm ơn"
+  },
+  {
+    "id": "hsk1_126",
+    "level": "HSK1",
+    "hanzi": "星期",
+    "pinyin": "xīng qī",
+    "meaning_vi": "tuần; thứ"
+  },
+  {
+    "id": "hsk1_127",
+    "level": "HSK1",
+    "hanzi": "学生",
+    "pinyin": "xué sheng",
+    "meaning_vi": "học sinh, sinh viên"
+  },
+  {
+    "id": "hsk1_128",
+    "level": "HSK1",
+    "hanzi": "学习",
+    "pinyin": "xué xí",
+    "meaning_vi": "học tập"
+  },
+  {
+    "id": "hsk1_129",
+    "level": "HSK1",
+    "hanzi": "学校",
+    "pinyin": "xué xiào",
+    "meaning_vi": "trường học"
+  },
+  {
+    "id": "hsk1_130",
+    "level": "HSK1",
+    "hanzi": "一",
+    "pinyin": "yī",
+    "meaning_vi": "số 1"
+  },
+  {
+    "id": "hsk1_131",
+    "level": "HSK1",
+    "hanzi": "一点儿",
+    "pinyin": "yī diǎn er",
+    "meaning_vi": "một chút"
+  },
+  {
+    "id": "hsk1_132",
+    "level": "HSK1",
+    "hanzi": "医生",
+    "pinyin": "yī shēng",
+    "meaning_vi": "bác sĩ"
+  },
+  {
+    "id": "hsk1_133",
+    "level": "HSK1",
+    "hanzi": "医院",
+    "pinyin": "yī yuàn",
+    "meaning_vi": "bệnh viện"
+  },
+  {
+    "id": "hsk1_134",
+    "level": "HSK1",
+    "hanzi": "衣服",
+    "pinyin": "yī fu",
+    "meaning_vi": "quần áo"
+  },
+  {
+    "id": "hsk1_135",
+    "level": "HSK1",
+    "hanzi": "椅子",
+    "pinyin": "yǐ zi",
+    "meaning_vi": "cái ghế"
+  },
+  {
+    "id": "hsk1_136",
+    "level": "HSK1",
+    "hanzi": "有",
+    "pinyin": "yǒu",
+    "meaning_vi": "có"
+  },
+  {
+    "id": "hsk1_137",
+    "level": "HSK1",
+    "hanzi": "月",
+    "pinyin": "yuè",
+    "meaning_vi": "tháng; mặt trăng"
+  },
+  {
+    "id": "hsk1_138",
+    "level": "HSK1",
+    "hanzi": "再见",
+    "pinyin": "zài jiàn",
+    "meaning_vi": "tạm biệt"
+  },
+  {
+    "id": "hsk1_139",
+    "level": "HSK1",
+    "hanzi": "在",
+    "pinyin": "zài",
+    "meaning_vi": "ở; đang"
+  },
+  {
+    "id": "hsk1_140",
+    "level": "HSK1",
+    "hanzi": "怎么",
+    "pinyin": "zěn me",
+    "meaning_vi": "thế nào; làm sao"
+  },
+  {
+    "id": "hsk1_141",
+    "level": "HSK1",
+    "hanzi": "怎么样",
+    "pinyin": "zěn me yàng",
+    "meaning_vi": "như thế nào"
+  },
+  {
+    "id": "hsk1_142",
+    "level": "HSK1",
+    "hanzi": "这",
+    "pinyin": "zhè",
+    "meaning_vi": "này, đây"
+  },
+  {
+    "id": "hsk1_143",
+    "level": "HSK1",
+    "hanzi": "中国",
+    "pinyin": "zhōng guó",
+    "meaning_vi": "Trung Quốc"
+  },
+  {
+    "id": "hsk1_144",
+    "level": "HSK1",
+    "hanzi": "中午",
+    "pinyin": "zhōng wǔ",
+    "meaning_vi": "buổi trưa"
+  },
+  {
+    "id": "hsk1_145",
+    "level": "HSK1",
+    "hanzi": "住",
+    "pinyin": "zhù",
+    "meaning_vi": "sống, ở"
+  },
+  {
+    "id": "hsk1_146",
+    "level": "HSK1",
+    "hanzi": "桌子",
+    "pinyin": "zhuō zi",
+    "meaning_vi": "cái bàn"
+  },
+  {
+    "id": "hsk1_147",
+    "level": "HSK1",
+    "hanzi": "字",
+    "pinyin": "zì",
+    "meaning_vi": "chữ"
+  },
+  {
+    "id": "hsk1_148",
+    "level": "HSK1",
+    "hanzi": "昨天",
+    "pinyin": "zuó tiān",
+    "meaning_vi": "hôm qua"
+  },
+  {
+    "id": "hsk1_149",
+    "level": "HSK1",
+    "hanzi": "做",
+    "pinyin": "zuò",
+    "meaning_vi": "làm"
+  },
+  {
+    "id": "hsk1_150",
+    "level": "HSK1",
+    "hanzi": "坐",
+    "pinyin": "zuò",
+    "meaning_vi": "ngồi; đi bằng phương tiện"
+  },
+  {
+    "id": "hsk2_001",
+    "level": "HSK2",
+    "hanzi": "吧",
+    "pinyin": "ba",
+    "meaning_vi": "nhé; đi; trợ từ gợi ý/suy đoán"
+  },
+  {
+    "id": "hsk2_002",
+    "level": "HSK2",
+    "hanzi": "白",
+    "pinyin": "bái",
+    "meaning_vi": "màu trắng"
+  },
+  {
+    "id": "hsk2_003",
+    "level": "HSK2",
+    "hanzi": "百",
+    "pinyin": "bǎi",
+    "meaning_vi": "một trăm"
+  },
+  {
+    "id": "hsk2_004",
+    "level": "HSK2",
+    "hanzi": "帮助",
+    "pinyin": "bāng zhù",
+    "meaning_vi": "giúp đỡ"
+  },
+  {
+    "id": "hsk2_005",
+    "level": "HSK2",
+    "hanzi": "报纸",
+    "pinyin": "bào zhǐ",
+    "meaning_vi": "báo giấy"
+  },
+  {
+    "id": "hsk2_006",
+    "level": "HSK2",
+    "hanzi": "比",
+    "pinyin": "bǐ",
+    "meaning_vi": "so với"
+  },
+  {
+    "id": "hsk2_007",
+    "level": "HSK2",
+    "hanzi": "别",
+    "pinyin": "bié",
+    "meaning_vi": "đừng; khác"
+  },
+  {
+    "id": "hsk2_008",
+    "level": "HSK2",
+    "hanzi": "宾馆",
+    "pinyin": "bīn guǎn",
+    "meaning_vi": "khách sạn, nhà khách"
+  },
+  {
+    "id": "hsk2_009",
+    "level": "HSK2",
+    "hanzi": "长",
+    "pinyin": "cháng",
+    "meaning_vi": "dài"
+  },
+  {
+    "id": "hsk2_010",
+    "level": "HSK2",
+    "hanzi": "唱歌",
+    "pinyin": "chàng gē",
+    "meaning_vi": "hát"
+  },
+  {
+    "id": "hsk2_011",
+    "level": "HSK2",
+    "hanzi": "出",
+    "pinyin": "chū",
+    "meaning_vi": "ra, đi ra"
+  },
+  {
+    "id": "hsk2_012",
+    "level": "HSK2",
+    "hanzi": "穿",
+    "pinyin": "chuān",
+    "meaning_vi": "mặc; đi/đeo"
+  },
+  {
+    "id": "hsk2_013",
+    "level": "HSK2",
+    "hanzi": "次",
+    "pinyin": "cì",
+    "meaning_vi": "lần"
+  },
+  {
+    "id": "hsk2_014",
+    "level": "HSK2",
+    "hanzi": "从",
+    "pinyin": "cóng",
+    "meaning_vi": "từ"
+  },
+  {
+    "id": "hsk2_015",
+    "level": "HSK2",
+    "hanzi": "错",
+    "pinyin": "cuò",
+    "meaning_vi": "sai; lỗi"
+  },
+  {
+    "id": "hsk2_016",
+    "level": "HSK2",
+    "hanzi": "打篮球",
+    "pinyin": "dǎ lán qiú",
+    "meaning_vi": "chơi bóng rổ"
+  },
+  {
+    "id": "hsk2_017",
+    "level": "HSK2",
+    "hanzi": "大家",
+    "pinyin": "dà jiā",
+    "meaning_vi": "mọi người"
+  },
+  {
+    "id": "hsk2_018",
+    "level": "HSK2",
+    "hanzi": "到",
+    "pinyin": "dào",
+    "meaning_vi": "đến"
+  },
+  {
+    "id": "hsk2_019",
+    "level": "HSK2",
+    "hanzi": "得",
+    "pinyin": "de",
+    "meaning_vi": "trợ từ bổ ngữ"
+  },
+  {
+    "id": "hsk2_020",
+    "level": "HSK2",
+    "hanzi": "等",
+    "pinyin": "děng",
+    "meaning_vi": "đợi, chờ"
+  },
+  {
+    "id": "hsk2_021",
+    "level": "HSK2",
+    "hanzi": "弟弟",
+    "pinyin": "dì di",
+    "meaning_vi": "em trai"
+  },
+  {
+    "id": "hsk2_022",
+    "level": "HSK2",
+    "hanzi": "第一",
+    "pinyin": "dì yī",
+    "meaning_vi": "thứ nhất"
+  },
+  {
+    "id": "hsk2_023",
+    "level": "HSK2",
+    "hanzi": "懂",
+    "pinyin": "dǒng",
+    "meaning_vi": "hiểu"
+  },
+  {
+    "id": "hsk2_024",
+    "level": "HSK2",
+    "hanzi": "对",
+    "pinyin": "duì",
+    "meaning_vi": "đúng; với, đối với"
+  },
+  {
+    "id": "hsk2_025",
+    "level": "HSK2",
+    "hanzi": "对",
+    "pinyin": "duì",
+    "meaning_vi": "hướng về; đối với"
+  },
+  {
+    "id": "hsk2_026",
+    "level": "HSK2",
+    "hanzi": "房间",
+    "pinyin": "fáng jiān",
+    "meaning_vi": "phòng"
+  },
+  {
+    "id": "hsk2_027",
+    "level": "HSK2",
+    "hanzi": "非常",
+    "pinyin": "fēi cháng",
+    "meaning_vi": "rất, vô cùng"
+  },
+  {
+    "id": "hsk2_028",
+    "level": "HSK2",
+    "hanzi": "服务员",
+    "pinyin": "fú wù yuán",
+    "meaning_vi": "nhân viên phục vụ"
+  },
+  {
+    "id": "hsk2_029",
+    "level": "HSK2",
+    "hanzi": "高",
+    "pinyin": "gāo",
+    "meaning_vi": "cao"
+  },
+  {
+    "id": "hsk2_030",
+    "level": "HSK2",
+    "hanzi": "告诉",
+    "pinyin": "gào su",
+    "meaning_vi": "nói cho biết, bảo"
+  },
+  {
+    "id": "hsk2_031",
+    "level": "HSK2",
+    "hanzi": "哥哥",
+    "pinyin": "gē ge",
+    "meaning_vi": "anh trai"
+  },
+  {
+    "id": "hsk2_032",
+    "level": "HSK2",
+    "hanzi": "给",
+    "pinyin": "gěi",
+    "meaning_vi": "cho; đưa cho"
+  },
+  {
+    "id": "hsk2_033",
+    "level": "HSK2",
+    "hanzi": "公共汽车",
+    "pinyin": "gōng gòng qì chē",
+    "meaning_vi": "xe buýt"
+  },
+  {
+    "id": "hsk2_034",
+    "level": "HSK2",
+    "hanzi": "公司",
+    "pinyin": "gōng sī",
+    "meaning_vi": "công ty"
+  },
+  {
+    "id": "hsk2_035",
+    "level": "HSK2",
+    "hanzi": "贵",
+    "pinyin": "guì",
+    "meaning_vi": "đắt; quý"
+  },
+  {
+    "id": "hsk2_036",
+    "level": "HSK2",
+    "hanzi": "过",
+    "pinyin": "guo",
+    "meaning_vi": "đã từng; qua"
+  },
+  {
+    "id": "hsk2_037",
+    "level": "HSK2",
+    "hanzi": "孩子",
+    "pinyin": "hái zi",
+    "meaning_vi": "trẻ con, con cái"
+  },
+  {
+    "id": "hsk2_038",
+    "level": "HSK2",
+    "hanzi": "还",
+    "pinyin": "hái",
+    "meaning_vi": "vẫn, còn"
+  },
+  {
+    "id": "hsk2_039",
+    "level": "HSK2",
+    "hanzi": "好吃",
+    "pinyin": "hǎo chī",
+    "meaning_vi": "ngon"
+  },
+  {
+    "id": "hsk2_040",
+    "level": "HSK2",
+    "hanzi": "黑",
+    "pinyin": "hēi",
+    "meaning_vi": "màu đen"
+  },
+  {
+    "id": "hsk2_041",
+    "level": "HSK2",
+    "hanzi": "红",
+    "pinyin": "hóng",
+    "meaning_vi": "màu đỏ"
+  },
+  {
+    "id": "hsk2_042",
+    "level": "HSK2",
+    "hanzi": "火车站",
+    "pinyin": "huǒ chē zhàn",
+    "meaning_vi": "ga tàu hỏa"
+  },
+  {
+    "id": "hsk2_043",
+    "level": "HSK2",
+    "hanzi": "机场",
+    "pinyin": "jī chǎng",
+    "meaning_vi": "sân bay"
+  },
+  {
+    "id": "hsk2_044",
+    "level": "HSK2",
+    "hanzi": "鸡蛋",
+    "pinyin": "jī dàn",
+    "meaning_vi": "trứng gà"
+  },
+  {
+    "id": "hsk2_045",
+    "level": "HSK2",
+    "hanzi": "件",
+    "pinyin": "jiàn",
+    "meaning_vi": "chiếc; lượng từ cho quần áo/sự việc"
+  },
+  {
+    "id": "hsk2_046",
+    "level": "HSK2",
+    "hanzi": "教室",
+    "pinyin": "jiào shì",
+    "meaning_vi": "phòng học"
+  },
+  {
+    "id": "hsk2_047",
+    "level": "HSK2",
+    "hanzi": "姐姐",
+    "pinyin": "jiě jie",
+    "meaning_vi": "chị gái"
+  },
+  {
+    "id": "hsk2_048",
+    "level": "HSK2",
+    "hanzi": "介绍",
+    "pinyin": "jiè shào",
+    "meaning_vi": "giới thiệu"
+  },
+  {
+    "id": "hsk2_049",
+    "level": "HSK2",
+    "hanzi": "近",
+    "pinyin": "jìn",
+    "meaning_vi": "gần"
+  },
+  {
+    "id": "hsk2_050",
+    "level": "HSK2",
+    "hanzi": "进",
+    "pinyin": "jìn",
+    "meaning_vi": "vào, đi vào"
+  },
+  {
+    "id": "hsk2_051",
+    "level": "HSK2",
+    "hanzi": "就",
+    "pinyin": "jiù",
+    "meaning_vi": "liền; thì; chỉ"
+  },
+  {
+    "id": "hsk2_052",
+    "level": "HSK2",
+    "hanzi": "觉得",
+    "pinyin": "jué de",
+    "meaning_vi": "cảm thấy; cho rằng"
+  },
+  {
+    "id": "hsk2_053",
+    "level": "HSK2",
+    "hanzi": "咖啡",
+    "pinyin": "kā fēi",
+    "meaning_vi": "cà phê"
+  },
+  {
+    "id": "hsk2_054",
+    "level": "HSK2",
+    "hanzi": "开始",
+    "pinyin": "kāi shǐ",
+    "meaning_vi": "bắt đầu"
+  },
+  {
+    "id": "hsk2_055",
+    "level": "HSK2",
+    "hanzi": "考试",
+    "pinyin": "kǎo shì",
+    "meaning_vi": "thi, kiểm tra"
+  },
+  {
+    "id": "hsk2_056",
+    "level": "HSK2",
+    "hanzi": "可能",
+    "pinyin": "kě néng",
+    "meaning_vi": "có thể; khả năng"
+  },
+  {
+    "id": "hsk2_057",
+    "level": "HSK2",
+    "hanzi": "可以",
+    "pinyin": "kě yǐ",
+    "meaning_vi": "có thể; được phép"
+  },
+  {
+    "id": "hsk2_058",
+    "level": "HSK2",
+    "hanzi": "课",
+    "pinyin": "kè",
+    "meaning_vi": "bài học; tiết học"
+  },
+  {
+    "id": "hsk2_059",
+    "level": "HSK2",
+    "hanzi": "快",
+    "pinyin": "kuài",
+    "meaning_vi": "nhanh; sắp"
+  },
+  {
+    "id": "hsk2_060",
+    "level": "HSK2",
+    "hanzi": "快乐",
+    "pinyin": "kuài lè",
+    "meaning_vi": "vui vẻ, hạnh phúc"
+  },
+  {
+    "id": "hsk2_061",
+    "level": "HSK2",
+    "hanzi": "累",
+    "pinyin": "lèi",
+    "meaning_vi": "mệt"
+  },
+  {
+    "id": "hsk2_062",
+    "level": "HSK2",
+    "hanzi": "离",
+    "pinyin": "lí",
+    "meaning_vi": "cách; rời khỏi"
+  },
+  {
+    "id": "hsk2_063",
+    "level": "HSK2",
+    "hanzi": "两",
+    "pinyin": "liǎng",
+    "meaning_vi": "hai; đôi"
+  },
+  {
+    "id": "hsk2_064",
+    "level": "HSK2",
+    "hanzi": "零",
+    "pinyin": "líng",
+    "meaning_vi": "số 0"
+  },
+  {
+    "id": "hsk2_065",
+    "level": "HSK2",
+    "hanzi": "路",
+    "pinyin": "lù",
+    "meaning_vi": "đường"
+  },
+  {
+    "id": "hsk2_066",
+    "level": "HSK2",
+    "hanzi": "旅游",
+    "pinyin": "lǚ yóu",
+    "meaning_vi": "du lịch"
+  },
+  {
+    "id": "hsk2_067",
+    "level": "HSK2",
+    "hanzi": "卖",
+    "pinyin": "mài",
+    "meaning_vi": "bán"
+  },
+  {
+    "id": "hsk2_068",
+    "level": "HSK2",
+    "hanzi": "慢",
+    "pinyin": "màn",
+    "meaning_vi": "chậm"
+  },
+  {
+    "id": "hsk2_069",
+    "level": "HSK2",
+    "hanzi": "忙",
+    "pinyin": "máng",
+    "meaning_vi": "bận"
+  },
+  {
+    "id": "hsk2_070",
+    "level": "HSK2",
+    "hanzi": "每",
+    "pinyin": "měi",
+    "meaning_vi": "mỗi"
+  },
+  {
+    "id": "hsk2_071",
+    "level": "HSK2",
+    "hanzi": "妹妹",
+    "pinyin": "mèi mei",
+    "meaning_vi": "em gái"
+  },
+  {
+    "id": "hsk2_072",
+    "level": "HSK2",
+    "hanzi": "门",
+    "pinyin": "mén",
+    "meaning_vi": "cửa"
+  },
+  {
+    "id": "hsk2_073",
+    "level": "HSK2",
+    "hanzi": "面条",
+    "pinyin": "miàn tiáo",
+    "meaning_vi": "mì sợi"
+  },
+  {
+    "id": "hsk2_074",
+    "level": "HSK2",
+    "hanzi": "男",
+    "pinyin": "nán",
+    "meaning_vi": "nam"
+  },
+  {
+    "id": "hsk2_075",
+    "level": "HSK2",
+    "hanzi": "您",
+    "pinyin": "nín",
+    "meaning_vi": "ngài, ông/bà/bạn lịch sự"
+  },
+  {
+    "id": "hsk2_076",
+    "level": "HSK2",
+    "hanzi": "牛奶",
+    "pinyin": "niú nǎi",
+    "meaning_vi": "sữa bò"
+  },
+  {
+    "id": "hsk2_077",
+    "level": "HSK2",
+    "hanzi": "女",
+    "pinyin": "nǚ",
+    "meaning_vi": "nữ"
+  },
+  {
+    "id": "hsk2_078",
+    "level": "HSK2",
+    "hanzi": "旁边",
+    "pinyin": "páng biān",
+    "meaning_vi": "bên cạnh"
+  },
+  {
+    "id": "hsk2_079",
+    "level": "HSK2",
+    "hanzi": "跑步",
+    "pinyin": "pǎo bù",
+    "meaning_vi": "chạy bộ"
+  },
+  {
+    "id": "hsk2_080",
+    "level": "HSK2",
+    "hanzi": "便宜",
+    "pinyin": "pián yi",
+    "meaning_vi": "rẻ"
+  },
+  {
+    "id": "hsk2_081",
+    "level": "HSK2",
+    "hanzi": "票",
+    "pinyin": "piào",
+    "meaning_vi": "vé"
+  },
+  {
+    "id": "hsk2_082",
+    "level": "HSK2",
+    "hanzi": "妻子",
+    "pinyin": "qī zi",
+    "meaning_vi": "vợ"
+  },
+  {
+    "id": "hsk2_083",
+    "level": "HSK2",
+    "hanzi": "起床",
+    "pinyin": "qǐ chuáng",
+    "meaning_vi": "thức dậy, ra khỏi giường"
+  },
+  {
+    "id": "hsk2_084",
+    "level": "HSK2",
+    "hanzi": "千",
+    "pinyin": "qiān",
+    "meaning_vi": "một nghìn"
+  },
+  {
+    "id": "hsk2_085",
+    "level": "HSK2",
+    "hanzi": "铅笔",
+    "pinyin": "qiān bǐ",
+    "meaning_vi": "bút chì"
+  },
+  {
+    "id": "hsk2_086",
+    "level": "HSK2",
+    "hanzi": "晴",
+    "pinyin": "qíng",
+    "meaning_vi": "trời nắng/quang đãng"
+  },
+  {
+    "id": "hsk2_087",
+    "level": "HSK2",
+    "hanzi": "去年",
+    "pinyin": "qù nián",
+    "meaning_vi": "năm ngoái"
+  },
+  {
+    "id": "hsk2_088",
+    "level": "HSK2",
+    "hanzi": "让",
+    "pinyin": "ràng",
+    "meaning_vi": "để, cho phép"
+  },
+  {
+    "id": "hsk2_089",
+    "level": "HSK2",
+    "hanzi": "日",
+    "pinyin": "rì",
+    "meaning_vi": "ngày; mặt trời"
+  },
+  {
+    "id": "hsk2_090",
+    "level": "HSK2",
+    "hanzi": "上班",
+    "pinyin": "shàng bān",
+    "meaning_vi": "đi làm"
+  },
+  {
+    "id": "hsk2_091",
+    "level": "HSK2",
+    "hanzi": "身体",
+    "pinyin": "shēn tǐ",
+    "meaning_vi": "cơ thể; sức khỏe"
+  },
+  {
+    "id": "hsk2_092",
+    "level": "HSK2",
+    "hanzi": "生病",
+    "pinyin": "shēng bìng",
+    "meaning_vi": "bị ốm"
+  },
+  {
+    "id": "hsk2_093",
+    "level": "HSK2",
+    "hanzi": "生日",
+    "pinyin": "shēng rì",
+    "meaning_vi": "sinh nhật"
+  },
+  {
+    "id": "hsk2_094",
+    "level": "HSK2",
+    "hanzi": "时间",
+    "pinyin": "shí jiān",
+    "meaning_vi": "thời gian"
+  },
+  {
+    "id": "hsk2_095",
+    "level": "HSK2",
+    "hanzi": "事情",
+    "pinyin": "shì qing",
+    "meaning_vi": "sự việc, chuyện"
+  },
+  {
+    "id": "hsk2_096",
+    "level": "HSK2",
+    "hanzi": "手表",
+    "pinyin": "shǒu biǎo",
+    "meaning_vi": "đồng hồ đeo tay"
+  },
+  {
+    "id": "hsk2_097",
+    "level": "HSK2",
+    "hanzi": "手机",
+    "pinyin": "shǒu jī",
+    "meaning_vi": "điện thoại di động"
+  },
+  {
+    "id": "hsk2_098",
+    "level": "HSK2",
+    "hanzi": "说话",
+    "pinyin": "shuō huà",
+    "meaning_vi": "nói chuyện"
+  },
+  {
+    "id": "hsk2_099",
+    "level": "HSK2",
+    "hanzi": "送",
+    "pinyin": "sòng",
+    "meaning_vi": "tặng; đưa tiễn; gửi"
+  },
+  {
+    "id": "hsk2_100",
+    "level": "HSK2",
+    "hanzi": "虽然…但是…",
+    "pinyin": "suī rán … dàn shì …",
+    "meaning_vi": "tuy rằng… nhưng…"
+  },
+  {
+    "id": "hsk2_101",
+    "level": "HSK2",
+    "hanzi": "它",
+    "pinyin": "tā",
+    "meaning_vi": "nó"
+  },
+  {
+    "id": "hsk2_102",
+    "level": "HSK2",
+    "hanzi": "踢足球",
+    "pinyin": "tī zú qiú",
+    "meaning_vi": "đá bóng"
+  },
+  {
+    "id": "hsk2_103",
+    "level": "HSK2",
+    "hanzi": "题",
+    "pinyin": "tí",
+    "meaning_vi": "câu hỏi; đề bài"
+  },
+  {
+    "id": "hsk2_104",
+    "level": "HSK2",
+    "hanzi": "跳舞",
+    "pinyin": "tiào wǔ",
+    "meaning_vi": "nhảy múa"
+  },
+  {
+    "id": "hsk2_105",
+    "level": "HSK2",
+    "hanzi": "外",
+    "pinyin": "wài",
+    "meaning_vi": "bên ngoài"
+  },
+  {
+    "id": "hsk2_106",
+    "level": "HSK2",
+    "hanzi": "完",
+    "pinyin": "wán",
+    "meaning_vi": "xong, hoàn thành"
+  },
+  {
+    "id": "hsk2_107",
+    "level": "HSK2",
+    "hanzi": "玩",
+    "pinyin": "wán",
+    "meaning_vi": "chơi"
+  },
+  {
+    "id": "hsk2_108",
+    "level": "HSK2",
+    "hanzi": "晚上",
+    "pinyin": "wǎn shang",
+    "meaning_vi": "buổi tối"
+  },
+  {
+    "id": "hsk2_109",
+    "level": "HSK2",
+    "hanzi": "往",
+    "pinyin": "wǎng",
+    "meaning_vi": "hướng về"
+  },
+  {
+    "id": "hsk2_110",
+    "level": "HSK2",
+    "hanzi": "为什么",
+    "pinyin": "wèi shén me",
+    "meaning_vi": "tại sao"
+  },
+  {
+    "id": "hsk2_111",
+    "level": "HSK2",
+    "hanzi": "问",
+    "pinyin": "wèn",
+    "meaning_vi": "hỏi"
+  },
+  {
+    "id": "hsk2_112",
+    "level": "HSK2",
+    "hanzi": "问题",
+    "pinyin": "wèn tí",
+    "meaning_vi": "vấn đề; câu hỏi"
+  },
+  {
+    "id": "hsk2_113",
+    "level": "HSK2",
+    "hanzi": "希望",
+    "pinyin": "xī wàng",
+    "meaning_vi": "hy vọng"
+  },
+  {
+    "id": "hsk2_114",
+    "level": "HSK2",
+    "hanzi": "西瓜",
+    "pinyin": "xī guā",
+    "meaning_vi": "dưa hấu"
+  },
+  {
+    "id": "hsk2_115",
+    "level": "HSK2",
+    "hanzi": "洗",
+    "pinyin": "xǐ",
+    "meaning_vi": "rửa; giặt"
+  },
+  {
+    "id": "hsk2_116",
+    "level": "HSK2",
+    "hanzi": "小时",
+    "pinyin": "xiǎo shí",
+    "meaning_vi": "giờ, tiếng đồng hồ"
+  },
+  {
+    "id": "hsk2_117",
+    "level": "HSK2",
+    "hanzi": "笑",
+    "pinyin": "xiào",
+    "meaning_vi": "cười"
+  },
+  {
+    "id": "hsk2_118",
+    "level": "HSK2",
+    "hanzi": "新",
+    "pinyin": "xīn",
+    "meaning_vi": "mới"
+  },
+  {
+    "id": "hsk2_119",
+    "level": "HSK2",
+    "hanzi": "姓",
+    "pinyin": "xìng",
+    "meaning_vi": "họ"
+  },
+  {
+    "id": "hsk2_120",
+    "level": "HSK2",
+    "hanzi": "休息",
+    "pinyin": "xiū xi",
+    "meaning_vi": "nghỉ ngơi"
+  },
+  {
+    "id": "hsk2_121",
+    "level": "HSK2",
+    "hanzi": "雪",
+    "pinyin": "xuě",
+    "meaning_vi": "tuyết"
+  },
+  {
+    "id": "hsk2_122",
+    "level": "HSK2",
+    "hanzi": "颜色",
+    "pinyin": "yán sè",
+    "meaning_vi": "màu sắc"
+  },
+  {
+    "id": "hsk2_123",
+    "level": "HSK2",
+    "hanzi": "眼睛",
+    "pinyin": "yǎn jing",
+    "meaning_vi": "mắt"
+  },
+  {
+    "id": "hsk2_124",
+    "level": "HSK2",
+    "hanzi": "羊肉",
+    "pinyin": "yáng ròu",
+    "meaning_vi": "thịt cừu"
+  },
+  {
+    "id": "hsk2_125",
+    "level": "HSK2",
+    "hanzi": "药",
+    "pinyin": "yào",
+    "meaning_vi": "thuốc"
+  },
+  {
+    "id": "hsk2_126",
+    "level": "HSK2",
+    "hanzi": "要",
+    "pinyin": "yào",
+    "meaning_vi": "muốn; cần; sẽ"
+  },
+  {
+    "id": "hsk2_127",
+    "level": "HSK2",
+    "hanzi": "也",
+    "pinyin": "yě",
+    "meaning_vi": "cũng"
+  },
+  {
+    "id": "hsk2_128",
+    "level": "HSK2",
+    "hanzi": "一下",
+    "pinyin": "yī xià",
+    "meaning_vi": "một chút; thử"
+  },
+  {
+    "id": "hsk2_129",
+    "level": "HSK2",
+    "hanzi": "已经",
+    "pinyin": "yǐ jīng",
+    "meaning_vi": "đã, đã rồi"
+  },
+  {
+    "id": "hsk2_130",
+    "level": "HSK2",
+    "hanzi": "一起",
+    "pinyin": "yī qǐ",
+    "meaning_vi": "cùng nhau"
+  },
+  {
+    "id": "hsk2_131",
+    "level": "HSK2",
+    "hanzi": "意思",
+    "pinyin": "yì si",
+    "meaning_vi": "ý nghĩa; ý"
+  },
+  {
+    "id": "hsk2_132",
+    "level": "HSK2",
+    "hanzi": "因为…所以…",
+    "pinyin": "yīn wèi … suǒ yǐ …",
+    "meaning_vi": "bởi vì… cho nên…"
+  },
+  {
+    "id": "hsk2_133",
+    "level": "HSK2",
+    "hanzi": "阴",
+    "pinyin": "yīn",
+    "meaning_vi": "âm u; trời râm"
+  },
+  {
+    "id": "hsk2_134",
+    "level": "HSK2",
+    "hanzi": "游泳",
+    "pinyin": "yóu yǒng",
+    "meaning_vi": "bơi"
+  },
+  {
+    "id": "hsk2_135",
+    "level": "HSK2",
+    "hanzi": "右边",
+    "pinyin": "yòu bian",
+    "meaning_vi": "bên phải"
+  },
+  {
+    "id": "hsk2_136",
+    "level": "HSK2",
+    "hanzi": "鱼",
+    "pinyin": "yú",
+    "meaning_vi": "cá"
+  },
+  {
+    "id": "hsk2_137",
+    "level": "HSK2",
+    "hanzi": "远",
+    "pinyin": "yuǎn",
+    "meaning_vi": "xa"
+  },
+  {
+    "id": "hsk2_138",
+    "level": "HSK2",
+    "hanzi": "运动",
+    "pinyin": "yùn dòng",
+    "meaning_vi": "vận động; thể thao"
+  },
+  {
+    "id": "hsk2_139",
+    "level": "HSK2",
+    "hanzi": "再",
+    "pinyin": "zài",
+    "meaning_vi": "lại, nữa"
+  },
+  {
+    "id": "hsk2_140",
+    "level": "HSK2",
+    "hanzi": "早上",
+    "pinyin": "zǎo shang",
+    "meaning_vi": "buổi sáng sớm"
+  },
+  {
+    "id": "hsk2_141",
+    "level": "HSK2",
+    "hanzi": "丈夫",
+    "pinyin": "zhàng fu",
+    "meaning_vi": "chồng"
+  },
+  {
+    "id": "hsk2_142",
+    "level": "HSK2",
+    "hanzi": "找",
+    "pinyin": "zhǎo",
+    "meaning_vi": "tìm"
+  },
+  {
+    "id": "hsk2_143",
+    "level": "HSK2",
+    "hanzi": "着",
+    "pinyin": "zhe",
+    "meaning_vi": "trợ từ trạng thái đang tiếp diễn"
+  },
+  {
+    "id": "hsk2_144",
+    "level": "HSK2",
+    "hanzi": "真",
+    "pinyin": "zhēn",
+    "meaning_vi": "thật, thật sự"
+  },
+  {
+    "id": "hsk2_145",
+    "level": "HSK2",
+    "hanzi": "正在",
+    "pinyin": "zhèng zài",
+    "meaning_vi": "đang"
+  },
+  {
+    "id": "hsk2_146",
+    "level": "HSK2",
+    "hanzi": "知道",
+    "pinyin": "zhī dào",
+    "meaning_vi": "biết"
+  },
+  {
+    "id": "hsk2_147",
+    "level": "HSK2",
+    "hanzi": "准备",
+    "pinyin": "zhǔn bèi",
+    "meaning_vi": "chuẩn bị"
+  },
+  {
+    "id": "hsk2_148",
+    "level": "HSK2",
+    "hanzi": "走",
+    "pinyin": "zǒu",
+    "meaning_vi": "đi bộ; rời đi"
+  },
+  {
+    "id": "hsk2_149",
+    "level": "HSK2",
+    "hanzi": "最",
+    "pinyin": "zuì",
+    "meaning_vi": "nhất"
+  },
+  {
+    "id": "hsk2_150",
+    "level": "HSK2",
+    "hanzi": "左边",
+    "pinyin": "zuǒ bian",
+    "meaning_vi": "bên trái"
+  }
+]
